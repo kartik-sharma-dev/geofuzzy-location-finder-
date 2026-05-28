@@ -1,0 +1,501 @@
+Country,State/Province,PlaceName,Latitude,Longitude
+USA,New York,Statue of Liberty,40.6892,-74.0445
+USA,New York,Central Park,40.7851,-73.9683
+USA,New York,Times Square,40.7580,-73.9855
+USA,New York,Brooklyn Bridge,40.7061,-73.9969
+USA,New York,Metropolitan Museum of Art,40.7794,-73.9632
+USA,New York,Empire State Building,40.7484,-73.9967
+USA,New York,High Line,40.7480,-74.0048
+USA,New York,Niagara Falls,43.0962,-79.0377
+USA,New York,One World Trade Center,40.7127,-74.0134
+USA,New York,Rockefeller Center,40.7587,-73.9787
+USA,California,Golden Gate Bridge,37.8199,-122.4783
+USA,California,Yosemite Valley,37.7456,-119.5936
+USA,California,Hollywood Sign,34.1341,-118.3215
+USA,California,Disneyland,33.8121,-117.9190
+USA,California,Alcatraz Island,37.8270,-122.4230
+USA,California,Santa Monica Pier,34.0100,-118.4965
+USA,California,Big Sur,36.2704,-121.8081
+USA,California,Death Valley,36.5054,-117.0794
+USA,California,Napa Valley,38.5025,-122.2654
+USA,California,Lake Tahoe,39.0968,-120.0324
+USA,Florida,Walt Disney World,28.3852,-81.5639
+USA,Florida,Miami Beach,25.7907,-80.1300
+USA,Florida,Everglades National Park,25.2866,-80.8987
+USA,Florida,Kennedy Space Center,28.5729,-80.6490
+USA,Florida,Key West,24.5551,-81.7800
+USA,Florida,Universal Studios Orlando,28.4748,-81.4672
+USA,Florida,St. Augustine,29.8947,-81.3145
+USA,Florida,Clearwater Beach,27.9778,-82.8270
+USA,Florida,Dry Tortugas National Park,24.6285,-82.8732
+USA,Florida,Sarasota Ringling Museum,27.3861,-82.5586
+USA,Texas,San Antonio River Walk,29.4241,-98.4936
+USA,Texas,Space Center Houston,29.5518,-95.0981
+USA,Texas,Big Bend National Park,29.1275,-103.2425
+USA,Texas,The Alamo,29.4260,-98.4861
+USA,Texas,Padre Island National Seashore,26.6313,-97.3806
+USA,Texas,Guadalupe Mountains,31.8923,-104.8607
+USA,Texas,Austin 6th Street,30.2672,-97.7431
+USA,Texas,Fort Worth Stockyards,32.7896,-97.3480
+USA,Texas,Marfa Lights,30.3128,-104.0207
+USA,Texas,Natural Bridge Caverns,29.6924,-98.3427
+USA,Hawaii,Waikiki Beach,21.2793,-157.8293
+USA,Hawaii,Hawaii Volcanoes National Park,19.4194,-155.2885
+USA,Hawaii,Na Pali Coast,22.2074,-159.6080
+USA,Hawaii,Pearl Harbor,21.3645,-157.9500
+USA,Hawaii,Haleakala Crater,20.7097,-156.2533
+USA,Hawaii,Lanikai Beach,21.3906,-157.7181
+USA,Hawaii,Waimea Canyon,22.0554,-159.6659
+USA,Hawaii,Molokini Crater,20.6317,-156.4963
+USA,Hawaii,Road to Hana,20.7984,-156.1286
+USA,Hawaii,Diamond Head,21.2625,-157.8050
+USA,Colorado,Grand Canyon (South Rim),36.0544,-112.1401
+USA,Colorado,Rocky Mountain National Park,40.3428,-105.6836
+USA,Colorado,Mesa Verde National Park,37.1853,-108.4898
+USA,Colorado,Garden of the Gods,38.8784,-104.8864
+USA,Colorado,Pikes Peak,38.8409,-105.0422
+USA,Colorado,Maroon Bells,39.0708,-106.9890
+USA,Colorado,Aspen Mountain,39.1911,-106.8175
+USA,Colorado,Black Canyon of the Gunnison,38.5754,-107.7416
+USA,Colorado,Telluride,37.9375,-107.8123
+USA,Colorado,Great Sand Dunes,37.7916,-105.5943
+USA,Washington,Mount Rainier,46.8800,-121.7269
+USA,Washington,Olympic National Park,47.8021,-123.6044
+USA,Washington,Pike Place Market,47.6097,-122.3422
+USA,Washington,Space Needle,47.6205,-122.3493
+USA,Washington,Mount St. Helens,46.1912,-122.1944
+USA,Washington,San Juan Islands,48.5320,-122.9728
+USA,Washington,Snoqualmie Falls,47.5416,-121.8376
+USA,Washington,Hoh Rainforest,47.8597,-123.9351
+USA,Washington,Leavenworth,47.5962,-120.6615
+USA,Washington,Palouse Falls,46.6638,-118.2262
+USA,Utah,Zion National Park,37.2982,-113.0263
+USA,Utah,Bryce Canyon,37.5930,-112.1871
+USA,Utah,Arches National Park,38.7331,-109.5925
+USA,Utah,Canyonlands National Park,38.2000,-109.9025
+USA,Utah,Monument Valley,36.9983,-110.0985
+USA,Utah,Antelope Canyon,36.8619,-111.3743
+USA,Utah,Bonneville Salt Flats,40.7441,-113.8897
+USA,Utah,Capitol Reef National Park,38.3670,-111.2615
+USA,Utah,Natural Bridges National Monument,37.6025,-110.0086
+USA,Utah,Dead Horse Point,38.4824,-109.7334
+USA,Alaska,Denali National Park,63.3333,-150.5010
+USA,Alaska,Glacier Bay National Park,58.6658,-136.9000
+USA,Alaska,Kenai Fjords National Park,59.9198,-149.6517
+USA,Alaska,Tongass National Forest,56.4897,-133.3800
+USA,Alaska,Aurora Borealis viewing Fairbanks,64.8401,-147.7200
+USA,Alaska,Mendenhall Glacier,58.4166,-134.5555
+USA,Alaska,Katmai National Park,58.6100,-154.9760
+USA,Alaska,Wrangell-St. Elias National Park,61.7104,-142.9856
+USA,Alaska,Sitka National Historical Park,57.0488,-135.3300
+USA,Alaska,Kodiak Island,57.7900,-152.4072
+USA,Nevada,Las Vegas Strip,36.1147,-115.1728
+USA,Nevada,Hoover Dam,36.0161,-114.7377
+USA,Nevada,Valley of Fire State Park,36.4820,-114.5320
+USA,Nevada,Lake Mead,36.1570,-114.7380
+USA,Nevada,Red Rock Canyon,36.1350,-115.4281
+USA,Nevada,Great Basin National Park,38.9834,-114.2139
+USA,Nevada,Virginia City,39.3099,-119.6503
+USA,Nevada,Lehman Caves,38.9833,-114.2138
+USA,Nevada,Berlin Ichthyosaur State Park,38.6993,-117.5877
+USA,Nevada,Cathedral Gorge State Park,37.8071,-114.4027
+France,Île-de-France,Eiffel Tower,48.8584,2.2945
+France,Île-de-France,Louvre Museum,48.8606,2.3376
+France,Île-de-France,Notre-Dame Cathedral,48.8530,2.3499
+France,Île-de-France,Palace of Versailles,48.8049,2.1204
+France,Île-de-France,Musée d'Orsay,48.8600,2.3266
+France,Île-de-France,Arc de Triomphe,48.8738,2.2950
+France,Île-de-France,Sacré-Cœur Basilica,48.8867,2.3431
+France,Île-de-France,Champs-Élysées,48.8698,2.3078
+France,Île-de-France,Sainte-Chapelle,48.8554,2.3450
+France,Île-de-France,Centre Pompidou,48.8606,2.3522
+France,Provence-Alpes-Côte d'Azur,French Riviera Nice,43.7102,7.2620
+France,Provence-Alpes-Côte d'Azur,Palace of the Popes Avignon,43.9493,4.8059
+France,Provence-Alpes-Côte d'Azur,Gorges du Verdon,43.7434,6.3618
+France,Provence-Alpes-Côte d'Azur,Calanques National Park,43.2148,5.4418
+France,Provence-Alpes-Côte d'Azur,Pont du Gard,43.9474,4.5353
+France,Provence-Alpes-Côte d'Azur,Les Baux-de-Provence,43.7444,4.7939
+France,Provence-Alpes-Côte d'Azur,Monaco,43.7384,7.4246
+France,Provence-Alpes-Côte d'Azur,Lavender Fields Valensole,43.8342,5.9892
+France,Provence-Alpes-Côte d'Azur,Aix-en-Provence,43.5297,5.4474
+France,Provence-Alpes-Côte d'Azur,Saint-Tropez,43.2677,6.6403
+France,Occitanie,Carcassonne,43.2119,2.3530
+France,Occitanie,Mont-Saint-Michel,48.6361,-1.5115
+France,Occitanie,Millau Viaduct,44.0980,3.0228
+France,Occitanie,Lascaux Caves,45.0543,1.0665
+France,Occitanie,Toulouse,43.6047,1.4442
+France,Occitanie,Montpellier,43.6112,3.8767
+France,Occitanie,Nimes,43.8367,4.3601
+France,Occitanie,Collioure,42.5265,3.0840
+France,Occitanie,Pyrénées National Park,42.7462,0.1587
+France,Occitanie,Dordogne Valley,44.8378,0.7808
+France,Auvergne-Rhône-Alpes,Mont Blanc,45.8326,6.8652
+France,Auvergne-Rhône-Alpes,Chamonix,45.9237,6.8694
+France,Auvergne-Rhône-Alpes,Annecy,45.8992,6.1294      
+France,Auvergne-Rhône-Alpes,Lyon Old Town,45.7640,4.8357
+France,Auvergne-Rhône-Alpes,Gorges de l'Ardèche,44.3755,4.4145
+France,Auvergne-Rhône-Alpes,Puy de Dôme,45.7733,2.9647
+France,Auvergne-Rhône-Alpes,Vercors Regional Park,45.0200,5.4200
+France,Auvergne-Rhône-Alpes,Grenoble Bastille,45.1913,5.7259
+France,Auvergne-Rhône-Alpes,Belledonne Mountains,45.2200,5.9800
+France,Auvergne-Rhône-Alpes,Lac du Bourget,45.7417,5.8678
+France,Brittany,Saint-Malo,48.6492,-2.0252
+France,Brittany,Carnac Stones,47.5941,-3.0693
+France,Brittany,Île de Bréhat,48.8424,-3.0010
+France,Brittany,Quimper Cathedral,47.9965,-4.0990
+France,Brittany,Cap Fréhel,48.6844,-2.3117
+France,Brittany,Brest Oceanopolis,48.3783,-4.5089
+France,Brittany,Concarneau,47.8746,-3.9195
+France,Brittany,Locronan,48.0995,-4.2057
+France,Brittany,Finistère Coast,48.4000,-4.4600
+France,Brittany,Pointe du Raz,48.0374,-4.7325
+France,Grand Est,Strasbourg Cathedral,48.5818,7.7509
+France,Grand Est,Colmar Old Town,48.0794,7.3585
+France,Grand Est,Alsace Wine Route,48.0704,7.3606
+France,Grand Est,Reims Cathedral,49.2538,4.0340
+France,Grand Est,Épernay Champagne Cellars,49.0416,3.9598
+France,Grand Est,Château du Haut-Kœnigsbourg,48.2499,7.3433
+France,Grand Est,Riquewihr,48.1666,7.2991
+France,Grand Est,Vosges Mountains,48.0000,7.0000
+France,Grand Est,Metz,49.1193,6.1757
+France,Grand Est,Obernai,48.4602,7.4792
+France,Normandy,D-Day Beaches,49.3418,-0.8672
+France,Normandy,Étretat Cliffs,49.7083,0.2062
+France,Normandy,Bayeux Tapestry,49.2764,-0.7027
+France,Normandy,Rouen Cathedral,49.4432,1.0930
+France,Normandy,Honfleur,49.4183,0.2331
+France,Normandy,Giverny Monet Garden,49.0761,1.5335
+France,Normandy,Caen Memorial Museum,49.1965,-0.3818
+France,Normandy,Falaise Castle,48.8948,-0.1956
+France,Normandy,Côte Fleurie,49.3500,0.1000
+France,Normandy,Arromanches,49.3407,-0.6227
+France,Nouvelle-Aquitaine,Bordeaux Wine Region,44.8378,-0.5792
+France,Nouvelle-Aquitaine,Dune du Pilat,44.5896,-1.2167
+France,Nouvelle-Aquitaine,Périgueux,45.1839,0.7212
+France,Nouvelle-Aquitaine,Biarritz,43.4832,-1.5586
+France,Nouvelle-Aquitaine,Grotte de Font-de-Gaume,44.9359,1.0186
+France,Nouvelle-Aquitaine,Arcachon Bay,44.6600,-1.1700
+France,Nouvelle-Aquitaine,La Rochelle,46.1591,-1.1520
+France,Nouvelle-Aquitaine,Rocamadour,44.7986,1.6192
+France,Nouvelle-Aquitaine,Cognac,45.6941,-0.3294
+France,Nouvelle-Aquitaine,Sarlat-la-Canéda,44.8892,1.2172
+France,Pays de la Loire,Loire Valley Châteaux,47.6900,0.3400
+France,Pays de la Loire,Château de Chambord,47.6161,1.5172
+France,Pays de la Loire,Le Mans,47.9960,0.1966
+France,Pays de la Loire,Nantes Château des Ducs,47.2184,-1.5536
+France,Pays de la Loire,Château de Chenonceau,47.3246,1.0702
+France,Pays de la Loire,Puy du Fou,46.9153,-0.9461
+France,Pays de la Loire,Fontevraud Abbey,47.1820,-0.0536
+France,Pays de la Loire,Château d'Amboise,47.4130,0.9839
+France,Pays de la Loire,Zoo de La Flèche,47.7022,-0.0704
+France,Pays de la Loire,Marais Poitevin,46.3800,-0.7000
+France,Hauts-de-France,Louvre-Lens Museum,50.4365,2.8230
+France,Hauts-de-France,Arras,50.2921,2.7778
+France,Hauts-de-France,Amiens Cathedral,49.8941,2.3017
+France,Hauts-de-France,Opal Coast,50.7200,1.6000
+France,Hauts-de-France,Parc Astérix,49.1338,2.5738
+France,Hauts-de-France,Nausicaá Aquarium Boulogne,50.7269,1.6085
+France,Hauts-de-France,Thiepval Memorial,50.0519,2.6867
+France,Hauts-de-France,Dunkerque,51.0343,2.3767
+France,Hauts-de-France,Château de Chantilly,49.1940,2.4860
+France,Hauts-de-France,Baie de Somme,50.1900,1.7600
+Japan,Tokyo,Senso-ji Temple,35.7148,139.7967
+Japan,Tokyo,Shibuya Crossing,35.6595,139.7005
+Japan,Tokyo,Tokyo Skytree,35.7101,139.8107
+Japan,Tokyo,Meiji Shrine,35.6764,139.6993
+Japan,Tokyo,Shinjuku Gyoen,35.6851,139.7103
+Japan,Tokyo,Tsukiji Outer Market,35.6654,139.7706
+Japan,Tokyo,Akihabara,35.7023,139.7745
+Japan,Tokyo,Harajuku,35.6695,139.7028
+Japan,Tokyo,Odaiba,35.6230,139.7762
+Japan,Tokyo,Imperial Palace East Garden,35.6852,139.7528
+Japan,Kyoto,Fushimi Inari Shrine,34.9671,135.7727
+Japan,Kyoto,Kinkaku-ji Golden Pavilion,35.0394,135.7292
+Japan,Kyoto,Arashiyama Bamboo Grove,35.0094,135.6727
+Japan,Kyoto,Gion District,35.0036,135.7749
+Japan,Kyoto,Nijo Castle,35.0142,135.7485
+Japan,Kyoto,Philosopher's Path,35.0247,135.7967
+Japan,Kyoto,Kiyomizu-dera Temple,34.9948,135.7851
+Japan,Kyoto,Nishiki Market,35.0052,135.7666
+Japan,Kyoto,Heian Shrine,35.0265,135.7822
+Japan,Kyoto,Ryoan-ji Temple,35.0343,135.7186
+Japan,Osaka,Osaka Castle,34.6873,135.5262
+Japan,Osaka,Dotonbori,34.6687,135.5008
+Japan,Osaka,Universal Studios Japan,34.6655,135.4323
+Japan,Osaka,Shinsekai,34.6524,135.5063
+Japan,Osaka,Namba,34.6643,135.5011
+Japan,Osaka,Sumiyoshi Taisha,34.6119,135.4938
+Japan,Osaka,Tempozan Ferris Wheel,34.6549,135.4290
+Japan,Osaka,Shitennoji Temple,34.6538,135.5164
+Japan,Osaka,Nakanoshima,34.6916,135.5013
+Japan,Osaka,Minoo Falls,34.8394,135.4713
+Japan,Hokkaido,Sapporo Snow Festival,43.0618,141.3545
+Japan,Hokkaido,Furano Lavender Fields,43.3500,142.3833
+Japan,Hokkaido,Shiretoko National Park,44.0667,145.0000
+Japan,Hokkaido,Noboribetsu Jigokudani,42.5087,141.0993
+Japan,Hokkaido,Lake Toya,42.5870,140.8030
+Japan,Hokkaido,Daisetsuzan National Park,43.6667,142.9333
+Japan,Hokkaido,Blue Pond Biei,43.5886,142.5175
+Japan,Hokkaido,Hakodate Morning Market,41.7692,140.7284
+Japan,Hokkaido,Otaru Canal,43.1907,140.9942
+Japan,Hokkaido,Cape Erimo,41.9248,143.2525
+Japan,Hiroshima,Peace Memorial Park,34.3955,132.4530
+Japan,Hiroshima,Itsukushima Shrine Miyajima,34.2960,132.3194
+Japan,Hiroshima,Hiroshima Castle,34.4016,132.4598
+Japan,Hiroshima,Shukkeien Garden,34.3996,132.4699
+Japan,Hiroshima,Peace Memorial Museum,34.3955,132.4527
+Japan,Hiroshima,Onomichi,34.4086,133.2026
+Japan,Hiroshima,Mihara Castle,34.3967,133.0769
+Japan,Hiroshima,Tomonoura,34.3687,133.3772
+Japan,Hiroshima,Saijo Sake Breweries,34.4183,132.7414
+Japan,Hiroshima,Sandankyo Gorge,34.6168,132.0671
+Japan,Nara,Todai-ji Temple,34.6888,135.8398
+Japan,Nara,Nara Deer Park,34.6854,135.8430
+Japan,Nara,Kasuga Taisha Shrine,34.6810,135.8484
+Japan,Nara,Horyu-ji Temple,34.6148,135.7345
+Japan,Nara,Isuien Garden,34.6847,135.8425
+Japan,Nara,Naramachi District,34.6769,135.8356
+Japan,Nara,Yoshinoyama,34.3693,135.8572
+Japan,Nara,Muro-ji Temple,34.5473,135.9309
+Japan,Nara,Asuka Village,34.4699,135.8079
+Japan,Nara,Kofuku-ji Temple,34.6863,135.8323
+Japan,Okinawa,Shuri Castle,26.2172,127.7194
+Japan,Okinawa,Churaumi Aquarium,26.6937,127.8769
+Japan,Okinawa,Kokusai-dori Street,26.2145,127.6851
+Japan,Okinawa,Cape Manzamo,26.5017,127.8768
+Japan,Okinawa,Kerama Islands,26.2100,127.2700
+Japan,Okinawa,Gyokusendo Cave,26.1270,127.7710
+Japan,Okinawa,Katsuren Castle,26.3170,127.8690
+Japan,Okinawa,Hedo Point,26.8671,128.2551
+Japan,Okinawa,Nakagusuku Castle,26.2663,127.8031
+Japan,Okinawa,Emerald Beach,26.6945,127.8783
+Japan,Kanagawa,Mount Fuji,35.3606,138.7274
+Japan,Kanagawa,Kamakura Great Buddha,35.3167,139.5353
+Japan,Kanagawa,Hakone Open Air Museum,35.2487,139.0202
+Japan,Kanagawa,Enoshima Island,35.2990,139.4826
+Japan,Kanagawa,Yokohama Chinatown,35.4415,139.6455
+Japan,Kanagawa,Hakone Ropeway,35.2271,139.0253
+Japan,Kanagawa,Zushi Beach,35.2960,139.5791
+Japan,Kanagawa,Kawasaki Daishi Temple,35.5325,139.7172
+Japan,Kanagawa,Odawara Castle,35.2563,139.1561
+Japan,Kanagawa,Tsurugaoka Hachimangu,35.3258,139.5561
+Japan,Nagano,Matsumoto Castle,36.2381,137.9718
+Japan,Nagano,Jigokudani Monkey Park,36.7339,138.4699
+Japan,Nagano,Kamikochi,36.2469,137.6527
+Japan,Nagano,Zenko-ji Temple,36.6660,138.1893
+Japan,Nagano,Hakuba Valley,36.7004,137.8602
+Japan,Nagano,Narai-juku Post Town,36.0278,137.8653
+Japan,Nagano,Tateyama Kurobe,36.5705,137.6076
+Japan,Nagano,Togakushi Shrine,36.7750,137.9936
+Japan,Nagano,Suwa Lake,36.0478,138.0833
+Japan,Nagano,Kiso Valley,35.7939,137.6044
+India,Uttar Pradesh,Taj Mahal,27.1751,78.0421
+India,Uttar Pradesh,Agra Fort,27.1798,78.0216
+India,Uttar Pradesh,Varanasi Ghats,25.3176,83.0062
+India,Uttar Pradesh,Fatehpur Sikri,27.0945,77.6642
+India,Uttar Pradesh,Lucknow Bara Imambara,26.8672,80.9116
+India,Uttar Pradesh,Mathura,27.4924,77.6737
+India,Uttar Pradesh,Vrindavan,27.5726,77.6930
+India,Uttar Pradesh,Allahabad Triveni Sangam,25.4358,81.8463
+India,Uttar Pradesh,Sarnath,25.3814,83.0242
+India,Uttar Pradesh,Dudhwa National Park,28.4980,80.5250
+India,Rajasthan,Amber Fort Jaipur,26.9855,75.8513
+India,Rajasthan,City Palace Udaipur,24.5763,73.6833
+India,Rajasthan,Mehrangarh Fort Jodhpur,26.2978,73.0178
+India,Rajasthan,Jaisalmer Fort,26.9157,70.9083
+India,Rajasthan,Hawa Mahal Jaipur,26.9239,75.8267
+India,Rajasthan,Pushkar Lake,26.4883,74.5517
+India,Rajasthan,Ranthambore National Park,26.0173,76.5026
+India,Rajasthan,Chittorgarh Fort,24.8887,74.6439
+India,Rajasthan,Sam Sand Dunes,26.8757,70.5421
+India,Rajasthan,Kumbhalgarh Fort,25.1476,73.5870
+India,Delhi,Red Fort,28.6562,77.2410
+India,Delhi,Qutub Minar,28.5245,77.1855
+India,Delhi,India Gate,28.6129,77.2295
+India,Delhi,Humayun's Tomb,28.5933,77.2507
+India,Delhi,Lotus Temple,28.5535,77.2588
+India,Delhi,Akshardham Temple,28.6127,77.2773
+India,Delhi,Jama Masjid,28.6507,77.2334
+India,Delhi,Chandni Chowk,28.6580,77.2300
+India,Delhi,Lodi Garden,28.5931,77.2198
+India,Delhi,National Museum New Delhi,28.6116,77.2198
+India,Kerala,Backwaters Alleppey,9.4981,76.3388
+India,Kerala,Munnar Tea Gardens,10.0889,77.0595
+India,Kerala,Periyar Wildlife Sanctuary,9.4639,77.2040
+India,Kerala,Fort Kochi,9.9639,76.2429
+India,Kerala,Varkala Cliff Beach,8.7379,76.7163
+India,Kerala,Thekkady,9.5993,77.1621
+India,Kerala,Wayanad,11.6854,76.1320
+India,Kerala,Athirapally Falls,10.2853,76.5705
+India,Kerala,Kovalam Beach,8.3988,76.9784
+India,Kerala,Silent Valley National Park,11.0753,76.4590
+India,Goa,Baga Beach,15.5561,73.7521
+India,Goa,Basilica of Bom Jesus,15.5008,73.9116
+India,Goa,Dudhsagar Falls,15.3143,74.3140
+India,Goa,Anjuna Beach,15.5739,73.7440
+India,Goa,Chapora Fort,15.6042,73.7390
+India,Goa,Panaji Church,15.4989,73.8278
+India,Goa,Colva Beach,15.2793,73.9214
+India,Goa,Calangute Beach,15.5438,73.7558
+India,Goa,Aguada Fort,15.4946,73.7737
+India,Goa,Palolem Beach,15.0098,74.0234
+India,Maharashtra,Gateway of India Mumbai,18.9220,72.8347
+India,Maharashtra,Ajanta Caves,20.5519,75.7033
+India,Maharashtra,Ellora Caves,20.0258,75.1790
+India,Maharashtra,Elephanta Caves,18.9633,72.9315
+India,Maharashtra,Chhatrapati Shivaji Terminus,18.9400,72.8354
+India,Maharashtra,Lonavala,18.7481,73.4072
+India,Maharashtra,Mahabaleshwar,17.9236,73.6575
+India,Maharashtra,Shirdi Sai Baba Temple,19.7650,74.4768
+India,Maharashtra,Nashik,20.0132,73.7898
+India,Maharashtra,Kolhapur Palace,16.6949,74.2251
+India,Tamil Nadu,Meenakshi Amman Temple,9.9195,78.1194
+India,Tamil Nadu,Shore Temple Mahabalipuram,12.6172,80.1928
+India,Tamil Nadu,Brihadeeswara Temple Thanjavur,10.7828,79.1318
+India,Tamil Nadu,Ooty,11.4102,76.6950
+India,Tamil Nadu,Kodaikanal,10.2381,77.4892
+India,Tamil Nadu,Marina Beach Chennai,13.0500,80.2824
+India,Tamil Nadu,Kanyakumari,8.0883,77.5385
+India,Tamil Nadu,Madurai,9.9252,78.1198
+India,Tamil Nadu,Mudumalai National Park,11.5717,76.6367
+India,Tamil Nadu,Vellore Fort,12.9202,79.1319
+India,Himachal Pradesh,Shimla,31.1048,77.1734
+India,Himachal Pradesh,Manali,32.2432,77.1892
+India,Himachal Pradesh,Rohtang Pass,32.3726,77.2453
+India,Himachal Pradesh,Spiti Valley,32.2464,78.0335
+India,Himachal Pradesh,Dharamshala,32.2190,76.3234
+India,Himachal Pradesh,Dalhousie,32.5382,75.9731
+India,Himachal Pradesh,Kullu Valley,31.9592,77.1089
+India,Himachal Pradesh,Kasol,32.0098,77.3149
+India,Himachal Pradesh,Khajjiar,32.5424,76.0531
+India,Himachal Pradesh,Great Himalayan National Park,31.7480,77.4880
+India,West Bengal,Victoria Memorial Kolkata,22.5448,88.3426
+India,West Bengal,Darjeeling Tea Estates,27.0360,88.2627
+India,West Bengal,Sundarbans National Park,21.9497,89.1833
+India,West Bengal,Howrah Bridge,22.5851,88.3468
+India,West Bengal,Dakshineswar Kali Temple,22.6545,88.3580
+India,West Bengal,Bishnupur Temples,23.0773,87.3155
+India,West Bengal,Tiger Hill Darjeeling,27.0173,88.2985
+India,West Bengal,Belur Math,22.6292,88.3568
+India,West Bengal,Indian Museum Kolkata,22.5570,88.3512
+India,West Bengal,Murshidabad,24.1834,88.2697
+Australia,New South Wales,Sydney Opera House,-33.8568,151.2153
+Australia,New South Wales,Sydney Harbour Bridge,-33.8523,151.2108
+Australia,New South Wales,Bondi Beach,-33.8915,151.2767
+Australia,New South Wales,Blue Mountains,-33.7148,150.3117
+Australia,New South Wales,Royal Botanic Garden Sydney,-33.8642,151.2166
+Australia,New South Wales,Hunter Valley Wineries,-32.7900,151.1700
+Australia,New South Wales,Byron Bay,-28.6474,153.6020
+Australia,New South Wales,Jervis Bay,-35.1700,150.7600
+Australia,New South Wales,Port Stephens,-32.7170,152.0910
+Australia,New South Wales,Snowy Mountains,-36.4548,148.2640
+Australia,Victoria,Great Ocean Road,-38.6800,143.4000
+Australia,Victoria,Twelve Apostles,-38.6623,143.1050
+Australia,Victoria,Federation Square Melbourne,-37.8180,144.9691
+Australia,Victoria,Phillip Island Penguin Parade,-38.4987,145.3677
+Australia,Victoria,Yarra Valley,-37.7100,145.5500
+Australia,Victoria,Melbourne Cricket Ground,-37.8200,144.9836
+Australia,Victoria,Sovereign Hill Ballarat,-37.5683,143.8397
+Australia,Victoria,Healesville Sanctuary,-37.6561,145.5163
+Australia,Victoria,Wilson's Promontory,-39.0500,146.3500
+Australia,Victoria,Royal Botanic Gardens Melbourne,-37.8304,144.9798
+Australia,Queensland,Great Barrier Reef,-18.2871,147.6992
+Australia,Queensland,Whitsunday Islands,-20.2700,148.8300
+Australia,Queensland,Daintree Rainforest,-16.1700,145.4200
+Australia,Queensland,Gold Coast,-28.0167,153.4000
+Australia,Queensland,Cairns,-16.9186,145.7781
+Australia,Queensland,Noosa National Park,-26.4003,153.0890
+Australia,Queensland,Lamington National Park,-28.2200,153.1500
+Australia,Queensland,Fraser Island,-25.2500,153.2000
+Australia,Queensland,Kuranda,-16.8167,145.6333
+Australia,Queensland,Atherton Tablelands,-17.2667,145.4833
+Australia,Western Australia,Ningaloo Reef,-22.6000,113.8000
+Australia,Western Australia,Pinnacles Desert,-30.6000,115.1500
+Australia,Western Australia,Margaret River,-33.9500,115.0700
+Australia,Western Australia,Broome Cable Beach,-17.9600,122.2300
+Australia,Western Australia,Wave Rock,-32.4400,118.8900
+Australia,Western Australia,Rottnest Island,-32.0067,115.5167
+Australia,Western Australia,Karijini National Park,-22.4600,118.3200
+Australia,Western Australia,Perth Kings Park,-31.9567,115.8333
+Australia,Western Australia,Shark Bay,-25.9900,113.9700
+Australia,Western Australia,Fremantle Prison,-32.0577,115.7510
+Australia,South Australia,Kangaroo Island,-35.7700,137.2000
+Australia,South Australia,Barossa Valley,-34.5300,139.0000
+Australia,South Australia,Flinders Ranges,-31.5000,138.6200
+Australia,South Australia,Coober Pedy,-29.0135,134.7543
+Australia,South Australia,Adelaide Central Market,-34.9285,138.5986
+Australia,South Australia,McLaren Vale,-35.2200,138.5500
+Australia,South Australia,Wilpena Pound,-31.5426,138.6573
+Australia,South Australia,Hahndorf,-35.0347,138.8064
+Australia,South Australia,Victor Harbor,-35.5500,138.6200
+Australia,South Australia,Naracoorte Caves,-36.9700,140.7800
+Australia,Northern Territory,Uluru Ayers Rock,-25.3444,131.0369
+Australia,Northern Territory,Kakadu National Park,-12.6630,132.5540
+Australia,Northern Territory,Katherine Gorge,-14.2990,132.4260
+Australia,Northern Territory,Litchfield National Park,-13.1800,130.7500
+Australia,Northern Territory,Darwin Waterfront,-12.4634,130.8456
+Australia,Northern Territory,Devil's Marbles,-20.5400,134.2600
+Australia,Northern Territory,Kings Canyon,-24.2658,131.4856
+Australia,Northern Territory,Nitmiluk Gorge,-14.2990,132.4260
+Australia,Northern Territory,Alice Springs,-23.6980,133.8807
+Australia,Northern Territory,Tiwi Islands,-11.6500,130.7500
+Australia,Tasmania,Cradle Mountain,-41.6500,145.9400
+Australia,Tasmania,Port Arthur Historic Site,-43.1378,147.8503
+Australia,Tasmania,Wineglass Bay,-42.1200,148.2900
+Australia,Tasmania,MONA Museum Hobart,-42.8221,147.2776
+Australia,Tasmania,Bay of Fires,-41.1400,148.3000
+Australia,Tasmania,Mount Wellington,-42.8954,147.2338
+Australia,Tasmania,Salamanca Market,-42.8822,147.3314
+Australia,Tasmania,Tasman National Park,-43.2700,147.8900
+Australia,Tasmania,Gordon Dam,-42.7700,146.0200
+Australia,Tasmania,Bicheno Blowhole,-41.8759,148.3100
+Australia,Australian Capital Territory,Australian War Memorial,-35.2832,149.1506
+Australia,Australian Capital Territory,Parliament House Canberra,-35.3075,149.1244
+Australia,Australian Capital Territory,National Gallery of Australia,-35.2989,149.1343
+Australia,Australian Capital Territory,Lake Burley Griffin,-35.2900,149.1300
+Australia,Australian Capital Territory,Questacon,-35.2953,149.1322
+Australia,Australian Capital Territory,National Arboretum,-35.2800,149.0500
+Australia,Australian Capital Territory,Black Mountain Tower,-35.2753,149.1000
+Australia,Australian Capital Territory,National Museum of Australia,-35.2936,149.1166
+Australia,Australian Capital Territory,Tidbinbilla Nature Reserve,-35.5900,148.9600
+Australia,Australian Capital Territory,Mount Ainslie,-35.2736,149.1619
+Australia,Queensland,Townsville,-19.2590,146.8169
+Australia,Queensland,Magnetic Island,-19.1500,146.8670
+Australia,Queensland,Airlie Beach,-20.2691,148.7186
+Australia,Queensland,Longreach,-23.4390,144.2501
+Australia,New South Wales,Coffs Harbour,-30.2963,153.1135
+Australia,New South Wales,Lord Howe Island,-31.5533,159.0826
+Australia,New South Wales,Broken Hill,-31.9535,141.4685
+Australia,New South Wales,Tamworth,-31.0927,150.9320
+Australia,Victoria,Grampians National Park,-37.2700,142.5200
+Australia,Victoria,Dandenong Ranges,-37.8700,145.3500
+India,Karnataka,Mysuru Palace,12.3052,76.6552
+India,Karnataka,Coorg,12.3375,75.8069
+India,Karnataka,Hampi,15.3350,76.4600
+India,Karnataka,Badami Caves,15.9200,75.6800
+India,Karnataka,Chikmagalur,13.3161,75.7720
+India,Karnataka,Kabini,11.9850,76.3500
+India,Karnataka,Nagarhole National Park,12.0500,76.1500
+India,Karnataka,Jog Falls,14.2265,74.8037
+India,Karnataka,Gokarna,14.5479,74.3188
+India,Karnataka,Belur,13.1644,75.8678
+Japan,Fukuoka,Dazaifu Tenmangu,33.5162,130.7330
+Japan,Fukuoka,Fukuoka Castle,33.5862,130.3906
+Japan,Fukuoka,Canal City Hakata,33.5897,130.4101
+Japan,Fukuoka,Ohori Park,33.5840,130.3810
+Japan,Fukuoka,Itoshima,33.5563,130.1985
+Japan,Aichi,Nagoya Castle,35.1853,136.8997
+Japan,Aichi,LEGOLAND Japan,35.1148,136.8840
+Japan,Aichi,Inuyama Castle,35.3796,136.9444
+Japan,Aichi,Toyota Commemorative Museum,35.1859,136.8759
+Japan,Aichi,Meiji Mura,35.3607,136.9655
+Australia,Victoria,Mornington Peninsula,-38.3300,145.0100
+Australia,Victoria,Bright,-36.7276,146.9563
+Australia,Western Australia,Esperance,-33.8611,121.8886
+Australia,Western Australia,Albany,-35.0269,117.8837
+Australia,South Australia,Coorong National Park,-35.8900,139.3900
+Australia,Queensland,Glass House Mountains,-26.8900,152.9500
+Australia,New South Wales,Shoalhaven,-34.9000,150.3900
+Australia,New South Wales,Mudgee,-32.5933,149.5833
+Australia,Queensland,Carnarvon Gorge,-25.1200,148.2300
+Australia,Northern Territory,Arnhem Land,-12.3750,134.4000
