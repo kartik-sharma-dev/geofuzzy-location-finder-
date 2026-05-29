@@ -1,0 +1,1504 @@
+country,state,place name,hotel-name,rating,person aloud per room,food avalabel or not,taxi avalabel or not,longitude,latitude,room type,price
+USA,New York,Statue of Liberty,The Grand Statue of Liberty Hotel,4.5,2,No,Yes,-74.0445,40.6892,Luxury Suite,251
+USA,New York,Statue of Liberty,Statue of Liberty Premium Resort,4.6,4,Yes,No,-74.0445,40.6892,Executive Suite,265
+USA,New York,Statue of Liberty,Statue of Liberty Comfort Inn & Suites,3.9,2,Yes,Yes,-74.0445,40.6892,Family Room,118
+USA,New York,Central Park,The Grand Central Park Hotel,4.3,3,Yes,Yes,-73.9683,40.7851,Deluxe King,354
+USA,New York,Central Park,Central Park Premium Resort,4.1,2,No,Yes,-73.9683,40.7851,Executive Suite,444
+USA,New York,Central Park,Central Park Comfort Inn & Suites,3.9,3,No,Yes,-73.9683,40.7851,Family Room,158
+USA,New York,Times Square,The Grand Times Square Hotel,3.9,3,Yes,No,-73.9855,40.758,Deluxe King,278
+USA,New York,Times Square,Times Square Premium Resort,4.6,2,Yes,No,-73.9855,40.758,Executive Suite,369
+USA,New York,Times Square,Times Square Comfort Inn & Suites,4.8,3,No,No,-73.9855,40.758,Family Room,110
+USA,New York,Brooklyn Bridge,The Grand Brooklyn Bridge Hotel,4.2,2,No,Yes,-73.9969,40.7061,Luxury Suite,305
+USA,New York,Brooklyn Bridge,Brooklyn Bridge Premium Resort,4.0,3,No,Yes,-73.9969,40.7061,Ocean/View Room,278
+USA,New York,Brooklyn Bridge,Brooklyn Bridge Comfort Inn & Suites,4.1,2,No,No,-73.9969,40.7061,Family Room,98
+USA,New York,Metropolitan Museum of Art,The Grand Metropolitan Museum of Art Hotel,4.0,4,No,Yes,-73.9632,40.7794,Deluxe King,382
+USA,New York,Metropolitan Museum of Art,Metropolitan Museum of Art Premium Resort,4.8,4,No,Yes,-73.9632,40.7794,Ocean/View Room,321
+USA,New York,Metropolitan Museum of Art,Metropolitan Museum of Art Comfort Inn & Suites,4.1,4,No,No,-73.9632,40.7794,Family Room,136
+USA,New York,Empire State Building,The Grand Empire State Building Hotel,4.0,2,No,Yes,-73.9967,40.7484,Luxury Suite,236
+USA,New York,Empire State Building,Empire State Building Premium Resort,4.0,2,No,Yes,-73.9967,40.7484,Ocean/View Room,445
+USA,New York,Empire State Building,Empire State Building Comfort Inn & Suites,4.5,3,No,Yes,-73.9967,40.7484,Standard Queen,177
+USA,New York,High Line,The Grand High Line Hotel,4.8,3,No,Yes,-74.0048,40.748,Deluxe King,402
+USA,New York,High Line,High Line Premium Resort,4.0,2,No,Yes,-74.0048,40.748,Executive Suite,570
+USA,New York,High Line,High Line Comfort Inn & Suites,4.1,4,Yes,Yes,-74.0048,40.748,Family Room,110
+USA,New York,Niagara Falls,The Grand Niagara Falls Hotel,4.4,4,Yes,No,-79.0377,43.0962,Deluxe King,189
+USA,New York,Niagara Falls,Niagara Falls Premium Resort,3.9,3,No,Yes,-79.0377,43.0962,Executive Suite,373
+USA,New York,Niagara Falls,Niagara Falls Comfort Inn & Suites,4.8,2,Yes,No,-79.0377,43.0962,Standard Queen,158
+USA,New York,One World Trade Center,The Grand One World Trade Center Hotel,4.6,2,No,Yes,-74.0134,40.7127,Deluxe King,450
+USA,New York,One World Trade Center,One World Trade Center Premium Resort,4.8,3,Yes,Yes,-74.0134,40.7127,Ocean/View Room,454
+USA,New York,One World Trade Center,One World Trade Center Comfort Inn & Suites,4.9,4,No,No,-74.0134,40.7127,Family Room,105
+USA,New York,Rockefeller Center,The Grand Rockefeller Center Hotel,4.1,2,No,Yes,-73.9787,40.7587,Luxury Suite,292
+USA,New York,Rockefeller Center,Rockefeller Center Premium Resort,3.8,4,Yes,Yes,-73.9787,40.7587,Executive Suite,266
+USA,New York,Rockefeller Center,Rockefeller Center Comfort Inn & Suites,4.7,2,Yes,No,-73.9787,40.7587,Family Room,117
+USA,California,Golden Gate Bridge,The Grand Golden Gate Bridge Hotel,4.4,4,No,Yes,-122.4783,37.8199,Deluxe King,388
+USA,California,Golden Gate Bridge,Golden Gate Bridge Premium Resort,4.0,2,No,No,-122.4783,37.8199,Ocean/View Room,460
+USA,California,Golden Gate Bridge,Golden Gate Bridge Comfort Inn & Suites,4.3,4,Yes,Yes,-122.4783,37.8199,Standard Queen,141
+USA,California,Yosemite Valley,The Grand Yosemite Valley Hotel,4.6,2,Yes,Yes,-119.5936,37.7456,Luxury Suite,409
+USA,California,Yosemite Valley,Yosemite Valley Premium Resort,4.0,2,No,No,-119.5936,37.7456,Executive Suite,288
+USA,California,Yosemite Valley,Yosemite Valley Comfort Inn & Suites,4.3,4,Yes,Yes,-119.5936,37.7456,Standard Queen,101
+USA,California,Hollywood Sign,The Grand Hollywood Sign Hotel,4.8,2,Yes,No,-118.3215,34.1341,Deluxe King,426
+USA,California,Hollywood Sign,Hollywood Sign Premium Resort,4.0,3,Yes,Yes,-118.3215,34.1341,Ocean/View Room,251
+USA,California,Hollywood Sign,Hollywood Sign Comfort Inn & Suites,4.9,3,No,No,-118.3215,34.1341,Family Room,179
+USA,California,Disneyland,The Grand Disneyland Hotel,4.9,4,No,Yes,-117.919,33.8121,Luxury Suite,331
+USA,California,Disneyland,Disneyland Premium Resort,4.0,2,Yes,No,-117.919,33.8121,Executive Suite,275
+USA,California,Disneyland,Disneyland Comfort Inn & Suites,4.4,4,Yes,Yes,-117.919,33.8121,Standard Queen,113
+USA,California,Alcatraz Island,The Grand Alcatraz Island Hotel,3.9,2,Yes,No,-122.423,37.827,Luxury Suite,306
+USA,California,Alcatraz Island,Alcatraz Island Premium Resort,4.4,2,Yes,No,-122.423,37.827,Ocean/View Room,383
+USA,California,Alcatraz Island,Alcatraz Island Comfort Inn & Suites,4.0,4,No,Yes,-122.423,37.827,Family Room,140
+USA,California,Santa Monica Pier,The Grand Santa Monica Pier Hotel,3.9,4,No,No,-118.4965,34.01,Deluxe King,217
+USA,California,Santa Monica Pier,Santa Monica Pier Premium Resort,3.8,4,Yes,Yes,-118.4965,34.01,Executive Suite,509
+USA,California,Santa Monica Pier,Santa Monica Pier Comfort Inn & Suites,4.1,3,Yes,Yes,-118.4965,34.01,Family Room,126
+USA,California,Big Sur,The Grand Big Sur Hotel,4.0,4,No,Yes,-121.8081,36.2704,Deluxe King,233
+USA,California,Big Sur,Big Sur Premium Resort,4.8,2,No,Yes,-121.8081,36.2704,Executive Suite,533
+USA,California,Big Sur,Big Sur Comfort Inn & Suites,4.0,3,Yes,No,-121.8081,36.2704,Standard Queen,177
+USA,California,Death Valley,The Grand Death Valley Hotel,4.5,3,No,No,-117.0794,36.5054,Luxury Suite,227
+USA,California,Death Valley,Death Valley Premium Resort,4.5,3,Yes,Yes,-117.0794,36.5054,Ocean/View Room,316
+USA,California,Death Valley,Death Valley Comfort Inn & Suites,4.5,3,Yes,No,-117.0794,36.5054,Family Room,161
+USA,California,Napa Valley,The Grand Napa Valley Hotel,3.8,2,Yes,Yes,-122.2654,38.5025,Deluxe King,255
+USA,California,Napa Valley,Napa Valley Premium Resort,4.3,2,No,No,-122.2654,38.5025,Executive Suite,433
+USA,California,Napa Valley,Napa Valley Comfort Inn & Suites,4.0,2,Yes,No,-122.2654,38.5025,Family Room,169
+USA,California,Lake Tahoe,The Grand Lake Tahoe Hotel,4.6,2,Yes,Yes,-120.0324,39.0968,Deluxe King,192
+USA,California,Lake Tahoe,Lake Tahoe Premium Resort,4.0,3,No,Yes,-120.0324,39.0968,Ocean/View Room,331
+USA,California,Lake Tahoe,Lake Tahoe Comfort Inn & Suites,4.7,2,No,Yes,-120.0324,39.0968,Family Room,118
+USA,Florida,Walt Disney World,The Grand Walt Disney World Hotel,4.0,3,No,No,-81.5639,28.3852,Luxury Suite,294
+USA,Florida,Walt Disney World,Walt Disney World Premium Resort,3.8,2,No,No,-81.5639,28.3852,Ocean/View Room,285
+USA,Florida,Walt Disney World,Walt Disney World Comfort Inn & Suites,4.9,3,No,No,-81.5639,28.3852,Family Room,93
+USA,Florida,Miami Beach,The Grand Miami Beach Hotel,3.9,3,Yes,No,-80.13,25.7907,Luxury Suite,235
+USA,Florida,Miami Beach,Miami Beach Premium Resort,4.5,3,No,No,-80.13,25.7907,Executive Suite,447
+USA,Florida,Miami Beach,Miami Beach Comfort Inn & Suites,4.8,2,No,Yes,-80.13,25.7907,Family Room,90
+USA,Florida,Everglades National Park,The Grand Everglades National Park Hotel,4.4,4,Yes,No,-80.8987,25.2866,Deluxe King,215
+USA,Florida,Everglades National Park,Everglades National Park Premium Resort,4.8,3,No,Yes,-80.8987,25.2866,Ocean/View Room,509
+USA,Florida,Everglades National Park,Everglades National Park Comfort Inn & Suites,4.1,3,No,No,-80.8987,25.2866,Family Room,160
+USA,Florida,Kennedy Space Center,The Grand Kennedy Space Center Hotel,3.9,3,No,Yes,-80.649,28.5729,Deluxe King,387
+USA,Florida,Kennedy Space Center,Kennedy Space Center Premium Resort,4.4,2,No,No,-80.649,28.5729,Executive Suite,470
+USA,Florida,Kennedy Space Center,Kennedy Space Center Comfort Inn & Suites,4.7,4,No,No,-80.649,28.5729,Family Room,146
+USA,Florida,Key West,The Grand Key West Hotel,4.5,4,No,Yes,-81.78,24.5551,Luxury Suite,325
+USA,Florida,Key West,Key West Premium Resort,4.4,4,No,Yes,-81.78,24.5551,Executive Suite,594
+USA,Florida,Key West,Key West Comfort Inn & Suites,4.1,2,Yes,Yes,-81.78,24.5551,Standard Queen,121
+USA,Florida,Universal Studios Orlando,The Grand Universal Studios Orlando Hotel,4.9,4,Yes,No,-81.4672,28.4748,Deluxe King,279
+USA,Florida,Universal Studios Orlando,Universal Studios Orlando Premium Resort,4.6,3,No,No,-81.4672,28.4748,Executive Suite,325
+USA,Florida,Universal Studios Orlando,Universal Studios Orlando Comfort Inn & Suites,4.5,2,Yes,No,-81.4672,28.4748,Standard Queen,112
+USA,Florida,St. Augustine,The Grand St. Augustine Hotel,4.7,4,No,Yes,-81.3145,29.8947,Luxury Suite,242
+USA,Florida,St. Augustine,St. Augustine Premium Resort,4.3,3,No,No,-81.3145,29.8947,Ocean/View Room,530
+USA,Florida,St. Augustine,St. Augustine Comfort Inn & Suites,4.3,2,No,No,-81.3145,29.8947,Family Room,121
+USA,Florida,Clearwater Beach,The Grand Clearwater Beach Hotel,4.7,3,No,Yes,-82.827,27.9778,Deluxe King,405
+USA,Florida,Clearwater Beach,Clearwater Beach Premium Resort,3.9,3,Yes,No,-82.827,27.9778,Ocean/View Room,413
+USA,Florida,Clearwater Beach,Clearwater Beach Comfort Inn & Suites,4.8,2,Yes,Yes,-82.827,27.9778,Standard Queen,139
+USA,Florida,Dry Tortugas National Park,The Grand Dry Tortugas National Park Hotel,4.6,4,Yes,Yes,-82.8732,24.6285,Deluxe King,388
+USA,Florida,Dry Tortugas National Park,Dry Tortugas National Park Premium Resort,4.2,3,No,Yes,-82.8732,24.6285,Executive Suite,465
+USA,Florida,Dry Tortugas National Park,Dry Tortugas National Park Comfort Inn & Suites,4.2,4,Yes,No,-82.8732,24.6285,Family Room,90
+USA,Florida,Sarasota Ringling Museum,The Grand Sarasota Ringling Museum Hotel,4.8,3,No,No,-82.5586,27.3861,Luxury Suite,429
+USA,Florida,Sarasota Ringling Museum,Sarasota Ringling Museum Premium Resort,4.0,3,No,Yes,-82.5586,27.3861,Ocean/View Room,422
+USA,Florida,Sarasota Ringling Museum,Sarasota Ringling Museum Comfort Inn & Suites,4.5,3,Yes,No,-82.5586,27.3861,Standard Queen,169
+USA,Texas,San Antonio River Walk,The Grand San Antonio River Walk Hotel,4.4,3,Yes,Yes,-98.4936,29.4241,Deluxe King,249
+USA,Texas,San Antonio River Walk,San Antonio River Walk Premium Resort,4.8,2,Yes,No,-98.4936,29.4241,Ocean/View Room,417
+USA,Texas,San Antonio River Walk,San Antonio River Walk Comfort Inn & Suites,4.0,3,No,No,-98.4936,29.4241,Family Room,143
+USA,Texas,Space Center Houston,The Grand Space Center Houston Hotel,4.1,2,No,Yes,-95.0981,29.5518,Luxury Suite,359
+USA,Texas,Space Center Houston,Space Center Houston Premium Resort,4.0,2,Yes,Yes,-95.0981,29.5518,Executive Suite,352
+USA,Texas,Space Center Houston,Space Center Houston Comfort Inn & Suites,4.7,4,Yes,Yes,-95.0981,29.5518,Standard Queen,150
+USA,Texas,Big Bend National Park,The Grand Big Bend National Park Hotel,4.5,4,Yes,No,-103.2425,29.1275,Deluxe King,368
+USA,Texas,Big Bend National Park,Big Bend National Park Premium Resort,4.0,4,Yes,Yes,-103.2425,29.1275,Ocean/View Room,305
+USA,Texas,Big Bend National Park,Big Bend National Park Comfort Inn & Suites,4.4,3,No,No,-103.2425,29.1275,Standard Queen,99
+USA,Texas,The Alamo,The Grand The Alamo Hotel,4.5,4,Yes,Yes,-98.4861,29.426,Deluxe King,241
+USA,Texas,The Alamo,The Alamo Premium Resort,4.7,4,Yes,No,-98.4861,29.426,Ocean/View Room,588
+USA,Texas,The Alamo,The Alamo Comfort Inn & Suites,4.2,4,No,Yes,-98.4861,29.426,Family Room,152
+USA,Texas,Padre Island National Seashore,The Grand Padre Island National Seashore Hotel,3.9,3,No,Yes,-97.3806,26.6313,Deluxe King,270
+USA,Texas,Padre Island National Seashore,Padre Island National Seashore Premium Resort,4.6,4,No,No,-97.3806,26.6313,Ocean/View Room,473
+USA,Texas,Padre Island National Seashore,Padre Island National Seashore Comfort Inn & Suites,4.7,4,No,No,-97.3806,26.6313,Standard Queen,101
+USA,Texas,Guadalupe Mountains,The Grand Guadalupe Mountains Hotel,4.1,3,Yes,No,-104.8607,31.8923,Deluxe King,352
+USA,Texas,Guadalupe Mountains,Guadalupe Mountains Premium Resort,3.8,3,Yes,No,-104.8607,31.8923,Executive Suite,431
+USA,Texas,Guadalupe Mountains,Guadalupe Mountains Comfort Inn & Suites,4.7,3,No,No,-104.8607,31.8923,Standard Queen,156
+USA,Texas,Austin 6th Street,The Grand Austin 6th Street Hotel,4.8,2,Yes,No,-97.7431,30.2672,Deluxe King,303
+USA,Texas,Austin 6th Street,Austin 6th Street Premium Resort,4.6,4,No,No,-97.7431,30.2672,Executive Suite,297
+USA,Texas,Austin 6th Street,Austin 6th Street Comfort Inn & Suites,4.1,3,Yes,No,-97.7431,30.2672,Family Room,150
+USA,Texas,Fort Worth Stockyards,The Grand Fort Worth Stockyards Hotel,4.4,3,No,No,-97.348,32.7896,Deluxe King,412
+USA,Texas,Fort Worth Stockyards,Fort Worth Stockyards Premium Resort,4.1,3,Yes,Yes,-97.348,32.7896,Executive Suite,411
+USA,Texas,Fort Worth Stockyards,Fort Worth Stockyards Comfort Inn & Suites,3.9,4,Yes,Yes,-97.348,32.7896,Standard Queen,151
+USA,Texas,Marfa Lights,The Grand Marfa Lights Hotel,4.1,4,No,Yes,-104.0207,30.3128,Luxury Suite,331
+USA,Texas,Marfa Lights,Marfa Lights Premium Resort,4.1,2,No,Yes,-104.0207,30.3128,Executive Suite,390
+USA,Texas,Marfa Lights,Marfa Lights Comfort Inn & Suites,3.9,2,No,Yes,-104.0207,30.3128,Family Room,103
+USA,Texas,Natural Bridge Caverns,The Grand Natural Bridge Caverns Hotel,4.8,4,No,No,-98.3427,29.6924,Deluxe King,405
+USA,Texas,Natural Bridge Caverns,Natural Bridge Caverns Premium Resort,4.2,2,No,No,-98.3427,29.6924,Executive Suite,283
+USA,Texas,Natural Bridge Caverns,Natural Bridge Caverns Comfort Inn & Suites,4.2,2,Yes,Yes,-98.3427,29.6924,Standard Queen,162
+USA,Hawaii,Waikiki Beach,The Grand Waikiki Beach Hotel,4.8,2,Yes,Yes,-157.8293,21.2793,Deluxe King,295
+USA,Hawaii,Waikiki Beach,Waikiki Beach Premium Resort,4.7,3,No,No,-157.8293,21.2793,Ocean/View Room,551
+USA,Hawaii,Waikiki Beach,Waikiki Beach Comfort Inn & Suites,4.9,3,Yes,Yes,-157.8293,21.2793,Standard Queen,170
+USA,Hawaii,Hawaii Volcanoes National Park,The Grand Hawaii Volcanoes National Park Hotel,4.0,4,Yes,Yes,-155.2885,19.4194,Luxury Suite,268
+USA,Hawaii,Hawaii Volcanoes National Park,Hawaii Volcanoes National Park Premium Resort,4.4,2,Yes,No,-155.2885,19.4194,Ocean/View Room,554
+USA,Hawaii,Hawaii Volcanoes National Park,Hawaii Volcanoes National Park Comfort Inn & Suites,4.3,2,Yes,No,-155.2885,19.4194,Family Room,179
+USA,Hawaii,Na Pali Coast,The Grand Na Pali Coast Hotel,4.7,2,Yes,No,-159.608,22.2074,Luxury Suite,397
+USA,Hawaii,Na Pali Coast,Na Pali Coast Premium Resort,3.9,2,Yes,No,-159.608,22.2074,Executive Suite,286
+USA,Hawaii,Na Pali Coast,Na Pali Coast Comfort Inn & Suites,3.9,3,No,No,-159.608,22.2074,Standard Queen,149
+USA,Hawaii,Pearl Harbor,The Grand Pearl Harbor Hotel,4.6,4,No,No,-157.95,21.3645,Deluxe King,404
+USA,Hawaii,Pearl Harbor,Pearl Harbor Premium Resort,3.9,2,No,No,-157.95,21.3645,Ocean/View Room,263
+USA,Hawaii,Pearl Harbor,Pearl Harbor Comfort Inn & Suites,3.9,4,Yes,No,-157.95,21.3645,Standard Queen,112
+USA,Hawaii,Haleakala Crater,The Grand Haleakala Crater Hotel,4.3,4,No,No,-156.2533,20.7097,Luxury Suite,403
+USA,Hawaii,Haleakala Crater,Haleakala Crater Premium Resort,4.5,3,Yes,No,-156.2533,20.7097,Ocean/View Room,459
+USA,Hawaii,Haleakala Crater,Haleakala Crater Comfort Inn & Suites,4.2,4,Yes,Yes,-156.2533,20.7097,Family Room,142
+USA,Hawaii,Lanikai Beach,The Grand Lanikai Beach Hotel,4.6,3,No,Yes,-157.7181,21.3906,Deluxe King,225
+USA,Hawaii,Lanikai Beach,Lanikai Beach Premium Resort,4.1,3,Yes,No,-157.7181,21.3906,Executive Suite,586
+USA,Hawaii,Lanikai Beach,Lanikai Beach Comfort Inn & Suites,4.8,3,No,Yes,-157.7181,21.3906,Standard Queen,156
+USA,Hawaii,Waimea Canyon,The Grand Waimea Canyon Hotel,4.2,3,No,Yes,-159.6659,22.0554,Luxury Suite,316
+USA,Hawaii,Waimea Canyon,Waimea Canyon Premium Resort,4.4,3,No,No,-159.6659,22.0554,Executive Suite,264
+USA,Hawaii,Waimea Canyon,Waimea Canyon Comfort Inn & Suites,4.9,4,Yes,Yes,-159.6659,22.0554,Family Room,160
+USA,Hawaii,Molokini Crater,The Grand Molokini Crater Hotel,3.8,3,Yes,Yes,-156.4963,20.6317,Luxury Suite,416
+USA,Hawaii,Molokini Crater,Molokini Crater Premium Resort,4.8,4,Yes,No,-156.4963,20.6317,Ocean/View Room,510
+USA,Hawaii,Molokini Crater,Molokini Crater Comfort Inn & Suites,4.6,3,No,No,-156.4963,20.6317,Standard Queen,148
+USA,Hawaii,Road to Hana,The Grand Road to Hana Hotel,4.4,3,Yes,Yes,-156.1286,20.7984,Luxury Suite,321
+USA,Hawaii,Road to Hana,Road to Hana Premium Resort,4.6,3,No,No,-156.1286,20.7984,Executive Suite,394
+USA,Hawaii,Road to Hana,Road to Hana Comfort Inn & Suites,4.6,4,No,Yes,-156.1286,20.7984,Family Room,158
+USA,Hawaii,Diamond Head,The Grand Diamond Head Hotel,4.3,3,No,No,-157.805,21.2625,Deluxe King,276
+USA,Hawaii,Diamond Head,Diamond Head Premium Resort,4.9,2,No,Yes,-157.805,21.2625,Ocean/View Room,272
+USA,Hawaii,Diamond Head,Diamond Head Comfort Inn & Suites,4.1,3,No,No,-157.805,21.2625,Standard Queen,153
+USA,Colorado,Grand Canyon (South Rim),The Grand Grand Canyon (South Rim) Hotel,4.9,2,No,Yes,-112.1401,36.0544,Deluxe King,231
+USA,Colorado,Grand Canyon (South Rim),Grand Canyon (South Rim) Premium Resort,4.4,3,Yes,Yes,-112.1401,36.0544,Ocean/View Room,585
+USA,Colorado,Grand Canyon (South Rim),Grand Canyon (South Rim) Comfort Inn & Suites,4.9,2,No,No,-112.1401,36.0544,Family Room,169
+USA,Colorado,Rocky Mountain National Park,The Grand Rocky Mountain National Park Hotel,4.6,4,Yes,No,-105.6836,40.3428,Deluxe King,342
+USA,Colorado,Rocky Mountain National Park,Rocky Mountain National Park Premium Resort,4.5,3,Yes,Yes,-105.6836,40.3428,Executive Suite,573
+USA,Colorado,Rocky Mountain National Park,Rocky Mountain National Park Comfort Inn & Suites,4.6,3,Yes,Yes,-105.6836,40.3428,Family Room,102
+USA,Colorado,Mesa Verde National Park,The Grand Mesa Verde National Park Hotel,4.6,4,Yes,No,-108.4898,37.1853,Luxury Suite,333
+USA,Colorado,Mesa Verde National Park,Mesa Verde National Park Premium Resort,4.8,2,No,Yes,-108.4898,37.1853,Ocean/View Room,433
+USA,Colorado,Mesa Verde National Park,Mesa Verde National Park Comfort Inn & Suites,4.2,2,Yes,No,-108.4898,37.1853,Standard Queen,111
+USA,Colorado,Garden of the Gods,The Grand Garden of the Gods Hotel,4.0,4,No,Yes,-104.8864,38.8784,Deluxe King,253
+USA,Colorado,Garden of the Gods,Garden of the Gods Premium Resort,4.1,4,No,No,-104.8864,38.8784,Ocean/View Room,591
+USA,Colorado,Garden of the Gods,Garden of the Gods Comfort Inn & Suites,3.8,3,No,Yes,-104.8864,38.8784,Standard Queen,146
+USA,Colorado,Pikes Peak,The Grand Pikes Peak Hotel,4.8,4,No,No,-105.0422,38.8409,Deluxe King,413
+USA,Colorado,Pikes Peak,Pikes Peak Premium Resort,4.7,2,No,No,-105.0422,38.8409,Executive Suite,371
+USA,Colorado,Pikes Peak,Pikes Peak Comfort Inn & Suites,4.2,3,No,No,-105.0422,38.8409,Standard Queen,174
+USA,Colorado,Maroon Bells,The Grand Maroon Bells Hotel,4.2,2,Yes,No,-106.989,39.0708,Deluxe King,297
+USA,Colorado,Maroon Bells,Maroon Bells Premium Resort,4.5,3,Yes,Yes,-106.989,39.0708,Ocean/View Room,597
+USA,Colorado,Maroon Bells,Maroon Bells Comfort Inn & Suites,4.6,4,Yes,Yes,-106.989,39.0708,Standard Queen,129
+USA,Colorado,Aspen Mountain,The Grand Aspen Mountain Hotel,4.7,2,No,Yes,-106.8175,39.1911,Luxury Suite,331
+USA,Colorado,Aspen Mountain,Aspen Mountain Premium Resort,4.2,3,Yes,Yes,-106.8175,39.1911,Executive Suite,526
+USA,Colorado,Aspen Mountain,Aspen Mountain Comfort Inn & Suites,4.8,3,No,Yes,-106.8175,39.1911,Family Room,151
+USA,Colorado,Black Canyon of the Gunnison,The Grand Black Canyon of the Gunnison Hotel,4.9,3,No,Yes,-107.7416,38.5754,Deluxe King,218
+USA,Colorado,Black Canyon of the Gunnison,Black Canyon of the Gunnison Premium Resort,4.0,2,No,No,-107.7416,38.5754,Executive Suite,452
+USA,Colorado,Black Canyon of the Gunnison,Black Canyon of the Gunnison Comfort Inn & Suites,3.8,4,Yes,No,-107.7416,38.5754,Family Room,176
+USA,Colorado,Telluride,The Grand Telluride Hotel,4.6,3,No,No,-107.8123,37.9375,Luxury Suite,299
+USA,Colorado,Telluride,Telluride Premium Resort,4.3,4,No,Yes,-107.8123,37.9375,Executive Suite,575
+USA,Colorado,Telluride,Telluride Comfort Inn & Suites,4.7,4,No,No,-107.8123,37.9375,Standard Queen,107
+USA,Colorado,Great Sand Dunes,The Grand Great Sand Dunes Hotel,3.8,2,No,No,-105.5943,37.7916,Luxury Suite,229
+USA,Colorado,Great Sand Dunes,Great Sand Dunes Premium Resort,4.1,4,Yes,No,-105.5943,37.7916,Ocean/View Room,439
+USA,Colorado,Great Sand Dunes,Great Sand Dunes Comfort Inn & Suites,4.5,4,No,Yes,-105.5943,37.7916,Family Room,173
+USA,Washington,Mount Rainier,The Grand Mount Rainier Hotel,3.9,3,No,No,-121.7269,46.88,Luxury Suite,369
+USA,Washington,Mount Rainier,Mount Rainier Premium Resort,4.0,3,Yes,No,-121.7269,46.88,Executive Suite,438
+USA,Washington,Mount Rainier,Mount Rainier Comfort Inn & Suites,4.4,4,No,Yes,-121.7269,46.88,Family Room,125
+USA,Washington,Olympic National Park,The Grand Olympic National Park Hotel,4.0,2,No,Yes,-123.6044,47.8021,Luxury Suite,190
+USA,Washington,Olympic National Park,Olympic National Park Premium Resort,3.9,3,Yes,Yes,-123.6044,47.8021,Executive Suite,285
+USA,Washington,Olympic National Park,Olympic National Park Comfort Inn & Suites,4.7,4,Yes,Yes,-123.6044,47.8021,Standard Queen,132
+USA,Washington,Pike Place Market,The Grand Pike Place Market Hotel,4.7,4,Yes,No,-122.3422,47.6097,Luxury Suite,246
+USA,Washington,Pike Place Market,Pike Place Market Premium Resort,4.4,2,Yes,Yes,-122.3422,47.6097,Executive Suite,257
+USA,Washington,Pike Place Market,Pike Place Market Comfort Inn & Suites,4.2,2,No,Yes,-122.3422,47.6097,Standard Queen,123
+USA,Washington,Space Needle,The Grand Space Needle Hotel,3.9,4,No,Yes,-122.3493,47.6205,Luxury Suite,423
+USA,Washington,Space Needle,Space Needle Premium Resort,4.3,3,Yes,No,-122.3493,47.6205,Executive Suite,564
+USA,Washington,Space Needle,Space Needle Comfort Inn & Suites,3.8,4,No,No,-122.3493,47.6205,Standard Queen,97
+USA,Washington,Mount St. Helens,The Grand Mount St. Helens Hotel,4.9,3,No,Yes,-122.1944,46.1912,Deluxe King,407
+USA,Washington,Mount St. Helens,Mount St. Helens Premium Resort,3.9,2,No,Yes,-122.1944,46.1912,Executive Suite,314
+USA,Washington,Mount St. Helens,Mount St. Helens Comfort Inn & Suites,4.1,4,No,No,-122.1944,46.1912,Family Room,148
+USA,Washington,San Juan Islands,The Grand San Juan Islands Hotel,4.4,3,Yes,Yes,-122.9728,48.532,Luxury Suite,400
+USA,Washington,San Juan Islands,San Juan Islands Premium Resort,4.3,2,No,No,-122.9728,48.532,Ocean/View Room,454
+USA,Washington,San Juan Islands,San Juan Islands Comfort Inn & Suites,4.3,2,No,No,-122.9728,48.532,Family Room,175
+USA,Washington,Snoqualmie Falls,The Grand Snoqualmie Falls Hotel,4.1,2,No,Yes,-121.8376,47.5416,Luxury Suite,223
+USA,Washington,Snoqualmie Falls,Snoqualmie Falls Premium Resort,3.9,2,No,Yes,-121.8376,47.5416,Executive Suite,550
+USA,Washington,Snoqualmie Falls,Snoqualmie Falls Comfort Inn & Suites,4.9,4,No,Yes,-121.8376,47.5416,Family Room,135
+USA,Washington,Hoh Rainforest,The Grand Hoh Rainforest Hotel,4.8,3,Yes,No,-123.9351,47.8597,Deluxe King,360
+USA,Washington,Hoh Rainforest,Hoh Rainforest Premium Resort,3.9,4,Yes,Yes,-123.9351,47.8597,Ocean/View Room,364
+USA,Washington,Hoh Rainforest,Hoh Rainforest Comfort Inn & Suites,4.7,3,No,Yes,-123.9351,47.8597,Family Room,163
+USA,Washington,Leavenworth,The Grand Leavenworth Hotel,4.0,3,Yes,No,-120.6615,47.5962,Luxury Suite,272
+USA,Washington,Leavenworth,Leavenworth Premium Resort,4.1,3,No,No,-120.6615,47.5962,Executive Suite,342
+USA,Washington,Leavenworth,Leavenworth Comfort Inn & Suites,4.8,4,No,Yes,-120.6615,47.5962,Standard Queen,171
+USA,Washington,Palouse Falls,The Grand Palouse Falls Hotel,4.9,2,Yes,No,-118.2262,46.6638,Deluxe King,412
+USA,Washington,Palouse Falls,Palouse Falls Premium Resort,4.2,3,No,No,-118.2262,46.6638,Executive Suite,276
+USA,Washington,Palouse Falls,Palouse Falls Comfort Inn & Suites,4.0,4,Yes,Yes,-118.2262,46.6638,Family Room,146
+USA,Utah,Zion National Park,The Grand Zion National Park Hotel,4.5,3,No,No,-113.0263,37.2982,Deluxe King,290
+USA,Utah,Zion National Park,Zion National Park Premium Resort,4.6,2,No,No,-113.0263,37.2982,Executive Suite,395
+USA,Utah,Zion National Park,Zion National Park Comfort Inn & Suites,4.5,4,No,No,-113.0263,37.2982,Standard Queen,118
+USA,Utah,Bryce Canyon,The Grand Bryce Canyon Hotel,4.2,4,Yes,Yes,-112.1871,37.593,Luxury Suite,334
+USA,Utah,Bryce Canyon,Bryce Canyon Premium Resort,4.8,2,No,No,-112.1871,37.593,Ocean/View Room,311
+USA,Utah,Bryce Canyon,Bryce Canyon Comfort Inn & Suites,3.8,4,No,Yes,-112.1871,37.593,Standard Queen,138
+USA,Utah,Arches National Park,The Grand Arches National Park Hotel,4.4,2,No,Yes,-109.5925,38.7331,Deluxe King,201
+USA,Utah,Arches National Park,Arches National Park Premium Resort,4.3,3,Yes,No,-109.5925,38.7331,Ocean/View Room,543
+USA,Utah,Arches National Park,Arches National Park Comfort Inn & Suites,4.2,4,No,No,-109.5925,38.7331,Standard Queen,141
+USA,Utah,Canyonlands National Park,The Grand Canyonlands National Park Hotel,3.8,3,Yes,No,-109.9025,38.2,Deluxe King,225
+USA,Utah,Canyonlands National Park,Canyonlands National Park Premium Resort,4.3,2,Yes,No,-109.9025,38.2,Ocean/View Room,518
+USA,Utah,Canyonlands National Park,Canyonlands National Park Comfort Inn & Suites,3.9,3,No,Yes,-109.9025,38.2,Family Room,111
+USA,Utah,Monument Valley,The Grand Monument Valley Hotel,3.9,4,Yes,Yes,-110.0985,36.9983,Deluxe King,359
+USA,Utah,Monument Valley,Monument Valley Premium Resort,4.6,4,Yes,Yes,-110.0985,36.9983,Executive Suite,324
+USA,Utah,Monument Valley,Monument Valley Comfort Inn & Suites,4.1,2,Yes,Yes,-110.0985,36.9983,Standard Queen,170
+USA,Utah,Antelope Canyon,The Grand Antelope Canyon Hotel,4.3,4,No,No,-111.3743,36.8619,Deluxe King,257
+USA,Utah,Antelope Canyon,Antelope Canyon Premium Resort,4.3,3,No,No,-111.3743,36.8619,Ocean/View Room,552
+USA,Utah,Antelope Canyon,Antelope Canyon Comfort Inn & Suites,3.9,4,Yes,No,-111.3743,36.8619,Family Room,147
+USA,Utah,Bonneville Salt Flats,The Grand Bonneville Salt Flats Hotel,3.8,3,No,Yes,-113.8897,40.7441,Luxury Suite,439
+USA,Utah,Bonneville Salt Flats,Bonneville Salt Flats Premium Resort,4.2,4,Yes,No,-113.8897,40.7441,Executive Suite,414
+USA,Utah,Bonneville Salt Flats,Bonneville Salt Flats Comfort Inn & Suites,4.5,4,Yes,Yes,-113.8897,40.7441,Family Room,103
+USA,Utah,Capitol Reef National Park,The Grand Capitol Reef National Park Hotel,4.7,3,Yes,Yes,-111.2615,38.367,Luxury Suite,306
+USA,Utah,Capitol Reef National Park,Capitol Reef National Park Premium Resort,4.6,3,Yes,No,-111.2615,38.367,Ocean/View Room,394
+USA,Utah,Capitol Reef National Park,Capitol Reef National Park Comfort Inn & Suites,4.2,3,Yes,No,-111.2615,38.367,Standard Queen,132
+USA,Utah,Natural Bridges National Monument,The Grand Natural Bridges National Monument Hotel,3.9,4,No,No,-110.0086,37.6025,Deluxe King,256
+USA,Utah,Natural Bridges National Monument,Natural Bridges National Monument Premium Resort,4.2,4,Yes,No,-110.0086,37.6025,Ocean/View Room,585
+USA,Utah,Natural Bridges National Monument,Natural Bridges National Monument Comfort Inn & Suites,4.6,3,Yes,Yes,-110.0086,37.6025,Family Room,161
+USA,Utah,Dead Horse Point,The Grand Dead Horse Point Hotel,4.2,3,Yes,Yes,-109.7334,38.4824,Deluxe King,440
+USA,Utah,Dead Horse Point,Dead Horse Point Premium Resort,4.2,3,No,Yes,-109.7334,38.4824,Executive Suite,424
+USA,Utah,Dead Horse Point,Dead Horse Point Comfort Inn & Suites,4.8,3,Yes,Yes,-109.7334,38.4824,Standard Queen,109
+USA,Alaska,Denali National Park,The Grand Denali National Park Hotel,3.9,2,Yes,No,-150.501,63.3333,Luxury Suite,372
+USA,Alaska,Denali National Park,Denali National Park Premium Resort,4.0,2,Yes,No,-150.501,63.3333,Executive Suite,460
+USA,Alaska,Denali National Park,Denali National Park Comfort Inn & Suites,4.2,4,Yes,No,-150.501,63.3333,Family Room,147
+USA,Alaska,Glacier Bay National Park,The Grand Glacier Bay National Park Hotel,4.1,2,No,No,-136.9,58.6658,Luxury Suite,368
+USA,Alaska,Glacier Bay National Park,Glacier Bay National Park Premium Resort,4.5,4,No,No,-136.9,58.6658,Ocean/View Room,445
+USA,Alaska,Glacier Bay National Park,Glacier Bay National Park Comfort Inn & Suites,4.4,3,Yes,Yes,-136.9,58.6658,Standard Queen,122
+USA,Alaska,Kenai Fjords National Park,The Grand Kenai Fjords National Park Hotel,3.9,3,No,Yes,-149.6517,59.9198,Luxury Suite,325
+USA,Alaska,Kenai Fjords National Park,Kenai Fjords National Park Premium Resort,3.9,2,No,No,-149.6517,59.9198,Executive Suite,473
+USA,Alaska,Kenai Fjords National Park,Kenai Fjords National Park Comfort Inn & Suites,3.9,2,No,No,-149.6517,59.9198,Standard Queen,143
+USA,Alaska,Tongass National Forest,The Grand Tongass National Forest Hotel,3.9,4,No,Yes,-133.38,56.4897,Deluxe King,221
+USA,Alaska,Tongass National Forest,Tongass National Forest Premium Resort,4.2,2,No,Yes,-133.38,56.4897,Ocean/View Room,324
+USA,Alaska,Tongass National Forest,Tongass National Forest Comfort Inn & Suites,4.0,3,No,Yes,-133.38,56.4897,Family Room,147
+USA,Alaska,Aurora Borealis viewing Fairbanks,The Grand Aurora Borealis viewing Fairbanks Hotel,4.5,2,Yes,No,-147.72,64.8401,Luxury Suite,256
+USA,Alaska,Aurora Borealis viewing Fairbanks,Aurora Borealis viewing Fairbanks Premium Resort,4.4,4,No,Yes,-147.72,64.8401,Ocean/View Room,371
+USA,Alaska,Aurora Borealis viewing Fairbanks,Aurora Borealis viewing Fairbanks Comfort Inn & Suites,4.1,2,Yes,No,-147.72,64.8401,Family Room,98
+USA,Alaska,Mendenhall Glacier,The Grand Mendenhall Glacier Hotel,3.9,3,Yes,Yes,-134.5555,58.4166,Luxury Suite,329
+USA,Alaska,Mendenhall Glacier,Mendenhall Glacier Premium Resort,4.3,4,No,Yes,-134.5555,58.4166,Ocean/View Room,345
+USA,Alaska,Mendenhall Glacier,Mendenhall Glacier Comfort Inn & Suites,4.5,2,No,Yes,-134.5555,58.4166,Standard Queen,139
+USA,Alaska,Katmai National Park,The Grand Katmai National Park Hotel,4.8,2,No,No,-154.976,58.61,Deluxe King,188
+USA,Alaska,Katmai National Park,Katmai National Park Premium Resort,4.2,2,No,Yes,-154.976,58.61,Executive Suite,547
+USA,Alaska,Katmai National Park,Katmai National Park Comfort Inn & Suites,4.6,3,Yes,Yes,-154.976,58.61,Family Room,159
+USA,Alaska,Wrangell-St. Elias National Park,The Grand Wrangell-St. Elias National Park Hotel,4.2,4,Yes,No,-142.9856,61.7104,Deluxe King,273
+USA,Alaska,Wrangell-St. Elias National Park,Wrangell-St. Elias National Park Premium Resort,4.7,2,No,Yes,-142.9856,61.7104,Ocean/View Room,353
+USA,Alaska,Wrangell-St. Elias National Park,Wrangell-St. Elias National Park Comfort Inn & Suites,3.8,2,Yes,No,-142.9856,61.7104,Family Room,155
+USA,Alaska,Sitka National Historical Park,The Grand Sitka National Historical Park Hotel,4.2,4,No,No,-135.33,57.0488,Luxury Suite,277
+USA,Alaska,Sitka National Historical Park,Sitka National Historical Park Premium Resort,4.1,2,No,No,-135.33,57.0488,Executive Suite,438
+USA,Alaska,Sitka National Historical Park,Sitka National Historical Park Comfort Inn & Suites,4.3,3,No,No,-135.33,57.0488,Family Room,113
+USA,Alaska,Kodiak Island,The Grand Kodiak Island Hotel,4.3,3,No,No,-152.4072,57.79,Luxury Suite,397
+USA,Alaska,Kodiak Island,Kodiak Island Premium Resort,3.9,4,Yes,No,-152.4072,57.79,Ocean/View Room,302
+USA,Alaska,Kodiak Island,Kodiak Island Comfort Inn & Suites,3.9,4,No,No,-152.4072,57.79,Family Room,167
+USA,Nevada,Las Vegas Strip,The Grand Las Vegas Strip Hotel,4.6,2,No,No,-115.1728,36.1147,Deluxe King,201
+USA,Nevada,Las Vegas Strip,Las Vegas Strip Premium Resort,4.6,3,No,No,-115.1728,36.1147,Executive Suite,288
+USA,Nevada,Las Vegas Strip,Las Vegas Strip Comfort Inn & Suites,4.5,3,No,Yes,-115.1728,36.1147,Standard Queen,108
+USA,Nevada,Hoover Dam,The Grand Hoover Dam Hotel,4.7,4,No,Yes,-114.7377,36.0161,Luxury Suite,214
+USA,Nevada,Hoover Dam,Hoover Dam Premium Resort,4.1,4,No,No,-114.7377,36.0161,Ocean/View Room,540
+USA,Nevada,Hoover Dam,Hoover Dam Comfort Inn & Suites,3.8,2,No,No,-114.7377,36.0161,Family Room,146
+USA,Nevada,Valley of Fire State Park,The Grand Valley of Fire State Park Hotel,4.6,4,Yes,No,-114.532,36.482,Deluxe King,340
+USA,Nevada,Valley of Fire State Park,Valley of Fire State Park Premium Resort,4.5,2,Yes,Yes,-114.532,36.482,Executive Suite,505
+USA,Nevada,Valley of Fire State Park,Valley of Fire State Park Comfort Inn & Suites,4.4,4,Yes,No,-114.532,36.482,Family Room,180
+USA,Nevada,Lake Mead,The Grand Lake Mead Hotel,4.3,4,No,No,-114.738,36.157,Luxury Suite,242
+USA,Nevada,Lake Mead,Lake Mead Premium Resort,3.9,2,No,Yes,-114.738,36.157,Ocean/View Room,294
+USA,Nevada,Lake Mead,Lake Mead Comfort Inn & Suites,4.7,3,No,Yes,-114.738,36.157,Family Room,128
+USA,Nevada,Red Rock Canyon,The Grand Red Rock Canyon Hotel,4.7,4,Yes,No,-115.4281,36.135,Luxury Suite,242
+USA,Nevada,Red Rock Canyon,Red Rock Canyon Premium Resort,4.9,2,Yes,No,-115.4281,36.135,Executive Suite,434
+USA,Nevada,Red Rock Canyon,Red Rock Canyon Comfort Inn & Suites,4.4,3,No,Yes,-115.4281,36.135,Standard Queen,98
+USA,Nevada,Great Basin National Park,The Grand Great Basin National Park Hotel,4.1,4,No,No,-114.2139,38.9834,Deluxe King,217
+USA,Nevada,Great Basin National Park,Great Basin National Park Premium Resort,3.9,3,Yes,No,-114.2139,38.9834,Ocean/View Room,598
+USA,Nevada,Great Basin National Park,Great Basin National Park Comfort Inn & Suites,4.4,2,Yes,Yes,-114.2139,38.9834,Family Room,154
+USA,Nevada,Virginia City,The Grand Virginia City Hotel,4.8,2,Yes,Yes,-119.6503,39.3099,Deluxe King,264
+USA,Nevada,Virginia City,Virginia City Premium Resort,4.0,4,Yes,No,-119.6503,39.3099,Ocean/View Room,290
+USA,Nevada,Virginia City,Virginia City Comfort Inn & Suites,4.1,4,No,Yes,-119.6503,39.3099,Family Room,168
+USA,Nevada,Lehman Caves,The Grand Lehman Caves Hotel,4.4,4,Yes,Yes,-114.2138,38.9833,Luxury Suite,352
+USA,Nevada,Lehman Caves,Lehman Caves Premium Resort,4.7,4,Yes,Yes,-114.2138,38.9833,Executive Suite,273
+USA,Nevada,Lehman Caves,Lehman Caves Comfort Inn & Suites,4.8,4,No,Yes,-114.2138,38.9833,Family Room,169
+USA,Nevada,Berlin Ichthyosaur State Park,The Grand Berlin Ichthyosaur State Park Hotel,4.5,3,No,No,-117.5877,38.6993,Deluxe King,305
+USA,Nevada,Berlin Ichthyosaur State Park,Berlin Ichthyosaur State Park Premium Resort,4.7,4,No,No,-117.5877,38.6993,Ocean/View Room,287
+USA,Nevada,Berlin Ichthyosaur State Park,Berlin Ichthyosaur State Park Comfort Inn & Suites,4.6,2,No,No,-117.5877,38.6993,Family Room,149
+USA,Nevada,Cathedral Gorge State Park,The Grand Cathedral Gorge State Park Hotel,4.0,4,Yes,No,-114.4027,37.8071,Deluxe King,356
+USA,Nevada,Cathedral Gorge State Park,Cathedral Gorge State Park Premium Resort,4.9,2,No,Yes,-114.4027,37.8071,Ocean/View Room,373
+USA,Nevada,Cathedral Gorge State Park,Cathedral Gorge State Park Comfort Inn & Suites,4.3,3,No,Yes,-114.4027,37.8071,Standard Queen,102
+France,Île-de-France,Eiffel Tower,The Grand Eiffel Tower Hotel,3.9,3,No,Yes,2.2945,48.8584,Luxury Suite,347
+France,Île-de-France,Eiffel Tower,Eiffel Tower Premium Resort,4.8,4,No,Yes,2.2945,48.8584,Executive Suite,505
+France,Île-de-France,Eiffel Tower,Eiffel Tower Comfort Inn & Suites,4.9,3,No,No,2.2945,48.8584,Family Room,92
+France,Île-de-France,Louvre Museum,The Grand Louvre Museum Hotel,3.9,3,No,Yes,2.3376,48.8606,Luxury Suite,360
+France,Île-de-France,Louvre Museum,Louvre Museum Premium Resort,3.9,3,No,No,2.3376,48.8606,Ocean/View Room,524
+France,Île-de-France,Louvre Museum,Louvre Museum Comfort Inn & Suites,3.8,2,No,Yes,2.3376,48.8606,Family Room,136
+France,Île-de-France,Notre-Dame Cathedral,The Grand Notre-Dame Cathedral Hotel,4.6,3,Yes,No,2.3499,48.853,Luxury Suite,279
+France,Île-de-France,Notre-Dame Cathedral,Notre-Dame Cathedral Premium Resort,4.2,3,Yes,No,2.3499,48.853,Ocean/View Room,531
+France,Île-de-France,Notre-Dame Cathedral,Notre-Dame Cathedral Comfort Inn & Suites,4.1,4,Yes,Yes,2.3499,48.853,Standard Queen,140
+France,Île-de-France,Palace of Versailles,The Grand Palace of Versailles Hotel,4.2,3,No,Yes,2.1204,48.8049,Luxury Suite,440
+France,Île-de-France,Palace of Versailles,Palace of Versailles Premium Resort,4.2,2,Yes,Yes,2.1204,48.8049,Executive Suite,420
+France,Île-de-France,Palace of Versailles,Palace of Versailles Comfort Inn & Suites,4.7,4,No,Yes,2.1204,48.8049,Standard Queen,131
+France,Île-de-France,Musée d'Orsay,The Grand Musée d'Orsay Hotel,4.8,3,Yes,No,2.3266,48.86,Deluxe King,352
+France,Île-de-France,Musée d'Orsay,Musée d'Orsay Premium Resort,4.4,4,No,No,2.3266,48.86,Ocean/View Room,258
+France,Île-de-France,Musée d'Orsay,Musée d'Orsay Comfort Inn & Suites,4.2,4,Yes,No,2.3266,48.86,Family Room,178
+France,Île-de-France,Arc de Triomphe,The Grand Arc de Triomphe Hotel,4.5,4,No,No,2.295,48.8738,Luxury Suite,206
+France,Île-de-France,Arc de Triomphe,Arc de Triomphe Premium Resort,4.4,2,No,Yes,2.295,48.8738,Executive Suite,266
+France,Île-de-France,Arc de Triomphe,Arc de Triomphe Comfort Inn & Suites,4.4,4,Yes,Yes,2.295,48.8738,Standard Queen,146
+France,Île-de-France,Sacré-Cœur Basilica,The Grand Sacré-Cœur Basilica Hotel,4.1,2,No,Yes,2.3431,48.8867,Deluxe King,436
+France,Île-de-France,Sacré-Cœur Basilica,Sacré-Cœur Basilica Premium Resort,4.7,3,Yes,Yes,2.3431,48.8867,Executive Suite,537
+France,Île-de-France,Sacré-Cœur Basilica,Sacré-Cœur Basilica Comfort Inn & Suites,4.2,4,No,No,2.3431,48.8867,Family Room,112
+France,Île-de-France,Champs-Élysées,The Grand Champs-Élysées Hotel,4.3,4,No,No,2.3078,48.8698,Deluxe King,427
+France,Île-de-France,Champs-Élysées,Champs-Élysées Premium Resort,4.0,2,No,No,2.3078,48.8698,Executive Suite,402
+France,Île-de-France,Champs-Élysées,Champs-Élysées Comfort Inn & Suites,4.6,4,Yes,No,2.3078,48.8698,Family Room,151
+France,Île-de-France,Sainte-Chapelle,The Grand Sainte-Chapelle Hotel,4.2,4,No,No,2.345,48.8554,Luxury Suite,374
+France,Île-de-France,Sainte-Chapelle,Sainte-Chapelle Premium Resort,4.8,3,No,Yes,2.345,48.8554,Ocean/View Room,271
+France,Île-de-France,Sainte-Chapelle,Sainte-Chapelle Comfort Inn & Suites,4.1,4,Yes,No,2.345,48.8554,Family Room,173
+France,Île-de-France,Centre Pompidou,The Grand Centre Pompidou Hotel,4.1,3,Yes,Yes,2.3522,48.8606,Deluxe King,319
+France,Île-de-France,Centre Pompidou,Centre Pompidou Premium Resort,4.0,4,Yes,Yes,2.3522,48.8606,Executive Suite,592
+France,Île-de-France,Centre Pompidou,Centre Pompidou Comfort Inn & Suites,4.8,2,Yes,Yes,2.3522,48.8606,Standard Queen,142
+France,Provence-Alpes-Côte d'Azur,French Riviera Nice,The Grand French Riviera Nice Hotel,4.2,3,Yes,Yes,7.262,43.7102,Luxury Suite,260
+France,Provence-Alpes-Côte d'Azur,French Riviera Nice,French Riviera Nice Premium Resort,4.2,3,No,Yes,7.262,43.7102,Ocean/View Room,414
+France,Provence-Alpes-Côte d'Azur,French Riviera Nice,French Riviera Nice Comfort Inn & Suites,4.1,2,Yes,Yes,7.262,43.7102,Standard Queen,112
+France,Provence-Alpes-Côte d'Azur,Palace of the Popes Avignon,The Grand Palace of the Popes Avignon Hotel,4.3,2,Yes,No,4.8059,43.9493,Deluxe King,275
+France,Provence-Alpes-Côte d'Azur,Palace of the Popes Avignon,Palace of the Popes Avignon Premium Resort,4.8,3,Yes,Yes,4.8059,43.9493,Ocean/View Room,540
+France,Provence-Alpes-Côte d'Azur,Palace of the Popes Avignon,Palace of the Popes Avignon Comfort Inn & Suites,4.5,3,No,No,4.8059,43.9493,Family Room,107
+France,Provence-Alpes-Côte d'Azur,Gorges du Verdon,The Grand Gorges du Verdon Hotel,4.7,3,No,Yes,6.3618,43.7434,Luxury Suite,349
+France,Provence-Alpes-Côte d'Azur,Gorges du Verdon,Gorges du Verdon Premium Resort,4.0,3,No,Yes,6.3618,43.7434,Executive Suite,422
+France,Provence-Alpes-Côte d'Azur,Gorges du Verdon,Gorges du Verdon Comfort Inn & Suites,4.7,4,Yes,Yes,6.3618,43.7434,Family Room,144
+France,Provence-Alpes-Côte d'Azur,Calanques National Park,The Grand Calanques National Park Hotel,4.4,2,No,Yes,5.4418,43.2148,Luxury Suite,251
+France,Provence-Alpes-Côte d'Azur,Calanques National Park,Calanques National Park Premium Resort,4.3,2,Yes,No,5.4418,43.2148,Ocean/View Room,370
+France,Provence-Alpes-Côte d'Azur,Calanques National Park,Calanques National Park Comfort Inn & Suites,4.3,3,No,No,5.4418,43.2148,Standard Queen,123
+France,Provence-Alpes-Côte d'Azur,Pont du Gard,The Grand Pont du Gard Hotel,4.5,4,Yes,Yes,4.5353,43.9474,Luxury Suite,418
+France,Provence-Alpes-Côte d'Azur,Pont du Gard,Pont du Gard Premium Resort,4.1,3,No,Yes,4.5353,43.9474,Ocean/View Room,438
+France,Provence-Alpes-Côte d'Azur,Pont du Gard,Pont du Gard Comfort Inn & Suites,4.5,2,Yes,No,4.5353,43.9474,Standard Queen,148
+France,Provence-Alpes-Côte d'Azur,Les Baux-de-Provence,The Grand Les Baux-de-Provence Hotel,4.6,4,No,No,4.7939,43.7444,Deluxe King,291
+France,Provence-Alpes-Côte d'Azur,Les Baux-de-Provence,Les Baux-de-Provence Premium Resort,4.6,4,Yes,No,4.7939,43.7444,Ocean/View Room,289
+France,Provence-Alpes-Côte d'Azur,Les Baux-de-Provence,Les Baux-de-Provence Comfort Inn & Suites,4.8,2,Yes,Yes,4.7939,43.7444,Standard Queen,111
+France,Provence-Alpes-Côte d'Azur,Monaco,The Grand Monaco Hotel,4.2,4,No,Yes,7.4246,43.7384,Luxury Suite,430
+France,Provence-Alpes-Côte d'Azur,Monaco,Monaco Premium Resort,3.9,4,No,Yes,7.4246,43.7384,Ocean/View Room,317
+France,Provence-Alpes-Côte d'Azur,Monaco,Monaco Comfort Inn & Suites,4.4,3,Yes,No,7.4246,43.7384,Family Room,92
+France,Provence-Alpes-Côte d'Azur,Lavender Fields Valensole,The Grand Lavender Fields Valensole Hotel,4.2,2,Yes,Yes,5.9892,43.8342,Luxury Suite,396
+France,Provence-Alpes-Côte d'Azur,Lavender Fields Valensole,Lavender Fields Valensole Premium Resort,4.2,2,Yes,Yes,5.9892,43.8342,Ocean/View Room,266
+France,Provence-Alpes-Côte d'Azur,Lavender Fields Valensole,Lavender Fields Valensole Comfort Inn & Suites,4.1,2,Yes,No,5.9892,43.8342,Family Room,138
+France,Provence-Alpes-Côte d'Azur,Aix-en-Provence,The Grand Aix-en-Provence Hotel,4.3,3,No,Yes,5.4474,43.5297,Luxury Suite,358
+France,Provence-Alpes-Côte d'Azur,Aix-en-Provence,Aix-en-Provence Premium Resort,3.9,4,No,Yes,5.4474,43.5297,Executive Suite,251
+France,Provence-Alpes-Côte d'Azur,Aix-en-Provence,Aix-en-Provence Comfort Inn & Suites,4.6,3,No,No,5.4474,43.5297,Family Room,119
+France,Provence-Alpes-Côte d'Azur,Saint-Tropez,The Grand Saint-Tropez Hotel,4.1,3,Yes,No,6.6403,43.2677,Luxury Suite,237
+France,Provence-Alpes-Côte d'Azur,Saint-Tropez,Saint-Tropez Premium Resort,3.8,4,No,Yes,6.6403,43.2677,Executive Suite,355
+France,Provence-Alpes-Côte d'Azur,Saint-Tropez,Saint-Tropez Comfort Inn & Suites,3.9,4,Yes,No,6.6403,43.2677,Standard Queen,121
+France,Occitanie,Carcassonne,The Grand Carcassonne Hotel,4.6,3,No,Yes,2.353,43.2119,Luxury Suite,208
+France,Occitanie,Carcassonne,Carcassonne Premium Resort,4.0,3,Yes,No,2.353,43.2119,Ocean/View Room,371
+France,Occitanie,Carcassonne,Carcassonne Comfort Inn & Suites,4.1,2,Yes,No,2.353,43.2119,Family Room,125
+France,Occitanie,Mont-Saint-Michel,The Grand Mont-Saint-Michel Hotel,3.9,4,Yes,No,-1.5115,48.6361,Deluxe King,204
+France,Occitanie,Mont-Saint-Michel,Mont-Saint-Michel Premium Resort,4.9,4,No,No,-1.5115,48.6361,Ocean/View Room,459
+France,Occitanie,Mont-Saint-Michel,Mont-Saint-Michel Comfort Inn & Suites,4.0,3,Yes,No,-1.5115,48.6361,Standard Queen,118
+France,Occitanie,Millau Viaduct,The Grand Millau Viaduct Hotel,4.1,4,Yes,No,3.0228,44.098,Luxury Suite,391
+France,Occitanie,Millau Viaduct,Millau Viaduct Premium Resort,4.9,4,Yes,No,3.0228,44.098,Executive Suite,380
+France,Occitanie,Millau Viaduct,Millau Viaduct Comfort Inn & Suites,4.0,4,Yes,No,3.0228,44.098,Family Room,101
+France,Occitanie,Lascaux Caves,The Grand Lascaux Caves Hotel,4.4,2,Yes,No,1.0665,45.0543,Deluxe King,200
+France,Occitanie,Lascaux Caves,Lascaux Caves Premium Resort,4.8,2,Yes,No,1.0665,45.0543,Executive Suite,420
+France,Occitanie,Lascaux Caves,Lascaux Caves Comfort Inn & Suites,4.1,2,Yes,Yes,1.0665,45.0543,Standard Queen,151
+France,Occitanie,Toulouse,The Grand Toulouse Hotel,4.8,4,Yes,No,1.4442,43.6047,Luxury Suite,344
+France,Occitanie,Toulouse,Toulouse Premium Resort,4.7,3,No,No,1.4442,43.6047,Ocean/View Room,383
+France,Occitanie,Toulouse,Toulouse Comfort Inn & Suites,4.2,3,No,Yes,1.4442,43.6047,Family Room,130
+France,Occitanie,Montpellier,The Grand Montpellier Hotel,4.8,3,No,No,3.8767,43.6112,Luxury Suite,293
+France,Occitanie,Montpellier,Montpellier Premium Resort,4.6,2,No,No,3.8767,43.6112,Ocean/View Room,328
+France,Occitanie,Montpellier,Montpellier Comfort Inn & Suites,4.0,2,No,Yes,3.8767,43.6112,Family Room,160
+France,Occitanie,Nimes,The Grand Nimes Hotel,4.5,4,No,No,4.3601,43.8367,Deluxe King,431
+France,Occitanie,Nimes,Nimes Premium Resort,4.3,4,No,Yes,4.3601,43.8367,Executive Suite,529
+France,Occitanie,Nimes,Nimes Comfort Inn & Suites,4.3,4,Yes,Yes,4.3601,43.8367,Standard Queen,175
+France,Occitanie,Collioure,The Grand Collioure Hotel,3.9,2,No,Yes,3.084,42.5265,Luxury Suite,214
+France,Occitanie,Collioure,Collioure Premium Resort,4.6,2,Yes,No,3.084,42.5265,Ocean/View Room,280
+France,Occitanie,Collioure,Collioure Comfort Inn & Suites,4.5,4,No,No,3.084,42.5265,Standard Queen,90
+France,Occitanie,Pyrénées National Park,The Grand Pyrénées National Park Hotel,4.4,3,Yes,Yes,0.1587,42.7462,Deluxe King,326
+France,Occitanie,Pyrénées National Park,Pyrénées National Park Premium Resort,3.8,4,No,Yes,0.1587,42.7462,Executive Suite,299
+France,Occitanie,Pyrénées National Park,Pyrénées National Park Comfort Inn & Suites,4.4,2,Yes,No,0.1587,42.7462,Family Room,124
+France,Occitanie,Dordogne Valley,The Grand Dordogne Valley Hotel,4.7,2,No,No,0.7808,44.8378,Deluxe King,304
+France,Occitanie,Dordogne Valley,Dordogne Valley Premium Resort,4.9,2,No,Yes,0.7808,44.8378,Executive Suite,297
+France,Occitanie,Dordogne Valley,Dordogne Valley Comfort Inn & Suites,4.2,3,No,Yes,0.7808,44.8378,Standard Queen,179
+France,Auvergne-Rhône-Alpes,Mont Blanc,The Grand Mont Blanc Hotel,4.0,3,No,No,6.8652,45.8326,Luxury Suite,450
+France,Auvergne-Rhône-Alpes,Mont Blanc,Mont Blanc Premium Resort,4.8,2,Yes,No,6.8652,45.8326,Ocean/View Room,273
+France,Auvergne-Rhône-Alpes,Mont Blanc,Mont Blanc Comfort Inn & Suites,4.8,4,No,Yes,6.8652,45.8326,Standard Queen,130
+France,Auvergne-Rhône-Alpes,Chamonix,The Grand Chamonix Hotel,3.8,2,Yes,No,6.8694,45.9237,Luxury Suite,333
+France,Auvergne-Rhône-Alpes,Chamonix,Chamonix Premium Resort,4.0,2,No,No,6.8694,45.9237,Ocean/View Room,321
+France,Auvergne-Rhône-Alpes,Chamonix,Chamonix Comfort Inn & Suites,4.7,4,Yes,No,6.8694,45.9237,Standard Queen,102
+France,Auvergne-Rhône-Alpes,Annecy,The Grand Annecy Hotel,4.3,2,No,No,6.1294,45.8992,Deluxe King,195
+France,Auvergne-Rhône-Alpes,Annecy,Annecy Premium Resort,4.5,3,No,Yes,6.1294,45.8992,Ocean/View Room,533
+France,Auvergne-Rhône-Alpes,Annecy,Annecy Comfort Inn & Suites,4.8,3,Yes,No,6.1294,45.8992,Standard Queen,169
+France,Auvergne-Rhône-Alpes,Lyon Old Town,The Grand Lyon Old Town Hotel,4.1,2,Yes,Yes,4.8357,45.764,Deluxe King,258
+France,Auvergne-Rhône-Alpes,Lyon Old Town,Lyon Old Town Premium Resort,4.2,4,Yes,No,4.8357,45.764,Ocean/View Room,434
+France,Auvergne-Rhône-Alpes,Lyon Old Town,Lyon Old Town Comfort Inn & Suites,3.9,2,No,No,4.8357,45.764,Family Room,124
+France,Auvergne-Rhône-Alpes,Gorges de l'Ardèche,The Grand Gorges de l'Ardèche Hotel,3.9,2,Yes,No,4.4145,44.3755,Deluxe King,442
+France,Auvergne-Rhône-Alpes,Gorges de l'Ardèche,Gorges de l'Ardèche Premium Resort,4.2,2,Yes,No,4.4145,44.3755,Executive Suite,555
+France,Auvergne-Rhône-Alpes,Gorges de l'Ardèche,Gorges de l'Ardèche Comfort Inn & Suites,4.5,3,No,Yes,4.4145,44.3755,Family Room,142
+France,Auvergne-Rhône-Alpes,Puy de Dôme,The Grand Puy de Dôme Hotel,4.2,2,Yes,Yes,2.9647,45.7733,Deluxe King,266
+France,Auvergne-Rhône-Alpes,Puy de Dôme,Puy de Dôme Premium Resort,4.0,3,No,No,2.9647,45.7733,Executive Suite,282
+France,Auvergne-Rhône-Alpes,Puy de Dôme,Puy de Dôme Comfort Inn & Suites,4.0,3,No,No,2.9647,45.7733,Family Room,99
+France,Auvergne-Rhône-Alpes,Vercors Regional Park,The Grand Vercors Regional Park Hotel,4.2,2,No,Yes,5.42,45.02,Deluxe King,234
+France,Auvergne-Rhône-Alpes,Vercors Regional Park,Vercors Regional Park Premium Resort,3.9,2,No,No,5.42,45.02,Ocean/View Room,418
+France,Auvergne-Rhône-Alpes,Vercors Regional Park,Vercors Regional Park Comfort Inn & Suites,4.3,3,Yes,No,5.42,45.02,Family Room,167
+France,Auvergne-Rhône-Alpes,Grenoble Bastille,The Grand Grenoble Bastille Hotel,4.8,2,No,No,5.7259,45.1913,Luxury Suite,383
+France,Auvergne-Rhône-Alpes,Grenoble Bastille,Grenoble Bastille Premium Resort,4.9,3,No,Yes,5.7259,45.1913,Ocean/View Room,442
+France,Auvergne-Rhône-Alpes,Grenoble Bastille,Grenoble Bastille Comfort Inn & Suites,4.1,3,No,Yes,5.7259,45.1913,Standard Queen,165
+France,Auvergne-Rhône-Alpes,Belledonne Mountains,The Grand Belledonne Mountains Hotel,4.9,2,Yes,No,5.98,45.22,Luxury Suite,404
+France,Auvergne-Rhône-Alpes,Belledonne Mountains,Belledonne Mountains Premium Resort,4.7,4,Yes,No,5.98,45.22,Ocean/View Room,321
+France,Auvergne-Rhône-Alpes,Belledonne Mountains,Belledonne Mountains Comfort Inn & Suites,4.5,2,No,Yes,5.98,45.22,Family Room,138
+France,Auvergne-Rhône-Alpes,Lac du Bourget,The Grand Lac du Bourget Hotel,3.9,4,No,No,5.8678,45.7417,Deluxe King,198
+France,Auvergne-Rhône-Alpes,Lac du Bourget,Lac du Bourget Premium Resort,4.7,3,Yes,Yes,5.8678,45.7417,Executive Suite,586
+France,Auvergne-Rhône-Alpes,Lac du Bourget,Lac du Bourget Comfort Inn & Suites,4.5,2,Yes,No,5.8678,45.7417,Family Room,145
+France,Brittany,Saint-Malo,The Grand Saint-Malo Hotel,3.9,2,No,Yes,-2.0252,48.6492,Luxury Suite,408
+France,Brittany,Saint-Malo,Saint-Malo Premium Resort,4.2,3,Yes,No,-2.0252,48.6492,Executive Suite,497
+France,Brittany,Saint-Malo,Saint-Malo Comfort Inn & Suites,3.9,3,Yes,Yes,-2.0252,48.6492,Standard Queen,134
+France,Brittany,Carnac Stones,The Grand Carnac Stones Hotel,4.1,3,Yes,No,-3.0693,47.5941,Deluxe King,423
+France,Brittany,Carnac Stones,Carnac Stones Premium Resort,3.9,4,No,No,-3.0693,47.5941,Executive Suite,403
+France,Brittany,Carnac Stones,Carnac Stones Comfort Inn & Suites,3.8,4,Yes,Yes,-3.0693,47.5941,Family Room,172
+France,Brittany,Île de Bréhat,The Grand Île de Bréhat Hotel,3.9,2,Yes,Yes,-3.001,48.8424,Luxury Suite,349
+France,Brittany,Île de Bréhat,Île de Bréhat Premium Resort,4.4,3,Yes,No,-3.001,48.8424,Executive Suite,345
+France,Brittany,Île de Bréhat,Île de Bréhat Comfort Inn & Suites,4.5,3,No,Yes,-3.001,48.8424,Standard Queen,147
+France,Brittany,Quimper Cathedral,The Grand Quimper Cathedral Hotel,4.5,3,Yes,Yes,-4.099,47.9965,Luxury Suite,322
+France,Brittany,Quimper Cathedral,Quimper Cathedral Premium Resort,4.6,2,Yes,Yes,-4.099,47.9965,Ocean/View Room,416
+France,Brittany,Quimper Cathedral,Quimper Cathedral Comfort Inn & Suites,4.0,2,No,No,-4.099,47.9965,Family Room,166
+France,Brittany,Cap Fréhel,The Grand Cap Fréhel Hotel,4.2,3,Yes,No,-2.3117,48.6844,Deluxe King,414
+France,Brittany,Cap Fréhel,Cap Fréhel Premium Resort,4.5,4,No,Yes,-2.3117,48.6844,Executive Suite,410
+France,Brittany,Cap Fréhel,Cap Fréhel Comfort Inn & Suites,3.9,3,Yes,Yes,-2.3117,48.6844,Family Room,178
+France,Brittany,Brest Oceanopolis,The Grand Brest Oceanopolis Hotel,4.0,3,No,Yes,-4.5089,48.3783,Deluxe King,396
+France,Brittany,Brest Oceanopolis,Brest Oceanopolis Premium Resort,4.0,4,Yes,Yes,-4.5089,48.3783,Ocean/View Room,397
+France,Brittany,Brest Oceanopolis,Brest Oceanopolis Comfort Inn & Suites,4.0,3,No,Yes,-4.5089,48.3783,Family Room,91
+France,Brittany,Concarneau,The Grand Concarneau Hotel,4.3,2,No,No,-3.9195,47.8746,Deluxe King,431
+France,Brittany,Concarneau,Concarneau Premium Resort,4.3,3,No,Yes,-3.9195,47.8746,Executive Suite,539
+France,Brittany,Concarneau,Concarneau Comfort Inn & Suites,3.8,2,No,Yes,-3.9195,47.8746,Family Room,118
+France,Brittany,Locronan,The Grand Locronan Hotel,4.4,2,No,No,-4.2057,48.0995,Luxury Suite,238
+France,Brittany,Locronan,Locronan Premium Resort,4.1,4,No,Yes,-4.2057,48.0995,Ocean/View Room,529
+France,Brittany,Locronan,Locronan Comfort Inn & Suites,4.0,3,Yes,Yes,-4.2057,48.0995,Family Room,94
+France,Brittany,Finistère Coast,The Grand Finistère Coast Hotel,4.3,3,Yes,No,-4.46,48.4,Luxury Suite,301
+France,Brittany,Finistère Coast,Finistère Coast Premium Resort,4.0,4,No,No,-4.46,48.4,Executive Suite,565
+France,Brittany,Finistère Coast,Finistère Coast Comfort Inn & Suites,4.0,2,Yes,Yes,-4.46,48.4,Family Room,158
+France,Brittany,Pointe du Raz,The Grand Pointe du Raz Hotel,4.1,4,Yes,No,-4.7325,48.0374,Deluxe King,328
+France,Brittany,Pointe du Raz,Pointe du Raz Premium Resort,4.4,4,Yes,Yes,-4.7325,48.0374,Ocean/View Room,280
+France,Brittany,Pointe du Raz,Pointe du Raz Comfort Inn & Suites,4.9,4,Yes,Yes,-4.7325,48.0374,Standard Queen,108
+France,Grand Est,Strasbourg Cathedral,The Grand Strasbourg Cathedral Hotel,4.6,2,No,No,7.7509,48.5818,Luxury Suite,317
+France,Grand Est,Strasbourg Cathedral,Strasbourg Cathedral Premium Resort,4.5,3,No,Yes,7.7509,48.5818,Executive Suite,456
+France,Grand Est,Strasbourg Cathedral,Strasbourg Cathedral Comfort Inn & Suites,4.4,3,No,No,7.7509,48.5818,Family Room,131
+France,Grand Est,Colmar Old Town,The Grand Colmar Old Town Hotel,4.4,4,Yes,No,7.3585,48.0794,Deluxe King,212
+France,Grand Est,Colmar Old Town,Colmar Old Town Premium Resort,4.7,3,Yes,No,7.3585,48.0794,Executive Suite,503
+France,Grand Est,Colmar Old Town,Colmar Old Town Comfort Inn & Suites,4.1,3,No,Yes,7.3585,48.0794,Family Room,133
+France,Grand Est,Alsace Wine Route,The Grand Alsace Wine Route Hotel,4.8,2,Yes,Yes,7.3606,48.0704,Deluxe King,188
+France,Grand Est,Alsace Wine Route,Alsace Wine Route Premium Resort,3.9,2,No,No,7.3606,48.0704,Executive Suite,469
+France,Grand Est,Alsace Wine Route,Alsace Wine Route Comfort Inn & Suites,4.0,4,Yes,No,7.3606,48.0704,Standard Queen,125
+France,Grand Est,Reims Cathedral,The Grand Reims Cathedral Hotel,3.9,3,No,Yes,4.034,49.2538,Deluxe King,264
+France,Grand Est,Reims Cathedral,Reims Cathedral Premium Resort,3.9,4,No,Yes,4.034,49.2538,Ocean/View Room,585
+France,Grand Est,Reims Cathedral,Reims Cathedral Comfort Inn & Suites,3.9,2,Yes,Yes,4.034,49.2538,Family Room,99
+France,Grand Est,Épernay Champagne Cellars,The Grand Épernay Champagne Cellars Hotel,3.9,2,No,Yes,3.9598,49.0416,Luxury Suite,355
+France,Grand Est,Épernay Champagne Cellars,Épernay Champagne Cellars Premium Resort,4.7,3,Yes,No,3.9598,49.0416,Executive Suite,367
+France,Grand Est,Épernay Champagne Cellars,Épernay Champagne Cellars Comfort Inn & Suites,4.2,4,Yes,Yes,3.9598,49.0416,Family Room,137
+France,Grand Est,Château du Haut-Kœnigsbourg,The Grand Château du Haut-Kœnigsbourg Hotel,4.8,2,No,Yes,7.3433,48.2499,Luxury Suite,215
+France,Grand Est,Château du Haut-Kœnigsbourg,Château du Haut-Kœnigsbourg Premium Resort,4.4,2,Yes,No,7.3433,48.2499,Ocean/View Room,359
+France,Grand Est,Château du Haut-Kœnigsbourg,Château du Haut-Kœnigsbourg Comfort Inn & Suites,4.5,2,No,No,7.3433,48.2499,Standard Queen,101
+France,Grand Est,Riquewihr,The Grand Riquewihr Hotel,4.8,2,Yes,No,7.2991,48.1666,Deluxe King,399
+France,Grand Est,Riquewihr,Riquewihr Premium Resort,4.1,2,Yes,No,7.2991,48.1666,Executive Suite,377
+France,Grand Est,Riquewihr,Riquewihr Comfort Inn & Suites,4.4,4,No,Yes,7.2991,48.1666,Family Room,116
+France,Grand Est,Vosges Mountains,The Grand Vosges Mountains Hotel,4.4,4,Yes,No,7.0,48.0,Deluxe King,207
+France,Grand Est,Vosges Mountains,Vosges Mountains Premium Resort,4.7,2,No,No,7.0,48.0,Executive Suite,373
+France,Grand Est,Vosges Mountains,Vosges Mountains Comfort Inn & Suites,4.3,4,Yes,Yes,7.0,48.0,Family Room,130
+France,Grand Est,Metz,The Grand Metz Hotel,3.9,4,No,No,6.1757,49.1193,Luxury Suite,421
+France,Grand Est,Metz,Metz Premium Resort,4.8,2,Yes,Yes,6.1757,49.1193,Executive Suite,384
+France,Grand Est,Metz,Metz Comfort Inn & Suites,4.0,2,No,No,6.1757,49.1193,Family Room,144
+France,Grand Est,Obernai,The Grand Obernai Hotel,4.6,2,Yes,No,7.4792,48.4602,Luxury Suite,338
+France,Grand Est,Obernai,Obernai Premium Resort,3.9,2,Yes,No,7.4792,48.4602,Ocean/View Room,550
+France,Grand Est,Obernai,Obernai Comfort Inn & Suites,4.5,4,Yes,No,7.4792,48.4602,Family Room,120
+France,Normandy,D-Day Beaches,The Grand D-Day Beaches Hotel,3.9,2,No,Yes,-0.8672,49.3418,Deluxe King,208
+France,Normandy,D-Day Beaches,D-Day Beaches Premium Resort,4.1,4,Yes,Yes,-0.8672,49.3418,Executive Suite,320
+France,Normandy,D-Day Beaches,D-Day Beaches Comfort Inn & Suites,4.6,2,No,No,-0.8672,49.3418,Family Room,111
+France,Normandy,Étretat Cliffs,The Grand Étretat Cliffs Hotel,4.2,4,No,Yes,0.2062,49.7083,Luxury Suite,351
+France,Normandy,Étretat Cliffs,Étretat Cliffs Premium Resort,4.7,3,Yes,No,0.2062,49.7083,Executive Suite,504
+France,Normandy,Étretat Cliffs,Étretat Cliffs Comfort Inn & Suites,4.3,3,Yes,No,0.2062,49.7083,Standard Queen,137
+France,Normandy,Bayeux Tapestry,The Grand Bayeux Tapestry Hotel,4.0,2,Yes,Yes,-0.7027,49.2764,Luxury Suite,202
+France,Normandy,Bayeux Tapestry,Bayeux Tapestry Premium Resort,4.7,2,Yes,Yes,-0.7027,49.2764,Ocean/View Room,436
+France,Normandy,Bayeux Tapestry,Bayeux Tapestry Comfort Inn & Suites,4.2,2,Yes,Yes,-0.7027,49.2764,Family Room,118
+France,Normandy,Rouen Cathedral,The Grand Rouen Cathedral Hotel,4.2,3,No,No,1.093,49.4432,Luxury Suite,370
+France,Normandy,Rouen Cathedral,Rouen Cathedral Premium Resort,3.9,4,Yes,Yes,1.093,49.4432,Executive Suite,514
+France,Normandy,Rouen Cathedral,Rouen Cathedral Comfort Inn & Suites,4.9,3,Yes,No,1.093,49.4432,Family Room,129
+France,Normandy,Honfleur,The Grand Honfleur Hotel,4.2,4,No,Yes,0.2331,49.4183,Deluxe King,282
+France,Normandy,Honfleur,Honfleur Premium Resort,4.1,3,Yes,No,0.2331,49.4183,Ocean/View Room,552
+France,Normandy,Honfleur,Honfleur Comfort Inn & Suites,4.9,2,Yes,Yes,0.2331,49.4183,Standard Queen,142
+France,Normandy,Giverny Monet Garden,The Grand Giverny Monet Garden Hotel,3.8,4,No,Yes,1.5335,49.0761,Deluxe King,180
+France,Normandy,Giverny Monet Garden,Giverny Monet Garden Premium Resort,4.6,3,No,Yes,1.5335,49.0761,Executive Suite,521
+France,Normandy,Giverny Monet Garden,Giverny Monet Garden Comfort Inn & Suites,4.9,3,No,Yes,1.5335,49.0761,Standard Queen,125
+France,Normandy,Caen Memorial Museum,The Grand Caen Memorial Museum Hotel,3.9,2,No,No,-0.3818,49.1965,Deluxe King,223
+France,Normandy,Caen Memorial Museum,Caen Memorial Museum Premium Resort,4.4,4,Yes,No,-0.3818,49.1965,Executive Suite,553
+France,Normandy,Caen Memorial Museum,Caen Memorial Museum Comfort Inn & Suites,4.4,3,Yes,Yes,-0.3818,49.1965,Family Room,123
+France,Normandy,Falaise Castle,The Grand Falaise Castle Hotel,4.7,3,No,No,-0.1956,48.8948,Deluxe King,319
+France,Normandy,Falaise Castle,Falaise Castle Premium Resort,4.1,2,Yes,Yes,-0.1956,48.8948,Executive Suite,304
+France,Normandy,Falaise Castle,Falaise Castle Comfort Inn & Suites,4.0,3,No,No,-0.1956,48.8948,Standard Queen,158
+France,Normandy,Côte Fleurie,The Grand Côte Fleurie Hotel,4.2,2,No,No,0.1,49.35,Deluxe King,315
+France,Normandy,Côte Fleurie,Côte Fleurie Premium Resort,4.7,2,Yes,No,0.1,49.35,Executive Suite,360
+France,Normandy,Côte Fleurie,Côte Fleurie Comfort Inn & Suites,4.7,3,Yes,Yes,0.1,49.35,Standard Queen,135
+France,Normandy,Arromanches,The Grand Arromanches Hotel,4.2,2,No,No,-0.6227,49.3407,Luxury Suite,195
+France,Normandy,Arromanches,Arromanches Premium Resort,4.8,3,Yes,Yes,-0.6227,49.3407,Ocean/View Room,302
+France,Normandy,Arromanches,Arromanches Comfort Inn & Suites,4.7,2,Yes,Yes,-0.6227,49.3407,Standard Queen,118
+France,Nouvelle-Aquitaine,Bordeaux Wine Region,The Grand Bordeaux Wine Region Hotel,3.9,3,No,Yes,-0.5792,44.8378,Deluxe King,218
+France,Nouvelle-Aquitaine,Bordeaux Wine Region,Bordeaux Wine Region Premium Resort,3.8,2,Yes,No,-0.5792,44.8378,Executive Suite,297
+France,Nouvelle-Aquitaine,Bordeaux Wine Region,Bordeaux Wine Region Comfort Inn & Suites,4.8,3,Yes,Yes,-0.5792,44.8378,Family Room,96
+France,Nouvelle-Aquitaine,Dune du Pilat,The Grand Dune du Pilat Hotel,4.0,4,No,No,-1.2167,44.5896,Deluxe King,195
+France,Nouvelle-Aquitaine,Dune du Pilat,Dune du Pilat Premium Resort,4.2,3,Yes,No,-1.2167,44.5896,Executive Suite,345
+France,Nouvelle-Aquitaine,Dune du Pilat,Dune du Pilat Comfort Inn & Suites,4.1,3,Yes,Yes,-1.2167,44.5896,Standard Queen,172
+France,Nouvelle-Aquitaine,Périgueux,The Grand Périgueux Hotel,4.1,3,No,Yes,0.7212,45.1839,Luxury Suite,323
+France,Nouvelle-Aquitaine,Périgueux,Périgueux Premium Resort,4.2,3,Yes,Yes,0.7212,45.1839,Executive Suite,445
+France,Nouvelle-Aquitaine,Périgueux,Périgueux Comfort Inn & Suites,4.7,3,No,No,0.7212,45.1839,Family Room,162
+France,Nouvelle-Aquitaine,Biarritz,The Grand Biarritz Hotel,4.4,3,No,Yes,-1.5586,43.4832,Luxury Suite,343
+France,Nouvelle-Aquitaine,Biarritz,Biarritz Premium Resort,4.5,2,No,Yes,-1.5586,43.4832,Ocean/View Room,521
+France,Nouvelle-Aquitaine,Biarritz,Biarritz Comfort Inn & Suites,4.2,4,Yes,Yes,-1.5586,43.4832,Standard Queen,121
+France,Nouvelle-Aquitaine,Grotte de Font-de-Gaume,The Grand Grotte de Font-de-Gaume Hotel,4.5,3,Yes,Yes,1.0186,44.9359,Deluxe King,361
+France,Nouvelle-Aquitaine,Grotte de Font-de-Gaume,Grotte de Font-de-Gaume Premium Resort,4.8,2,Yes,Yes,1.0186,44.9359,Ocean/View Room,433
+France,Nouvelle-Aquitaine,Grotte de Font-de-Gaume,Grotte de Font-de-Gaume Comfort Inn & Suites,4.8,2,No,Yes,1.0186,44.9359,Standard Queen,153
+France,Nouvelle-Aquitaine,Arcachon Bay,The Grand Arcachon Bay Hotel,4.4,2,No,Yes,-1.17,44.66,Luxury Suite,208
+France,Nouvelle-Aquitaine,Arcachon Bay,Arcachon Bay Premium Resort,4.1,2,Yes,No,-1.17,44.66,Executive Suite,419
+France,Nouvelle-Aquitaine,Arcachon Bay,Arcachon Bay Comfort Inn & Suites,4.8,2,Yes,No,-1.17,44.66,Standard Queen,131
+France,Nouvelle-Aquitaine,La Rochelle,The Grand La Rochelle Hotel,3.9,2,Yes,Yes,-1.152,46.1591,Deluxe King,217
+France,Nouvelle-Aquitaine,La Rochelle,La Rochelle Premium Resort,4.2,4,No,Yes,-1.152,46.1591,Ocean/View Room,404
+France,Nouvelle-Aquitaine,La Rochelle,La Rochelle Comfort Inn & Suites,4.2,2,No,No,-1.152,46.1591,Family Room,112
+France,Nouvelle-Aquitaine,Rocamadour,The Grand Rocamadour Hotel,4.6,4,No,Yes,1.6192,44.7986,Luxury Suite,373
+France,Nouvelle-Aquitaine,Rocamadour,Rocamadour Premium Resort,4.1,4,No,Yes,1.6192,44.7986,Executive Suite,250
+France,Nouvelle-Aquitaine,Rocamadour,Rocamadour Comfort Inn & Suites,4.8,4,No,Yes,1.6192,44.7986,Standard Queen,167
+France,Nouvelle-Aquitaine,Cognac,The Grand Cognac Hotel,4.2,4,Yes,Yes,-0.3294,45.6941,Deluxe King,252
+France,Nouvelle-Aquitaine,Cognac,Cognac Premium Resort,4.2,2,Yes,No,-0.3294,45.6941,Ocean/View Room,335
+France,Nouvelle-Aquitaine,Cognac,Cognac Comfort Inn & Suites,4.5,2,No,No,-0.3294,45.6941,Standard Queen,123
+France,Nouvelle-Aquitaine,Sarlat-la-Canéda,The Grand Sarlat-la-Canéda Hotel,4.0,4,Yes,No,1.2172,44.8892,Deluxe King,235
+France,Nouvelle-Aquitaine,Sarlat-la-Canéda,Sarlat-la-Canéda Premium Resort,4.6,2,No,No,1.2172,44.8892,Ocean/View Room,335
+France,Nouvelle-Aquitaine,Sarlat-la-Canéda,Sarlat-la-Canéda Comfort Inn & Suites,4.8,3,No,No,1.2172,44.8892,Family Room,102
+France,Pays de la Loire,Loire Valley Châteaux,The Grand Loire Valley Châteaux Hotel,4.7,4,Yes,Yes,0.34,47.69,Deluxe King,217
+France,Pays de la Loire,Loire Valley Châteaux,Loire Valley Châteaux Premium Resort,4.7,2,No,Yes,0.34,47.69,Ocean/View Room,383
+France,Pays de la Loire,Loire Valley Châteaux,Loire Valley Châteaux Comfort Inn & Suites,4.8,2,No,Yes,0.34,47.69,Family Room,110
+France,Pays de la Loire,Château de Chambord,The Grand Château de Chambord Hotel,4.6,4,Yes,No,1.5172,47.6161,Deluxe King,195
+France,Pays de la Loire,Château de Chambord,Château de Chambord Premium Resort,4.3,4,Yes,No,1.5172,47.6161,Executive Suite,277
+France,Pays de la Loire,Château de Chambord,Château de Chambord Comfort Inn & Suites,3.9,2,Yes,No,1.5172,47.6161,Family Room,174
+France,Pays de la Loire,Le Mans,The Grand Le Mans Hotel,4.1,2,Yes,Yes,0.1966,47.996,Deluxe King,431
+France,Pays de la Loire,Le Mans,Le Mans Premium Resort,4.0,3,Yes,No,0.1966,47.996,Executive Suite,400
+France,Pays de la Loire,Le Mans,Le Mans Comfort Inn & Suites,4.7,4,No,Yes,0.1966,47.996,Standard Queen,93
+France,Pays de la Loire,Nantes Château des Ducs,The Grand Nantes Château des Ducs Hotel,4.0,4,No,Yes,-1.5536,47.2184,Deluxe King,239
+France,Pays de la Loire,Nantes Château des Ducs,Nantes Château des Ducs Premium Resort,4.1,3,No,No,-1.5536,47.2184,Ocean/View Room,296
+France,Pays de la Loire,Nantes Château des Ducs,Nantes Château des Ducs Comfort Inn & Suites,4.5,3,Yes,No,-1.5536,47.2184,Family Room,137
+France,Pays de la Loire,Château de Chenonceau,The Grand Château de Chenonceau Hotel,4.0,2,No,No,1.0702,47.3246,Deluxe King,314
+France,Pays de la Loire,Château de Chenonceau,Château de Chenonceau Premium Resort,4.0,3,Yes,Yes,1.0702,47.3246,Executive Suite,293
+France,Pays de la Loire,Château de Chenonceau,Château de Chenonceau Comfort Inn & Suites,4.5,4,No,Yes,1.0702,47.3246,Standard Queen,139
+France,Pays de la Loire,Puy du Fou,The Grand Puy du Fou Hotel,4.7,3,No,Yes,-0.9461,46.9153,Deluxe King,333
+France,Pays de la Loire,Puy du Fou,Puy du Fou Premium Resort,3.9,4,Yes,Yes,-0.9461,46.9153,Executive Suite,479
+France,Pays de la Loire,Puy du Fou,Puy du Fou Comfort Inn & Suites,4.0,2,Yes,Yes,-0.9461,46.9153,Standard Queen,95
+France,Pays de la Loire,Fontevraud Abbey,The Grand Fontevraud Abbey Hotel,4.3,4,No,Yes,-0.0536,47.182,Luxury Suite,312
+France,Pays de la Loire,Fontevraud Abbey,Fontevraud Abbey Premium Resort,4.2,4,Yes,Yes,-0.0536,47.182,Ocean/View Room,534
+France,Pays de la Loire,Fontevraud Abbey,Fontevraud Abbey Comfort Inn & Suites,4.2,3,No,No,-0.0536,47.182,Standard Queen,179
+France,Pays de la Loire,Château d'Amboise,The Grand Château d'Amboise Hotel,4.5,4,No,Yes,0.9839,47.413,Deluxe King,256
+France,Pays de la Loire,Château d'Amboise,Château d'Amboise Premium Resort,4.0,4,Yes,Yes,0.9839,47.413,Executive Suite,396
+France,Pays de la Loire,Château d'Amboise,Château d'Amboise Comfort Inn & Suites,4.8,3,No,No,0.9839,47.413,Family Room,173
+France,Pays de la Loire,Zoo de La Flèche,The Grand Zoo de La Flèche Hotel,4.3,4,No,Yes,-0.0704,47.7022,Luxury Suite,321
+France,Pays de la Loire,Zoo de La Flèche,Zoo de La Flèche Premium Resort,4.2,4,No,Yes,-0.0704,47.7022,Ocean/View Room,419
+France,Pays de la Loire,Zoo de La Flèche,Zoo de La Flèche Comfort Inn & Suites,4.6,2,No,No,-0.0704,47.7022,Family Room,92
+France,Pays de la Loire,Marais Poitevin,The Grand Marais Poitevin Hotel,4.2,3,No,No,-0.7,46.38,Deluxe King,230
+France,Pays de la Loire,Marais Poitevin,Marais Poitevin Premium Resort,4.9,2,Yes,No,-0.7,46.38,Ocean/View Room,414
+France,Pays de la Loire,Marais Poitevin,Marais Poitevin Comfort Inn & Suites,4.1,3,Yes,Yes,-0.7,46.38,Family Room,117
+France,Hauts-de-France,Louvre-Lens Museum,The Grand Louvre-Lens Museum Hotel,4.8,3,No,No,2.823,50.4365,Luxury Suite,443
+France,Hauts-de-France,Louvre-Lens Museum,Louvre-Lens Museum Premium Resort,4.7,2,No,No,2.823,50.4365,Executive Suite,518
+France,Hauts-de-France,Louvre-Lens Museum,Louvre-Lens Museum Comfort Inn & Suites,4.8,2,Yes,Yes,2.823,50.4365,Standard Queen,97
+France,Hauts-de-France,Arras,The Grand Arras Hotel,4.1,3,Yes,No,2.7778,50.2921,Luxury Suite,320
+France,Hauts-de-France,Arras,Arras Premium Resort,4.2,3,No,Yes,2.7778,50.2921,Executive Suite,373
+France,Hauts-de-France,Arras,Arras Comfort Inn & Suites,4.2,4,No,Yes,2.7778,50.2921,Family Room,165
+France,Hauts-de-France,Amiens Cathedral,The Grand Amiens Cathedral Hotel,4.4,3,Yes,No,2.3017,49.8941,Luxury Suite,325
+France,Hauts-de-France,Amiens Cathedral,Amiens Cathedral Premium Resort,3.8,2,Yes,Yes,2.3017,49.8941,Executive Suite,581
+France,Hauts-de-France,Amiens Cathedral,Amiens Cathedral Comfort Inn & Suites,4.0,2,No,No,2.3017,49.8941,Standard Queen,177
+France,Hauts-de-France,Opal Coast,The Grand Opal Coast Hotel,3.8,2,Yes,Yes,1.6,50.72,Luxury Suite,309
+France,Hauts-de-France,Opal Coast,Opal Coast Premium Resort,4.5,3,No,No,1.6,50.72,Ocean/View Room,428
+France,Hauts-de-France,Opal Coast,Opal Coast Comfort Inn & Suites,4.3,2,No,No,1.6,50.72,Family Room,164
+France,Hauts-de-France,Parc Astérix,The Grand Parc Astérix Hotel,3.9,4,No,No,2.5738,49.1338,Deluxe King,235
+France,Hauts-de-France,Parc Astérix,Parc Astérix Premium Resort,4.3,3,No,No,2.5738,49.1338,Ocean/View Room,383
+France,Hauts-de-France,Parc Astérix,Parc Astérix Comfort Inn & Suites,4.5,4,No,Yes,2.5738,49.1338,Standard Queen,156
+France,Hauts-de-France,Nausicaá Aquarium Boulogne,The Grand Nausicaá Aquarium Boulogne Hotel,4.6,2,No,No,1.6085,50.7269,Luxury Suite,193
+France,Hauts-de-France,Nausicaá Aquarium Boulogne,Nausicaá Aquarium Boulogne Premium Resort,4.5,3,No,No,1.6085,50.7269,Ocean/View Room,448
+France,Hauts-de-France,Nausicaá Aquarium Boulogne,Nausicaá Aquarium Boulogne Comfort Inn & Suites,4.6,4,Yes,No,1.6085,50.7269,Standard Queen,177
+France,Hauts-de-France,Thiepval Memorial,The Grand Thiepval Memorial Hotel,4.4,3,No,No,2.6867,50.0519,Luxury Suite,272
+France,Hauts-de-France,Thiepval Memorial,Thiepval Memorial Premium Resort,4.1,3,Yes,No,2.6867,50.0519,Executive Suite,598
+France,Hauts-de-France,Thiepval Memorial,Thiepval Memorial Comfort Inn & Suites,4.8,4,Yes,Yes,2.6867,50.0519,Family Room,118
+France,Hauts-de-France,Dunkerque,The Grand Dunkerque Hotel,4.6,3,No,No,2.3767,51.0343,Deluxe King,313
+France,Hauts-de-France,Dunkerque,Dunkerque Premium Resort,4.4,3,Yes,No,2.3767,51.0343,Executive Suite,574
+France,Hauts-de-France,Dunkerque,Dunkerque Comfort Inn & Suites,4.4,4,Yes,No,2.3767,51.0343,Standard Queen,154
+France,Hauts-de-France,Château de Chantilly,The Grand Château de Chantilly Hotel,3.9,4,No,No,2.486,49.194,Deluxe King,207
+France,Hauts-de-France,Château de Chantilly,Château de Chantilly Premium Resort,4.8,2,Yes,Yes,2.486,49.194,Ocean/View Room,459
+France,Hauts-de-France,Château de Chantilly,Château de Chantilly Comfort Inn & Suites,4.9,3,Yes,No,2.486,49.194,Standard Queen,100
+France,Hauts-de-France,Baie de Somme,The Grand Baie de Somme Hotel,4.3,4,Yes,No,1.76,50.19,Luxury Suite,182
+France,Hauts-de-France,Baie de Somme,Baie de Somme Premium Resort,4.3,2,Yes,Yes,1.76,50.19,Ocean/View Room,295
+France,Hauts-de-France,Baie de Somme,Baie de Somme Comfort Inn & Suites,3.9,3,No,No,1.76,50.19,Family Room,151
+Japan,Tokyo,Senso-ji Temple,The Grand Senso-ji Temple Hotel,4.2,2,Yes,No,139.7967,35.7148,Luxury Suite,378
+Japan,Tokyo,Senso-ji Temple,Senso-ji Temple Premium Resort,4.6,4,Yes,Yes,139.7967,35.7148,Executive Suite,627
+Japan,Tokyo,Senso-ji Temple,Senso-ji Temple Comfort Inn & Suites,4.6,2,No,No,139.7967,35.7148,Standard Queen,113
+Japan,Tokyo,Shibuya Crossing,The Grand Shibuya Crossing Hotel,4.2,4,No,Yes,139.7005,35.6595,Luxury Suite,223
+Japan,Tokyo,Shibuya Crossing,Shibuya Crossing Premium Resort,4.1,3,No,No,139.7005,35.6595,Ocean/View Room,349
+Japan,Tokyo,Shibuya Crossing,Shibuya Crossing Comfort Inn & Suites,4.2,3,No,Yes,139.7005,35.6595,Standard Queen,155
+Japan,Tokyo,Tokyo Skytree,The Grand Tokyo Skytree Hotel,3.8,2,Yes,Yes,139.8107,35.7101,Luxury Suite,481
+Japan,Tokyo,Tokyo Skytree,Tokyo Skytree Premium Resort,4.0,3,Yes,No,139.8107,35.7101,Ocean/View Room,575
+Japan,Tokyo,Tokyo Skytree,Tokyo Skytree Comfort Inn & Suites,4.5,4,Yes,Yes,139.8107,35.7101,Standard Queen,105
+Japan,Tokyo,Meiji Shrine,The Grand Meiji Shrine Hotel,4.6,3,No,No,139.6993,35.6764,Luxury Suite,339
+Japan,Tokyo,Meiji Shrine,Meiji Shrine Premium Resort,4.3,2,Yes,Yes,139.6993,35.6764,Ocean/View Room,511
+Japan,Tokyo,Meiji Shrine,Meiji Shrine Comfort Inn & Suites,4.5,4,No,Yes,139.6993,35.6764,Family Room,113
+Japan,Tokyo,Shinjuku Gyoen,The Grand Shinjuku Gyoen Hotel,4.4,4,Yes,No,139.7103,35.6851,Luxury Suite,257
+Japan,Tokyo,Shinjuku Gyoen,Shinjuku Gyoen Premium Resort,4.3,4,Yes,No,139.7103,35.6851,Executive Suite,476
+Japan,Tokyo,Shinjuku Gyoen,Shinjuku Gyoen Comfort Inn & Suites,4.6,3,Yes,Yes,139.7103,35.6851,Family Room,127
+Japan,Tokyo,Tsukiji Outer Market,The Grand Tsukiji Outer Market Hotel,4.6,3,No,Yes,139.7706,35.6654,Luxury Suite,204
+Japan,Tokyo,Tsukiji Outer Market,Tsukiji Outer Market Premium Resort,4.5,2,No,Yes,139.7706,35.6654,Executive Suite,562
+Japan,Tokyo,Tsukiji Outer Market,Tsukiji Outer Market Comfort Inn & Suites,3.9,4,Yes,No,139.7706,35.6654,Standard Queen,162
+Japan,Tokyo,Akihabara,The Grand Akihabara Hotel,4.9,3,No,No,139.7745,35.7023,Luxury Suite,254
+Japan,Tokyo,Akihabara,Akihabara Premium Resort,4.7,2,No,No,139.7745,35.7023,Ocean/View Room,514
+Japan,Tokyo,Akihabara,Akihabara Comfort Inn & Suites,4.6,2,Yes,Yes,139.7745,35.7023,Standard Queen,191
+Japan,Tokyo,Harajuku,The Grand Harajuku Hotel,4.5,3,No,No,139.7028,35.6695,Deluxe King,249
+Japan,Tokyo,Harajuku,Harajuku Premium Resort,4.2,3,Yes,Yes,139.7028,35.6695,Ocean/View Room,499
+Japan,Tokyo,Harajuku,Harajuku Comfort Inn & Suites,4.9,3,No,No,139.7028,35.6695,Family Room,190
+Japan,Tokyo,Odaiba,The Grand Odaiba Hotel,4.8,2,Yes,Yes,139.7762,35.623,Luxury Suite,287
+Japan,Tokyo,Odaiba,Odaiba Premium Resort,3.9,4,No,No,139.7762,35.623,Executive Suite,618
+Japan,Tokyo,Odaiba,Odaiba Comfort Inn & Suites,4.2,3,Yes,Yes,139.7762,35.623,Family Room,167
+Japan,Tokyo,Imperial Palace East Garden,The Grand Imperial Palace East Garden Hotel,3.9,3,No,Yes,139.7528,35.6852,Luxury Suite,344
+Japan,Tokyo,Imperial Palace East Garden,Imperial Palace East Garden Premium Resort,4.5,2,Yes,No,139.7528,35.6852,Executive Suite,518
+Japan,Tokyo,Imperial Palace East Garden,Imperial Palace East Garden Comfort Inn & Suites,4.5,2,No,No,139.7528,35.6852,Family Room,119
+Japan,Kyoto,Fushimi Inari Shrine,The Grand Fushimi Inari Shrine Hotel,4.7,4,Yes,Yes,135.7727,34.9671,Luxury Suite,481
+Japan,Kyoto,Fushimi Inari Shrine,Fushimi Inari Shrine Premium Resort,4.7,3,Yes,Yes,135.7727,34.9671,Ocean/View Room,455
+Japan,Kyoto,Fushimi Inari Shrine,Fushimi Inari Shrine Comfort Inn & Suites,4.1,3,Yes,Yes,135.7727,34.9671,Family Room,155
+Japan,Kyoto,Kinkaku-ji Golden Pavilion,The Grand Kinkaku-ji Golden Pavilion Hotel,4.7,2,No,No,135.7292,35.0394,Deluxe King,247
+Japan,Kyoto,Kinkaku-ji Golden Pavilion,Kinkaku-ji Golden Pavilion Premium Resort,4.7,3,No,Yes,135.7292,35.0394,Ocean/View Room,642
+Japan,Kyoto,Kinkaku-ji Golden Pavilion,Kinkaku-ji Golden Pavilion Comfort Inn & Suites,3.8,3,No,Yes,135.7292,35.0394,Standard Queen,111
+Japan,Kyoto,Arashiyama Bamboo Grove,The Grand Arashiyama Bamboo Grove Hotel,4.7,4,No,Yes,135.6727,35.0094,Deluxe King,389
+Japan,Kyoto,Arashiyama Bamboo Grove,Arashiyama Bamboo Grove Premium Resort,4.2,2,Yes,No,135.6727,35.0094,Ocean/View Room,589
+Japan,Kyoto,Arashiyama Bamboo Grove,Arashiyama Bamboo Grove Comfort Inn & Suites,4.6,4,No,No,135.6727,35.0094,Family Room,114
+Japan,Kyoto,Gion District,The Grand Gion District Hotel,3.9,4,Yes,Yes,135.7749,35.0036,Deluxe King,397
+Japan,Kyoto,Gion District,Gion District Premium Resort,4.7,3,No,Yes,135.7749,35.0036,Executive Suite,367
+Japan,Kyoto,Gion District,Gion District Comfort Inn & Suites,4.3,4,No,Yes,135.7749,35.0036,Family Room,184
+Japan,Kyoto,Nijo Castle,The Grand Nijo Castle Hotel,4.0,2,No,Yes,135.7485,35.0142,Deluxe King,304
+Japan,Kyoto,Nijo Castle,Nijo Castle Premium Resort,4.6,2,No,Yes,135.7485,35.0142,Executive Suite,528
+Japan,Kyoto,Nijo Castle,Nijo Castle Comfort Inn & Suites,4.3,4,Yes,No,135.7485,35.0142,Standard Queen,172
+Japan,Kyoto,Philosopher's Path,The Grand Philosopher's Path Hotel,4.6,4,No,No,135.7967,35.0247,Luxury Suite,294
+Japan,Kyoto,Philosopher's Path,Philosopher's Path Premium Resort,4.6,2,Yes,No,135.7967,35.0247,Ocean/View Room,558
+Japan,Kyoto,Philosopher's Path,Philosopher's Path Comfort Inn & Suites,4.8,3,Yes,No,135.7967,35.0247,Family Room,146
+Japan,Kyoto,Kiyomizu-dera Temple,The Grand Kiyomizu-dera Temple Hotel,4.9,3,Yes,Yes,135.7851,34.9948,Deluxe King,486
+Japan,Kyoto,Kiyomizu-dera Temple,Kiyomizu-dera Temple Premium Resort,4.1,4,No,Yes,135.7851,34.9948,Executive Suite,392
+Japan,Kyoto,Kiyomizu-dera Temple,Kiyomizu-dera Temple Comfort Inn & Suites,4.5,3,No,Yes,135.7851,34.9948,Standard Queen,169
+Japan,Kyoto,Nishiki Market,The Grand Nishiki Market Hotel,4.4,4,No,Yes,135.7666,35.0052,Deluxe King,467
+Japan,Kyoto,Nishiki Market,Nishiki Market Premium Resort,4.4,4,No,No,135.7666,35.0052,Ocean/View Room,281
+Japan,Kyoto,Nishiki Market,Nishiki Market Comfort Inn & Suites,4.4,2,No,Yes,135.7666,35.0052,Standard Queen,192
+Japan,Kyoto,Heian Shrine,The Grand Heian Shrine Hotel,3.9,3,Yes,No,135.7822,35.0265,Deluxe King,279
+Japan,Kyoto,Heian Shrine,Heian Shrine Premium Resort,4.7,4,No,Yes,135.7822,35.0265,Executive Suite,476
+Japan,Kyoto,Heian Shrine,Heian Shrine Comfort Inn & Suites,4.7,2,Yes,No,135.7822,35.0265,Standard Queen,170
+Japan,Kyoto,Ryoan-ji Temple,The Grand Ryoan-ji Temple Hotel,4.7,4,No,Yes,135.7186,35.0343,Deluxe King,415
+Japan,Kyoto,Ryoan-ji Temple,Ryoan-ji Temple Premium Resort,4.3,4,No,Yes,135.7186,35.0343,Executive Suite,415
+Japan,Kyoto,Ryoan-ji Temple,Ryoan-ji Temple Comfort Inn & Suites,4.0,3,Yes,No,135.7186,35.0343,Standard Queen,125
+Japan,Osaka,Osaka Castle,The Grand Osaka Castle Hotel,4.1,2,Yes,Yes,135.5262,34.6873,Luxury Suite,487
+Japan,Osaka,Osaka Castle,Osaka Castle Premium Resort,3.9,2,No,No,135.5262,34.6873,Ocean/View Room,347
+Japan,Osaka,Osaka Castle,Osaka Castle Comfort Inn & Suites,4.0,3,Yes,No,135.5262,34.6873,Family Room,198
+Japan,Osaka,Dotonbori,The Grand Dotonbori Hotel,4.8,2,Yes,No,135.5008,34.6687,Luxury Suite,367
+Japan,Osaka,Dotonbori,Dotonbori Premium Resort,4.3,4,No,Yes,135.5008,34.6687,Ocean/View Room,570
+Japan,Osaka,Dotonbori,Dotonbori Comfort Inn & Suites,4.0,2,Yes,Yes,135.5008,34.6687,Family Room,174
+Japan,Osaka,Universal Studios Japan,The Grand Universal Studios Japan Hotel,4.4,2,No,Yes,135.4323,34.6655,Luxury Suite,383
+Japan,Osaka,Universal Studios Japan,Universal Studios Japan Premium Resort,4.2,3,Yes,No,135.4323,34.6655,Executive Suite,338
+Japan,Osaka,Universal Studios Japan,Universal Studios Japan Comfort Inn & Suites,4.5,3,Yes,Yes,135.4323,34.6655,Standard Queen,194
+Japan,Osaka,Shinsekai,The Grand Shinsekai Hotel,4.8,3,Yes,No,135.5063,34.6524,Deluxe King,356
+Japan,Osaka,Shinsekai,Shinsekai Premium Resort,3.8,4,No,No,135.5063,34.6524,Ocean/View Room,299
+Japan,Osaka,Shinsekai,Shinsekai Comfort Inn & Suites,4.1,4,Yes,No,135.5063,34.6524,Standard Queen,112
+Japan,Osaka,Namba,The Grand Namba Hotel,4.0,4,Yes,Yes,135.5011,34.6643,Luxury Suite,317
+Japan,Osaka,Namba,Namba Premium Resort,4.8,3,Yes,Yes,135.5011,34.6643,Ocean/View Room,639
+Japan,Osaka,Namba,Namba Comfort Inn & Suites,4.7,2,Yes,Yes,135.5011,34.6643,Family Room,145
+Japan,Osaka,Sumiyoshi Taisha,The Grand Sumiyoshi Taisha Hotel,3.8,2,Yes,Yes,135.4938,34.6119,Deluxe King,237
+Japan,Osaka,Sumiyoshi Taisha,Sumiyoshi Taisha Premium Resort,4.4,2,No,No,135.4938,34.6119,Ocean/View Room,528
+Japan,Osaka,Sumiyoshi Taisha,Sumiyoshi Taisha Comfort Inn & Suites,4.5,3,No,Yes,135.4938,34.6119,Family Room,193
+Japan,Osaka,Tempozan Ferris Wheel,The Grand Tempozan Ferris Wheel Hotel,3.9,2,Yes,Yes,135.429,34.6549,Luxury Suite,399
+Japan,Osaka,Tempozan Ferris Wheel,Tempozan Ferris Wheel Premium Resort,4.8,2,No,No,135.429,34.6549,Executive Suite,433
+Japan,Osaka,Tempozan Ferris Wheel,Tempozan Ferris Wheel Comfort Inn & Suites,4.6,3,No,No,135.429,34.6549,Standard Queen,165
+Japan,Osaka,Shitennoji Temple,The Grand Shitennoji Temple Hotel,4.0,2,Yes,No,135.5164,34.6538,Deluxe King,278
+Japan,Osaka,Shitennoji Temple,Shitennoji Temple Premium Resort,4.1,4,No,Yes,135.5164,34.6538,Executive Suite,344
+Japan,Osaka,Shitennoji Temple,Shitennoji Temple Comfort Inn & Suites,3.8,4,No,Yes,135.5164,34.6538,Family Room,127
+Japan,Osaka,Nakanoshima,The Grand Nakanoshima Hotel,4.6,4,No,Yes,135.5013,34.6916,Deluxe King,486
+Japan,Osaka,Nakanoshima,Nakanoshima Premium Resort,4.0,2,Yes,No,135.5013,34.6916,Executive Suite,338
+Japan,Osaka,Nakanoshima,Nakanoshima Comfort Inn & Suites,4.0,4,Yes,No,135.5013,34.6916,Standard Queen,139
+Japan,Osaka,Minoo Falls,The Grand Minoo Falls Hotel,4.5,3,Yes,Yes,135.4713,34.8394,Deluxe King,383
+Japan,Osaka,Minoo Falls,Minoo Falls Premium Resort,4.2,4,Yes,Yes,135.4713,34.8394,Ocean/View Room,623
+Japan,Osaka,Minoo Falls,Minoo Falls Comfort Inn & Suites,3.9,2,No,No,135.4713,34.8394,Family Room,145
+Japan,Hokkaido,Sapporo Snow Festival,The Grand Sapporo Snow Festival Hotel,4.5,3,Yes,No,141.3545,43.0618,Deluxe King,438
+Japan,Hokkaido,Sapporo Snow Festival,Sapporo Snow Festival Premium Resort,4.0,3,Yes,Yes,141.3545,43.0618,Ocean/View Room,430
+Japan,Hokkaido,Sapporo Snow Festival,Sapporo Snow Festival Comfort Inn & Suites,4.7,2,No,No,141.3545,43.0618,Family Room,161
+Japan,Hokkaido,Furano Lavender Fields,The Grand Furano Lavender Fields Hotel,4.2,3,No,Yes,142.3833,43.35,Luxury Suite,243
+Japan,Hokkaido,Furano Lavender Fields,Furano Lavender Fields Premium Resort,4.7,2,Yes,No,142.3833,43.35,Executive Suite,316
+Japan,Hokkaido,Furano Lavender Fields,Furano Lavender Fields Comfort Inn & Suites,4.8,4,Yes,No,142.3833,43.35,Standard Queen,103
+Japan,Hokkaido,Shiretoko National Park,The Grand Shiretoko National Park Hotel,4.4,4,No,Yes,145.0,44.0667,Deluxe King,418
+Japan,Hokkaido,Shiretoko National Park,Shiretoko National Park Premium Resort,4.0,4,No,Yes,145.0,44.0667,Ocean/View Room,556
+Japan,Hokkaido,Shiretoko National Park,Shiretoko National Park Comfort Inn & Suites,4.4,3,No,Yes,145.0,44.0667,Standard Queen,184
+Japan,Hokkaido,Noboribetsu Jigokudani,The Grand Noboribetsu Jigokudani Hotel,4.6,4,Yes,No,141.0993,42.5087,Luxury Suite,298
+Japan,Hokkaido,Noboribetsu Jigokudani,Noboribetsu Jigokudani Premium Resort,4.4,4,Yes,No,141.0993,42.5087,Ocean/View Room,297
+Japan,Hokkaido,Noboribetsu Jigokudani,Noboribetsu Jigokudani Comfort Inn & Suites,4.0,3,Yes,Yes,141.0993,42.5087,Family Room,150
+Japan,Hokkaido,Lake Toya,The Grand Lake Toya Hotel,4.1,4,Yes,No,140.803,42.587,Deluxe King,462
+Japan,Hokkaido,Lake Toya,Lake Toya Premium Resort,4.8,2,Yes,No,140.803,42.587,Executive Suite,567
+Japan,Hokkaido,Lake Toya,Lake Toya Comfort Inn & Suites,4.5,3,No,Yes,140.803,42.587,Family Room,190
+Japan,Hokkaido,Daisetsuzan National Park,The Grand Daisetsuzan National Park Hotel,4.2,4,Yes,No,142.9333,43.6667,Deluxe King,323
+Japan,Hokkaido,Daisetsuzan National Park,Daisetsuzan National Park Premium Resort,4.4,3,No,No,142.9333,43.6667,Ocean/View Room,614
+Japan,Hokkaido,Daisetsuzan National Park,Daisetsuzan National Park Comfort Inn & Suites,3.8,2,No,Yes,142.9333,43.6667,Standard Queen,108
+Japan,Hokkaido,Blue Pond Biei,The Grand Blue Pond Biei Hotel,4.4,3,Yes,Yes,142.5175,43.5886,Luxury Suite,286
+Japan,Hokkaido,Blue Pond Biei,Blue Pond Biei Premium Resort,4.2,4,Yes,Yes,142.5175,43.5886,Ocean/View Room,460
+Japan,Hokkaido,Blue Pond Biei,Blue Pond Biei Comfort Inn & Suites,4.6,3,No,No,142.5175,43.5886,Standard Queen,181
+Japan,Hokkaido,Hakodate Morning Market,The Grand Hakodate Morning Market Hotel,4.0,3,Yes,Yes,140.7284,41.7692,Luxury Suite,269
+Japan,Hokkaido,Hakodate Morning Market,Hakodate Morning Market Premium Resort,4.4,2,Yes,Yes,140.7284,41.7692,Executive Suite,305
+Japan,Hokkaido,Hakodate Morning Market,Hakodate Morning Market Comfort Inn & Suites,4.0,2,No,Yes,140.7284,41.7692,Family Room,110
+Japan,Hokkaido,Otaru Canal,The Grand Otaru Canal Hotel,4.0,4,No,No,140.9942,43.1907,Luxury Suite,321
+Japan,Hokkaido,Otaru Canal,Otaru Canal Premium Resort,4.7,4,Yes,Yes,140.9942,43.1907,Ocean/View Room,368
+Japan,Hokkaido,Otaru Canal,Otaru Canal Comfort Inn & Suites,4.6,3,No,Yes,140.9942,43.1907,Standard Queen,151
+Japan,Hokkaido,Cape Erimo,The Grand Cape Erimo Hotel,4.2,2,Yes,Yes,143.2525,41.9248,Deluxe King,281
+Japan,Hokkaido,Cape Erimo,Cape Erimo Premium Resort,4.5,2,No,Yes,143.2525,41.9248,Executive Suite,326
+Japan,Hokkaido,Cape Erimo,Cape Erimo Comfort Inn & Suites,4.3,2,Yes,No,143.2525,41.9248,Family Room,150
+Japan,Hiroshima,Peace Memorial Park,The Grand Peace Memorial Park Hotel,4.8,4,No,Yes,132.453,34.3955,Deluxe King,412
+Japan,Hiroshima,Peace Memorial Park,Peace Memorial Park Premium Resort,4.2,4,Yes,No,132.453,34.3955,Executive Suite,418
+Japan,Hiroshima,Peace Memorial Park,Peace Memorial Park Comfort Inn & Suites,4.3,2,Yes,No,132.453,34.3955,Family Room,134
+Japan,Hiroshima,Itsukushima Shrine Miyajima,The Grand Itsukushima Shrine Miyajima Hotel,4.0,4,Yes,Yes,132.3194,34.296,Luxury Suite,409
+Japan,Hiroshima,Itsukushima Shrine Miyajima,Itsukushima Shrine Miyajima Premium Resort,4.5,4,No,No,132.3194,34.296,Ocean/View Room,334
+Japan,Hiroshima,Itsukushima Shrine Miyajima,Itsukushima Shrine Miyajima Comfort Inn & Suites,4.0,4,No,No,132.3194,34.296,Family Room,178
+Japan,Hiroshima,Hiroshima Castle,The Grand Hiroshima Castle Hotel,4.2,3,No,Yes,132.4598,34.4016,Deluxe King,469
+Japan,Hiroshima,Hiroshima Castle,Hiroshima Castle Premium Resort,4.0,4,No,No,132.4598,34.4016,Ocean/View Room,599
+Japan,Hiroshima,Hiroshima Castle,Hiroshima Castle Comfort Inn & Suites,4.2,4,No,Yes,132.4598,34.4016,Standard Queen,130
+Japan,Hiroshima,Shukkeien Garden,The Grand Shukkeien Garden Hotel,4.3,4,Yes,Yes,132.4699,34.3996,Luxury Suite,484
+Japan,Hiroshima,Shukkeien Garden,Shukkeien Garden Premium Resort,4.2,3,Yes,Yes,132.4699,34.3996,Ocean/View Room,632
+Japan,Hiroshima,Shukkeien Garden,Shukkeien Garden Comfort Inn & Suites,3.8,2,Yes,No,132.4699,34.3996,Family Room,111
+Japan,Hiroshima,Peace Memorial Museum,The Grand Peace Memorial Museum Hotel,3.9,2,No,Yes,132.4527,34.3955,Luxury Suite,413
+Japan,Hiroshima,Peace Memorial Museum,Peace Memorial Museum Premium Resort,4.8,3,No,Yes,132.4527,34.3955,Executive Suite,634
+Japan,Hiroshima,Peace Memorial Museum,Peace Memorial Museum Comfort Inn & Suites,4.3,2,Yes,No,132.4527,34.3955,Standard Queen,103
+Japan,Hiroshima,Onomichi,The Grand Onomichi Hotel,4.7,4,Yes,Yes,133.2026,34.4086,Luxury Suite,400
+Japan,Hiroshima,Onomichi,Onomichi Premium Resort,4.1,2,Yes,Yes,133.2026,34.4086,Ocean/View Room,499
+Japan,Hiroshima,Onomichi,Onomichi Comfort Inn & Suites,4.2,3,No,Yes,133.2026,34.4086,Standard Queen,198
+Japan,Hiroshima,Mihara Castle,The Grand Mihara Castle Hotel,3.9,2,No,No,133.0769,34.3967,Deluxe King,353
+Japan,Hiroshima,Mihara Castle,Mihara Castle Premium Resort,4.0,2,No,No,133.0769,34.3967,Executive Suite,421
+Japan,Hiroshima,Mihara Castle,Mihara Castle Comfort Inn & Suites,4.0,4,Yes,Yes,133.0769,34.3967,Family Room,146
+Japan,Hiroshima,Tomonoura,The Grand Tomonoura Hotel,4.8,4,No,No,133.3772,34.3687,Deluxe King,410
+Japan,Hiroshima,Tomonoura,Tomonoura Premium Resort,4.4,2,No,No,133.3772,34.3687,Ocean/View Room,605
+Japan,Hiroshima,Tomonoura,Tomonoura Comfort Inn & Suites,4.7,3,Yes,No,133.3772,34.3687,Standard Queen,151
+Japan,Hiroshima,Saijo Sake Breweries,The Grand Saijo Sake Breweries Hotel,4.5,2,Yes,No,132.7414,34.4183,Deluxe King,396
+Japan,Hiroshima,Saijo Sake Breweries,Saijo Sake Breweries Premium Resort,4.4,2,No,Yes,132.7414,34.4183,Ocean/View Room,326
+Japan,Hiroshima,Saijo Sake Breweries,Saijo Sake Breweries Comfort Inn & Suites,4.2,4,No,Yes,132.7414,34.4183,Standard Queen,165
+Japan,Hiroshima,Sandankyo Gorge,The Grand Sandankyo Gorge Hotel,4.1,2,No,Yes,132.0671,34.6168,Luxury Suite,478
+Japan,Hiroshima,Sandankyo Gorge,Sandankyo Gorge Premium Resort,4.6,2,Yes,No,132.0671,34.6168,Executive Suite,403
+Japan,Hiroshima,Sandankyo Gorge,Sandankyo Gorge Comfort Inn & Suites,4.0,2,No,Yes,132.0671,34.6168,Standard Queen,115
+Japan,Nara,Todai-ji Temple,The Grand Todai-ji Temple Hotel,4.8,4,No,Yes,135.8398,34.6888,Luxury Suite,468
+Japan,Nara,Todai-ji Temple,Todai-ji Temple Premium Resort,4.2,3,No,No,135.8398,34.6888,Ocean/View Room,377
+Japan,Nara,Todai-ji Temple,Todai-ji Temple Comfort Inn & Suites,4.9,4,No,No,135.8398,34.6888,Standard Queen,179
+Japan,Nara,Nara Deer Park,The Grand Nara Deer Park Hotel,3.9,4,No,No,135.843,34.6854,Luxury Suite,480
+Japan,Nara,Nara Deer Park,Nara Deer Park Premium Resort,4.2,4,Yes,No,135.843,34.6854,Executive Suite,566
+Japan,Nara,Nara Deer Park,Nara Deer Park Comfort Inn & Suites,4.3,4,Yes,Yes,135.843,34.6854,Standard Queen,151
+Japan,Nara,Kasuga Taisha Shrine,The Grand Kasuga Taisha Shrine Hotel,4.4,3,No,No,135.8484,34.681,Luxury Suite,345
+Japan,Nara,Kasuga Taisha Shrine,Kasuga Taisha Shrine Premium Resort,4.1,3,No,No,135.8484,34.681,Executive Suite,555
+Japan,Nara,Kasuga Taisha Shrine,Kasuga Taisha Shrine Comfort Inn & Suites,4.3,3,No,No,135.8484,34.681,Family Room,137
+Japan,Nara,Horyu-ji Temple,The Grand Horyu-ji Temple Hotel,4.3,4,Yes,Yes,135.7345,34.6148,Luxury Suite,349
+Japan,Nara,Horyu-ji Temple,Horyu-ji Temple Premium Resort,4.7,4,No,No,135.7345,34.6148,Executive Suite,356
+Japan,Nara,Horyu-ji Temple,Horyu-ji Temple Comfort Inn & Suites,4.7,4,Yes,No,135.7345,34.6148,Standard Queen,123
+Japan,Nara,Isuien Garden,The Grand Isuien Garden Hotel,4.3,2,No,No,135.8425,34.6847,Deluxe King,338
+Japan,Nara,Isuien Garden,Isuien Garden Premium Resort,4.4,4,Yes,No,135.8425,34.6847,Executive Suite,366
+Japan,Nara,Isuien Garden,Isuien Garden Comfort Inn & Suites,3.9,3,No,Yes,135.8425,34.6847,Family Room,145
+Japan,Nara,Naramachi District,The Grand Naramachi District Hotel,4.1,3,No,No,135.8356,34.6769,Luxury Suite,429
+Japan,Nara,Naramachi District,Naramachi District Premium Resort,3.9,4,Yes,Yes,135.8356,34.6769,Ocean/View Room,474
+Japan,Nara,Naramachi District,Naramachi District Comfort Inn & Suites,4.2,4,No,No,135.8356,34.6769,Standard Queen,151
+Japan,Nara,Yoshinoyama,The Grand Yoshinoyama Hotel,4.5,3,Yes,Yes,135.8572,34.3693,Deluxe King,434
+Japan,Nara,Yoshinoyama,Yoshinoyama Premium Resort,4.5,4,No,Yes,135.8572,34.3693,Executive Suite,365
+Japan,Nara,Yoshinoyama,Yoshinoyama Comfort Inn & Suites,4.2,3,No,No,135.8572,34.3693,Family Room,183
+Japan,Nara,Muro-ji Temple,The Grand Muro-ji Temple Hotel,4.5,3,No,No,135.9309,34.5473,Deluxe King,430
+Japan,Nara,Muro-ji Temple,Muro-ji Temple Premium Resort,4.0,2,Yes,Yes,135.9309,34.5473,Ocean/View Room,319
+Japan,Nara,Muro-ji Temple,Muro-ji Temple Comfort Inn & Suites,4.0,3,Yes,Yes,135.9309,34.5473,Standard Queen,165
+Japan,Nara,Asuka Village,The Grand Asuka Village Hotel,4.4,2,No,Yes,135.8079,34.4699,Luxury Suite,345
+Japan,Nara,Asuka Village,Asuka Village Premium Resort,4.5,2,No,No,135.8079,34.4699,Executive Suite,413
+Japan,Nara,Asuka Village,Asuka Village Comfort Inn & Suites,4.6,3,Yes,Yes,135.8079,34.4699,Standard Queen,102
+Japan,Nara,Kofuku-ji Temple,The Grand Kofuku-ji Temple Hotel,3.8,3,No,No,135.8323,34.6863,Deluxe King,350
+Japan,Nara,Kofuku-ji Temple,Kofuku-ji Temple Premium Resort,4.4,2,Yes,No,135.8323,34.6863,Ocean/View Room,569
+Japan,Nara,Kofuku-ji Temple,Kofuku-ji Temple Comfort Inn & Suites,4.5,4,No,No,135.8323,34.6863,Family Room,174
+Japan,Okinawa,Shuri Castle,The Grand Shuri Castle Hotel,4.0,2,No,No,127.7194,26.2172,Deluxe King,430
+Japan,Okinawa,Shuri Castle,Shuri Castle Premium Resort,4.1,3,Yes,Yes,127.7194,26.2172,Executive Suite,468
+Japan,Okinawa,Shuri Castle,Shuri Castle Comfort Inn & Suites,4.1,4,Yes,No,127.7194,26.2172,Family Room,140
+Japan,Okinawa,Churaumi Aquarium,The Grand Churaumi Aquarium Hotel,3.8,3,No,Yes,127.8769,26.6937,Luxury Suite,408
+Japan,Okinawa,Churaumi Aquarium,Churaumi Aquarium Premium Resort,4.0,4,No,No,127.8769,26.6937,Executive Suite,366
+Japan,Okinawa,Churaumi Aquarium,Churaumi Aquarium Comfort Inn & Suites,4.6,4,No,No,127.8769,26.6937,Standard Queen,135
+Japan,Okinawa,Kokusai-dori Street,The Grand Kokusai-dori Street Hotel,3.9,4,Yes,No,127.6851,26.2145,Deluxe King,348
+Japan,Okinawa,Kokusai-dori Street,Kokusai-dori Street Premium Resort,4.3,2,Yes,Yes,127.6851,26.2145,Ocean/View Room,336
+Japan,Okinawa,Kokusai-dori Street,Kokusai-dori Street Comfort Inn & Suites,4.5,4,No,No,127.6851,26.2145,Family Room,125
+Japan,Okinawa,Cape Manzamo,The Grand Cape Manzamo Hotel,4.2,2,Yes,Yes,127.8768,26.5017,Luxury Suite,255
+Japan,Okinawa,Cape Manzamo,Cape Manzamo Premium Resort,4.1,2,No,Yes,127.8768,26.5017,Executive Suite,325
+Japan,Okinawa,Cape Manzamo,Cape Manzamo Comfort Inn & Suites,4.0,3,Yes,No,127.8768,26.5017,Family Room,141
+Japan,Okinawa,Kerama Islands,The Grand Kerama Islands Hotel,4.7,3,No,No,127.27,26.21,Luxury Suite,383
+Japan,Okinawa,Kerama Islands,Kerama Islands Premium Resort,3.9,2,Yes,No,127.27,26.21,Ocean/View Room,314
+Japan,Okinawa,Kerama Islands,Kerama Islands Comfort Inn & Suites,4.4,2,Yes,No,127.27,26.21,Family Room,100
+Japan,Okinawa,Gyokusendo Cave,The Grand Gyokusendo Cave Hotel,3.9,4,Yes,No,127.771,26.127,Deluxe King,336
+Japan,Okinawa,Gyokusendo Cave,Gyokusendo Cave Premium Resort,4.6,2,Yes,No,127.771,26.127,Executive Suite,567
+Japan,Okinawa,Gyokusendo Cave,Gyokusendo Cave Comfort Inn & Suites,4.5,2,No,No,127.771,26.127,Family Room,144
+Japan,Okinawa,Katsuren Castle,The Grand Katsuren Castle Hotel,4.0,4,Yes,Yes,127.869,26.317,Deluxe King,468
+Japan,Okinawa,Katsuren Castle,Katsuren Castle Premium Resort,4.5,2,No,Yes,127.869,26.317,Executive Suite,337
+Japan,Okinawa,Katsuren Castle,Katsuren Castle Comfort Inn & Suites,4.1,3,No,Yes,127.869,26.317,Standard Queen,137
+Japan,Okinawa,Hedo Point,The Grand Hedo Point Hotel,4.4,3,Yes,Yes,128.2551,26.8671,Luxury Suite,465
+Japan,Okinawa,Hedo Point,Hedo Point Premium Resort,4.6,2,No,Yes,128.2551,26.8671,Executive Suite,363
+Japan,Okinawa,Hedo Point,Hedo Point Comfort Inn & Suites,4.3,4,No,Yes,128.2551,26.8671,Standard Queen,148
+Japan,Okinawa,Nakagusuku Castle,The Grand Nakagusuku Castle Hotel,4.5,4,Yes,Yes,127.8031,26.2663,Deluxe King,328
+Japan,Okinawa,Nakagusuku Castle,Nakagusuku Castle Premium Resort,4.1,4,No,No,127.8031,26.2663,Executive Suite,286
+Japan,Okinawa,Nakagusuku Castle,Nakagusuku Castle Comfort Inn & Suites,4.6,3,Yes,No,127.8031,26.2663,Standard Queen,167
+Japan,Okinawa,Emerald Beach,The Grand Emerald Beach Hotel,4.6,4,No,No,127.8783,26.6945,Luxury Suite,302
+Japan,Okinawa,Emerald Beach,Emerald Beach Premium Resort,4.4,3,No,No,127.8783,26.6945,Executive Suite,313
+Japan,Okinawa,Emerald Beach,Emerald Beach Comfort Inn & Suites,4.4,3,No,No,127.8783,26.6945,Family Room,162
+Japan,Kanagawa,Mount Fuji,The Grand Mount Fuji Hotel,3.8,4,No,Yes,138.7274,35.3606,Luxury Suite,402
+Japan,Kanagawa,Mount Fuji,Mount Fuji Premium Resort,4.7,2,No,Yes,138.7274,35.3606,Ocean/View Room,381
+Japan,Kanagawa,Mount Fuji,Mount Fuji Comfort Inn & Suites,4.4,3,Yes,No,138.7274,35.3606,Family Room,156
+Japan,Kanagawa,Kamakura Great Buddha,The Grand Kamakura Great Buddha Hotel,4.5,2,Yes,Yes,139.5353,35.3167,Luxury Suite,270
+Japan,Kanagawa,Kamakura Great Buddha,Kamakura Great Buddha Premium Resort,4.0,2,Yes,Yes,139.5353,35.3167,Ocean/View Room,382
+Japan,Kanagawa,Kamakura Great Buddha,Kamakura Great Buddha Comfort Inn & Suites,3.9,4,No,No,139.5353,35.3167,Family Room,105
+Japan,Kanagawa,Hakone Open Air Museum,The Grand Hakone Open Air Museum Hotel,4.2,4,Yes,Yes,139.0202,35.2487,Luxury Suite,474
+Japan,Kanagawa,Hakone Open Air Museum,Hakone Open Air Museum Premium Resort,4.8,2,No,Yes,139.0202,35.2487,Ocean/View Room,588
+Japan,Kanagawa,Hakone Open Air Museum,Hakone Open Air Museum Comfort Inn & Suites,4.6,3,No,Yes,139.0202,35.2487,Family Room,172
+Japan,Kanagawa,Enoshima Island,The Grand Enoshima Island Hotel,3.8,2,No,Yes,139.4826,35.299,Luxury Suite,489
+Japan,Kanagawa,Enoshima Island,Enoshima Island Premium Resort,3.9,4,Yes,No,139.4826,35.299,Executive Suite,382
+Japan,Kanagawa,Enoshima Island,Enoshima Island Comfort Inn & Suites,4.4,2,Yes,No,139.4826,35.299,Standard Queen,188
+Japan,Kanagawa,Yokohama Chinatown,The Grand Yokohama Chinatown Hotel,4.4,4,No,No,139.6455,35.4415,Luxury Suite,291
+Japan,Kanagawa,Yokohama Chinatown,Yokohama Chinatown Premium Resort,4.7,4,No,No,139.6455,35.4415,Executive Suite,575
+Japan,Kanagawa,Yokohama Chinatown,Yokohama Chinatown Comfort Inn & Suites,4.9,3,No,No,139.6455,35.4415,Family Room,150
+Japan,Kanagawa,Hakone Ropeway,The Grand Hakone Ropeway Hotel,4.3,4,No,No,139.0253,35.2271,Luxury Suite,317
+Japan,Kanagawa,Hakone Ropeway,Hakone Ropeway Premium Resort,4.2,4,No,No,139.0253,35.2271,Ocean/View Room,526
+Japan,Kanagawa,Hakone Ropeway,Hakone Ropeway Comfort Inn & Suites,4.9,2,Yes,No,139.0253,35.2271,Standard Queen,171
+Japan,Kanagawa,Zushi Beach,The Grand Zushi Beach Hotel,3.9,3,Yes,No,139.5791,35.296,Luxury Suite,317
+Japan,Kanagawa,Zushi Beach,Zushi Beach Premium Resort,4.7,2,No,Yes,139.5791,35.296,Executive Suite,295
+Japan,Kanagawa,Zushi Beach,Zushi Beach Comfort Inn & Suites,4.3,2,Yes,No,139.5791,35.296,Family Room,180
+Japan,Kanagawa,Kawasaki Daishi Temple,The Grand Kawasaki Daishi Temple Hotel,4.1,3,No,Yes,139.7172,35.5325,Deluxe King,320
+Japan,Kanagawa,Kawasaki Daishi Temple,Kawasaki Daishi Temple Premium Resort,4.6,4,No,No,139.7172,35.5325,Executive Suite,548
+Japan,Kanagawa,Kawasaki Daishi Temple,Kawasaki Daishi Temple Comfort Inn & Suites,4.7,4,Yes,No,139.7172,35.5325,Standard Queen,179
+Japan,Kanagawa,Odawara Castle,The Grand Odawara Castle Hotel,4.2,2,No,No,139.1561,35.2563,Deluxe King,432
+Japan,Kanagawa,Odawara Castle,Odawara Castle Premium Resort,4.8,2,Yes,Yes,139.1561,35.2563,Ocean/View Room,304
+Japan,Kanagawa,Odawara Castle,Odawara Castle Comfort Inn & Suites,4.1,2,No,Yes,139.1561,35.2563,Family Room,169
+Japan,Kanagawa,Tsurugaoka Hachimangu,The Grand Tsurugaoka Hachimangu Hotel,4.6,2,Yes,No,139.5561,35.3258,Deluxe King,481
+Japan,Kanagawa,Tsurugaoka Hachimangu,Tsurugaoka Hachimangu Premium Resort,3.9,3,No,No,139.5561,35.3258,Executive Suite,348
+Japan,Kanagawa,Tsurugaoka Hachimangu,Tsurugaoka Hachimangu Comfort Inn & Suites,4.2,3,Yes,No,139.5561,35.3258,Family Room,110
+Japan,Nagano,Matsumoto Castle,The Grand Matsumoto Castle Hotel,4.2,3,Yes,Yes,137.9718,36.2381,Deluxe King,309
+Japan,Nagano,Matsumoto Castle,Matsumoto Castle Premium Resort,4.3,4,Yes,Yes,137.9718,36.2381,Executive Suite,314
+Japan,Nagano,Matsumoto Castle,Matsumoto Castle Comfort Inn & Suites,4.1,3,No,Yes,137.9718,36.2381,Standard Queen,192
+Japan,Nagano,Jigokudani Monkey Park,The Grand Jigokudani Monkey Park Hotel,4.3,3,No,Yes,138.4699,36.7339,Deluxe King,391
+Japan,Nagano,Jigokudani Monkey Park,Jigokudani Monkey Park Premium Resort,4.5,2,No,Yes,138.4699,36.7339,Ocean/View Room,621
+Japan,Nagano,Jigokudani Monkey Park,Jigokudani Monkey Park Comfort Inn & Suites,4.7,3,Yes,No,138.4699,36.7339,Standard Queen,130
+Japan,Nagano,Kamikochi,The Grand Kamikochi Hotel,4.0,3,Yes,Yes,137.6527,36.2469,Luxury Suite,227
+Japan,Nagano,Kamikochi,Kamikochi Premium Resort,4.1,4,Yes,No,137.6527,36.2469,Executive Suite,467
+Japan,Nagano,Kamikochi,Kamikochi Comfort Inn & Suites,4.6,2,No,No,137.6527,36.2469,Family Room,101
+Japan,Nagano,Zenko-ji Temple,The Grand Zenko-ji Temple Hotel,4.2,4,Yes,Yes,138.1893,36.666,Deluxe King,469
+Japan,Nagano,Zenko-ji Temple,Zenko-ji Temple Premium Resort,4.5,2,Yes,No,138.1893,36.666,Executive Suite,418
+Japan,Nagano,Zenko-ji Temple,Zenko-ji Temple Comfort Inn & Suites,4.0,3,Yes,No,138.1893,36.666,Standard Queen,163
+Japan,Nagano,Hakuba Valley,The Grand Hakuba Valley Hotel,4.5,2,Yes,No,137.8602,36.7004,Deluxe King,400
+Japan,Nagano,Hakuba Valley,Hakuba Valley Premium Resort,4.8,2,No,No,137.8602,36.7004,Executive Suite,488
+Japan,Nagano,Hakuba Valley,Hakuba Valley Comfort Inn & Suites,4.4,4,Yes,No,137.8602,36.7004,Family Room,182
+Japan,Nagano,Narai-juku Post Town,The Grand Narai-juku Post Town Hotel,4.4,2,Yes,No,137.8653,36.0278,Luxury Suite,220
+Japan,Nagano,Narai-juku Post Town,Narai-juku Post Town Premium Resort,4.1,4,No,No,137.8653,36.0278,Ocean/View Room,496
+Japan,Nagano,Narai-juku Post Town,Narai-juku Post Town Comfort Inn & Suites,4.6,2,No,No,137.8653,36.0278,Family Room,187
+Japan,Nagano,Tateyama Kurobe,The Grand Tateyama Kurobe Hotel,4.1,4,No,Yes,137.6076,36.5705,Deluxe King,415
+Japan,Nagano,Tateyama Kurobe,Tateyama Kurobe Premium Resort,4.8,2,No,Yes,137.6076,36.5705,Executive Suite,466
+Japan,Nagano,Tateyama Kurobe,Tateyama Kurobe Comfort Inn & Suites,4.8,4,Yes,Yes,137.6076,36.5705,Family Room,171
+Japan,Nagano,Togakushi Shrine,The Grand Togakushi Shrine Hotel,4.9,4,Yes,No,137.9936,36.775,Luxury Suite,283
+Japan,Nagano,Togakushi Shrine,Togakushi Shrine Premium Resort,4.3,3,No,No,137.9936,36.775,Executive Suite,390
+Japan,Nagano,Togakushi Shrine,Togakushi Shrine Comfort Inn & Suites,4.5,4,Yes,Yes,137.9936,36.775,Family Room,195
+Japan,Nagano,Suwa Lake,The Grand Suwa Lake Hotel,4.6,4,Yes,No,138.0833,36.0478,Luxury Suite,286
+Japan,Nagano,Suwa Lake,Suwa Lake Premium Resort,4.1,4,Yes,Yes,138.0833,36.0478,Ocean/View Room,356
+Japan,Nagano,Suwa Lake,Suwa Lake Comfort Inn & Suites,4.6,3,No,No,138.0833,36.0478,Family Room,160
+Japan,Nagano,Kiso Valley,The Grand Kiso Valley Hotel,4.6,4,No,Yes,137.6044,35.7939,Luxury Suite,257
+Japan,Nagano,Kiso Valley,Kiso Valley Premium Resort,3.9,2,No,Yes,137.6044,35.7939,Executive Suite,404
+Japan,Nagano,Kiso Valley,Kiso Valley Comfort Inn & Suites,4.6,3,Yes,No,137.6044,35.7939,Standard Queen,169
+India,Uttar Pradesh,Taj Mahal,The Grand Taj Mahal Hotel,4.7,3,No,Yes,78.0421,27.1751,Deluxe King,344
+India,Uttar Pradesh,Taj Mahal,Taj Mahal Premium Resort,4.3,2,Yes,Yes,78.0421,27.1751,Executive Suite,367
+India,Uttar Pradesh,Taj Mahal,Taj Mahal Comfort Inn & Suites,4.6,2,No,No,78.0421,27.1751,Standard Queen,140
+India,Uttar Pradesh,Agra Fort,The Grand Agra Fort Hotel,4.9,2,Yes,Yes,78.0216,27.1798,Deluxe King,344
+India,Uttar Pradesh,Agra Fort,Agra Fort Premium Resort,4.6,3,Yes,No,78.0216,27.1798,Ocean/View Room,216
+India,Uttar Pradesh,Agra Fort,Agra Fort Comfort Inn & Suites,4.5,3,No,No,78.0216,27.1798,Standard Queen,124
+India,Uttar Pradesh,Varanasi Ghats,The Grand Varanasi Ghats Hotel,3.9,3,Yes,Yes,83.0062,25.3176,Deluxe King,160
+India,Uttar Pradesh,Varanasi Ghats,Varanasi Ghats Premium Resort,4.4,4,Yes,Yes,83.0062,25.3176,Ocean/View Room,380
+India,Uttar Pradesh,Varanasi Ghats,Varanasi Ghats Comfort Inn & Suites,4.2,3,No,No,83.0062,25.3176,Standard Queen,115
+India,Uttar Pradesh,Fatehpur Sikri,The Grand Fatehpur Sikri Hotel,4.1,2,Yes,No,77.6642,27.0945,Deluxe King,180
+India,Uttar Pradesh,Fatehpur Sikri,Fatehpur Sikri Premium Resort,4.6,2,Yes,Yes,77.6642,27.0945,Ocean/View Room,368
+India,Uttar Pradesh,Fatehpur Sikri,Fatehpur Sikri Comfort Inn & Suites,4.2,2,Yes,No,77.6642,27.0945,Standard Queen,118
+India,Uttar Pradesh,Lucknow Bara Imambara,The Grand Lucknow Bara Imambara Hotel,3.9,3,Yes,Yes,80.9116,26.8672,Luxury Suite,190
+India,Uttar Pradesh,Lucknow Bara Imambara,Lucknow Bara Imambara Premium Resort,4.6,4,No,Yes,80.9116,26.8672,Ocean/View Room,408
+India,Uttar Pradesh,Lucknow Bara Imambara,Lucknow Bara Imambara Comfort Inn & Suites,4.5,2,No,No,80.9116,26.8672,Standard Queen,88
+India,Uttar Pradesh,Mathura,The Grand Mathura Hotel,4.8,4,Yes,Yes,77.6737,27.4924,Luxury Suite,216
+India,Uttar Pradesh,Mathura,Mathura Premium Resort,4.6,2,No,No,77.6737,27.4924,Ocean/View Room,382
+India,Uttar Pradesh,Mathura,Mathura Comfort Inn & Suites,4.1,2,Yes,Yes,77.6737,27.4924,Standard Queen,72
+India,Uttar Pradesh,Vrindavan,The Grand Vrindavan Hotel,4.5,3,Yes,No,77.693,27.5726,Deluxe King,348
+India,Uttar Pradesh,Vrindavan,Vrindavan Premium Resort,4.4,2,No,Yes,77.693,27.5726,Executive Suite,440
+India,Uttar Pradesh,Vrindavan,Vrindavan Comfort Inn & Suites,4.5,3,No,No,77.693,27.5726,Standard Queen,132
+India,Uttar Pradesh,Allahabad Triveni Sangam,The Grand Allahabad Triveni Sangam Hotel,4.5,2,No,Yes,81.8463,25.4358,Luxury Suite,219
+India,Uttar Pradesh,Allahabad Triveni Sangam,Allahabad Triveni Sangam Premium Resort,4.0,4,No,Yes,81.8463,25.4358,Executive Suite,212
+India,Uttar Pradesh,Allahabad Triveni Sangam,Allahabad Triveni Sangam Comfort Inn & Suites,4.5,4,No,No,81.8463,25.4358,Standard Queen,76
+India,Uttar Pradesh,Sarnath,The Grand Sarnath Hotel,3.9,2,Yes,No,83.0242,25.3814,Luxury Suite,330
+India,Uttar Pradesh,Sarnath,Sarnath Premium Resort,4.6,3,Yes,Yes,83.0242,25.3814,Ocean/View Room,332
+India,Uttar Pradesh,Sarnath,Sarnath Comfort Inn & Suites,4.2,3,Yes,No,83.0242,25.3814,Standard Queen,101
+India,Uttar Pradesh,Dudhwa National Park,The Grand Dudhwa National Park Hotel,4.3,2,No,No,80.525,28.498,Deluxe King,358
+India,Uttar Pradesh,Dudhwa National Park,Dudhwa National Park Premium Resort,4.0,2,Yes,Yes,80.525,28.498,Executive Suite,397
+India,Uttar Pradesh,Dudhwa National Park,Dudhwa National Park Comfort Inn & Suites,4.6,4,No,No,80.525,28.498,Family Room,98
+India,Rajasthan,Amber Fort Jaipur,The Grand Amber Fort Jaipur Hotel,4.4,4,No,Yes,75.8513,26.9855,Deluxe King,356
+India,Rajasthan,Amber Fort Jaipur,Amber Fort Jaipur Premium Resort,4.6,3,No,Yes,75.8513,26.9855,Executive Suite,318
+India,Rajasthan,Amber Fort Jaipur,Amber Fort Jaipur Comfort Inn & Suites,4.9,2,Yes,Yes,75.8513,26.9855,Family Room,136
+India,Rajasthan,City Palace Udaipur,The Grand City Palace Udaipur Hotel,4.7,4,Yes,No,73.6833,24.5763,Deluxe King,162
+India,Rajasthan,City Palace Udaipur,City Palace Udaipur Premium Resort,4.2,4,Yes,Yes,73.6833,24.5763,Executive Suite,315
+India,Rajasthan,City Palace Udaipur,City Palace Udaipur Comfort Inn & Suites,4.1,2,No,No,73.6833,24.5763,Family Room,72
+India,Rajasthan,Mehrangarh Fort Jodhpur,The Grand Mehrangarh Fort Jodhpur Hotel,3.9,3,No,No,73.0178,26.2978,Luxury Suite,215
+India,Rajasthan,Mehrangarh Fort Jodhpur,Mehrangarh Fort Jodhpur Premium Resort,4.0,3,No,No,73.0178,26.2978,Executive Suite,464
+India,Rajasthan,Mehrangarh Fort Jodhpur,Mehrangarh Fort Jodhpur Comfort Inn & Suites,3.9,2,No,No,73.0178,26.2978,Family Room,113
+India,Rajasthan,Jaisalmer Fort,The Grand Jaisalmer Fort Hotel,4.8,2,No,No,70.9083,26.9157,Luxury Suite,228
+India,Rajasthan,Jaisalmer Fort,Jaisalmer Fort Premium Resort,4.4,3,No,Yes,70.9083,26.9157,Executive Suite,314
+India,Rajasthan,Jaisalmer Fort,Jaisalmer Fort Comfort Inn & Suites,4.7,3,No,Yes,70.9083,26.9157,Family Room,90
+India,Rajasthan,Hawa Mahal Jaipur,The Grand Hawa Mahal Jaipur Hotel,4.5,3,No,Yes,75.8267,26.9239,Deluxe King,312
+India,Rajasthan,Hawa Mahal Jaipur,Hawa Mahal Jaipur Premium Resort,3.9,2,No,No,75.8267,26.9239,Ocean/View Room,288
+India,Rajasthan,Hawa Mahal Jaipur,Hawa Mahal Jaipur Comfort Inn & Suites,4.4,2,Yes,No,75.8267,26.9239,Standard Queen,92
+India,Rajasthan,Pushkar Lake,The Grand Pushkar Lake Hotel,4.8,3,Yes,No,74.5517,26.4883,Luxury Suite,221
+India,Rajasthan,Pushkar Lake,Pushkar Lake Premium Resort,4.2,3,No,No,74.5517,26.4883,Executive Suite,240
+India,Rajasthan,Pushkar Lake,Pushkar Lake Comfort Inn & Suites,4.7,4,Yes,Yes,74.5517,26.4883,Standard Queen,118
+India,Rajasthan,Ranthambore National Park,The Grand Ranthambore National Park Hotel,4.2,4,Yes,Yes,76.5026,26.0173,Deluxe King,161
+India,Rajasthan,Ranthambore National Park,Ranthambore National Park Premium Resort,4.6,4,Yes,No,76.5026,26.0173,Ocean/View Room,218
+India,Rajasthan,Ranthambore National Park,Ranthambore National Park Comfort Inn & Suites,3.9,4,No,Yes,76.5026,26.0173,Family Room,136
+India,Rajasthan,Chittorgarh Fort,The Grand Chittorgarh Fort Hotel,4.8,3,Yes,Yes,74.6439,24.8887,Deluxe King,256
+India,Rajasthan,Chittorgarh Fort,Chittorgarh Fort Premium Resort,4.4,3,Yes,No,74.6439,24.8887,Executive Suite,264
+India,Rajasthan,Chittorgarh Fort,Chittorgarh Fort Comfort Inn & Suites,4.1,2,Yes,Yes,74.6439,24.8887,Family Room,128
+India,Rajasthan,Sam Sand Dunes,The Grand Sam Sand Dunes Hotel,4.2,2,No,Yes,70.5421,26.8757,Luxury Suite,172
+India,Rajasthan,Sam Sand Dunes,Sam Sand Dunes Premium Resort,4.1,3,No,Yes,70.5421,26.8757,Executive Suite,211
+India,Rajasthan,Sam Sand Dunes,Sam Sand Dunes Comfort Inn & Suites,4.3,4,Yes,Yes,70.5421,26.8757,Family Room,76
+India,Rajasthan,Kumbhalgarh Fort,The Grand Kumbhalgarh Fort Hotel,3.9,3,Yes,No,73.587,25.1476,Deluxe King,271
+India,Rajasthan,Kumbhalgarh Fort,Kumbhalgarh Fort Premium Resort,4.2,2,Yes,No,73.587,25.1476,Executive Suite,237
+India,Rajasthan,Kumbhalgarh Fort,Kumbhalgarh Fort Comfort Inn & Suites,4.7,4,No,Yes,73.587,25.1476,Family Room,103
+India,Delhi,Red Fort,The Grand Red Fort Hotel,4.6,4,No,No,77.241,28.6562,Luxury Suite,235
+India,Delhi,Red Fort,Red Fort Premium Resort,4.0,4,No,No,77.241,28.6562,Ocean/View Room,274
+India,Delhi,Red Fort,Red Fort Comfort Inn & Suites,4.6,4,No,No,77.241,28.6562,Family Room,121
+India,Delhi,Qutub Minar,The Grand Qutub Minar Hotel,3.8,3,Yes,No,77.1855,28.5245,Deluxe King,332
+India,Delhi,Qutub Minar,Qutub Minar Premium Resort,4.7,3,No,Yes,77.1855,28.5245,Executive Suite,365
+India,Delhi,Qutub Minar,Qutub Minar Comfort Inn & Suites,4.7,2,No,Yes,77.1855,28.5245,Family Room,126
+India,Delhi,India Gate,The Grand India Gate Hotel,4.3,4,No,Yes,77.2295,28.6129,Luxury Suite,208
+India,Delhi,India Gate,India Gate Premium Resort,4.9,3,Yes,No,77.2295,28.6129,Executive Suite,441
+India,Delhi,India Gate,India Gate Comfort Inn & Suites,4.3,3,No,Yes,77.2295,28.6129,Standard Queen,139
+India,Delhi,Humayun's Tomb,The Grand Humayun's Tomb Hotel,4.5,4,No,Yes,77.2507,28.5933,Deluxe King,276
+India,Delhi,Humayun's Tomb,Humayun's Tomb Premium Resort,4.4,3,Yes,No,77.2507,28.5933,Ocean/View Room,228
+India,Delhi,Humayun's Tomb,Humayun's Tomb Comfort Inn & Suites,4.5,4,No,No,77.2507,28.5933,Family Room,137
+India,Delhi,Lotus Temple,The Grand Lotus Temple Hotel,4.5,2,Yes,Yes,77.2588,28.5535,Luxury Suite,204
+India,Delhi,Lotus Temple,Lotus Temple Premium Resort,4.5,3,No,No,77.2588,28.5535,Ocean/View Room,280
+India,Delhi,Lotus Temple,Lotus Temple Comfort Inn & Suites,4.0,3,No,No,77.2588,28.5535,Family Room,107
+India,Delhi,Akshardham Temple,The Grand Akshardham Temple Hotel,4.9,4,Yes,No,77.2773,28.6127,Luxury Suite,264
+India,Delhi,Akshardham Temple,Akshardham Temple Premium Resort,3.9,4,Yes,Yes,77.2773,28.6127,Ocean/View Room,244
+India,Delhi,Akshardham Temple,Akshardham Temple Comfort Inn & Suites,4.7,2,Yes,No,77.2773,28.6127,Family Room,136
+India,Delhi,Jama Masjid,The Grand Jama Masjid Hotel,4.1,3,No,No,77.2334,28.6507,Deluxe King,230
+India,Delhi,Jama Masjid,Jama Masjid Premium Resort,4.5,3,Yes,Yes,77.2334,28.6507,Ocean/View Room,347
+India,Delhi,Jama Masjid,Jama Masjid Comfort Inn & Suites,4.7,2,No,Yes,77.2334,28.6507,Standard Queen,72
+India,Delhi,Chandni Chowk,The Grand Chandni Chowk Hotel,3.9,2,Yes,No,77.23,28.658,Deluxe King,199
+India,Delhi,Chandni Chowk,Chandni Chowk Premium Resort,3.9,4,No,No,77.23,28.658,Ocean/View Room,455
+India,Delhi,Chandni Chowk,Chandni Chowk Comfort Inn & Suites,4.0,4,No,No,77.23,28.658,Family Room,108
+India,Delhi,Lodi Garden,The Grand Lodi Garden Hotel,4.0,3,Yes,No,77.2198,28.5931,Luxury Suite,348
+India,Delhi,Lodi Garden,Lodi Garden Premium Resort,4.1,4,No,Yes,77.2198,28.5931,Executive Suite,432
+India,Delhi,Lodi Garden,Lodi Garden Comfort Inn & Suites,4.3,3,Yes,No,77.2198,28.5931,Standard Queen,86
+India,Delhi,National Museum New Delhi,The Grand National Museum New Delhi Hotel,4.6,4,No,No,77.2198,28.6116,Luxury Suite,357
+India,Delhi,National Museum New Delhi,National Museum New Delhi Premium Resort,4.8,2,Yes,No,77.2198,28.6116,Executive Suite,480
+India,Delhi,National Museum New Delhi,National Museum New Delhi Comfort Inn & Suites,4.5,4,No,Yes,77.2198,28.6116,Family Room,126
+India,Kerala,Backwaters Alleppey,The Grand Backwaters Alleppey Hotel,4.7,3,No,No,76.3388,9.4981,Deluxe King,316
+India,Kerala,Backwaters Alleppey,Backwaters Alleppey Premium Resort,4.2,3,No,Yes,76.3388,9.4981,Executive Suite,444
+India,Kerala,Backwaters Alleppey,Backwaters Alleppey Comfort Inn & Suites,4.6,4,No,Yes,76.3388,9.4981,Family Room,131
+India,Kerala,Munnar Tea Gardens,The Grand Munnar Tea Gardens Hotel,4.0,2,No,Yes,77.0595,10.0889,Deluxe King,342
+India,Kerala,Munnar Tea Gardens,Munnar Tea Gardens Premium Resort,3.9,4,Yes,No,77.0595,10.0889,Ocean/View Room,253
+India,Kerala,Munnar Tea Gardens,Munnar Tea Gardens Comfort Inn & Suites,4.5,3,No,Yes,77.0595,10.0889,Standard Queen,133
+India,Kerala,Periyar Wildlife Sanctuary,The Grand Periyar Wildlife Sanctuary Hotel,4.0,4,Yes,No,77.204,9.4639,Deluxe King,215
+India,Kerala,Periyar Wildlife Sanctuary,Periyar Wildlife Sanctuary Premium Resort,4.1,4,Yes,No,77.204,9.4639,Executive Suite,416
+India,Kerala,Periyar Wildlife Sanctuary,Periyar Wildlife Sanctuary Comfort Inn & Suites,4.7,3,Yes,Yes,77.204,9.4639,Standard Queen,122
+India,Kerala,Fort Kochi,The Grand Fort Kochi Hotel,4.6,3,No,Yes,76.2429,9.9639,Deluxe King,212
+India,Kerala,Fort Kochi,Fort Kochi Premium Resort,4.0,4,No,Yes,76.2429,9.9639,Ocean/View Room,247
+India,Kerala,Fort Kochi,Fort Kochi Comfort Inn & Suites,3.9,3,No,No,76.2429,9.9639,Family Room,120
+India,Kerala,Varkala Cliff Beach,The Grand Varkala Cliff Beach Hotel,4.6,4,Yes,No,76.7163,8.7379,Deluxe King,337
+India,Kerala,Varkala Cliff Beach,Varkala Cliff Beach Premium Resort,4.1,4,No,Yes,76.7163,8.7379,Ocean/View Room,383
+India,Kerala,Varkala Cliff Beach,Varkala Cliff Beach Comfort Inn & Suites,4.2,3,Yes,Yes,76.7163,8.7379,Family Room,116
+India,Kerala,Thekkady,The Grand Thekkady Hotel,4.5,4,No,No,77.1621,9.5993,Deluxe King,252
+India,Kerala,Thekkady,Thekkady Premium Resort,4.7,3,No,No,77.1621,9.5993,Executive Suite,475
+India,Kerala,Thekkady,Thekkady Comfort Inn & Suites,4.4,2,No,Yes,77.1621,9.5993,Family Room,128
+India,Kerala,Wayanad,The Grand Wayanad Hotel,3.8,2,Yes,Yes,76.132,11.6854,Deluxe King,184
+India,Kerala,Wayanad,Wayanad Premium Resort,4.4,4,No,No,76.132,11.6854,Executive Suite,316
+India,Kerala,Wayanad,Wayanad Comfort Inn & Suites,4.1,2,Yes,Yes,76.132,11.6854,Standard Queen,132
+India,Kerala,Athirapally Falls,The Grand Athirapally Falls Hotel,4.5,2,Yes,Yes,76.5705,10.2853,Luxury Suite,196
+India,Kerala,Athirapally Falls,Athirapally Falls Premium Resort,4.2,4,Yes,Yes,76.5705,10.2853,Executive Suite,303
+India,Kerala,Athirapally Falls,Athirapally Falls Comfort Inn & Suites,4.1,4,Yes,No,76.5705,10.2853,Family Room,115
+India,Kerala,Kovalam Beach,The Grand Kovalam Beach Hotel,4.6,4,No,No,76.9784,8.3988,Luxury Suite,173
+India,Kerala,Kovalam Beach,Kovalam Beach Premium Resort,4.1,2,No,No,76.9784,8.3988,Ocean/View Room,224
+India,Kerala,Kovalam Beach,Kovalam Beach Comfort Inn & Suites,4.1,3,Yes,No,76.9784,8.3988,Standard Queen,121
+India,Kerala,Silent Valley National Park,The Grand Silent Valley National Park Hotel,4.9,2,No,Yes,76.459,11.0753,Deluxe King,188
+India,Kerala,Silent Valley National Park,Silent Valley National Park Premium Resort,4.0,3,Yes,Yes,76.459,11.0753,Ocean/View Room,305
+India,Kerala,Silent Valley National Park,Silent Valley National Park Comfort Inn & Suites,3.9,2,Yes,No,76.459,11.0753,Family Room,73
+India,Goa,Baga Beach,The Grand Baga Beach Hotel,4.8,2,Yes,Yes,73.7521,15.5561,Deluxe King,252
+India,Goa,Baga Beach,Baga Beach Premium Resort,4.0,3,No,Yes,73.7521,15.5561,Ocean/View Room,395
+India,Goa,Baga Beach,Baga Beach Comfort Inn & Suites,4.3,4,Yes,Yes,73.7521,15.5561,Standard Queen,111
+India,Goa,Basilica of Bom Jesus,The Grand Basilica of Bom Jesus Hotel,4.8,3,Yes,No,73.9116,15.5008,Deluxe King,268
+India,Goa,Basilica of Bom Jesus,Basilica of Bom Jesus Premium Resort,4.2,4,Yes,No,73.9116,15.5008,Ocean/View Room,232
+India,Goa,Basilica of Bom Jesus,Basilica of Bom Jesus Comfort Inn & Suites,4.7,3,Yes,Yes,73.9116,15.5008,Standard Queen,111
+India,Goa,Dudhsagar Falls,The Grand Dudhsagar Falls Hotel,4.5,3,No,Yes,74.314,15.3143,Deluxe King,343
+India,Goa,Dudhsagar Falls,Dudhsagar Falls Premium Resort,3.9,4,No,Yes,74.314,15.3143,Executive Suite,214
+India,Goa,Dudhsagar Falls,Dudhsagar Falls Comfort Inn & Suites,4.0,4,Yes,No,74.314,15.3143,Family Room,78
+India,Goa,Anjuna Beach,The Grand Anjuna Beach Hotel,4.7,4,No,No,73.744,15.5739,Deluxe King,150
+India,Goa,Anjuna Beach,Anjuna Beach Premium Resort,3.8,2,No,Yes,73.744,15.5739,Ocean/View Room,248
+India,Goa,Anjuna Beach,Anjuna Beach Comfort Inn & Suites,4.0,4,No,Yes,73.744,15.5739,Standard Queen,79
+India,Goa,Chapora Fort,The Grand Chapora Fort Hotel,3.8,2,No,Yes,73.739,15.6042,Deluxe King,162
+India,Goa,Chapora Fort,Chapora Fort Premium Resort,4.1,4,Yes,Yes,73.739,15.6042,Executive Suite,458
+India,Goa,Chapora Fort,Chapora Fort Comfort Inn & Suites,3.9,3,Yes,No,73.739,15.6042,Standard Queen,132
+India,Goa,Panaji Church,The Grand Panaji Church Hotel,3.9,2,Yes,No,73.8278,15.4989,Luxury Suite,169
+India,Goa,Panaji Church,Panaji Church Premium Resort,4.7,3,No,No,73.8278,15.4989,Ocean/View Room,248
+India,Goa,Panaji Church,Panaji Church Comfort Inn & Suites,4.9,4,Yes,No,73.8278,15.4989,Standard Queen,76
+India,Goa,Colva Beach,The Grand Colva Beach Hotel,4.5,3,Yes,Yes,73.9214,15.2793,Deluxe King,201
+India,Goa,Colva Beach,Colva Beach Premium Resort,4.6,2,No,Yes,73.9214,15.2793,Ocean/View Room,299
+India,Goa,Colva Beach,Colva Beach Comfort Inn & Suites,4.8,2,Yes,Yes,73.9214,15.2793,Family Room,88
+India,Goa,Calangute Beach,The Grand Calangute Beach Hotel,3.8,3,Yes,Yes,73.7558,15.5438,Luxury Suite,216
+India,Goa,Calangute Beach,Calangute Beach Premium Resort,4.8,4,No,No,73.7558,15.5438,Ocean/View Room,251
+India,Goa,Calangute Beach,Calangute Beach Comfort Inn & Suites,4.0,4,No,No,73.7558,15.5438,Family Room,96
+India,Goa,Aguada Fort,The Grand Aguada Fort Hotel,4.8,4,Yes,Yes,73.7737,15.4946,Deluxe King,180
+India,Goa,Aguada Fort,Aguada Fort Premium Resort,4.5,3,No,No,73.7737,15.4946,Executive Suite,428
+India,Goa,Aguada Fort,Aguada Fort Comfort Inn & Suites,4.1,2,Yes,No,73.7737,15.4946,Standard Queen,119
+India,Goa,Palolem Beach,The Grand Palolem Beach Hotel,4.6,4,Yes,No,74.0234,15.0098,Luxury Suite,223
+India,Goa,Palolem Beach,Palolem Beach Premium Resort,3.9,2,No,No,74.0234,15.0098,Executive Suite,264
+India,Goa,Palolem Beach,Palolem Beach Comfort Inn & Suites,4.5,2,Yes,No,74.0234,15.0098,Family Room,92
+India,Maharashtra,Gateway of India Mumbai,The Grand Gateway of India Mumbai Hotel,4.3,3,No,Yes,72.8347,18.922,Luxury Suite,164
+India,Maharashtra,Gateway of India Mumbai,Gateway of India Mumbai Premium Resort,4.8,2,Yes,Yes,72.8347,18.922,Ocean/View Room,410
+India,Maharashtra,Gateway of India Mumbai,Gateway of India Mumbai Comfort Inn & Suites,3.9,2,No,No,72.8347,18.922,Family Room,92
+India,Maharashtra,Ajanta Caves,The Grand Ajanta Caves Hotel,4.6,3,Yes,Yes,75.7033,20.5519,Deluxe King,236
+India,Maharashtra,Ajanta Caves,Ajanta Caves Premium Resort,3.9,4,No,Yes,75.7033,20.5519,Ocean/View Room,289
+India,Maharashtra,Ajanta Caves,Ajanta Caves Comfort Inn & Suites,3.9,4,No,Yes,75.7033,20.5519,Family Room,86
+India,Maharashtra,Ellora Caves,The Grand Ellora Caves Hotel,4.0,4,No,Yes,75.179,20.0258,Deluxe King,296
+India,Maharashtra,Ellora Caves,Ellora Caves Premium Resort,4.0,4,Yes,No,75.179,20.0258,Ocean/View Room,282
+India,Maharashtra,Ellora Caves,Ellora Caves Comfort Inn & Suites,4.2,2,Yes,No,75.179,20.0258,Standard Queen,83
+India,Maharashtra,Elephanta Caves,The Grand Elephanta Caves Hotel,4.7,3,No,Yes,72.9315,18.9633,Deluxe King,233
+India,Maharashtra,Elephanta Caves,Elephanta Caves Premium Resort,4.8,4,Yes,Yes,72.9315,18.9633,Executive Suite,235
+India,Maharashtra,Elephanta Caves,Elephanta Caves Comfort Inn & Suites,4.3,4,No,Yes,72.9315,18.9633,Family Room,119
+India,Maharashtra,Chhatrapati Shivaji Terminus,The Grand Chhatrapati Shivaji Terminus Hotel,4.1,4,No,Yes,72.8354,18.94,Luxury Suite,277
+India,Maharashtra,Chhatrapati Shivaji Terminus,Chhatrapati Shivaji Terminus Premium Resort,4.3,2,Yes,Yes,72.8354,18.94,Ocean/View Room,217
+India,Maharashtra,Chhatrapati Shivaji Terminus,Chhatrapati Shivaji Terminus Comfort Inn & Suites,3.8,3,Yes,No,72.8354,18.94,Family Room,120
+India,Maharashtra,Lonavala,The Grand Lonavala Hotel,4.7,4,Yes,No,73.4072,18.7481,Deluxe King,242
+India,Maharashtra,Lonavala,Lonavala Premium Resort,3.9,2,No,Yes,73.4072,18.7481,Executive Suite,346
+India,Maharashtra,Lonavala,Lonavala Comfort Inn & Suites,4.1,4,Yes,Yes,73.4072,18.7481,Family Room,140
+India,Maharashtra,Mahabaleshwar,The Grand Mahabaleshwar Hotel,4.1,4,No,Yes,73.6575,17.9236,Deluxe King,333
+India,Maharashtra,Mahabaleshwar,Mahabaleshwar Premium Resort,4.6,4,No,Yes,73.6575,17.9236,Ocean/View Room,456
+India,Maharashtra,Mahabaleshwar,Mahabaleshwar Comfort Inn & Suites,4.3,4,Yes,Yes,73.6575,17.9236,Family Room,142
+India,Maharashtra,Shirdi Sai Baba Temple,The Grand Shirdi Sai Baba Temple Hotel,4.2,2,No,No,74.4768,19.765,Deluxe King,228
+India,Maharashtra,Shirdi Sai Baba Temple,Shirdi Sai Baba Temple Premium Resort,4.7,2,No,Yes,74.4768,19.765,Ocean/View Room,220
+India,Maharashtra,Shirdi Sai Baba Temple,Shirdi Sai Baba Temple Comfort Inn & Suites,3.9,3,No,Yes,74.4768,19.765,Family Room,108
+India,Maharashtra,Nashik,The Grand Nashik Hotel,4.0,4,Yes,Yes,73.7898,20.0132,Luxury Suite,280
+India,Maharashtra,Nashik,Nashik Premium Resort,4.1,2,No,Yes,73.7898,20.0132,Executive Suite,331
+India,Maharashtra,Nashik,Nashik Comfort Inn & Suites,4.2,3,No,No,73.7898,20.0132,Standard Queen,78
+India,Maharashtra,Kolhapur Palace,The Grand Kolhapur Palace Hotel,4.2,3,No,Yes,74.2251,16.6949,Deluxe King,263
+India,Maharashtra,Kolhapur Palace,Kolhapur Palace Premium Resort,4.3,3,Yes,Yes,74.2251,16.6949,Ocean/View Room,235
+India,Maharashtra,Kolhapur Palace,Kolhapur Palace Comfort Inn & Suites,3.9,2,No,Yes,74.2251,16.6949,Standard Queen,88
+India,Tamil Nadu,Meenakshi Amman Temple,The Grand Meenakshi Amman Temple Hotel,4.1,4,Yes,No,78.1194,9.9195,Luxury Suite,227
+India,Tamil Nadu,Meenakshi Amman Temple,Meenakshi Amman Temple Premium Resort,4.4,4,Yes,No,78.1194,9.9195,Ocean/View Room,479
+India,Tamil Nadu,Meenakshi Amman Temple,Meenakshi Amman Temple Comfort Inn & Suites,4.4,2,No,No,78.1194,9.9195,Family Room,116
+India,Tamil Nadu,Shore Temple Mahabalipuram,The Grand Shore Temple Mahabalipuram Hotel,4.6,2,No,Yes,80.1928,12.6172,Luxury Suite,152
+India,Tamil Nadu,Shore Temple Mahabalipuram,Shore Temple Mahabalipuram Premium Resort,4.8,2,No,No,80.1928,12.6172,Ocean/View Room,468
+India,Tamil Nadu,Shore Temple Mahabalipuram,Shore Temple Mahabalipuram Comfort Inn & Suites,4.5,3,No,No,80.1928,12.6172,Family Room,102
+India,Tamil Nadu,Brihadeeswara Temple Thanjavur,The Grand Brihadeeswara Temple Thanjavur Hotel,4.4,3,Yes,No,79.1318,10.7828,Luxury Suite,341
+India,Tamil Nadu,Brihadeeswara Temple Thanjavur,Brihadeeswara Temple Thanjavur Premium Resort,4.2,3,Yes,Yes,79.1318,10.7828,Ocean/View Room,316
+India,Tamil Nadu,Brihadeeswara Temple Thanjavur,Brihadeeswara Temple Thanjavur Comfort Inn & Suites,4.3,2,Yes,No,79.1318,10.7828,Standard Queen,89
+India,Tamil Nadu,Ooty,The Grand Ooty Hotel,4.7,4,Yes,Yes,76.695,11.4102,Luxury Suite,191
+India,Tamil Nadu,Ooty,Ooty Premium Resort,3.8,3,Yes,No,76.695,11.4102,Ocean/View Room,351
+India,Tamil Nadu,Ooty,Ooty Comfort Inn & Suites,4.0,4,Yes,No,76.695,11.4102,Family Room,86
+India,Tamil Nadu,Kodaikanal,The Grand Kodaikanal Hotel,4.2,4,Yes,No,77.4892,10.2381,Luxury Suite,153
+India,Tamil Nadu,Kodaikanal,Kodaikanal Premium Resort,4.2,3,Yes,No,77.4892,10.2381,Ocean/View Room,263
+India,Tamil Nadu,Kodaikanal,Kodaikanal Comfort Inn & Suites,3.8,4,No,No,77.4892,10.2381,Family Room,101
+India,Tamil Nadu,Marina Beach Chennai,The Grand Marina Beach Chennai Hotel,4.9,4,Yes,No,80.2824,13.05,Deluxe King,189
+India,Tamil Nadu,Marina Beach Chennai,Marina Beach Chennai Premium Resort,4.6,2,Yes,Yes,80.2824,13.05,Ocean/View Room,209
+India,Tamil Nadu,Marina Beach Chennai,Marina Beach Chennai Comfort Inn & Suites,4.2,2,No,No,80.2824,13.05,Standard Queen,104
+India,Tamil Nadu,Kanyakumari,The Grand Kanyakumari Hotel,3.9,4,Yes,Yes,77.5385,8.0883,Deluxe King,224
+India,Tamil Nadu,Kanyakumari,Kanyakumari Premium Resort,3.8,4,No,Yes,77.5385,8.0883,Ocean/View Room,279
+India,Tamil Nadu,Kanyakumari,Kanyakumari Comfort Inn & Suites,4.3,4,Yes,No,77.5385,8.0883,Family Room,86
+USA,Texas,Big Bend National Park,The Grand Big Bend National Park Hotel,4.6,3,No,No,-103.2425,29.1275,Deluxe King,186
+USA,Texas,Big Bend National Park,Big Bend National Park Premium Resort,4.1,3,No,No,-103.2425,29.1275,Executive Suite,360
+USA,Texas,Big Bend National Park,Big Bend National Park Comfort Inn & Suites,4.6,3,No,No,-103.2425,29.1275,Family Room,110
+India,Tamil Nadu,Madurai,The Grand Madurai Hotel,4.7,3,No,Yes,78.1198,9.9252,Luxury Suite,202
+India,Tamil Nadu,Madurai,Madurai Premium Resort,4.0,3,No,Yes,78.1198,9.9252,Ocean/View Room,236
+India,Tamil Nadu,Madurai,Madurai Comfort Inn & Suites,3.8,4,No,No,78.1198,9.9252,Standard Queen,128
+India,Tamil Nadu,Mudumalai National Park,The Grand Mudumalai National Park Hotel,4.3,4,Yes,Yes,76.6367,11.5717,Luxury Suite,300
+India,Tamil Nadu,Mudumalai National Park,Mudumalai National Park Premium Resort,4.1,3,Yes,No,76.6367,11.5717,Ocean/View Room,401
+India,Tamil Nadu,Mudumalai National Park,Mudumalai National Park Comfort Inn & Suites,4.4,3,Yes,Yes,76.6367,11.5717,Standard Queen,87
+India,Tamil Nadu,Vellore Fort,The Grand Vellore Fort Hotel,4.1,4,No,Yes,79.1319,12.9202,Deluxe King,314
+India,Tamil Nadu,Vellore Fort,Vellore Fort Premium Resort,4.0,4,Yes,Yes,79.1319,12.9202,Executive Suite,312
+India,Tamil Nadu,Vellore Fort,Vellore Fort Comfort Inn & Suites,4.3,2,No,No,79.1319,12.9202,Family Room,98
+India,Himachal Pradesh,Shimla,The Grand Shimla Hotel,4.5,3,Yes,No,77.1734,31.1048,Luxury Suite,249
+India,Himachal Pradesh,Shimla,Shimla Premium Resort,4.0,2,Yes,No,77.1734,31.1048,Ocean/View Room,255
+India,Himachal Pradesh,Shimla,Shimla Comfort Inn & Suites,4.2,2,No,No,77.1734,31.1048,Family Room,136
+India,Himachal Pradesh,Manali,The Grand Manali Hotel,4.8,3,Yes,No,77.1892,32.2432,Deluxe King,175
+India,Himachal Pradesh,Manali,Manali Premium Resort,4.4,4,Yes,Yes,77.1892,32.2432,Executive Suite,422
+India,Himachal Pradesh,Manali,Manali Comfort Inn & Suites,4.2,3,No,No,77.1892,32.2432,Family Room,81
+India,Himachal Pradesh,Rohtang Pass,The Grand Rohtang Pass Hotel,4.4,3,Yes,Yes,77.2453,32.3726,Luxury Suite,356
+India,Himachal Pradesh,Rohtang Pass,Rohtang Pass Premium Resort,4.1,3,No,No,77.2453,32.3726,Executive Suite,241
+India,Himachal Pradesh,Rohtang Pass,Rohtang Pass Comfort Inn & Suites,4.0,4,Yes,Yes,77.2453,32.3726,Standard Queen,114
+India,Himachal Pradesh,Spiti Valley,The Grand Spiti Valley Hotel,4.3,2,Yes,Yes,78.0335,32.2464,Luxury Suite,340
+India,Himachal Pradesh,Spiti Valley,Spiti Valley Premium Resort,4.2,4,No,Yes,78.0335,32.2464,Ocean/View Room,444
+India,Himachal Pradesh,Spiti Valley,Spiti Valley Comfort Inn & Suites,4.4,3,Yes,No,78.0335,32.2464,Standard Queen,84
+India,Himachal Pradesh,Dharamshala,The Grand Dharamshala Hotel,4.0,4,Yes,Yes,76.3234,32.219,Deluxe King,195
+India,Himachal Pradesh,Dharamshala,Dharamshala Premium Resort,4.0,2,No,Yes,76.3234,32.219,Executive Suite,207
+India,Himachal Pradesh,Dharamshala,Dharamshala Comfort Inn & Suites,4.7,3,Yes,Yes,76.3234,32.219,Standard Queen,75
+India,Himachal Pradesh,Dalhousie,The Grand Dalhousie Hotel,4.7,4,Yes,No,75.9731,32.5382,Luxury Suite,247
+India,Himachal Pradesh,Dalhousie,Dalhousie Premium Resort,3.8,3,Yes,Yes,75.9731,32.5382,Executive Suite,446
+India,Himachal Pradesh,Dalhousie,Dalhousie Comfort Inn & Suites,4.0,2,Yes,No,75.9731,32.5382,Standard Queen,80
+India,Himachal Pradesh,Kullu Valley,The Grand Kullu Valley Hotel,4.0,4,No,No,77.1089,31.9592,Deluxe King,209
+India,Himachal Pradesh,Kullu Valley,Kullu Valley Premium Resort,4.7,4,Yes,Yes,77.1089,31.9592,Executive Suite,436
+India,Himachal Pradesh,Kullu Valley,Kullu Valley Comfort Inn & Suites,4.6,4,Yes,Yes,77.1089,31.9592,Family Room,88
+India,Himachal Pradesh,Kasol,The Grand Kasol Hotel,4.8,4,Yes,Yes,77.3149,32.0098,Luxury Suite,350
+India,Himachal Pradesh,Kasol,Kasol Premium Resort,4.7,3,No,Yes,77.3149,32.0098,Ocean/View Room,475
+India,Himachal Pradesh,Kasol,Kasol Comfort Inn & Suites,4.9,2,No,No,77.3149,32.0098,Family Room,93
+India,Himachal Pradesh,Khajjiar,The Grand Khajjiar Hotel,4.4,3,Yes,No,76.0531,32.5424,Luxury Suite,334
+India,Himachal Pradesh,Khajjiar,Khajjiar Premium Resort,3.9,2,No,No,76.0531,32.5424,Ocean/View Room,428
+India,Himachal Pradesh,Khajjiar,Khajjiar Comfort Inn & Suites,4.6,2,No,No,76.0531,32.5424,Standard Queen,111
+India,Himachal Pradesh,Great Himalayan National Park,The Grand Great Himalayan National Park Hotel,4.1,4,No,No,77.488,31.748,Luxury Suite,310
+India,Himachal Pradesh,Great Himalayan National Park,Great Himalayan National Park Premium Resort,4.1,3,Yes,Yes,77.488,31.748,Ocean/View Room,477
+India,Himachal Pradesh,Great Himalayan National Park,Great Himalayan National Park Comfort Inn & Suites,4.2,2,No,Yes,77.488,31.748,Family Room,116
+India,West Bengal,Victoria Memorial Kolkata,The Grand Victoria Memorial Kolkata Hotel,4.4,4,Yes,Yes,88.3426,22.5448,Luxury Suite,305
+India,West Bengal,Victoria Memorial Kolkata,Victoria Memorial Kolkata Premium Resort,4.2,4,Yes,Yes,88.3426,22.5448,Executive Suite,348
+India,West Bengal,Victoria Memorial Kolkata,Victoria Memorial Kolkata Comfort Inn & Suites,4.9,3,Yes,No,88.3426,22.5448,Standard Queen,95
+India,West Bengal,Darjeeling Tea Estates,The Grand Darjeeling Tea Estates Hotel,4.7,4,No,No,88.2627,27.036,Deluxe King,307
+India,West Bengal,Darjeeling Tea Estates,Darjeeling Tea Estates Premium Resort,4.2,4,No,No,88.2627,27.036,Ocean/View Room,260
+India,West Bengal,Darjeeling Tea Estates,Darjeeling Tea Estates Comfort Inn & Suites,4.6,2,Yes,No,88.2627,27.036,Family Room,122
+India,West Bengal,Sundarbans National Park,The Grand Sundarbans National Park Hotel,4.1,2,Yes,Yes,89.1833,21.9497,Luxury Suite,171
+India,West Bengal,Sundarbans National Park,Sundarbans National Park Premium Resort,4.3,2,Yes,No,89.1833,21.9497,Ocean/View Room,262
+India,West Bengal,Sundarbans National Park,Sundarbans National Park Comfort Inn & Suites,4.1,4,Yes,Yes,89.1833,21.9497,Family Room,119
+India,West Bengal,Howrah Bridge,The Grand Howrah Bridge Hotel,4.0,4,No,No,88.3468,22.5851,Deluxe King,284
+India,West Bengal,Howrah Bridge,Howrah Bridge Premium Resort,4.7,4,Yes,Yes,88.3468,22.5851,Ocean/View Room,248
+India,West Bengal,Howrah Bridge,Howrah Bridge Comfort Inn & Suites,4.2,3,No,No,88.3468,22.5851,Family Room,75
+India,West Bengal,Dakshineswar Kali Temple,The Grand Dakshineswar Kali Temple Hotel,3.8,4,No,Yes,88.358,22.6545,Deluxe King,320
+India,West Bengal,Dakshineswar Kali Temple,Dakshineswar Kali Temple Premium Resort,3.9,4,No,No,88.358,22.6545,Executive Suite,432
+India,West Bengal,Dakshineswar Kali Temple,Dakshineswar Kali Temple Comfort Inn & Suites,4.5,4,No,No,88.358,22.6545,Standard Queen,123
+India,West Bengal,Bishnupur Temples,The Grand Bishnupur Temples Hotel,3.9,3,No,No,87.3155,23.0773,Deluxe King,260
+India,West Bengal,Bishnupur Temples,Bishnupur Temples Premium Resort,4.2,2,Yes,Yes,87.3155,23.0773,Ocean/View Room,342
+India,West Bengal,Bishnupur Temples,Bishnupur Temples Comfort Inn & Suites,4.7,4,Yes,No,87.3155,23.0773,Family Room,81
+India,West Bengal,Tiger Hill Darjeeling,The Grand Tiger Hill Darjeeling Hotel,4.3,3,No,No,88.2985,27.0173,Luxury Suite,244
+India,West Bengal,Tiger Hill Darjeeling,Tiger Hill Darjeeling Premium Resort,4.1,4,No,Yes,88.2985,27.0173,Executive Suite,324
+India,West Bengal,Tiger Hill Darjeeling,Tiger Hill Darjeeling Comfort Inn & Suites,3.9,2,Yes,No,88.2985,27.0173,Standard Queen,118
+India,West Bengal,Belur Math,The Grand Belur Math Hotel,4.5,3,No,No,88.3568,22.6292,Luxury Suite,336
+India,West Bengal,Belur Math,Belur Math Premium Resort,4.4,3,No,No,88.3568,22.6292,Ocean/View Room,434
+India,West Bengal,Belur Math,Belur Math Comfort Inn & Suites,3.9,3,Yes,Yes,88.3568,22.6292,Family Room,122
+India,West Bengal,Indian Museum Kolkata,The Grand Indian Museum Kolkata Hotel,4.4,4,No,Yes,88.3512,22.557,Deluxe King,292
+India,West Bengal,Indian Museum Kolkata,Indian Museum Kolkata Premium Resort,4.9,2,No,Yes,88.3512,22.557,Executive Suite,317
+India,West Bengal,Indian Museum Kolkata,Indian Museum Kolkata Comfort Inn & Suites,4.1,3,No,Yes,88.3512,22.557,Standard Queen,131
+India,West Bengal,Murshidabad,The Grand Murshidabad Hotel,3.9,3,No,Yes,88.2697,24.1834,Deluxe King,318
+India,West Bengal,Murshidabad,Murshidabad Premium Resort,4.0,2,No,No,88.2697,24.1834,Ocean/View Room,471
+India,West Bengal,Murshidabad,Murshidabad Comfort Inn & Suites,4.4,2,No,No,88.2697,24.1834,Family Room,135
+Australia,New South Wales,Sydney Opera House,The Grand Sydney Opera House Hotel,4.4,4,Yes,Yes,151.2153,-33.8568,Luxury Suite,435
+Australia,New South Wales,Sydney Opera House,Sydney Opera House Premium Resort,4.0,4,No,No,151.2153,-33.8568,Ocean/View Room,539
+Australia,New South Wales,Sydney Opera House,Sydney Opera House Comfort Inn & Suites,4.6,2,Yes,No,151.2153,-33.8568,Family Room,108
+Australia,New South Wales,Sydney Harbour Bridge,The Grand Sydney Harbour Bridge Hotel,4.1,4,No,No,151.2108,-33.8523,Deluxe King,343
+Australia,New South Wales,Sydney Harbour Bridge,Sydney Harbour Bridge Premium Resort,4.7,2,Yes,No,151.2108,-33.8523,Ocean/View Room,396
+Australia,New South Wales,Sydney Harbour Bridge,Sydney Harbour Bridge Comfort Inn & Suites,4.5,3,Yes,No,151.2108,-33.8523,Standard Queen,104
+Australia,New South Wales,Bondi Beach,The Grand Bondi Beach Hotel,4.0,2,Yes,No,151.2767,-33.8915,Deluxe King,428
+Australia,New South Wales,Bondi Beach,Bondi Beach Premium Resort,4.4,3,No,Yes,151.2767,-33.8915,Executive Suite,331
+Australia,New South Wales,Bondi Beach,Bondi Beach Comfort Inn & Suites,4.1,2,No,No,151.2767,-33.8915,Standard Queen,172
+Australia,New South Wales,Blue Mountains,The Grand Blue Mountains Hotel,4.7,4,No,Yes,150.3117,-33.7148,Luxury Suite,222
+Australia,New South Wales,Blue Mountains,Blue Mountains Premium Resort,4.1,3,Yes,No,150.3117,-33.7148,Ocean/View Room,593
+Australia,New South Wales,Blue Mountains,Blue Mountains Comfort Inn & Suites,4.5,2,No,Yes,150.3117,-33.7148,Standard Queen,104
+Australia,New South Wales,Royal Botanic Garden Sydney,The Grand Royal Botanic Garden Sydney Hotel,4.4,4,Yes,No,151.2166,-33.8642,Deluxe King,226
+Australia,New South Wales,Royal Botanic Garden Sydney,Royal Botanic Garden Sydney Premium Resort,4.1,2,No,No,151.2166,-33.8642,Ocean/View Room,370
+Australia,New South Wales,Royal Botanic Garden Sydney,Royal Botanic Garden Sydney Comfort Inn & Suites,4.8,2,Yes,Yes,151.2166,-33.8642,Standard Queen,117
+Australia,New South Wales,Hunter Valley Wineries,The Grand Hunter Valley Wineries Hotel,4.9,3,No,No,151.17,-32.79,Luxury Suite,431
+Australia,New South Wales,Hunter Valley Wineries,Hunter Valley Wineries Premium Resort,4.4,4,Yes,No,151.17,-32.79,Ocean/View Room,493
+Australia,New South Wales,Hunter Valley Wineries,Hunter Valley Wineries Comfort Inn & Suites,4.6,3,Yes,No,151.17,-32.79,Family Room,137
+Australia,New South Wales,Byron Bay,The Grand Byron Bay Hotel,4.7,2,Yes,Yes,153.602,-28.6474,Luxury Suite,309
+Australia,New South Wales,Byron Bay,Byron Bay Premium Resort,4.4,3,No,Yes,153.602,-28.6474,Executive Suite,476
+Australia,New South Wales,Byron Bay,Byron Bay Comfort Inn & Suites,4.2,3,No,No,153.602,-28.6474,Standard Queen,120
+Australia,New South Wales,Jervis Bay,The Grand Jervis Bay Hotel,4.1,2,No,No,150.76,-35.17,Deluxe King,197
+Australia,New South Wales,Jervis Bay,Jervis Bay Premium Resort,4.1,2,No,No,150.76,-35.17,Ocean/View Room,420
+Australia,New South Wales,Jervis Bay,Jervis Bay Comfort Inn & Suites,4.6,2,Yes,No,150.76,-35.17,Standard Queen,135
+Australia,New South Wales,Port Stephens,The Grand Port Stephens Hotel,4.3,4,No,No,152.091,-32.717,Luxury Suite,206
+Australia,New South Wales,Port Stephens,Port Stephens Premium Resort,4.5,2,No,Yes,152.091,-32.717,Executive Suite,455
+Australia,New South Wales,Port Stephens,Port Stephens Comfort Inn & Suites,4.0,3,No,Yes,152.091,-32.717,Standard Queen,110
+Australia,New South Wales,Snowy Mountains,The Grand Snowy Mountains Hotel,4.1,4,Yes,No,148.264,-36.4548,Deluxe King,411
+Australia,New South Wales,Snowy Mountains,Snowy Mountains Premium Resort,4.3,4,Yes,No,148.264,-36.4548,Executive Suite,553
+Australia,New South Wales,Snowy Mountains,Snowy Mountains Comfort Inn & Suites,4.7,3,Yes,Yes,148.264,-36.4548,Family Room,137
+Australia,Victoria,Great Ocean Road,The Grand Great Ocean Road Hotel,4.0,3,Yes,Yes,143.4,-38.68,Luxury Suite,297
+Australia,Victoria,Great Ocean Road,Great Ocean Road Premium Resort,4.8,3,Yes,No,143.4,-38.68,Executive Suite,275
+Australia,Victoria,Great Ocean Road,Great Ocean Road Comfort Inn & Suites,4.2,3,No,Yes,143.4,-38.68,Standard Queen,137
+Australia,Victoria,Twelve Apostles,The Grand Twelve Apostles Hotel,4.0,4,Yes,Yes,143.105,-38.6623,Deluxe King,412
+Australia,Victoria,Twelve Apostles,Twelve Apostles Premium Resort,4.7,3,Yes,Yes,143.105,-38.6623,Executive Suite,347
+Australia,Victoria,Twelve Apostles,Twelve Apostles Comfort Inn & Suites,4.8,3,No,No,143.105,-38.6623,Family Room,106
+Australia,Victoria,Federation Square Melbourne,The Grand Federation Square Melbourne Hotel,4.3,2,Yes,No,144.9691,-37.818,Luxury Suite,394
+Australia,Victoria,Federation Square Melbourne,Federation Square Melbourne Premium Resort,4.0,2,Yes,No,144.9691,-37.818,Ocean/View Room,370
+Australia,Victoria,Federation Square Melbourne,Federation Square Melbourne Comfort Inn & Suites,4.5,2,No,No,144.9691,-37.818,Standard Queen,91
+Australia,Victoria,Phillip Island Penguin Parade,The Grand Phillip Island Penguin Parade Hotel,4.3,3,No,Yes,145.3677,-38.4987,Deluxe King,396
+Australia,Victoria,Phillip Island Penguin Parade,Phillip Island Penguin Parade Premium Resort,4.6,3,Yes,Yes,145.3677,-38.4987,Executive Suite,276
+Australia,Victoria,Phillip Island Penguin Parade,Phillip Island Penguin Parade Comfort Inn & Suites,4.2,2,No,No,145.3677,-38.4987,Standard Queen,90
+Australia,Victoria,Yarra Valley,The Grand Yarra Valley Hotel,4.1,4,No,No,145.55,-37.71,Deluxe King,369
+Australia,Victoria,Yarra Valley,Yarra Valley Premium Resort,3.9,4,Yes,Yes,145.55,-37.71,Ocean/View Room,336
+Australia,Victoria,Yarra Valley,Yarra Valley Comfort Inn & Suites,4.4,3,No,Yes,145.55,-37.71,Standard Queen,130
+Australia,Victoria,Melbourne Cricket Ground,The Grand Melbourne Cricket Ground Hotel,4.6,3,Yes,No,144.9836,-37.82,Luxury Suite,340
+Australia,Victoria,Melbourne Cricket Ground,Melbourne Cricket Ground Premium Resort,3.8,2,No,No,144.9836,-37.82,Ocean/View Room,470
+Australia,Victoria,Melbourne Cricket Ground,Melbourne Cricket Ground Comfort Inn & Suites,4.1,3,No,No,144.9836,-37.82,Family Room,111
+Australia,Victoria,Sovereign Hill Ballarat,The Grand Sovereign Hill Ballarat Hotel,4.1,3,Yes,No,143.8397,-37.5683,Luxury Suite,276
+Australia,Victoria,Sovereign Hill Ballarat,Sovereign Hill Ballarat Premium Resort,4.0,2,Yes,Yes,143.8397,-37.5683,Ocean/View Room,383
+Australia,Victoria,Sovereign Hill Ballarat,Sovereign Hill Ballarat Comfort Inn & Suites,4.0,3,No,Yes,143.8397,-37.5683,Family Room,95
+Australia,Victoria,Healesville Sanctuary,The Grand Healesville Sanctuary Hotel,4.3,4,No,No,145.5163,-37.6561,Deluxe King,237
+Australia,Victoria,Healesville Sanctuary,Healesville Sanctuary Premium Resort,4.7,2,Yes,No,145.5163,-37.6561,Executive Suite,354
+Australia,Victoria,Healesville Sanctuary,Healesville Sanctuary Comfort Inn & Suites,4.8,2,Yes,No,145.5163,-37.6561,Standard Queen,164
+Australia,Victoria,Wilson's Promontory,The Grand Wilson's Promontory Hotel,4.9,2,Yes,No,146.35,-39.05,Luxury Suite,306
+Australia,Victoria,Wilson's Promontory,Wilson's Promontory Premium Resort,4.6,4,Yes,No,146.35,-39.05,Executive Suite,395
+Australia,Victoria,Wilson's Promontory,Wilson's Promontory Comfort Inn & Suites,4.5,4,Yes,No,146.35,-39.05,Family Room,165
+Australia,Victoria,Royal Botanic Gardens Melbourne,The Grand Royal Botanic Gardens Melbourne Hotel,4.8,2,No,Yes,144.9798,-37.8304,Luxury Suite,221
+Australia,Victoria,Royal Botanic Gardens Melbourne,Royal Botanic Gardens Melbourne Premium Resort,4.3,4,No,No,144.9798,-37.8304,Ocean/View Room,554
+Australia,Victoria,Royal Botanic Gardens Melbourne,Royal Botanic Gardens Melbourne Comfort Inn & Suites,4.5,3,Yes,No,144.9798,-37.8304,Family Room,162
+Australia,Queensland,Great Barrier Reef,The Grand Great Barrier Reef Hotel,3.9,2,No,No,147.6992,-18.2871,Luxury Suite,216
+Australia,Queensland,Great Barrier Reef,Great Barrier Reef Premium Resort,4.4,4,No,Yes,147.6992,-18.2871,Ocean/View Room,380
+Australia,Queensland,Great Barrier Reef,Great Barrier Reef Comfort Inn & Suites,4.0,3,Yes,Yes,147.6992,-18.2871,Standard Queen,110
+Australia,Queensland,Whitsunday Islands,The Grand Whitsunday Islands Hotel,4.2,3,No,Yes,148.83,-20.27,Luxury Suite,332
+Australia,Queensland,Whitsunday Islands,Whitsunday Islands Premium Resort,4.3,3,No,Yes,148.83,-20.27,Ocean/View Room,590
+Australia,Queensland,Whitsunday Islands,Whitsunday Islands Comfort Inn & Suites,3.9,3,Yes,No,148.83,-20.27,Family Room,139
+Australia,Queensland,Daintree Rainforest,The Grand Daintree Rainforest Hotel,4.3,4,No,Yes,145.42,-16.17,Deluxe King,368
+Australia,Queensland,Daintree Rainforest,Daintree Rainforest Premium Resort,4.5,3,No,Yes,145.42,-16.17,Executive Suite,512
+Australia,Queensland,Daintree Rainforest,Daintree Rainforest Comfort Inn & Suites,4.2,3,Yes,Yes,145.42,-16.17,Family Room,157
+Australia,Queensland,Gold Coast,The Grand Gold Coast Hotel,4.5,4,Yes,No,153.4,-28.0167,Deluxe King,403
+Australia,Queensland,Gold Coast,Gold Coast Premium Resort,3.9,3,No,Yes,153.4,-28.0167,Executive Suite,600
+Australia,Queensland,Gold Coast,Gold Coast Comfort Inn & Suites,4.8,2,No,No,153.4,-28.0167,Standard Queen,160
+Australia,Queensland,Cairns,The Grand Cairns Hotel,3.9,2,Yes,No,145.7781,-16.9186,Deluxe King,228
+Australia,Queensland,Cairns,Cairns Premium Resort,4.3,4,No,No,145.7781,-16.9186,Ocean/View Room,549
+Australia,Queensland,Cairns,Cairns Comfort Inn & Suites,3.9,4,Yes,Yes,145.7781,-16.9186,Family Room,112
+Australia,Queensland,Noosa National Park,The Grand Noosa National Park Hotel,4.7,3,Yes,Yes,153.089,-26.4003,Deluxe King,332
+Australia,Queensland,Noosa National Park,Noosa National Park Premium Resort,4.1,4,No,No,153.089,-26.4003,Ocean/View Room,424
+Australia,Queensland,Noosa National Park,Noosa National Park Comfort Inn & Suites,4.9,2,Yes,Yes,153.089,-26.4003,Standard Queen,167
+Australia,Queensland,Lamington National Park,The Grand Lamington National Park Hotel,4.1,4,Yes,No,153.15,-28.22,Luxury Suite,182
+Australia,Queensland,Lamington National Park,Lamington National Park Premium Resort,4.2,2,Yes,No,153.15,-28.22,Ocean/View Room,457
+Australia,Queensland,Lamington National Park,Lamington National Park Comfort Inn & Suites,4.8,4,No,No,153.15,-28.22,Family Room,178
+Australia,Queensland,Fraser Island,The Grand Fraser Island Hotel,4.5,4,No,No,153.2,-25.25,Luxury Suite,244
+Australia,Queensland,Fraser Island,Fraser Island Premium Resort,3.9,2,Yes,Yes,153.2,-25.25,Executive Suite,263
+Australia,Queensland,Fraser Island,Fraser Island Comfort Inn & Suites,4.0,4,Yes,Yes,153.2,-25.25,Family Room,170
+Australia,Queensland,Kuranda,The Grand Kuranda Hotel,4.7,4,Yes,Yes,145.6333,-16.8167,Deluxe King,417
+Australia,Queensland,Kuranda,Kuranda Premium Resort,4.0,3,Yes,Yes,145.6333,-16.8167,Executive Suite,328
+Australia,Queensland,Kuranda,Kuranda Comfort Inn & Suites,4.6,3,No,No,145.6333,-16.8167,Standard Queen,147
+Australia,Queensland,Atherton Tablelands,The Grand Atherton Tablelands Hotel,4.4,2,No,No,145.4833,-17.2667,Luxury Suite,350
+Australia,Queensland,Atherton Tablelands,Atherton Tablelands Premium Resort,3.8,4,No,No,145.4833,-17.2667,Ocean/View Room,546
+Australia,Queensland,Atherton Tablelands,Atherton Tablelands Comfort Inn & Suites,4.5,4,No,Yes,145.4833,-17.2667,Family Room,141
+Australia,Western Australia,Ningaloo Reef,The Grand Ningaloo Reef Hotel,4.3,4,No,Yes,113.8,-22.6,Luxury Suite,450
+Australia,Western Australia,Ningaloo Reef,Ningaloo Reef Premium Resort,3.8,4,No,Yes,113.8,-22.6,Ocean/View Room,581
+Australia,Western Australia,Ningaloo Reef,Ningaloo Reef Comfort Inn & Suites,4.3,3,Yes,No,113.8,-22.6,Family Room,147
+Australia,Western Australia,Pinnacles Desert,The Grand Pinnacles Desert Hotel,4.6,2,Yes,No,115.15,-30.6,Luxury Suite,420
+Australia,Western Australia,Pinnacles Desert,Pinnacles Desert Premium Resort,4.2,2,Yes,No,115.15,-30.6,Ocean/View Room,317
+Australia,Western Australia,Pinnacles Desert,Pinnacles Desert Comfort Inn & Suites,4.8,4,No,No,115.15,-30.6,Family Room,150
+Australia,Western Australia,Margaret River,The Grand Margaret River Hotel,4.7,2,Yes,No,115.07,-33.95,Luxury Suite,427
+Australia,Western Australia,Margaret River,Margaret River Premium Resort,3.9,2,Yes,No,115.07,-33.95,Executive Suite,462
+Australia,Western Australia,Margaret River,Margaret River Comfort Inn & Suites,4.8,3,No,Yes,115.07,-33.95,Standard Queen,161
+Australia,Western Australia,Broome Cable Beach,The Grand Broome Cable Beach Hotel,3.9,2,No,No,122.23,-17.96,Deluxe King,261
+Australia,Western Australia,Broome Cable Beach,Broome Cable Beach Premium Resort,4.0,4,Yes,Yes,122.23,-17.96,Ocean/View Room,470
+Australia,Western Australia,Broome Cable Beach,Broome Cable Beach Comfort Inn & Suites,3.9,2,Yes,Yes,122.23,-17.96,Family Room,123
+Australia,Western Australia,Wave Rock,The Grand Wave Rock Hotel,4.9,3,Yes,No,118.89,-32.44,Luxury Suite,443
+Australia,Western Australia,Wave Rock,Wave Rock Premium Resort,4.5,2,Yes,No,118.89,-32.44,Ocean/View Room,306
+Australia,Western Australia,Wave Rock,Wave Rock Comfort Inn & Suites,4.9,4,Yes,Yes,118.89,-32.44,Standard Queen,111
+Australia,Western Australia,Rottnest Island,The Grand Rottnest Island Hotel,4.5,2,No,Yes,115.5167,-32.0067,Deluxe King,406
+Australia,Western Australia,Rottnest Island,Rottnest Island Premium Resort,4.6,3,Yes,Yes,115.5167,-32.0067,Ocean/View Room,421
+Australia,Western Australia,Rottnest Island,Rottnest Island Comfort Inn & Suites,4.7,2,Yes,No,115.5167,-32.0067,Family Room,90
+Australia,Western Australia,Karijini National Park,The Grand Karijini National Park Hotel,4.1,3,No,No,118.32,-22.46,Luxury Suite,223
+Australia,Western Australia,Karijini National Park,Karijini National Park Premium Resort,4.1,4,No,No,118.32,-22.46,Executive Suite,327
+Australia,Western Australia,Karijini National Park,Karijini National Park Comfort Inn & Suites,4.6,4,No,Yes,118.32,-22.46,Standard Queen,144
+Australia,Western Australia,Perth Kings Park,The Grand Perth Kings Park Hotel,4.3,3,No,No,115.8333,-31.9567,Luxury Suite,406
+Australia,Western Australia,Perth Kings Park,Perth Kings Park Premium Resort,4.0,2,Yes,Yes,115.8333,-31.9567,Ocean/View Room,411
+Australia,Western Australia,Perth Kings Park,Perth Kings Park Comfort Inn & Suites,4.2,2,No,Yes,115.8333,-31.9567,Family Room,94
+Australia,Western Australia,Shark Bay,The Grand Shark Bay Hotel,4.5,4,Yes,Yes,113.97,-25.99,Deluxe King,394
+Australia,Western Australia,Shark Bay,Shark Bay Premium Resort,4.2,4,No,No,113.97,-25.99,Ocean/View Room,254
+Australia,Western Australia,Shark Bay,Shark Bay Comfort Inn & Suites,4.7,4,Yes,No,113.97,-25.99,Family Room,172
+Australia,Western Australia,Fremantle Prison,The Grand Fremantle Prison Hotel,4.0,4,No,No,115.751,-32.0577,Deluxe King,281
+Australia,Western Australia,Fremantle Prison,Fremantle Prison Premium Resort,4.8,2,Yes,No,115.751,-32.0577,Ocean/View Room,314
+Australia,Western Australia,Fremantle Prison,Fremantle Prison Comfort Inn & Suites,4.4,4,No,Yes,115.751,-32.0577,Standard Queen,155
+Australia,South Australia,Kangaroo Island,The Grand Kangaroo Island Hotel,4.4,4,No,Yes,137.2,-35.77,Luxury Suite,194
+Australia,South Australia,Kangaroo Island,Kangaroo Island Premium Resort,4.8,4,No,Yes,137.2,-35.77,Ocean/View Room,466
+Australia,South Australia,Kangaroo Island,Kangaroo Island Comfort Inn & Suites,4.9,2,Yes,No,137.2,-35.77,Family Room,170
+Australia,South Australia,Barossa Valley,The Grand Barossa Valley Hotel,4.4,2,Yes,Yes,139.0,-34.53,Deluxe King,332
+Australia,South Australia,Barossa Valley,Barossa Valley Premium Resort,4.4,2,No,No,139.0,-34.53,Executive Suite,547
+Australia,South Australia,Barossa Valley,Barossa Valley Comfort Inn & Suites,4.4,4,Yes,No,139.0,-34.53,Family Room,126
+Australia,South Australia,Flinders Ranges,The Grand Flinders Ranges Hotel,4.5,4,Yes,No,138.62,-31.5,Luxury Suite,233
+Australia,South Australia,Flinders Ranges,Flinders Ranges Premium Resort,4.2,4,Yes,No,138.62,-31.5,Ocean/View Room,300
+Australia,South Australia,Flinders Ranges,Flinders Ranges Comfort Inn & Suites,4.0,3,No,Yes,138.62,-31.5,Standard Queen,97
+Australia,South Australia,Coober Pedy,The Grand Coober Pedy Hotel,4.3,2,No,Yes,134.7543,-29.0135,Deluxe King,219
+Australia,South Australia,Coober Pedy,Coober Pedy Premium Resort,4.2,4,No,No,134.7543,-29.0135,Ocean/View Room,549
+Australia,South Australia,Coober Pedy,Coober Pedy Comfort Inn & Suites,4.3,3,No,No,134.7543,-29.0135,Family Room,110
+Australia,South Australia,Adelaide Central Market,The Grand Adelaide Central Market Hotel,4.0,2,No,No,138.5986,-34.9285,Luxury Suite,442
+Australia,South Australia,Adelaide Central Market,Adelaide Central Market Premium Resort,4.7,2,Yes,No,138.5986,-34.9285,Ocean/View Room,266
+Australia,South Australia,Adelaide Central Market,Adelaide Central Market Comfort Inn & Suites,4.6,4,No,Yes,138.5986,-34.9285,Family Room,104
+Australia,South Australia,McLaren Vale,The Grand McLaren Vale Hotel,3.9,4,No,Yes,138.55,-35.22,Luxury Suite,240
+Australia,South Australia,McLaren Vale,McLaren Vale Premium Resort,4.2,3,No,No,138.55,-35.22,Ocean/View Room,264
+Australia,South Australia,McLaren Vale,McLaren Vale Comfort Inn & Suites,4.7,2,No,Yes,138.55,-35.22,Family Room,126
+Australia,South Australia,Wilpena Pound,The Grand Wilpena Pound Hotel,4.0,4,No,Yes,138.6573,-31.5426,Luxury Suite,358
+Australia,South Australia,Wilpena Pound,Wilpena Pound Premium Resort,3.9,2,No,No,138.6573,-31.5426,Ocean/View Room,539
+Australia,South Australia,Wilpena Pound,Wilpena Pound Comfort Inn & Suites,4.3,3,No,No,138.6573,-31.5426,Standard Queen,107
+Australia,South Australia,Hahndorf,The Grand Hahndorf Hotel,4.4,3,No,No,138.8064,-35.0347,Luxury Suite,346
+Australia,South Australia,Hahndorf,Hahndorf Premium Resort,3.9,4,No,No,138.8064,-35.0347,Executive Suite,452
+Australia,South Australia,Hahndorf,Hahndorf Comfort Inn & Suites,4.2,2,No,No,138.8064,-35.0347,Standard Queen,111
+Australia,South Australia,Victor Harbor,The Grand Victor Harbor Hotel,4.6,4,No,Yes,138.62,-35.55,Luxury Suite,278
+Australia,South Australia,Victor Harbor,Victor Harbor Premium Resort,4.9,4,Yes,Yes,138.62,-35.55,Ocean/View Room,507
+Australia,South Australia,Victor Harbor,Victor Harbor Comfort Inn & Suites,4.8,2,Yes,Yes,138.62,-35.55,Family Room,116
+Australia,South Australia,Naracoorte Caves,The Grand Naracoorte Caves Hotel,4.1,4,No,Yes,140.78,-36.97,Deluxe King,385
+Australia,South Australia,Naracoorte Caves,Naracoorte Caves Premium Resort,4.4,3,Yes,No,140.78,-36.97,Ocean/View Room,342
+Australia,South Australia,Naracoorte Caves,Naracoorte Caves Comfort Inn & Suites,4.3,4,No,No,140.78,-36.97,Family Room,101
+Australia,Northern Territory,Uluru Ayers Rock,The Grand Uluru Ayers Rock Hotel,3.9,2,Yes,No,131.0369,-25.3444,Luxury Suite,273
+Australia,Northern Territory,Uluru Ayers Rock,Uluru Ayers Rock Premium Resort,4.1,2,Yes,No,131.0369,-25.3444,Ocean/View Room,597
+Australia,Northern Territory,Uluru Ayers Rock,Uluru Ayers Rock Comfort Inn & Suites,4.0,4,No,Yes,131.0369,-25.3444,Standard Queen,97
+Australia,Northern Territory,Kakadu National Park,The Grand Kakadu National Park Hotel,4.1,2,No,Yes,132.554,-12.663,Deluxe King,345
+Australia,Northern Territory,Kakadu National Park,Kakadu National Park Premium Resort,4.1,2,Yes,Yes,132.554,-12.663,Executive Suite,555
+Australia,Northern Territory,Kakadu National Park,Kakadu National Park Comfort Inn & Suites,4.4,3,No,Yes,132.554,-12.663,Family Room,97
+Australia,Northern Territory,Katherine Gorge,The Grand Katherine Gorge Hotel,4.2,4,No,Yes,132.426,-14.299,Deluxe King,194
+Australia,Northern Territory,Katherine Gorge,Katherine Gorge Premium Resort,4.2,2,Yes,No,132.426,-14.299,Executive Suite,376
+Australia,Northern Territory,Katherine Gorge,Katherine Gorge Comfort Inn & Suites,4.6,4,Yes,No,132.426,-14.299,Family Room,147
+Australia,Northern Territory,Litchfield National Park,The Grand Litchfield National Park Hotel,3.9,4,Yes,Yes,130.75,-13.18,Deluxe King,266
+Australia,Northern Territory,Litchfield National Park,Litchfield National Park Premium Resort,4.7,4,No,No,130.75,-13.18,Executive Suite,250
+Australia,Northern Territory,Litchfield National Park,Litchfield National Park Comfort Inn & Suites,4.7,4,No,Yes,130.75,-13.18,Standard Queen,97
+Australia,Northern Territory,Darwin Waterfront,The Grand Darwin Waterfront Hotel,4.8,3,No,No,130.8456,-12.4634,Deluxe King,359
+Australia,Northern Territory,Darwin Waterfront,Darwin Waterfront Premium Resort,4.7,2,No,Yes,130.8456,-12.4634,Executive Suite,523
+Australia,Northern Territory,Darwin Waterfront,Darwin Waterfront Comfort Inn & Suites,4.4,3,Yes,No,130.8456,-12.4634,Standard Queen,107
+Australia,Northern Territory,Devil's Marbles,The Grand Devil's Marbles Hotel,4.6,3,No,Yes,134.26,-20.54,Deluxe King,355
+Australia,Northern Territory,Devil's Marbles,Devil's Marbles Premium Resort,4.5,4,No,No,134.26,-20.54,Executive Suite,589
+Australia,Northern Territory,Devil's Marbles,Devil's Marbles Comfort Inn & Suites,4.9,3,Yes,No,134.26,-20.54,Family Room,92
+Australia,Northern Territory,Kings Canyon,The Grand Kings Canyon Hotel,4.8,2,Yes,No,131.4856,-24.2658,Luxury Suite,184
+Australia,Northern Territory,Kings Canyon,Kings Canyon Premium Resort,4.5,3,No,No,131.4856,-24.2658,Executive Suite,582
+Australia,Northern Territory,Kings Canyon,Kings Canyon Comfort Inn & Suites,4.5,4,Yes,No,131.4856,-24.2658,Standard Queen,135
+Australia,Northern Territory,Nitmiluk Gorge,The Grand Nitmiluk Gorge Hotel,4.9,3,No,No,132.426,-14.299,Luxury Suite,184
+Australia,Northern Territory,Nitmiluk Gorge,Nitmiluk Gorge Premium Resort,3.9,3,Yes,No,132.426,-14.299,Executive Suite,363
+Australia,Northern Territory,Nitmiluk Gorge,Nitmiluk Gorge Comfort Inn & Suites,4.6,3,No,Yes,132.426,-14.299,Standard Queen,168
+Australia,Northern Territory,Alice Springs,The Grand Alice Springs Hotel,4.5,4,Yes,Yes,133.8807,-23.698,Deluxe King,365
+Australia,Northern Territory,Alice Springs,Alice Springs Premium Resort,3.8,3,Yes,Yes,133.8807,-23.698,Executive Suite,576
+Australia,Northern Territory,Alice Springs,Alice Springs Comfort Inn & Suites,4.2,3,No,Yes,133.8807,-23.698,Standard Queen,174
+Australia,Northern Territory,Tiwi Islands,The Grand Tiwi Islands Hotel,4.6,4,Yes,Yes,130.75,-11.65,Luxury Suite,213
+Australia,Northern Territory,Tiwi Islands,Tiwi Islands Premium Resort,3.9,4,Yes,No,130.75,-11.65,Executive Suite,597
+Australia,Northern Territory,Tiwi Islands,Tiwi Islands Comfort Inn & Suites,3.8,4,No,No,130.75,-11.65,Standard Queen,144
+Australia,Tasmania,Cradle Mountain,The Grand Cradle Mountain Hotel,4.5,4,Yes,No,145.94,-41.65,Deluxe King,388
+Australia,Tasmania,Cradle Mountain,Cradle Mountain Premium Resort,4.1,4,No,No,145.94,-41.65,Ocean/View Room,514
+Australia,Tasmania,Cradle Mountain,Cradle Mountain Comfort Inn & Suites,4.6,4,Yes,Yes,145.94,-41.65,Family Room,143
+Australia,Tasmania,Port Arthur Historic Site,The Grand Port Arthur Historic Site Hotel,4.4,3,Yes,No,147.8503,-43.1378,Luxury Suite,351
+Australia,Tasmania,Port Arthur Historic Site,Port Arthur Historic Site Premium Resort,3.9,4,Yes,Yes,147.8503,-43.1378,Ocean/View Room,288
+Australia,Tasmania,Port Arthur Historic Site,Port Arthur Historic Site Comfort Inn & Suites,4.8,2,Yes,No,147.8503,-43.1378,Family Room,98
+Australia,Tasmania,Wineglass Bay,The Grand Wineglass Bay Hotel,4.5,2,Yes,No,148.29,-42.12,Deluxe King,192
+Australia,Tasmania,Wineglass Bay,Wineglass Bay Premium Resort,4.5,4,No,No,148.29,-42.12,Executive Suite,305
+Australia,Tasmania,Wineglass Bay,Wineglass Bay Comfort Inn & Suites,4.3,3,Yes,No,148.29,-42.12,Standard Queen,99
+Australia,Tasmania,MONA Museum Hobart,The Grand MONA Museum Hobart Hotel,4.7,4,No,Yes,147.2776,-42.8221,Deluxe King,243
+Australia,Tasmania,MONA Museum Hobart,MONA Museum Hobart Premium Resort,3.9,2,Yes,No,147.2776,-42.8221,Ocean/View Room,283
+Australia,Tasmania,MONA Museum Hobart,MONA Museum Hobart Comfort Inn & Suites,4.7,2,No,Yes,147.2776,-42.8221,Family Room,168
+Australia,Tasmania,Bay of Fires,The Grand Bay of Fires Hotel,4.5,2,Yes,Yes,148.3,-41.14,Luxury Suite,330
+Australia,Tasmania,Bay of Fires,Bay of Fires Premium Resort,4.7,3,Yes,No,148.3,-41.14,Executive Suite,556
+Australia,Tasmania,Bay of Fires,Bay of Fires Comfort Inn & Suites,4.7,4,Yes,No,148.3,-41.14,Family Room,149
+Australia,Tasmania,Mount Wellington,The Grand Mount Wellington Hotel,4.7,4,Yes,No,147.2338,-42.8954,Luxury Suite,412
+Australia,Tasmania,Mount Wellington,Mount Wellington Premium Resort,4.4,4,Yes,Yes,147.2338,-42.8954,Executive Suite,256
+Australia,Tasmania,Mount Wellington,Mount Wellington Comfort Inn & Suites,4.5,2,Yes,Yes,147.2338,-42.8954,Family Room,135
+Australia,Tasmania,Salamanca Market,The Grand Salamanca Market Hotel,4.3,4,No,Yes,147.3314,-42.8822,Luxury Suite,250
+Australia,Tasmania,Salamanca Market,Salamanca Market Premium Resort,4.7,2,Yes,No,147.3314,-42.8822,Ocean/View Room,512
+Australia,Tasmania,Salamanca Market,Salamanca Market Comfort Inn & Suites,4.9,3,No,Yes,147.3314,-42.8822,Standard Queen,150
+Australia,Tasmania,Tasman National Park,The Grand Tasman National Park Hotel,4.1,3,No,No,147.89,-43.27,Luxury Suite,445
+Australia,Tasmania,Tasman National Park,Tasman National Park Premium Resort,4.4,4,Yes,Yes,147.89,-43.27,Executive Suite,509
+Australia,Tasmania,Tasman National Park,Tasman National Park Comfort Inn & Suites,4.7,4,Yes,No,147.89,-43.27,Family Room,115
+Australia,Tasmania,Gordon Dam,The Grand Gordon Dam Hotel,4.9,4,Yes,Yes,146.02,-42.77,Deluxe King,276
+Australia,Tasmania,Gordon Dam,Gordon Dam Premium Resort,4.5,4,No,No,146.02,-42.77,Ocean/View Room,565
+Australia,Tasmania,Gordon Dam,Gordon Dam Comfort Inn & Suites,4.1,3,Yes,Yes,146.02,-42.77,Family Room,95
+Australia,Tasmania,Bicheno Blowhole,The Grand Bicheno Blowhole Hotel,4.3,2,Yes,Yes,148.31,-41.8759,Deluxe King,289
+Australia,Tasmania,Bicheno Blowhole,Bicheno Blowhole Premium Resort,4.1,4,No,No,148.31,-41.8759,Executive Suite,454
+Australia,Tasmania,Bicheno Blowhole,Bicheno Blowhole Comfort Inn & Suites,4.0,2,No,Yes,148.31,-41.8759,Standard Queen,135
+Australia,Australian Capital Territory,Australian War Memorial,The Grand Australian War Memorial Hotel,3.8,2,Yes,No,149.1506,-35.2832,Deluxe King,279
+Australia,Australian Capital Territory,Australian War Memorial,Australian War Memorial Premium Resort,4.5,3,Yes,Yes,149.1506,-35.2832,Executive Suite,351
+Australia,Australian Capital Territory,Australian War Memorial,Australian War Memorial Comfort Inn & Suites,4.1,2,No,Yes,149.1506,-35.2832,Family Room,160
+Australia,Australian Capital Territory,Parliament House Canberra,The Grand Parliament House Canberra Hotel,4.1,2,Yes,Yes,149.1244,-35.3075,Deluxe King,231
+Australia,Australian Capital Territory,Parliament House Canberra,Parliament House Canberra Premium Resort,3.8,4,Yes,No,149.1244,-35.3075,Executive Suite,423
+Australia,Australian Capital Territory,Parliament House Canberra,Parliament House Canberra Comfort Inn & Suites,4.8,3,No,Yes,149.1244,-35.3075,Family Room,137
+Australia,Australian Capital Territory,National Gallery of Australia,The Grand National Gallery of Australia Hotel,4.5,4,No,Yes,149.1343,-35.2989,Luxury Suite,253
+Australia,Australian Capital Territory,National Gallery of Australia,National Gallery of Australia Premium Resort,4.8,2,Yes,Yes,149.1343,-35.2989,Ocean/View Room,441
+Australia,Australian Capital Territory,National Gallery of Australia,National Gallery of Australia Comfort Inn & Suites,4.1,3,Yes,Yes,149.1343,-35.2989,Standard Queen,158
+Australia,Australian Capital Territory,Lake Burley Griffin,The Grand Lake Burley Griffin Hotel,4.1,2,No,Yes,149.13,-35.29,Luxury Suite,323
+Australia,Australian Capital Territory,Lake Burley Griffin,Lake Burley Griffin Premium Resort,4.8,4,No,Yes,149.13,-35.29,Executive Suite,490
+Australia,Australian Capital Territory,Lake Burley Griffin,Lake Burley Griffin Comfort Inn & Suites,4.7,4,Yes,Yes,149.13,-35.29,Family Room,172
+Australia,Australian Capital Territory,Questacon,The Grand Questacon Hotel,4.6,3,No,No,149.1322,-35.2953,Luxury Suite,344
+Australia,Australian Capital Territory,Questacon,Questacon Premium Resort,4.6,4,No,No,149.1322,-35.2953,Ocean/View Room,387
+Australia,Australian Capital Territory,Questacon,Questacon Comfort Inn & Suites,4.4,4,Yes,Yes,149.1322,-35.2953,Standard Queen,115
+Australia,Australian Capital Territory,National Arboretum,The Grand National Arboretum Hotel,4.3,2,No,Yes,149.05,-35.28,Deluxe King,397
+Australia,Australian Capital Territory,National Arboretum,National Arboretum Premium Resort,4.8,4,Yes,No,149.05,-35.28,Ocean/View Room,531
+Australia,Australian Capital Territory,National Arboretum,National Arboretum Comfort Inn & Suites,3.9,2,No,No,149.05,-35.28,Family Room,119
+Australia,Australian Capital Territory,Black Mountain Tower,The Grand Black Mountain Tower Hotel,4.4,3,No,No,149.1,-35.2753,Deluxe King,419
+Australia,Australian Capital Territory,Black Mountain Tower,Black Mountain Tower Premium Resort,4.3,3,No,No,149.1,-35.2753,Ocean/View Room,445
+Australia,Australian Capital Territory,Black Mountain Tower,Black Mountain Tower Comfort Inn & Suites,3.8,3,Yes,No,149.1,-35.2753,Standard Queen,135
+Australia,Australian Capital Territory,National Museum of Australia,The Grand National Museum of Australia Hotel,4.8,3,Yes,No,149.1166,-35.2936,Luxury Suite,230
+Australia,Australian Capital Territory,National Museum of Australia,National Museum of Australia Premium Resort,3.9,3,Yes,Yes,149.1166,-35.2936,Ocean/View Room,350
+Australia,Australian Capital Territory,National Museum of Australia,National Museum of Australia Comfort Inn & Suites,4.5,3,No,No,149.1166,-35.2936,Standard Queen,180
+Australia,Australian Capital Territory,Tidbinbilla Nature Reserve,The Grand Tidbinbilla Nature Reserve Hotel,4.5,2,No,Yes,148.96,-35.59,Deluxe King,324
+Australia,Australian Capital Territory,Tidbinbilla Nature Reserve,Tidbinbilla Nature Reserve Premium Resort,4.7,3,No,Yes,148.96,-35.59,Ocean/View Room,584
+Australia,Australian Capital Territory,Tidbinbilla Nature Reserve,Tidbinbilla Nature Reserve Comfort Inn & Suites,4.4,2,No,Yes,148.96,-35.59,Standard Queen,116
+Australia,Australian Capital Territory,Mount Ainslie,The Grand Mount Ainslie Hotel,4.3,4,No,No,149.1619,-35.2736,Deluxe King,223
+Australia,Australian Capital Territory,Mount Ainslie,Mount Ainslie Premium Resort,4.1,2,No,No,149.1619,-35.2736,Executive Suite,474
+Australia,Australian Capital Territory,Mount Ainslie,Mount Ainslie Comfort Inn & Suites,4.3,4,Yes,No,149.1619,-35.2736,Standard Queen,163
+Australia,Queensland,Townsville,The Grand Townsville Hotel,4.8,3,Yes,No,146.8169,-19.259,Deluxe King,353
+Australia,Queensland,Townsville,Townsville Premium Resort,4.0,3,No,No,146.8169,-19.259,Ocean/View Room,550
+Australia,Queensland,Townsville,Townsville Comfort Inn & Suites,3.8,2,Yes,Yes,146.8169,-19.259,Family Room,162
+Australia,Queensland,Magnetic Island,The Grand Magnetic Island Hotel,4.5,4,No,No,146.867,-19.15,Luxury Suite,380
+Australia,Queensland,Magnetic Island,Magnetic Island Premium Resort,3.9,3,Yes,No,146.867,-19.15,Executive Suite,418
+Australia,Queensland,Magnetic Island,Magnetic Island Comfort Inn & Suites,4.4,3,No,Yes,146.867,-19.15,Standard Queen,103
+Australia,Queensland,Airlie Beach,The Grand Airlie Beach Hotel,4.5,2,Yes,No,148.7186,-20.2691,Luxury Suite,275
+Australia,Queensland,Airlie Beach,Airlie Beach Premium Resort,4.0,3,No,Yes,148.7186,-20.2691,Executive Suite,399
+Australia,Queensland,Airlie Beach,Airlie Beach Comfort Inn & Suites,4.5,2,No,Yes,148.7186,-20.2691,Family Room,156
+Australia,Queensland,Longreach,The Grand Longreach Hotel,3.8,3,No,No,144.2501,-23.439,Luxury Suite,236
+Australia,Queensland,Longreach,Longreach Premium Resort,3.9,3,No,Yes,144.2501,-23.439,Ocean/View Room,355
+Australia,Queensland,Longreach,Longreach Comfort Inn & Suites,3.9,2,No,No,144.2501,-23.439,Family Room,110
+Australia,New South Wales,Coffs Harbour,The Grand Coffs Harbour Hotel,4.5,3,Yes,No,153.1135,-30.2963,Deluxe King,283
+Australia,New South Wales,Coffs Harbour,Coffs Harbour Premium Resort,3.8,2,No,Yes,153.1135,-30.2963,Ocean/View Room,559
+Australia,New South Wales,Coffs Harbour,Coffs Harbour Comfort Inn & Suites,4.7,4,No,No,153.1135,-30.2963,Family Room,149
+Australia,New South Wales,Lord Howe Island,The Grand Lord Howe Island Hotel,4.4,4,Yes,No,159.0826,-31.5533,Deluxe King,357
+Australia,New South Wales,Lord Howe Island,Lord Howe Island Premium Resort,4.6,4,No,No,159.0826,-31.5533,Executive Suite,462
+Australia,New South Wales,Lord Howe Island,Lord Howe Island Comfort Inn & Suites,4.1,4,No,No,159.0826,-31.5533,Family Room,174
+Australia,New South Wales,Broken Hill,The Grand Broken Hill Hotel,4.0,4,Yes,No,141.4685,-31.9535,Luxury Suite,302
+Australia,New South Wales,Broken Hill,Broken Hill Premium Resort,4.8,2,No,No,141.4685,-31.9535,Executive Suite,361
+Australia,New South Wales,Broken Hill,Broken Hill Comfort Inn & Suites,4.8,3,Yes,No,141.4685,-31.9535,Standard Queen,103
+Australia,New South Wales,Tamworth,The Grand Tamworth Hotel,4.4,3,No,No,150.932,-31.0927,Luxury Suite,309
+Australia,New South Wales,Tamworth,Tamworth Premium Resort,4.0,2,No,Yes,150.932,-31.0927,Executive Suite,577
+Australia,New South Wales,Tamworth,Tamworth Comfort Inn & Suites,4.6,4,No,No,150.932,-31.0927,Family Room,141
+Australia,Victoria,Grampians National Park,The Grand Grampians National Park Hotel,4.7,3,Yes,Yes,142.52,-37.27,Deluxe King,238
+Australia,Victoria,Grampians National Park,Grampians National Park Premium Resort,4.6,2,No,No,142.52,-37.27,Ocean/View Room,486
+Australia,Victoria,Grampians National Park,Grampians National Park Comfort Inn & Suites,3.9,4,Yes,No,142.52,-37.27,Standard Queen,150
+Australia,Victoria,Dandenong Ranges,The Grand Dandenong Ranges Hotel,4.7,2,Yes,Yes,145.35,-37.87,Luxury Suite,270
+Australia,Victoria,Dandenong Ranges,Dandenong Ranges Premium Resort,4.1,4,No,Yes,145.35,-37.87,Executive Suite,593
+Australia,Victoria,Dandenong Ranges,Dandenong Ranges Comfort Inn & Suites,4.6,4,No,Yes,145.35,-37.87,Family Room,135
+India,Karnataka,Mysuru Palace,The Grand Mysuru Palace Hotel,4.0,4,Yes,Yes,76.6552,12.3052,Deluxe King,163
+India,Karnataka,Mysuru Palace,Mysuru Palace Premium Resort,4.7,4,Yes,No,76.6552,12.3052,Ocean/View Room,381
+India,Karnataka,Mysuru Palace,Mysuru Palace Comfort Inn & Suites,3.9,2,Yes,No,76.6552,12.3052,Standard Queen,96
+India,Karnataka,Coorg,The Grand Coorg Hotel,4.2,2,Yes,Yes,75.8069,12.3375,Luxury Suite,316
+India,Karnataka,Coorg,Coorg Premium Resort,3.8,2,No,Yes,75.8069,12.3375,Executive Suite,289
+India,Karnataka,Coorg,Coorg Comfort Inn & Suites,4.9,2,Yes,Yes,75.8069,12.3375,Standard Queen,114
+India,Karnataka,Hampi,The Grand Hampi Hotel,4.4,3,No,Yes,76.46,15.335,Luxury Suite,305
+India,Karnataka,Hampi,Hampi Premium Resort,4.8,2,Yes,Yes,76.46,15.335,Executive Suite,345
+India,Karnataka,Hampi,Hampi Comfort Inn & Suites,4.2,2,No,No,76.46,15.335,Standard Queen,111
+India,Karnataka,Badami Caves,The Grand Badami Caves Hotel,4.0,2,Yes,No,75.68,15.92,Deluxe King,161
+India,Karnataka,Badami Caves,Badami Caves Premium Resort,3.9,2,No,No,75.68,15.92,Ocean/View Room,241
+India,Karnataka,Badami Caves,Badami Caves Comfort Inn & Suites,4.6,4,Yes,No,75.68,15.92,Standard Queen,132
+India,Karnataka,Chikmagalur,The Grand Chikmagalur Hotel,4.2,4,No,Yes,75.772,13.3161,Deluxe King,215
+India,Karnataka,Chikmagalur,Chikmagalur Premium Resort,4.5,4,No,No,75.772,13.3161,Executive Suite,336
+India,Karnataka,Chikmagalur,Chikmagalur Comfort Inn & Suites,3.8,4,No,No,75.772,13.3161,Standard Queen,123
+India,Karnataka,Kabini,The Grand Kabini Hotel,4.4,2,Yes,Yes,76.35,11.985,Luxury Suite,270
+India,Karnataka,Kabini,Kabini Premium Resort,4.1,3,Yes,Yes,76.35,11.985,Executive Suite,256
+India,Karnataka,Kabini,Kabini Comfort Inn & Suites,4.2,3,Yes,Yes,76.35,11.985,Family Room,92
+India,Karnataka,Nagarhole National Park,The Grand Nagarhole National Park Hotel,4.5,2,No,No,76.15,12.05,Luxury Suite,257
+India,Karnataka,Nagarhole National Park,Nagarhole National Park Premium Resort,4.1,2,No,No,76.15,12.05,Executive Suite,293
+India,Karnataka,Nagarhole National Park,Nagarhole National Park Comfort Inn & Suites,4.7,3,No,Yes,76.15,12.05,Standard Queen,127
+India,Karnataka,Jog Falls,The Grand Jog Falls Hotel,3.9,4,Yes,Yes,74.8037,14.2265,Deluxe King,356
+India,Karnataka,Jog Falls,Jog Falls Premium Resort,4.2,3,Yes,Yes,74.8037,14.2265,Ocean/View Room,228
+India,Karnataka,Jog Falls,Jog Falls Comfort Inn & Suites,4.8,2,Yes,Yes,74.8037,14.2265,Standard Queen,80
+India,Karnataka,Gokarna,The Grand Gokarna Hotel,4.0,4,Yes,Yes,74.3188,14.5479,Luxury Suite,318
+India,Karnataka,Gokarna,Gokarna Premium Resort,4.6,3,Yes,Yes,74.3188,14.5479,Executive Suite,373
+India,Karnataka,Gokarna,Gokarna Comfort Inn & Suites,4.0,2,No,No,74.3188,14.5479,Family Room,136
+India,Karnataka,Belur,The Grand Belur Hotel,4.0,3,Yes,No,75.8678,13.1644,Deluxe King,298
+India,Karnataka,Belur,Belur Premium Resort,4.0,3,No,No,75.8678,13.1644,Executive Suite,396
+India,Karnataka,Belur,Belur Comfort Inn & Suites,3.8,3,No,Yes,75.8678,13.1644,Family Room,132
+Japan,Fukuoka,Dazaifu Tenmangu,The Grand Dazaifu Tenmangu Hotel,4.4,4,Yes,No,130.733,33.5162,Deluxe King,458
+Japan,Fukuoka,Dazaifu Tenmangu,Dazaifu Tenmangu Premium Resort,4.1,3,No,No,130.733,33.5162,Executive Suite,462
+Japan,Fukuoka,Dazaifu Tenmangu,Dazaifu Tenmangu Comfort Inn & Suites,4.0,3,Yes,Yes,130.733,33.5162,Standard Queen,99
+Japan,Fukuoka,Fukuoka Castle,The Grand Fukuoka Castle Hotel,3.8,4,No,No,130.3906,33.5862,Deluxe King,431
+Japan,Fukuoka,Fukuoka Castle,Fukuoka Castle Premium Resort,4.8,4,No,No,130.3906,33.5862,Ocean/View Room,447
+Japan,Fukuoka,Fukuoka Castle,Fukuoka Castle Comfort Inn & Suites,4.5,4,Yes,No,130.3906,33.5862,Standard Queen,115
+Japan,Fukuoka,Canal City Hakata,The Grand Canal City Hakata Hotel,4.2,4,Yes,Yes,130.4101,33.5897,Deluxe King,341
+Japan,Fukuoka,Canal City Hakata,Canal City Hakata Premium Resort,4.6,4,No,No,130.4101,33.5897,Ocean/View Room,306
+Japan,Fukuoka,Canal City Hakata,Canal City Hakata Comfort Inn & Suites,4.5,3,Yes,Yes,130.4101,33.5897,Family Room,103
+Japan,Fukuoka,Ohori Park,The Grand Ohori Park Hotel,4.8,3,Yes,Yes,130.381,33.584,Deluxe King,454
+Japan,Fukuoka,Ohori Park,Ohori Park Premium Resort,4.8,2,No,Yes,130.381,33.584,Executive Suite,281
+Japan,Fukuoka,Ohori Park,Ohori Park Comfort Inn & Suites,3.9,2,No,No,130.381,33.584,Standard Queen,171
+Japan,Fukuoka,Itoshima,The Grand Itoshima Hotel,4.8,3,Yes,No,130.1985,33.5563,Deluxe King,367
+Japan,Fukuoka,Itoshima,Itoshima Premium Resort,4.4,4,No,No,130.1985,33.5563,Ocean/View Room,324
+Japan,Fukuoka,Itoshima,Itoshima Comfort Inn & Suites,3.9,4,No,Yes,130.1985,33.5563,Family Room,127
+Japan,Aichi,Nagoya Castle,The Grand Nagoya Castle Hotel,4.8,3,No,Yes,136.8997,35.1853,Luxury Suite,474
+Japan,Aichi,Nagoya Castle,Nagoya Castle Premium Resort,3.8,2,No,No,136.8997,35.1853,Ocean/View Room,517
+Japan,Aichi,Nagoya Castle,Nagoya Castle Comfort Inn & Suites,4.0,3,Yes,Yes,136.8997,35.1853,Standard Queen,167
+Japan,Aichi,LEGOLAND Japan,The Grand LEGOLAND Japan Hotel,4.0,2,No,Yes,136.884,35.1148,Luxury Suite,310
+Japan,Aichi,LEGOLAND Japan,LEGOLAND Japan Premium Resort,3.9,2,Yes,No,136.884,35.1148,Ocean/View Room,522
+Japan,Aichi,LEGOLAND Japan,LEGOLAND Japan Comfort Inn & Suites,4.5,4,Yes,Yes,136.884,35.1148,Standard Queen,139
+Japan,Aichi,Inuyama Castle,The Grand Inuyama Castle Hotel,3.9,2,No,Yes,136.9444,35.3796,Deluxe King,214
+Japan,Aichi,Inuyama Castle,Inuyama Castle Premium Resort,4.4,3,No,Yes,136.9444,35.3796,Executive Suite,309
+Japan,Aichi,Inuyama Castle,Inuyama Castle Comfort Inn & Suites,4.1,2,Yes,Yes,136.9444,35.3796,Standard Queen,171
+Japan,Aichi,Toyota Commemorative Museum,The Grand Toyota Commemorative Museum Hotel,4.7,3,No,No,136.8759,35.1859,Deluxe King,387
+Japan,Aichi,Toyota Commemorative Museum,Toyota Commemorative Museum Premium Resort,4.5,3,No,No,136.8759,35.1859,Ocean/View Room,409
+Japan,Aichi,Toyota Commemorative Museum,Toyota Commemorative Museum Comfort Inn & Suites,4.8,4,No,No,136.8759,35.1859,Standard Queen,148
+Japan,Aichi,Meiji Mura,The Grand Meiji Mura Hotel,4.8,2,Yes,No,136.9655,35.3607,Deluxe King,276
+Japan,Aichi,Meiji Mura,Meiji Mura Premium Resort,3.8,2,No,Yes,136.9655,35.3607,Ocean/View Room,529
+Japan,Aichi,Meiji Mura,Meiji Mura Comfort Inn & Suites,4.5,4,No,No,136.9655,35.3607,Standard Queen,99
+Australia,Victoria,Mornington Peninsula,The Grand Mornington Peninsula Hotel,4.9,3,Yes,No,145.01,-38.33,Luxury Suite,346
+Australia,Victoria,Mornington Peninsula,Mornington Peninsula Premium Resort,4.5,2,No,No,145.01,-38.33,Executive Suite,428
+Australia,Victoria,Mornington Peninsula,Mornington Peninsula Comfort Inn & Suites,4.3,3,Yes,No,145.01,-38.33,Family Room,167
+Australia,Victoria,Bright,The Grand Bright Hotel,4.0,2,Yes,Yes,146.9563,-36.7276,Deluxe King,224
+Australia,Victoria,Bright,Bright Premium Resort,4.1,4,No,Yes,146.9563,-36.7276,Ocean/View Room,309
+Australia,Victoria,Bright,Bright Comfort Inn & Suites,4.3,4,Yes,Yes,146.9563,-36.7276,Standard Queen,111
+Australia,Western Australia,Esperance,The Grand Esperance Hotel,4.6,4,Yes,Yes,121.8886,-33.8611,Deluxe King,194
+Australia,Western Australia,Esperance,Esperance Premium Resort,4.0,3,No,No,121.8886,-33.8611,Executive Suite,381
+Australia,Western Australia,Esperance,Esperance Comfort Inn & Suites,4.5,4,Yes,Yes,121.8886,-33.8611,Family Room,101
+Australia,Western Australia,Albany,The Grand Albany Hotel,4.7,3,Yes,Yes,117.8837,-35.0269,Deluxe King,373
+Australia,Western Australia,Albany,Albany Premium Resort,4.8,4,No,No,117.8837,-35.0269,Executive Suite,364
+Australia,Western Australia,Albany,Albany Comfort Inn & Suites,4.1,3,Yes,Yes,117.8837,-35.0269,Standard Queen,133
+Australia,South Australia,Coorong National Park,The Grand Coorong National Park Hotel,4.6,2,Yes,No,139.39,-35.89,Luxury Suite,340
+Australia,South Australia,Coorong National Park,Coorong National Park Premium Resort,4.8,4,Yes,No,139.39,-35.89,Executive Suite,552
+Australia,South Australia,Coorong National Park,Coorong National Park Comfort Inn & Suites,4.4,3,No,No,139.39,-35.89,Family Room,176
+Australia,Queensland,Glass House Mountains,The Grand Glass House Mountains Hotel,4.8,2,Yes,Yes,152.95,-26.89,Deluxe King,184
+Australia,Queensland,Glass House Mountains,Glass House Mountains Premium Resort,4.4,3,No,Yes,152.95,-26.89,Ocean/View Room,362
+Australia,Queensland,Glass House Mountains,Glass House Mountains Comfort Inn & Suites,4.3,3,Yes,No,152.95,-26.89,Standard Queen,175
+Australia,New South Wales,Shoalhaven,The Grand Shoalhaven Hotel,4.7,4,Yes,No,150.39,-34.9,Deluxe King,437
+Australia,New South Wales,Shoalhaven,Shoalhaven Premium Resort,4.9,2,No,No,150.39,-34.9,Executive Suite,503
+Australia,New South Wales,Shoalhaven,Shoalhaven Comfort Inn & Suites,4.1,3,Yes,No,150.39,-34.9,Standard Queen,116
+Australia,New South Wales,Mudgee,The Grand Mudgee Hotel,4.7,2,Yes,Yes,149.5833,-32.5933,Deluxe King,380
+Australia,New South Wales,Mudgee,Mudgee Premium Resort,4.1,4,Yes,Yes,149.5833,-32.5933,Ocean/View Room,422
+Australia,New South Wales,Mudgee,Mudgee Comfort Inn & Suites,4.3,3,No,No,149.5833,-32.5933,Family Room,99
+Australia,Queensland,Carnarvon Gorge,The Grand Carnarvon Gorge Hotel,4.4,3,No,Yes,148.23,-25.12,Deluxe King,229
+Australia,Queensland,Carnarvon Gorge,Carnarvon Gorge Premium Resort,3.9,4,Yes,No,148.23,-25.12,Ocean/View Room,585
+Australia,Queensland,Carnarvon Gorge,Carnarvon Gorge Comfort Inn & Suites,4.0,2,No,No,148.23,-25.12,Family Room,108
+Australia,Northern Territory,Arnhem Land,The Grand Arnhem Land Hotel,4.0,4,Yes,Yes,134.4,-12.375,Deluxe King,232
+Australia,Northern Territory,Arnhem Land,Arnhem Land Premium Resort,4.5,2,No,No,134.4,-12.375,Executive Suite,278
+Australia,Northern Territory,Arnhem Land,Arnhem Land Comfort Inn & Suites,3.9,3,Yes,Yes,134.4,-12.375,Standard Queen,155

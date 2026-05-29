@@ -1,0 +1,1501 @@
+Country,State/Province,Place Name,Restaurant Name,Type of Food,Veg or Non-Veg or Both,Longitude,Latitude
+USA,New York,Statue of Liberty,Statue of Liberty Signature Diner,American Comfort Food,Both,-74.0445,40.6892
+USA,New York,Statue of Liberty,The Green Sprout Café near Statue of Liberty,Organic Vegetarian & Vegan,Veg,-74.0445,40.6892
+USA,New York,Statue of Liberty,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-74.0445,40.6892
+USA,New York,Central Park,Central Park Signature Diner,American Comfort Food,Both,-73.9683,40.7851
+USA,New York,Central Park,The Green Sprout Café near Central Park,Organic Vegetarian & Vegan,Veg,-73.9683,40.7851
+USA,New York,Central Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-73.9683,40.7851
+USA,New York,Times Square,Times Square Signature Diner,American Comfort Food,Both,-73.9855,40.758
+USA,New York,Times Square,The Green Sprout Café near Times Square,Organic Vegetarian & Vegan,Veg,-73.9855,40.758
+USA,New York,Times Square,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-73.9855,40.758
+USA,New York,Brooklyn Bridge,Brooklyn Bridge Signature Diner,American Comfort Food,Both,-73.9969,40.7061
+USA,New York,Brooklyn Bridge,The Green Sprout Café near Brooklyn Bridge,Organic Vegetarian & Vegan,Veg,-73.9969,40.7061
+USA,New York,Brooklyn Bridge,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-73.9969,40.7061
+USA,New York,Metropolitan Museum of Art,Metropolitan Museum of Art Signature Diner,American Comfort Food,Both,-73.9632,40.7794
+USA,New York,Metropolitan Museum of Art,The Green Sprout Café near Metropolitan Museum of Art,Organic Vegetarian & Vegan,Veg,-73.9632,40.7794
+USA,New York,Metropolitan Museum of Art,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-73.9632,40.7794
+USA,New York,Empire State Building,Empire State Building Signature Diner,American Comfort Food,Both,-73.9967,40.7484
+USA,New York,Empire State Building,The Green Sprout Café near Empire State Building,Organic Vegetarian & Vegan,Veg,-73.9967,40.7484
+USA,New York,Empire State Building,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-73.9967,40.7484
+USA,New York,High Line,High Line Signature Diner,American Comfort Food,Both,-74.0048,40.748
+USA,New York,High Line,The Green Sprout Café near High Line,Organic Vegetarian & Vegan,Veg,-74.0048,40.748
+USA,New York,High Line,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-74.0048,40.748
+USA,New York,Niagara Falls,Niagara Falls Signature Diner,American Comfort Food,Both,-79.0377,43.0962
+USA,New York,Niagara Falls,The Green Sprout Café near Niagara Falls,Organic Vegetarian & Vegan,Veg,-79.0377,43.0962
+USA,New York,Niagara Falls,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-79.0377,43.0962
+USA,New York,One World Trade Center,One World Trade Center Signature Diner,American Comfort Food,Both,-74.0134,40.7127
+USA,New York,One World Trade Center,The Green Sprout Café near One World Trade Center,Organic Vegetarian & Vegan,Veg,-74.0134,40.7127
+USA,New York,One World Trade Center,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-74.0134,40.7127
+USA,New York,Rockefeller Center,Rockefeller Center Signature Diner,American Comfort Food,Both,-73.9787,40.7587
+USA,New York,Rockefeller Center,The Green Sprout Café near Rockefeller Center,Organic Vegetarian & Vegan,Veg,-73.9787,40.7587
+USA,New York,Rockefeller Center,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-73.9787,40.7587
+USA,California,Golden Gate Bridge,Golden Gate Bridge Signature Diner,American Comfort Food,Both,-122.4783,37.8199
+USA,California,Golden Gate Bridge,The Green Sprout Café near Golden Gate Bridge,Organic Vegetarian & Vegan,Veg,-122.4783,37.8199
+USA,California,Golden Gate Bridge,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-122.4783,37.8199
+USA,California,Yosemite Valley,Yosemite Valley Signature Diner,American Comfort Food,Both,-119.5936,37.7456
+USA,California,Yosemite Valley,The Green Sprout Café near Yosemite Valley,Organic Vegetarian & Vegan,Veg,-119.5936,37.7456
+USA,California,Yosemite Valley,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-119.5936,37.7456
+USA,California,Hollywood Sign,Hollywood Sign Signature Diner,American Comfort Food,Both,-118.3215,34.1341
+USA,California,Hollywood Sign,The Green Sprout Café near Hollywood Sign,Organic Vegetarian & Vegan,Veg,-118.3215,34.1341
+USA,California,Hollywood Sign,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-118.3215,34.1341
+USA,California,Disneyland,Disneyland Signature Diner,American Comfort Food,Both,-117.919,33.8121
+USA,California,Disneyland,The Green Sprout Café near Disneyland,Organic Vegetarian & Vegan,Veg,-117.919,33.8121
+USA,California,Disneyland,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-117.919,33.8121
+USA,California,Alcatraz Island,Alcatraz Island Signature Diner,American Comfort Food,Both,-122.423,37.827
+USA,California,Alcatraz Island,The Green Sprout Café near Alcatraz Island,Organic Vegetarian & Vegan,Veg,-122.423,37.827
+USA,California,Alcatraz Island,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-122.423,37.827
+USA,California,Santa Monica Pier,Santa Monica Pier Signature Diner,American Comfort Food,Both,-118.4965,34.01
+USA,California,Santa Monica Pier,The Green Sprout Café near Santa Monica Pier,Organic Vegetarian & Vegan,Veg,-118.4965,34.01
+USA,California,Santa Monica Pier,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-118.4965,34.01
+USA,California,Big Sur,Big Sur Signature Diner,American Comfort Food,Both,-121.8081,36.2704
+USA,California,Big Sur,The Green Sprout Café near Big Sur,Organic Vegetarian & Vegan,Veg,-121.8081,36.2704
+USA,California,Big Sur,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-121.8081,36.2704
+USA,California,Death Valley,Death Valley Signature Diner,American Comfort Food,Both,-117.0794,36.5054
+USA,California,Death Valley,The Green Sprout Café near Death Valley,Organic Vegetarian & Vegan,Veg,-117.0794,36.5054
+USA,California,Death Valley,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-117.0794,36.5054
+USA,California,Napa Valley,Napa Valley Signature Diner,American Comfort Food,Both,-122.2654,38.5025
+USA,California,Napa Valley,The Green Sprout Café near Napa Valley,Organic Vegetarian & Vegan,Veg,-122.2654,38.5025
+USA,California,Napa Valley,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-122.2654,38.5025
+USA,California,Lake Tahoe,Lake Tahoe Signature Diner,American Comfort Food,Both,-120.0324,39.0968
+USA,California,Lake Tahoe,The Green Sprout Café near Lake Tahoe,Organic Vegetarian & Vegan,Veg,-120.0324,39.0968
+USA,California,Lake Tahoe,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-120.0324,39.0968
+USA,Florida,Walt Disney World,Walt Disney World Signature Diner,American Comfort Food,Both,-81.5639,28.3852
+USA,Florida,Walt Disney World,The Green Sprout Café near Walt Disney World,Organic Vegetarian & Vegan,Veg,-81.5639,28.3852
+USA,Florida,Walt Disney World,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-81.5639,28.3852
+USA,Florida,Miami Beach,Miami Beach Signature Diner,American Comfort Food,Both,-80.13,25.7907
+USA,Florida,Miami Beach,The Green Sprout Café near Miami Beach,Organic Vegetarian & Vegan,Veg,-80.13,25.7907
+USA,Florida,Miami Beach,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-80.13,25.7907
+USA,Florida,Everglades National Park,Everglades National Park Signature Diner,American Comfort Food,Both,-80.8987,25.2866
+USA,Florida,Everglades National Park,The Green Sprout Café near Everglades National Park,Organic Vegetarian & Vegan,Veg,-80.8987,25.2866
+USA,Florida,Everglades National Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-80.8987,25.2866
+USA,Florida,Kennedy Space Center,Kennedy Space Center Signature Diner,American Comfort Food,Both,-80.649,28.5729
+USA,Florida,Kennedy Space Center,The Green Sprout Café near Kennedy Space Center,Organic Vegetarian & Vegan,Veg,-80.649,28.5729
+USA,Florida,Kennedy Space Center,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-80.649,28.5729
+USA,Florida,Key West,Key West Signature Diner,American Comfort Food,Both,-81.78,24.5551
+USA,Florida,Key West,The Green Sprout Café near Key West,Organic Vegetarian & Vegan,Veg,-81.78,24.5551
+USA,Florida,Key West,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-81.78,24.5551
+USA,Florida,Universal Studios Orlando,Universal Studios Orlando Signature Diner,American Comfort Food,Both,-81.4672,28.4748
+USA,Florida,Universal Studios Orlando,The Green Sprout Café near Universal Studios Orlando,Organic Vegetarian & Vegan,Veg,-81.4672,28.4748
+USA,Florida,Universal Studios Orlando,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-81.4672,28.4748
+USA,Florida,St. Augustine,St. Augustine Signature Diner,American Comfort Food,Both,-81.3145,29.8947
+USA,Florida,St. Augustine,The Green Sprout Café near St. Augustine,Organic Vegetarian & Vegan,Veg,-81.3145,29.8947
+USA,Florida,St. Augustine,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-81.3145,29.8947
+USA,Florida,Clearwater Beach,Clearwater Beach Signature Diner,American Comfort Food,Both,-82.827,27.9778
+USA,Florida,Clearwater Beach,The Green Sprout Café near Clearwater Beach,Organic Vegetarian & Vegan,Veg,-82.827,27.9778
+USA,Florida,Clearwater Beach,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-82.827,27.9778
+USA,Florida,Dry Tortugas National Park,Dry Tortugas National Park Signature Diner,American Comfort Food,Both,-82.8732,24.6285
+USA,Florida,Dry Tortugas National Park,The Green Sprout Café near Dry Tortugas National Park,Organic Vegetarian & Vegan,Veg,-82.8732,24.6285
+USA,Florida,Dry Tortugas National Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-82.8732,24.6285
+USA,Florida,Sarasota Ringling Museum,Sarasota Ringling Museum Signature Diner,American Comfort Food,Both,-82.5586,27.3861
+USA,Florida,Sarasota Ringling Museum,The Green Sprout Café near Sarasota Ringling Museum,Organic Vegetarian & Vegan,Veg,-82.5586,27.3861
+USA,Florida,Sarasota Ringling Museum,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-82.5586,27.3861
+USA,Texas,San Antonio River Walk,San Antonio River Walk Signature Diner,American Comfort Food,Both,-98.4936,29.4241
+USA,Texas,San Antonio River Walk,The Green Sprout Café near San Antonio River Walk,Organic Vegetarian & Vegan,Veg,-98.4936,29.4241
+USA,Texas,San Antonio River Walk,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-98.4936,29.4241
+USA,Texas,Space Center Houston,Space Center Houston Signature Diner,American Comfort Food,Both,-95.0981,29.5518
+USA,Texas,Space Center Houston,The Green Sprout Café near Space Center Houston,Organic Vegetarian & Vegan,Veg,-95.0981,29.5518
+USA,Texas,Space Center Houston,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-95.0981,29.5518
+USA,Texas,Big Bend National Park,Big Bend National Park Signature Diner,American Comfort Food,Both,-103.2425,29.1275
+USA,Texas,Big Bend National Park,The Green Sprout Café near Big Bend National Park,Organic Vegetarian & Vegan,Veg,-103.2425,29.1275
+USA,Texas,Big Bend National Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-103.2425,29.1275
+USA,Texas,The Alamo,The Alamo Signature Diner,American Comfort Food,Both,-98.4861,29.426
+USA,Texas,The Alamo,The Green Sprout Café near The Alamo,Organic Vegetarian & Vegan,Veg,-98.4861,29.426
+USA,Texas,The Alamo,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-98.4861,29.426
+USA,Texas,Padre Island National Seashore,Padre Island National Seashore Signature Diner,American Comfort Food,Both,-97.3806,26.6313
+USA,Texas,Padre Island National Seashore,The Green Sprout Café near Padre Island National Seashore,Organic Vegetarian & Vegan,Veg,-97.3806,26.6313
+USA,Texas,Padre Island National Seashore,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-97.3806,26.6313
+USA,Texas,Guadalupe Mountains,Guadalupe Mountains Signature Diner,American Comfort Food,Both,-104.8607,31.8923
+USA,Texas,Guadalupe Mountains,The Green Sprout Café near Guadalupe Mountains,Organic Vegetarian & Vegan,Veg,-104.8607,31.8923
+USA,Texas,Guadalupe Mountains,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-104.8607,31.8923
+USA,Texas,Austin 6th Street,Austin 6th Street Signature Diner,American Comfort Food,Both,-97.7431,30.2672
+USA,Texas,Austin 6th Street,The Green Sprout Café near Austin 6th Street,Organic Vegetarian & Vegan,Veg,-97.7431,30.2672
+USA,Texas,Austin 6th Street,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-97.7431,30.2672
+USA,Texas,Fort Worth Stockyards,Fort Worth Stockyards Signature Diner,American Comfort Food,Both,-97.348,32.7896
+USA,Texas,Fort Worth Stockyards,The Green Sprout Café near Fort Worth Stockyards,Organic Vegetarian & Vegan,Veg,-97.348,32.7896
+USA,Texas,Fort Worth Stockyards,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-97.348,32.7896
+USA,Texas,Marfa Lights,Marfa Lights Signature Diner,American Comfort Food,Both,-104.0207,30.3128
+USA,Texas,Marfa Lights,The Green Sprout Café near Marfa Lights,Organic Vegetarian & Vegan,Veg,-104.0207,30.3128
+USA,Texas,Marfa Lights,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-104.0207,30.3128
+USA,Texas,Natural Bridge Caverns,Natural Bridge Caverns Signature Diner,American Comfort Food,Both,-98.3427,29.6924
+USA,Texas,Natural Bridge Caverns,The Green Sprout Café near Natural Bridge Caverns,Organic Vegetarian & Vegan,Veg,-98.3427,29.6924
+USA,Texas,Natural Bridge Caverns,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-98.3427,29.6924
+USA,Hawaii,Waikiki Beach,Waikiki Beach Signature Diner,American Comfort Food,Both,-157.8293,21.2793
+USA,Hawaii,Waikiki Beach,The Green Sprout Café near Waikiki Beach,Organic Vegetarian & Vegan,Veg,-157.8293,21.2793
+USA,Hawaii,Waikiki Beach,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-157.8293,21.2793
+USA,Hawaii,Hawaii Volcanoes National Park,Hawaii Volcanoes National Park Signature Diner,American Comfort Food,Both,-155.2885,19.4194
+USA,Hawaii,Hawaii Volcanoes National Park,The Green Sprout Café near Hawaii Volcanoes National Park,Organic Vegetarian & Vegan,Veg,-155.2885,19.4194
+USA,Hawaii,Hawaii Volcanoes National Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-155.2885,19.4194
+USA,Hawaii,Na Pali Coast,Na Pali Coast Signature Diner,American Comfort Food,Both,-159.608,22.2074
+USA,Hawaii,Na Pali Coast,The Green Sprout Café near Na Pali Coast,Organic Vegetarian & Vegan,Veg,-159.608,22.2074
+USA,Hawaii,Na Pali Coast,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-159.608,22.2074
+USA,Hawaii,Pearl Harbor,Pearl Harbor Signature Diner,American Comfort Food,Both,-157.95,21.3645
+USA,Hawaii,Pearl Harbor,The Green Sprout Café near Pearl Harbor,Organic Vegetarian & Vegan,Veg,-157.95,21.3645
+USA,Hawaii,Pearl Harbor,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-157.95,21.3645
+USA,Hawaii,Haleakala Crater,Haleakala Crater Signature Diner,American Comfort Food,Both,-156.2533,20.7097
+USA,Hawaii,Haleakala Crater,The Green Sprout Café near Haleakala Crater,Organic Vegetarian & Vegan,Veg,-156.2533,20.7097
+USA,Hawaii,Haleakala Crater,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-156.2533,20.7097
+USA,Hawaii,Lanikai Beach,Lanikai Beach Signature Diner,American Comfort Food,Both,-157.7181,21.3906
+USA,Hawaii,Lanikai Beach,The Green Sprout Café near Lanikai Beach,Organic Vegetarian & Vegan,Veg,-157.7181,21.3906
+USA,Hawaii,Lanikai Beach,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-157.7181,21.3906
+USA,Hawaii,Waimea Canyon,Waimea Canyon Signature Diner,American Comfort Food,Both,-159.6659,22.0554
+USA,Hawaii,Waimea Canyon,The Green Sprout Café near Waimea Canyon,Organic Vegetarian & Vegan,Veg,-159.6659,22.0554
+USA,Hawaii,Waimea Canyon,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-159.6659,22.0554
+USA,Hawaii,Molokini Crater,Molokini Crater Signature Diner,American Comfort Food,Both,-156.4963,20.6317
+USA,Hawaii,Molokini Crater,The Green Sprout Café near Molokini Crater,Organic Vegetarian & Vegan,Veg,-156.4963,20.6317
+USA,Hawaii,Molokini Crater,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-156.4963,20.6317
+USA,Hawaii,Road to Hana,Road to Hana Signature Diner,American Comfort Food,Both,-156.1286,20.7984
+USA,Hawaii,Road to Hana,The Green Sprout Café near Road to Hana,Organic Vegetarian & Vegan,Veg,-156.1286,20.7984
+USA,Hawaii,Road to Hana,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-156.1286,20.7984
+USA,Hawaii,Diamond Head,Diamond Head Signature Diner,American Comfort Food,Both,-157.805,21.2625
+USA,Hawaii,Diamond Head,The Green Sprout Café near Diamond Head,Organic Vegetarian & Vegan,Veg,-157.805,21.2625
+USA,Hawaii,Diamond Head,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-157.805,21.2625
+USA,Colorado,Grand Canyon (South Rim),Grand Canyon (South Rim) Signature Diner,American Comfort Food,Both,-112.1401,36.0544
+USA,Colorado,Grand Canyon (South Rim),The Green Sprout Café near Grand Canyon (South Rim),Organic Vegetarian & Vegan,Veg,-112.1401,36.0544
+USA,Colorado,Grand Canyon (South Rim),Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-112.1401,36.0544
+USA,Colorado,Rocky Mountain National Park,Rocky Mountain National Park Signature Diner,American Comfort Food,Both,-105.6836,40.3428
+USA,Colorado,Rocky Mountain National Park,The Green Sprout Café near Rocky Mountain National Park,Organic Vegetarian & Vegan,Veg,-105.6836,40.3428
+USA,Colorado,Rocky Mountain National Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-105.6836,40.3428
+USA,Colorado,Mesa Verde National Park,Mesa Verde National Park Signature Diner,American Comfort Food,Both,-108.4898,37.1853
+USA,Colorado,Mesa Verde National Park,The Green Sprout Café near Mesa Verde National Park,Organic Vegetarian & Vegan,Veg,-108.4898,37.1853
+USA,Colorado,Mesa Verde National Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-108.4898,37.1853
+USA,Colorado,Garden of the Gods,Garden of the Gods Signature Diner,American Comfort Food,Both,-104.8864,38.8784
+USA,Colorado,Garden of the Gods,The Green Sprout Café near Garden of the Gods,Organic Vegetarian & Vegan,Veg,-104.8864,38.8784
+USA,Colorado,Garden of the Gods,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-104.8864,38.8784
+USA,Colorado,Pikes Peak,Pikes Peak Signature Diner,American Comfort Food,Both,-105.0422,38.8409
+USA,Colorado,Pikes Peak,The Green Sprout Café near Pikes Peak,Organic Vegetarian & Vegan,Veg,-105.0422,38.8409
+USA,Colorado,Pikes Peak,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-105.0422,38.8409
+USA,Colorado,Maroon Bells,Maroon Bells Signature Diner,American Comfort Food,Both,-106.989,39.0708
+USA,Colorado,Maroon Bells,The Green Sprout Café near Maroon Bells,Organic Vegetarian & Vegan,Veg,-106.989,39.0708
+USA,Colorado,Maroon Bells,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-106.989,39.0708
+USA,Colorado,Aspen Mountain,Aspen Mountain Signature Diner,American Comfort Food,Both,-106.8175,39.1911
+USA,Colorado,Aspen Mountain,The Green Sprout Café near Aspen Mountain,Organic Vegetarian & Vegan,Veg,-106.8175,39.1911
+USA,Colorado,Aspen Mountain,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-106.8175,39.1911
+USA,Colorado,Black Canyon of the Gunnison,Black Canyon of the Gunnison Signature Diner,American Comfort Food,Both,-107.7416,38.5754
+USA,Colorado,Black Canyon of the Gunnison,The Green Sprout Café near Black Canyon of the Gunnison,Organic Vegetarian & Vegan,Veg,-107.7416,38.5754
+USA,Colorado,Black Canyon of the Gunnison,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-107.7416,38.5754
+USA,Colorado,Telluride,Telluride Signature Diner,American Comfort Food,Both,-107.8123,37.9375
+USA,Colorado,Telluride,The Green Sprout Café near Telluride,Organic Vegetarian & Vegan,Veg,-107.8123,37.9375
+USA,Colorado,Telluride,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-107.8123,37.9375
+USA,Colorado,Great Sand Dunes,Great Sand Dunes Signature Diner,American Comfort Food,Both,-105.5943,37.7916
+USA,Colorado,Great Sand Dunes,The Green Sprout Café near Great Sand Dunes,Organic Vegetarian & Vegan,Veg,-105.5943,37.7916
+USA,Colorado,Great Sand Dunes,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-105.5943,37.7916
+USA,Washington,Mount Rainier,Mount Rainier Signature Diner,American Comfort Food,Both,-121.7269,46.88
+USA,Washington,Mount Rainier,The Green Sprout Café near Mount Rainier,Organic Vegetarian & Vegan,Veg,-121.7269,46.88
+USA,Washington,Mount Rainier,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-121.7269,46.88
+USA,Washington,Olympic National Park,Olympic National Park Signature Diner,American Comfort Food,Both,-123.6044,47.8021
+USA,Washington,Olympic National Park,The Green Sprout Café near Olympic National Park,Organic Vegetarian & Vegan,Veg,-123.6044,47.8021
+USA,Washington,Olympic National Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-123.6044,47.8021
+USA,Washington,Pike Place Market,Pike Place Market Signature Diner,American Comfort Food,Both,-122.3422,47.6097
+USA,Washington,Pike Place Market,The Green Sprout Café near Pike Place Market,Organic Vegetarian & Vegan,Veg,-122.3422,47.6097
+USA,Washington,Pike Place Market,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-122.3422,47.6097
+USA,Washington,Space Needle,Space Needle Signature Diner,American Comfort Food,Both,-122.3493,47.6205
+USA,Washington,Space Needle,The Green Sprout Café near Space Needle,Organic Vegetarian & Vegan,Veg,-122.3493,47.6205
+USA,Washington,Space Needle,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-122.3493,47.6205
+USA,Washington,Mount St. Helens,Mount St. Helens Signature Diner,American Comfort Food,Both,-122.1944,46.1912
+USA,Washington,Mount St. Helens,The Green Sprout Café near Mount St. Helens,Organic Vegetarian & Vegan,Veg,-122.1944,46.1912
+USA,Washington,Mount St. Helens,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-122.1944,46.1912
+USA,Washington,San Juan Islands,San Juan Islands Signature Diner,American Comfort Food,Both,-122.9728,48.532
+USA,Washington,San Juan Islands,The Green Sprout Café near San Juan Islands,Organic Vegetarian & Vegan,Veg,-122.9728,48.532
+USA,Washington,San Juan Islands,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-122.9728,48.532
+USA,Washington,Snoqualmie Falls,Snoqualmie Falls Signature Diner,American Comfort Food,Both,-121.8376,47.5416
+USA,Washington,Snoqualmie Falls,The Green Sprout Café near Snoqualmie Falls,Organic Vegetarian & Vegan,Veg,-121.8376,47.5416
+USA,Washington,Snoqualmie Falls,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-121.8376,47.5416
+USA,Washington,Hoh Rainforest,Hoh Rainforest Signature Diner,American Comfort Food,Both,-123.9351,47.8597
+USA,Washington,Hoh Rainforest,The Green Sprout Café near Hoh Rainforest,Organic Vegetarian & Vegan,Veg,-123.9351,47.8597
+USA,Washington,Hoh Rainforest,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-123.9351,47.8597
+USA,Washington,Leavenworth,Leavenworth Signature Diner,American Comfort Food,Both,-120.6615,47.5962
+USA,Washington,Leavenworth,The Green Sprout Café near Leavenworth,Organic Vegetarian & Vegan,Veg,-120.6615,47.5962
+USA,Washington,Leavenworth,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-120.6615,47.5962
+USA,Washington,Palouse Falls,Palouse Falls Signature Diner,American Comfort Food,Both,-118.2262,46.6638
+USA,Washington,Palouse Falls,The Green Sprout Café near Palouse Falls,Organic Vegetarian & Vegan,Veg,-118.2262,46.6638
+USA,Washington,Palouse Falls,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-118.2262,46.6638
+USA,Utah,Zion National Park,Zion National Park Signature Diner,American Comfort Food,Both,-113.0263,37.2982
+USA,Utah,Zion National Park,The Green Sprout Café near Zion National Park,Organic Vegetarian & Vegan,Veg,-113.0263,37.2982
+USA,Utah,Zion National Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-113.0263,37.2982
+USA,Utah,Bryce Canyon,Bryce Canyon Signature Diner,American Comfort Food,Both,-112.1871,37.593
+USA,Utah,Bryce Canyon,The Green Sprout Café near Bryce Canyon,Organic Vegetarian & Vegan,Veg,-112.1871,37.593
+USA,Utah,Bryce Canyon,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-112.1871,37.593
+USA,Utah,Arches National Park,Arches National Park Signature Diner,American Comfort Food,Both,-109.5925,38.7331
+USA,Utah,Arches National Park,The Green Sprout Café near Arches National Park,Organic Vegetarian & Vegan,Veg,-109.5925,38.7331
+USA,Utah,Arches National Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-109.5925,38.7331
+USA,Utah,Canyonlands National Park,Canyonlands National Park Signature Diner,American Comfort Food,Both,-109.9025,38.2
+USA,Utah,Canyonlands National Park,The Green Sprout Café near Canyonlands National Park,Organic Vegetarian & Vegan,Veg,-109.9025,38.2
+USA,Utah,Canyonlands National Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-109.9025,38.2
+USA,Utah,Monument Valley,Monument Valley Signature Diner,American Comfort Food,Both,-110.0985,36.9983
+USA,Utah,Monument Valley,The Green Sprout Café near Monument Valley,Organic Vegetarian & Vegan,Veg,-110.0985,36.9983
+USA,Utah,Monument Valley,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-110.0985,36.9983
+USA,Utah,Antelope Canyon,Antelope Canyon Signature Diner,American Comfort Food,Both,-111.3743,36.8619
+USA,Utah,Antelope Canyon,The Green Sprout Café near Antelope Canyon,Organic Vegetarian & Vegan,Veg,-111.3743,36.8619
+USA,Utah,Antelope Canyon,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-111.3743,36.8619
+USA,Utah,Bonneville Salt Flats,Bonneville Salt Flats Signature Diner,American Comfort Food,Both,-113.8897,40.7441
+USA,Utah,Bonneville Salt Flats,The Green Sprout Café near Bonneville Salt Flats,Organic Vegetarian & Vegan,Veg,-113.8897,40.7441
+USA,Utah,Bonneville Salt Flats,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-113.8897,40.7441
+USA,Utah,Capitol Reef National Park,Capitol Reef National Park Signature Diner,American Comfort Food,Both,-111.2615,38.367
+USA,Utah,Capitol Reef National Park,The Green Sprout Café near Capitol Reef National Park,Organic Vegetarian & Vegan,Veg,-111.2615,38.367
+USA,Utah,Capitol Reef National Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-111.2615,38.367
+USA,Utah,Natural Bridges National Monument,Natural Bridges National Monument Signature Diner,American Comfort Food,Both,-110.0086,37.6025
+USA,Utah,Natural Bridges National Monument,The Green Sprout Café near Natural Bridges National Monument,Organic Vegetarian & Vegan,Veg,-110.0086,37.6025
+USA,Utah,Natural Bridges National Monument,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-110.0086,37.6025
+USA,Utah,Dead Horse Point,Dead Horse Point Signature Diner,American Comfort Food,Both,-109.7334,38.4824
+USA,Utah,Dead Horse Point,The Green Sprout Café near Dead Horse Point,Organic Vegetarian & Vegan,Veg,-109.7334,38.4824
+USA,Utah,Dead Horse Point,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-109.7334,38.4824
+USA,Alaska,Denali National Park,Denali National Park Signature Diner,American Comfort Food,Both,-150.501,63.3333
+USA,Alaska,Denali National Park,The Green Sprout Café near Denali National Park,Organic Vegetarian & Vegan,Veg,-150.501,63.3333
+USA,Alaska,Denali National Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-150.501,63.3333
+USA,Alaska,Glacier Bay National Park,Glacier Bay National Park Signature Diner,American Comfort Food,Both,-136.9,58.6658
+USA,Alaska,Glacier Bay National Park,The Green Sprout Café near Glacier Bay National Park,Organic Vegetarian & Vegan,Veg,-136.9,58.6658
+USA,Alaska,Glacier Bay National Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-136.9,58.6658
+USA,Alaska,Kenai Fjords National Park,Kenai Fjords National Park Signature Diner,American Comfort Food,Both,-149.6517,59.9198
+USA,Alaska,Kenai Fjords National Park,The Green Sprout Café near Kenai Fjords National Park,Organic Vegetarian & Vegan,Veg,-149.6517,59.9198
+USA,Alaska,Kenai Fjords National Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-149.6517,59.9198
+USA,Alaska,Tongass National Forest,Tongass National Forest Signature Diner,American Comfort Food,Both,-133.38,56.4897
+USA,Alaska,Tongass National Forest,The Green Sprout Café near Tongass National Forest,Organic Vegetarian & Vegan,Veg,-133.38,56.4897
+USA,Alaska,Tongass National Forest,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-133.38,56.4897
+USA,Alaska,Aurora Borealis viewing Fairbanks,Aurora Borealis viewing Fairbanks Signature Diner,American Comfort Food,Both,-147.72,64.8401
+USA,Alaska,Aurora Borealis viewing Fairbanks,The Green Sprout Café near Aurora Borealis viewing Fairbanks,Organic Vegetarian & Vegan,Veg,-147.72,64.8401
+USA,Alaska,Aurora Borealis viewing Fairbanks,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-147.72,64.8401
+USA,Alaska,Mendenhall Glacier,Mendenhall Glacier Signature Diner,American Comfort Food,Both,-134.5555,58.4166
+USA,Alaska,Mendenhall Glacier,The Green Sprout Café near Mendenhall Glacier,Organic Vegetarian & Vegan,Veg,-134.5555,58.4166
+USA,Alaska,Mendenhall Glacier,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-134.5555,58.4166
+USA,Alaska,Katmai National Park,Katmai National Park Signature Diner,American Comfort Food,Both,-154.976,58.61
+USA,Alaska,Katmai National Park,The Green Sprout Café near Katmai National Park,Organic Vegetarian & Vegan,Veg,-154.976,58.61
+USA,Alaska,Katmai National Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-154.976,58.61
+USA,Alaska,Wrangell-St. Elias National Park,Wrangell-St. Elias National Park Signature Diner,American Comfort Food,Both,-142.9856,61.7104
+USA,Alaska,Wrangell-St. Elias National Park,The Green Sprout Café near Wrangell-St. Elias National Park,Organic Vegetarian & Vegan,Veg,-142.9856,61.7104
+USA,Alaska,Wrangell-St. Elias National Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-142.9856,61.7104
+USA,Alaska,Sitka National Historical Park,Sitka National Historical Park Signature Diner,American Comfort Food,Both,-135.33,57.0488
+USA,Alaska,Sitka National Historical Park,The Green Sprout Café near Sitka National Historical Park,Organic Vegetarian & Vegan,Veg,-135.33,57.0488
+USA,Alaska,Sitka National Historical Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-135.33,57.0488
+USA,Alaska,Kodiak Island,Kodiak Island Signature Diner,American Comfort Food,Both,-152.4072,57.79
+USA,Alaska,Kodiak Island,The Green Sprout Café near Kodiak Island,Organic Vegetarian & Vegan,Veg,-152.4072,57.79
+USA,Alaska,Kodiak Island,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-152.4072,57.79
+USA,Nevada,Las Vegas Strip,Las Vegas Strip Signature Diner,American Comfort Food,Both,-115.1728,36.1147
+USA,Nevada,Las Vegas Strip,The Green Sprout Café near Las Vegas Strip,Organic Vegetarian & Vegan,Veg,-115.1728,36.1147
+USA,Nevada,Las Vegas Strip,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-115.1728,36.1147
+USA,Nevada,Hoover Dam,Hoover Dam Signature Diner,American Comfort Food,Both,-114.7377,36.0161
+USA,Nevada,Hoover Dam,The Green Sprout Café near Hoover Dam,Organic Vegetarian & Vegan,Veg,-114.7377,36.0161
+USA,Nevada,Hoover Dam,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-114.7377,36.0161
+USA,Nevada,Valley of Fire State Park,Valley of Fire State Park Signature Diner,American Comfort Food,Both,-114.532,36.482
+USA,Nevada,Valley of Fire State Park,The Green Sprout Café near Valley of Fire State Park,Organic Vegetarian & Vegan,Veg,-114.532,36.482
+USA,Nevada,Valley of Fire State Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-114.532,36.482
+USA,Nevada,Lake Mead,Lake Mead Signature Diner,American Comfort Food,Both,-114.738,36.157
+USA,Nevada,Lake Mead,The Green Sprout Café near Lake Mead,Organic Vegetarian & Vegan,Veg,-114.738,36.157
+USA,Nevada,Lake Mead,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-114.738,36.157
+USA,Nevada,Red Rock Canyon,Red Rock Canyon Signature Diner,American Comfort Food,Both,-115.4281,36.135
+USA,Nevada,Red Rock Canyon,The Green Sprout Café near Red Rock Canyon,Organic Vegetarian & Vegan,Veg,-115.4281,36.135
+USA,Nevada,Red Rock Canyon,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-115.4281,36.135
+USA,Nevada,Great Basin National Park,Great Basin National Park Signature Diner,American Comfort Food,Both,-114.2139,38.9834
+USA,Nevada,Great Basin National Park,The Green Sprout Café near Great Basin National Park,Organic Vegetarian & Vegan,Veg,-114.2139,38.9834
+USA,Nevada,Great Basin National Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-114.2139,38.9834
+USA,Nevada,Virginia City,Virginia City Signature Diner,American Comfort Food,Both,-119.6503,39.3099
+USA,Nevada,Virginia City,The Green Sprout Café near Virginia City,Organic Vegetarian & Vegan,Veg,-119.6503,39.3099
+USA,Nevada,Virginia City,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-119.6503,39.3099
+USA,Nevada,Lehman Caves,Lehman Caves Signature Diner,American Comfort Food,Both,-114.2138,38.9833
+USA,Nevada,Lehman Caves,The Green Sprout Café near Lehman Caves,Organic Vegetarian & Vegan,Veg,-114.2138,38.9833
+USA,Nevada,Lehman Caves,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-114.2138,38.9833
+USA,Nevada,Berlin Ichthyosaur State Park,Berlin Ichthyosaur State Park Signature Diner,American Comfort Food,Both,-117.5877,38.6993
+USA,Nevada,Berlin Ichthyosaur State Park,The Green Sprout Café near Berlin Ichthyosaur State Park,Organic Vegetarian & Vegan,Veg,-117.5877,38.6993
+USA,Nevada,Berlin Ichthyosaur State Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-117.5877,38.6993
+USA,Nevada,Cathedral Gorge State Park,Cathedral Gorge State Park Signature Diner,American Comfort Food,Both,-114.4027,37.8071
+USA,Nevada,Cathedral Gorge State Park,The Green Sprout Café near Cathedral Gorge State Park,Organic Vegetarian & Vegan,Veg,-114.4027,37.8071
+USA,Nevada,Cathedral Gorge State Park,Summit Grill & Steakhouse,Premium Steaks & Seafood,Non-Veg,-114.4027,37.8071
+France,Île-de-France,Eiffel Tower,Le Bistro de Eiffel Tower,Classic French Cuisine,Both,2.2945,48.8584
+France,Île-de-France,Eiffel Tower,Café des Arts,Artisanal Bakery & Coffee,Veg,2.2945,48.8584
+France,Île-de-France,Eiffel Tower,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,2.2945,48.8584
+France,Île-de-France,Louvre Museum,Le Bistro de Louvre Museum,Classic French Cuisine,Both,2.3376,48.8606
+France,Île-de-France,Louvre Museum,Café des Arts,Artisanal Bakery & Coffee,Veg,2.3376,48.8606
+France,Île-de-France,Louvre Museum,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,2.3376,48.8606
+France,Île-de-France,Notre-Dame Cathedral,Le Bistro de Notre-Dame Cathedral,Classic French Cuisine,Both,2.3499,48.853
+France,Île-de-France,Notre-Dame Cathedral,Café des Arts,Artisanal Bakery & Coffee,Veg,2.3499,48.853
+France,Île-de-France,Notre-Dame Cathedral,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,2.3499,48.853
+France,Île-de-France,Palace of Versailles,Le Bistro de Palace of Versailles,Classic French Cuisine,Both,2.1204,48.8049
+France,Île-de-France,Palace of Versailles,Café des Arts,Artisanal Bakery & Coffee,Veg,2.1204,48.8049
+France,Île-de-France,Palace of Versailles,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,2.1204,48.8049
+France,Île-de-France,Musée d'Orsay,Le Bistro de Musée d'Orsay,Classic French Cuisine,Both,2.3266,48.86
+France,Île-de-France,Musée d'Orsay,Café des Arts,Artisanal Bakery & Coffee,Veg,2.3266,48.86
+France,Île-de-France,Musée d'Orsay,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,2.3266,48.86
+France,Île-de-France,Arc de Triomphe,Le Bistro de Arc de Triomphe,Classic French Cuisine,Both,2.295,48.8738
+France,Île-de-France,Arc de Triomphe,Café des Arts,Artisanal Bakery & Coffee,Veg,2.295,48.8738
+France,Île-de-France,Arc de Triomphe,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,2.295,48.8738
+France,Île-de-France,Sacré-Cœur Basilica,Le Bistro de Sacré-Cœur Basilica,Classic French Cuisine,Both,2.3431,48.8867
+France,Île-de-France,Sacré-Cœur Basilica,Café des Arts,Artisanal Bakery & Coffee,Veg,2.3431,48.8867
+France,Île-de-France,Sacré-Cœur Basilica,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,2.3431,48.8867
+France,Île-de-France,Champs-Élysées,Le Bistro de Champs-Élysées,Classic French Cuisine,Both,2.3078,48.8698
+France,Île-de-France,Champs-Élysées,Café des Arts,Artisanal Bakery & Coffee,Veg,2.3078,48.8698
+France,Île-de-France,Champs-Élysées,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,2.3078,48.8698
+France,Île-de-France,Sainte-Chapelle,Le Bistro de Sainte-Chapelle,Classic French Cuisine,Both,2.345,48.8554
+France,Île-de-France,Sainte-Chapelle,Café des Arts,Artisanal Bakery & Coffee,Veg,2.345,48.8554
+France,Île-de-France,Sainte-Chapelle,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,2.345,48.8554
+France,Île-de-France,Centre Pompidou,Le Bistro de Centre Pompidou,Classic French Cuisine,Both,2.3522,48.8606
+France,Île-de-France,Centre Pompidou,Café des Arts,Artisanal Bakery & Coffee,Veg,2.3522,48.8606
+France,Île-de-France,Centre Pompidou,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,2.3522,48.8606
+France,Provence-Alpes-Côte d'Azur,French Riviera Nice,Le Bistro de French Riviera Nice,Classic French Cuisine,Both,7.262,43.7102
+France,Provence-Alpes-Côte d'Azur,French Riviera Nice,Café des Arts,Artisanal Bakery & Coffee,Veg,7.262,43.7102
+France,Provence-Alpes-Côte d'Azur,French Riviera Nice,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,7.262,43.7102
+France,Provence-Alpes-Côte d'Azur,Palace of the Popes Avignon,Le Bistro de Palace of the Popes Avignon,Classic French Cuisine,Both,4.8059,43.9493
+France,Provence-Alpes-Côte d'Azur,Palace of the Popes Avignon,Café des Arts,Artisanal Bakery & Coffee,Veg,4.8059,43.9493
+France,Provence-Alpes-Côte d'Azur,Palace of the Popes Avignon,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,4.8059,43.9493
+France,Provence-Alpes-Côte d'Azur,Gorges du Verdon,Le Bistro de Gorges du Verdon,Classic French Cuisine,Both,6.3618,43.7434
+France,Provence-Alpes-Côte d'Azur,Gorges du Verdon,Café des Arts,Artisanal Bakery & Coffee,Veg,6.3618,43.7434
+France,Provence-Alpes-Côte d'Azur,Gorges du Verdon,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,6.3618,43.7434
+France,Provence-Alpes-Côte d'Azur,Calanques National Park,Le Bistro de Calanques National Park,Classic French Cuisine,Both,5.4418,43.2148
+France,Provence-Alpes-Côte d'Azur,Calanques National Park,Café des Arts,Artisanal Bakery & Coffee,Veg,5.4418,43.2148
+France,Provence-Alpes-Côte d'Azur,Calanques National Park,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,5.4418,43.2148
+France,Provence-Alpes-Côte d'Azur,Pont du Gard,Le Bistro de Pont du Gard,Classic French Cuisine,Both,4.5353,43.9474
+France,Provence-Alpes-Côte d'Azur,Pont du Gard,Café des Arts,Artisanal Bakery & Coffee,Veg,4.5353,43.9474
+France,Provence-Alpes-Côte d'Azur,Pont du Gard,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,4.5353,43.9474
+France,Provence-Alpes-Côte d'Azur,Les Baux-de-Provence,Le Bistro de Les Baux-de-Provence,Classic French Cuisine,Both,4.7939,43.7444
+France,Provence-Alpes-Côte d'Azur,Les Baux-de-Provence,Café des Arts,Artisanal Bakery & Coffee,Veg,4.7939,43.7444
+France,Provence-Alpes-Côte d'Azur,Les Baux-de-Provence,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,4.7939,43.7444
+France,Provence-Alpes-Côte d'Azur,Monaco,Le Bistro de Monaco,Classic French Cuisine,Both,7.4246,43.7384
+France,Provence-Alpes-Côte d'Azur,Monaco,Café des Arts,Artisanal Bakery & Coffee,Veg,7.4246,43.7384
+France,Provence-Alpes-Côte d'Azur,Monaco,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,7.4246,43.7384
+France,Provence-Alpes-Côte d'Azur,Lavender Fields Valensole,Le Bistro de Lavender Fields Valensole,Classic French Cuisine,Both,5.9892,43.8342
+France,Provence-Alpes-Côte d'Azur,Lavender Fields Valensole,Café des Arts,Artisanal Bakery & Coffee,Veg,5.9892,43.8342
+France,Provence-Alpes-Côte d'Azur,Lavender Fields Valensole,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,5.9892,43.8342
+France,Provence-Alpes-Côte d'Azur,Aix-en-Provence,Le Bistro de Aix-en-Provence,Classic French Cuisine,Both,5.4474,43.5297
+France,Provence-Alpes-Côte d'Azur,Aix-en-Provence,Café des Arts,Artisanal Bakery & Coffee,Veg,5.4474,43.5297
+France,Provence-Alpes-Côte d'Azur,Aix-en-Provence,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,5.4474,43.5297
+France,Provence-Alpes-Côte d'Azur,Saint-Tropez,Le Bistro de Saint-Tropez,Classic French Cuisine,Both,6.6403,43.2677
+France,Provence-Alpes-Côte d'Azur,Saint-Tropez,Café des Arts,Artisanal Bakery & Coffee,Veg,6.6403,43.2677
+France,Provence-Alpes-Côte d'Azur,Saint-Tropez,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,6.6403,43.2677
+France,Occitanie,Carcassonne,Le Bistro de Carcassonne,Classic French Cuisine,Both,2.353,43.2119
+France,Occitanie,Carcassonne,Café des Arts,Artisanal Bakery & Coffee,Veg,2.353,43.2119
+France,Occitanie,Carcassonne,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,2.353,43.2119
+France,Occitanie,Mont-Saint-Michel,Le Bistro de Mont-Saint-Michel,Classic French Cuisine,Both,-1.5115,48.6361
+France,Occitanie,Mont-Saint-Michel,Café des Arts,Artisanal Bakery & Coffee,Veg,-1.5115,48.6361
+France,Occitanie,Mont-Saint-Michel,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-1.5115,48.6361
+France,Occitanie,Millau Viaduct,Le Bistro de Millau Viaduct,Classic French Cuisine,Both,3.0228,44.098
+France,Occitanie,Millau Viaduct,Café des Arts,Artisanal Bakery & Coffee,Veg,3.0228,44.098
+France,Occitanie,Millau Viaduct,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,3.0228,44.098
+France,Occitanie,Lascaux Caves,Le Bistro de Lascaux Caves,Classic French Cuisine,Both,1.0665,45.0543
+France,Occitanie,Lascaux Caves,Café des Arts,Artisanal Bakery & Coffee,Veg,1.0665,45.0543
+France,Occitanie,Lascaux Caves,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,1.0665,45.0543
+France,Occitanie,Toulouse,Le Bistro de Toulouse,Classic French Cuisine,Both,1.4442,43.6047
+France,Occitanie,Toulouse,Café des Arts,Artisanal Bakery & Coffee,Veg,1.4442,43.6047
+France,Occitanie,Toulouse,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,1.4442,43.6047
+France,Occitanie,Montpellier,Le Bistro de Montpellier,Classic French Cuisine,Both,3.8767,43.6112
+France,Occitanie,Montpellier,Café des Arts,Artisanal Bakery & Coffee,Veg,3.8767,43.6112
+France,Occitanie,Montpellier,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,3.8767,43.6112
+France,Occitanie,Nimes,Le Bistro de Nimes,Classic French Cuisine,Both,4.3601,43.8367
+France,Occitanie,Nimes,Café des Arts,Artisanal Bakery & Coffee,Veg,4.3601,43.8367
+France,Occitanie,Nimes,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,4.3601,43.8367
+France,Occitanie,Collioure,Le Bistro de Collioure,Classic French Cuisine,Both,3.084,42.5265
+France,Occitanie,Collioure,Café des Arts,Artisanal Bakery & Coffee,Veg,3.084,42.5265
+France,Occitanie,Collioure,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,3.084,42.5265
+France,Occitanie,Pyrénées National Park,Le Bistro de Pyrénées National Park,Classic French Cuisine,Both,0.1587,42.7462
+France,Occitanie,Pyrénées National Park,Café des Arts,Artisanal Bakery & Coffee,Veg,0.1587,42.7462
+France,Occitanie,Pyrénées National Park,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,0.1587,42.7462
+France,Occitanie,Dordogne Valley,Le Bistro de Dordogne Valley,Classic French Cuisine,Both,0.7808,44.8378
+France,Occitanie,Dordogne Valley,Café des Arts,Artisanal Bakery & Coffee,Veg,0.7808,44.8378
+France,Occitanie,Dordogne Valley,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,0.7808,44.8378
+France,Auvergne-Rhône-Alpes,Mont Blanc,Le Bistro de Mont Blanc,Classic French Cuisine,Both,6.8652,45.8326
+France,Auvergne-Rhône-Alpes,Mont Blanc,Café des Arts,Artisanal Bakery & Coffee,Veg,6.8652,45.8326
+France,Auvergne-Rhône-Alpes,Mont Blanc,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,6.8652,45.8326
+France,Auvergne-Rhône-Alpes,Chamonix,Le Bistro de Chamonix,Classic French Cuisine,Both,6.8694,45.9237
+France,Auvergne-Rhône-Alpes,Chamonix,Café des Arts,Artisanal Bakery & Coffee,Veg,6.8694,45.9237
+France,Auvergne-Rhône-Alpes,Chamonix,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,6.8694,45.9237
+France,Auvergne-Rhône-Alpes,Annecy,Le Bistro de Annecy,Classic French Cuisine,Both,6.1294,45.8992
+France,Auvergne-Rhône-Alpes,Annecy,Café des Arts,Artisanal Bakery & Coffee,Veg,6.1294,45.8992
+France,Auvergne-Rhône-Alpes,Annecy,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,6.1294,45.8992
+France,Auvergne-Rhône-Alpes,Lyon Old Town,Le Bistro de Lyon Old Town,Classic French Cuisine,Both,4.8357,45.764
+France,Auvergne-Rhône-Alpes,Lyon Old Town,Café des Arts,Artisanal Bakery & Coffee,Veg,4.8357,45.764
+France,Auvergne-Rhône-Alpes,Lyon Old Town,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,4.8357,45.764
+France,Auvergne-Rhône-Alpes,Gorges de l'Ardèche,Le Bistro de Gorges de l'Ardèche,Classic French Cuisine,Both,4.4145,44.3755
+France,Auvergne-Rhône-Alpes,Gorges de l'Ardèche,Café des Arts,Artisanal Bakery & Coffee,Veg,4.4145,44.3755
+France,Auvergne-Rhône-Alpes,Gorges de l'Ardèche,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,4.4145,44.3755
+France,Auvergne-Rhône-Alpes,Puy de Dôme,Le Bistro de Puy de Dôme,Classic French Cuisine,Both,2.9647,45.7733
+France,Auvergne-Rhône-Alpes,Puy de Dôme,Café des Arts,Artisanal Bakery & Coffee,Veg,2.9647,45.7733
+France,Auvergne-Rhône-Alpes,Puy de Dôme,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,2.9647,45.7733
+France,Auvergne-Rhône-Alpes,Vercors Regional Park,Le Bistro de Vercors Regional Park,Classic French Cuisine,Both,5.42,45.02
+France,Auvergne-Rhône-Alpes,Vercors Regional Park,Café des Arts,Artisanal Bakery & Coffee,Veg,5.42,45.02
+France,Auvergne-Rhône-Alpes,Vercors Regional Park,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,5.42,45.02
+France,Auvergne-Rhône-Alpes,Grenoble Bastille,Le Bistro de Grenoble Bastille,Classic French Cuisine,Both,5.7259,45.1913
+France,Auvergne-Rhône-Alpes,Grenoble Bastille,Café des Arts,Artisanal Bakery & Coffee,Veg,5.7259,45.1913
+France,Auvergne-Rhône-Alpes,Grenoble Bastille,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,5.7259,45.1913
+France,Auvergne-Rhône-Alpes,Belledonne Mountains,Le Bistro de Belledonne Mountains,Classic French Cuisine,Both,5.98,45.22
+France,Auvergne-Rhône-Alpes,Belledonne Mountains,Café des Arts,Artisanal Bakery & Coffee,Veg,5.98,45.22
+France,Auvergne-Rhône-Alpes,Belledonne Mountains,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,5.98,45.22
+France,Auvergne-Rhône-Alpes,Lac du Bourget,Le Bistro de Lac du Bourget,Classic French Cuisine,Both,5.8678,45.7417
+France,Auvergne-Rhône-Alpes,Lac du Bourget,Café des Arts,Artisanal Bakery & Coffee,Veg,5.8678,45.7417
+France,Auvergne-Rhône-Alpes,Lac du Bourget,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,5.8678,45.7417
+France,Brittany,Saint-Malo,Le Bistro de Saint-Malo,Classic French Cuisine,Both,-2.0252,48.6492
+France,Brittany,Saint-Malo,Café des Arts,Artisanal Bakery & Coffee,Veg,-2.0252,48.6492
+France,Brittany,Saint-Malo,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-2.0252,48.6492
+France,Brittany,Carnac Stones,Le Bistro de Carnac Stones,Classic French Cuisine,Both,-3.0693,47.5941
+France,Brittany,Carnac Stones,Café des Arts,Artisanal Bakery & Coffee,Veg,-3.0693,47.5941
+France,Brittany,Carnac Stones,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-3.0693,47.5941
+France,Brittany,Île de Bréhat,Le Bistro de Île de Bréhat,Classic French Cuisine,Both,-3.001,48.8424
+France,Brittany,Île de Bréhat,Café des Arts,Artisanal Bakery & Coffee,Veg,-3.001,48.8424
+France,Brittany,Île de Bréhat,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-3.001,48.8424
+France,Brittany,Quimper Cathedral,Le Bistro de Quimper Cathedral,Classic French Cuisine,Both,-4.099,47.9965
+France,Brittany,Quimper Cathedral,Café des Arts,Artisanal Bakery & Coffee,Veg,-4.099,47.9965
+France,Brittany,Quimper Cathedral,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-4.099,47.9965
+France,Brittany,Cap Fréhel,Le Bistro de Cap Fréhel,Classic French Cuisine,Both,-2.3117,48.6844
+France,Brittany,Cap Fréhel,Café des Arts,Artisanal Bakery & Coffee,Veg,-2.3117,48.6844
+France,Brittany,Cap Fréhel,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-2.3117,48.6844
+France,Brittany,Brest Oceanopolis,Le Bistro de Brest Oceanopolis,Classic French Cuisine,Both,-4.5089,48.3783
+France,Brittany,Brest Oceanopolis,Café des Arts,Artisanal Bakery & Coffee,Veg,-4.5089,48.3783
+France,Brittany,Brest Oceanopolis,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-4.5089,48.3783
+France,Brittany,Concarneau,Le Bistro de Concarneau,Classic French Cuisine,Both,-3.9195,47.8746
+France,Brittany,Concarneau,Café des Arts,Artisanal Bakery & Coffee,Veg,-3.9195,47.8746
+France,Brittany,Concarneau,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-3.9195,47.8746
+France,Brittany,Locronan,Le Bistro de Locronan,Classic French Cuisine,Both,-4.2057,48.0995
+France,Brittany,Locronan,Café des Arts,Artisanal Bakery & Coffee,Veg,-4.2057,48.0995
+France,Brittany,Locronan,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-4.2057,48.0995
+France,Brittany,Finistère Coast,Le Bistro de Finistère Coast,Classic French Cuisine,Both,-4.46,48.4
+France,Brittany,Finistère Coast,Café des Arts,Artisanal Bakery & Coffee,Veg,-4.46,48.4
+France,Brittany,Finistère Coast,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-4.46,48.4
+France,Brittany,Pointe du Raz,Le Bistro de Pointe du Raz,Classic French Cuisine,Both,-4.7325,48.0374
+France,Brittany,Pointe du Raz,Café des Arts,Artisanal Bakery & Coffee,Veg,-4.7325,48.0374
+France,Brittany,Pointe du Raz,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-4.7325,48.0374
+France,Grand Est,Strasbourg Cathedral,Le Bistro de Strasbourg Cathedral,Classic French Cuisine,Both,7.7509,48.5818
+France,Grand Est,Strasbourg Cathedral,Café des Arts,Artisanal Bakery & Coffee,Veg,7.7509,48.5818
+France,Grand Est,Strasbourg Cathedral,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,7.7509,48.5818
+France,Grand Est,Colmar Old Town,Le Bistro de Colmar Old Town,Classic French Cuisine,Both,7.3585,48.0794
+France,Grand Est,Colmar Old Town,Café des Arts,Artisanal Bakery & Coffee,Veg,7.3585,48.0794
+France,Grand Est,Colmar Old Town,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,7.3585,48.0794
+France,Grand Est,Alsace Wine Route,Le Bistro de Alsace Wine Route,Classic French Cuisine,Both,7.3606,48.0704
+France,Grand Est,Alsace Wine Route,Café des Arts,Artisanal Bakery & Coffee,Veg,7.3606,48.0704
+France,Grand Est,Alsace Wine Route,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,7.3606,48.0704
+France,Grand Est,Reims Cathedral,Le Bistro de Reims Cathedral,Classic French Cuisine,Both,4.034,49.2538
+France,Grand Est,Reims Cathedral,Café des Arts,Artisanal Bakery & Coffee,Veg,4.034,49.2538
+France,Grand Est,Reims Cathedral,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,4.034,49.2538
+France,Grand Est,Épernay Champagne Cellars,Le Bistro de Épernay Champagne Cellars,Classic French Cuisine,Both,3.9598,49.0416
+France,Grand Est,Épernay Champagne Cellars,Café des Arts,Artisanal Bakery & Coffee,Veg,3.9598,49.0416
+France,Grand Est,Épernay Champagne Cellars,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,3.9598,49.0416
+France,Grand Est,Château du Haut-Kœnigsbourg,Le Bistro de Château du Haut-Kœnigsbourg,Classic French Cuisine,Both,7.3433,48.2499
+France,Grand Est,Château du Haut-Kœnigsbourg,Café des Arts,Artisanal Bakery & Coffee,Veg,7.3433,48.2499
+France,Grand Est,Château du Haut-Kœnigsbourg,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,7.3433,48.2499
+France,Grand Est,Riquewihr,Le Bistro de Riquewihr,Classic French Cuisine,Both,7.2991,48.1666
+France,Grand Est,Riquewihr,Café des Arts,Artisanal Bakery & Coffee,Veg,7.2991,48.1666
+France,Grand Est,Riquewihr,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,7.2991,48.1666
+France,Grand Est,Vosges Mountains,Le Bistro de Vosges Mountains,Classic French Cuisine,Both,7.0,48.0
+France,Grand Est,Vosges Mountains,Café des Arts,Artisanal Bakery & Coffee,Veg,7.0,48.0
+France,Grand Est,Vosges Mountains,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,7.0,48.0
+France,Grand Est,Metz,Le Bistro de Metz,Classic French Cuisine,Both,6.1757,49.1193
+France,Grand Est,Metz,Café des Arts,Artisanal Bakery & Coffee,Veg,6.1757,49.1193
+France,Grand Est,Metz,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,6.1757,49.1193
+France,Grand Est,Obernai,Le Bistro de Obernai,Classic French Cuisine,Both,7.4792,48.4602
+France,Grand Est,Obernai,Café des Arts,Artisanal Bakery & Coffee,Veg,7.4792,48.4602
+France,Grand Est,Obernai,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,7.4792,48.4602
+France,Normandy,D-Day Beaches,Le Bistro de D-Day Beaches,Classic French Cuisine,Both,-0.8672,49.3418
+France,Normandy,D-Day Beaches,Café des Arts,Artisanal Bakery & Coffee,Veg,-0.8672,49.3418
+France,Normandy,D-Day Beaches,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-0.8672,49.3418
+France,Normandy,Étretat Cliffs,Le Bistro de Étretat Cliffs,Classic French Cuisine,Both,0.2062,49.7083
+France,Normandy,Étretat Cliffs,Café des Arts,Artisanal Bakery & Coffee,Veg,0.2062,49.7083
+France,Normandy,Étretat Cliffs,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,0.2062,49.7083
+France,Normandy,Bayeux Tapestry,Le Bistro de Bayeux Tapestry,Classic French Cuisine,Both,-0.7027,49.2764
+France,Normandy,Bayeux Tapestry,Café des Arts,Artisanal Bakery & Coffee,Veg,-0.7027,49.2764
+France,Normandy,Bayeux Tapestry,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-0.7027,49.2764
+France,Normandy,Rouen Cathedral,Le Bistro de Rouen Cathedral,Classic French Cuisine,Both,1.093,49.4432
+France,Normandy,Rouen Cathedral,Café des Arts,Artisanal Bakery & Coffee,Veg,1.093,49.4432
+France,Normandy,Rouen Cathedral,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,1.093,49.4432
+France,Normandy,Honfleur,Le Bistro de Honfleur,Classic French Cuisine,Both,0.2331,49.4183
+France,Normandy,Honfleur,Café des Arts,Artisanal Bakery & Coffee,Veg,0.2331,49.4183
+France,Normandy,Honfleur,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,0.2331,49.4183
+France,Normandy,Giverny Monet Garden,Le Bistro de Giverny Monet Garden,Classic French Cuisine,Both,1.5335,49.0761
+France,Normandy,Giverny Monet Garden,Café des Arts,Artisanal Bakery & Coffee,Veg,1.5335,49.0761
+France,Normandy,Giverny Monet Garden,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,1.5335,49.0761
+France,Normandy,Caen Memorial Museum,Le Bistro de Caen Memorial Museum,Classic French Cuisine,Both,-0.3818,49.1965
+France,Normandy,Caen Memorial Museum,Café des Arts,Artisanal Bakery & Coffee,Veg,-0.3818,49.1965
+France,Normandy,Caen Memorial Museum,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-0.3818,49.1965
+France,Normandy,Falaise Castle,Le Bistro de Falaise Castle,Classic French Cuisine,Both,-0.1956,48.8948
+France,Normandy,Falaise Castle,Café des Arts,Artisanal Bakery & Coffee,Veg,-0.1956,48.8948
+France,Normandy,Falaise Castle,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-0.1956,48.8948
+France,Normandy,Côte Fleurie,Le Bistro de Côte Fleurie,Classic French Cuisine,Both,0.1,49.35
+France,Normandy,Côte Fleurie,Café des Arts,Artisanal Bakery & Coffee,Veg,0.1,49.35
+France,Normandy,Côte Fleurie,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,0.1,49.35
+France,Normandy,Arromanches,Le Bistro de Arromanches,Classic French Cuisine,Both,-0.6227,49.3407
+France,Normandy,Arromanches,Café des Arts,Artisanal Bakery & Coffee,Veg,-0.6227,49.3407
+France,Normandy,Arromanches,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-0.6227,49.3407
+France,Nouvelle-Aquitaine,Bordeaux Wine Region,Le Bistro de Bordeaux Wine Region,Classic French Cuisine,Both,-0.5792,44.8378
+France,Nouvelle-Aquitaine,Bordeaux Wine Region,Café des Arts,Artisanal Bakery & Coffee,Veg,-0.5792,44.8378
+France,Nouvelle-Aquitaine,Bordeaux Wine Region,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-0.5792,44.8378
+France,Nouvelle-Aquitaine,Dune du Pilat,Le Bistro de Dune du Pilat,Classic French Cuisine,Both,-1.2167,44.5896
+France,Nouvelle-Aquitaine,Dune du Pilat,Café des Arts,Artisanal Bakery & Coffee,Veg,-1.2167,44.5896
+France,Nouvelle-Aquitaine,Dune du Pilat,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-1.2167,44.5896
+France,Nouvelle-Aquitaine,Périgueux,Le Bistro de Périgueux,Classic French Cuisine,Both,0.7212,45.1839
+France,Nouvelle-Aquitaine,Périgueux,Café des Arts,Artisanal Bakery & Coffee,Veg,0.7212,45.1839
+France,Nouvelle-Aquitaine,Périgueux,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,0.7212,45.1839
+France,Nouvelle-Aquitaine,Biarritz,Le Bistro de Biarritz,Classic French Cuisine,Both,-1.5586,43.4832
+France,Nouvelle-Aquitaine,Biarritz,Café des Arts,Artisanal Bakery & Coffee,Veg,-1.5586,43.4832
+France,Nouvelle-Aquitaine,Biarritz,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-1.5586,43.4832
+France,Nouvelle-Aquitaine,Grotte de Font-de-Gaume,Le Bistro de Grotte de Font-de-Gaume,Classic French Cuisine,Both,1.0186,44.9359
+France,Nouvelle-Aquitaine,Grotte de Font-de-Gaume,Café des Arts,Artisanal Bakery & Coffee,Veg,1.0186,44.9359
+France,Nouvelle-Aquitaine,Grotte de Font-de-Gaume,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,1.0186,44.9359
+France,Nouvelle-Aquitaine,Arcachon Bay,Le Bistro de Arcachon Bay,Classic French Cuisine,Both,-1.17,44.66
+France,Nouvelle-Aquitaine,Arcachon Bay,Café des Arts,Artisanal Bakery & Coffee,Veg,-1.17,44.66
+France,Nouvelle-Aquitaine,Arcachon Bay,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-1.17,44.66
+France,Nouvelle-Aquitaine,La Rochelle,Le Bistro de La Rochelle,Classic French Cuisine,Both,-1.152,46.1591
+France,Nouvelle-Aquitaine,La Rochelle,Café des Arts,Artisanal Bakery & Coffee,Veg,-1.152,46.1591
+France,Nouvelle-Aquitaine,La Rochelle,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-1.152,46.1591
+France,Nouvelle-Aquitaine,Rocamadour,Le Bistro de Rocamadour,Classic French Cuisine,Both,1.6192,44.7986
+France,Nouvelle-Aquitaine,Rocamadour,Café des Arts,Artisanal Bakery & Coffee,Veg,1.6192,44.7986
+France,Nouvelle-Aquitaine,Rocamadour,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,1.6192,44.7986
+France,Nouvelle-Aquitaine,Cognac,Le Bistro de Cognac,Classic French Cuisine,Both,-0.3294,45.6941
+France,Nouvelle-Aquitaine,Cognac,Café des Arts,Artisanal Bakery & Coffee,Veg,-0.3294,45.6941
+France,Nouvelle-Aquitaine,Cognac,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-0.3294,45.6941
+France,Nouvelle-Aquitaine,Sarlat-la-Canéda,Le Bistro de Sarlat-la-Canéda,Classic French Cuisine,Both,1.2172,44.8892
+France,Nouvelle-Aquitaine,Sarlat-la-Canéda,Café des Arts,Artisanal Bakery & Coffee,Veg,1.2172,44.8892
+France,Nouvelle-Aquitaine,Sarlat-la-Canéda,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,1.2172,44.8892
+France,Pays de la Loire,Loire Valley Châteaux,Le Bistro de Loire Valley Châteaux,Classic French Cuisine,Both,0.34,47.69
+France,Pays de la Loire,Loire Valley Châteaux,Café des Arts,Artisanal Bakery & Coffee,Veg,0.34,47.69
+France,Pays de la Loire,Loire Valley Châteaux,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,0.34,47.69
+France,Pays de la Loire,Château de Chambord,Le Bistro de Château de Chambord,Classic French Cuisine,Both,1.5172,47.6161
+France,Pays de la Loire,Château de Chambord,Café des Arts,Artisanal Bakery & Coffee,Veg,1.5172,47.6161
+France,Pays de la Loire,Château de Chambord,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,1.5172,47.6161
+France,Pays de la Loire,Le Mans,Le Bistro de Le Mans,Classic French Cuisine,Both,0.1966,47.996
+France,Pays de la Loire,Le Mans,Café des Arts,Artisanal Bakery & Coffee,Veg,0.1966,47.996
+France,Pays de la Loire,Le Mans,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,0.1966,47.996
+France,Pays de la Loire,Nantes Château des Ducs,Le Bistro de Nantes Château des Ducs,Classic French Cuisine,Both,-1.5536,47.2184
+France,Pays de la Loire,Nantes Château des Ducs,Café des Arts,Artisanal Bakery & Coffee,Veg,-1.5536,47.2184
+France,Pays de la Loire,Nantes Château des Ducs,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-1.5536,47.2184
+France,Pays de la Loire,Château de Chenonceau,Le Bistro de Château de Chenonceau,Classic French Cuisine,Both,1.0702,47.3246
+France,Pays de la Loire,Château de Chenonceau,Café des Arts,Artisanal Bakery & Coffee,Veg,1.0702,47.3246
+France,Pays de la Loire,Château de Chenonceau,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,1.0702,47.3246
+France,Pays de la Loire,Puy du Fou,Le Bistro de Puy du Fou,Classic French Cuisine,Both,-0.9461,46.9153
+France,Pays de la Loire,Puy du Fou,Café des Arts,Artisanal Bakery & Coffee,Veg,-0.9461,46.9153
+France,Pays de la Loire,Puy du Fou,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-0.9461,46.9153
+France,Pays de la Loire,Fontevraud Abbey,Le Bistro de Fontevraud Abbey,Classic French Cuisine,Both,-0.0536,47.182
+France,Pays de la Loire,Fontevraud Abbey,Café des Arts,Artisanal Bakery & Coffee,Veg,-0.0536,47.182
+France,Pays de la Loire,Fontevraud Abbey,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-0.0536,47.182
+France,Pays de la Loire,Château d'Amboise,Le Bistro de Château d'Amboise,Classic French Cuisine,Both,0.9839,47.413
+France,Pays de la Loire,Château d'Amboise,Café des Arts,Artisanal Bakery & Coffee,Veg,0.9839,47.413
+France,Pays de la Loire,Château d'Amboise,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,0.9839,47.413
+France,Pays de la Loire,Zoo de La Flèche,Le Bistro de Zoo de La Flèche,Classic French Cuisine,Both,-0.0704,47.7022
+France,Pays de la Loire,Zoo de La Flèche,Café des Arts,Artisanal Bakery & Coffee,Veg,-0.0704,47.7022
+France,Pays de la Loire,Zoo de La Flèche,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-0.0704,47.7022
+France,Pays de la Loire,Marais Poitevin,Le Bistro de Marais Poitevin,Classic French Cuisine,Both,-0.7,46.38
+France,Pays de la Loire,Marais Poitevin,Café des Arts,Artisanal Bakery & Coffee,Veg,-0.7,46.38
+France,Pays de la Loire,Marais Poitevin,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,-0.7,46.38
+France,Hauts-de-France,Louvre-Lens Museum,Le Bistro de Louvre-Lens Museum,Classic French Cuisine,Both,2.823,50.4365
+France,Hauts-de-France,Louvre-Lens Museum,Café des Arts,Artisanal Bakery & Coffee,Veg,2.823,50.4365
+France,Hauts-de-France,Louvre-Lens Museum,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,2.823,50.4365
+France,Hauts-de-France,Arras,Le Bistro de Arras,Classic French Cuisine,Both,2.7778,50.2921
+France,Hauts-de-France,Arras,Café des Arts,Artisanal Bakery & Coffee,Veg,2.7778,50.2921
+France,Hauts-de-France,Arras,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,2.7778,50.2921
+France,Hauts-de-France,Amiens Cathedral,Le Bistro de Amiens Cathedral,Classic French Cuisine,Both,2.3017,49.8941
+France,Hauts-de-France,Amiens Cathedral,Café des Arts,Artisanal Bakery & Coffee,Veg,2.3017,49.8941
+France,Hauts-de-France,Amiens Cathedral,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,2.3017,49.8941
+France,Hauts-de-France,Opal Coast,Le Bistro de Opal Coast,Classic French Cuisine,Both,1.6,50.72
+France,Hauts-de-France,Opal Coast,Café des Arts,Artisanal Bakery & Coffee,Veg,1.6,50.72
+France,Hauts-de-France,Opal Coast,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,1.6,50.72
+France,Hauts-de-France,Parc Astérix,Le Bistro de Parc Astérix,Classic French Cuisine,Both,2.5738,49.1338
+France,Hauts-de-France,Parc Astérix,Café des Arts,Artisanal Bakery & Coffee,Veg,2.5738,49.1338
+France,Hauts-de-France,Parc Astérix,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,2.5738,49.1338
+France,Hauts-de-France,Nausicaá Aquarium Boulogne,Le Bistro de Nausicaá Aquarium Boulogne,Classic French Cuisine,Both,1.6085,50.7269
+France,Hauts-de-France,Nausicaá Aquarium Boulogne,Café des Arts,Artisanal Bakery & Coffee,Veg,1.6085,50.7269
+France,Hauts-de-France,Nausicaá Aquarium Boulogne,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,1.6085,50.7269
+France,Hauts-de-France,Thiepval Memorial,Le Bistro de Thiepval Memorial,Classic French Cuisine,Both,2.6867,50.0519
+France,Hauts-de-France,Thiepval Memorial,Café des Arts,Artisanal Bakery & Coffee,Veg,2.6867,50.0519
+France,Hauts-de-France,Thiepval Memorial,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,2.6867,50.0519
+France,Hauts-de-France,Dunkerque,Le Bistro de Dunkerque,Classic French Cuisine,Both,2.3767,51.0343
+France,Hauts-de-France,Dunkerque,Café des Arts,Artisanal Bakery & Coffee,Veg,2.3767,51.0343
+France,Hauts-de-France,Dunkerque,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,2.3767,51.0343
+France,Hauts-de-France,Château de Chantilly,Le Bistro de Château de Chantilly,Classic French Cuisine,Both,2.486,49.194
+France,Hauts-de-France,Château de Chantilly,Café des Arts,Artisanal Bakery & Coffee,Veg,2.486,49.194
+France,Hauts-de-France,Château de Chantilly,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,2.486,49.194
+France,Hauts-de-France,Baie de Somme,Le Bistro de Baie de Somme,Classic French Cuisine,Both,1.76,50.19
+France,Hauts-de-France,Baie de Somme,Café des Arts,Artisanal Bakery & Coffee,Veg,1.76,50.19
+France,Hauts-de-France,Baie de Somme,L'Étoile Sauvage Restaurant,Gourmet French Poultry & Seafood,Non-Veg,1.76,50.19
+Japan,Tokyo,Senso-ji Temple,Senso-ji Temple Sushi-ya,Traditional Sushi & Sashimi,Both,139.7967,35.7148
+Japan,Tokyo,Senso-ji Temple,Ramen Ichiban Senso-ji Temple Branch,Authentic Tonkotsu Ramen,Non-Veg,139.7967,35.7148
+Japan,Tokyo,Senso-ji Temple,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,139.7967,35.7148
+Japan,Tokyo,Shibuya Crossing,Shibuya Crossing Sushi-ya,Traditional Sushi & Sashimi,Both,139.7005,35.6595
+Japan,Tokyo,Shibuya Crossing,Ramen Ichiban Shibuya Crossing Branch,Authentic Tonkotsu Ramen,Non-Veg,139.7005,35.6595
+Japan,Tokyo,Shibuya Crossing,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,139.7005,35.6595
+Japan,Tokyo,Tokyo Skytree,Tokyo Skytree Sushi-ya,Traditional Sushi & Sashimi,Both,139.8107,35.7101
+Japan,Tokyo,Tokyo Skytree,Ramen Ichiban Tokyo Skytree Branch,Authentic Tonkotsu Ramen,Non-Veg,139.8107,35.7101
+Japan,Tokyo,Tokyo Skytree,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,139.8107,35.7101
+Japan,Tokyo,Meiji Shrine,Meiji Shrine Sushi-ya,Traditional Sushi & Sashimi,Both,139.6993,35.6764
+Japan,Tokyo,Meiji Shrine,Ramen Ichiban Meiji Shrine Branch,Authentic Tonkotsu Ramen,Non-Veg,139.6993,35.6764
+Japan,Tokyo,Meiji Shrine,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,139.6993,35.6764
+Japan,Tokyo,Shinjuku Gyoen,Shinjuku Gyoen Sushi-ya,Traditional Sushi & Sashimi,Both,139.7103,35.6851
+Japan,Tokyo,Shinjuku Gyoen,Ramen Ichiban Shinjuku Gyoen Branch,Authentic Tonkotsu Ramen,Non-Veg,139.7103,35.6851
+Japan,Tokyo,Shinjuku Gyoen,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,139.7103,35.6851
+Japan,Tokyo,Tsukiji Outer Market,Tsukiji Outer Market Sushi-ya,Traditional Sushi & Sashimi,Both,139.7706,35.6654
+Japan,Tokyo,Tsukiji Outer Market,Ramen Ichiban Tsukiji Outer Market Branch,Authentic Tonkotsu Ramen,Non-Veg,139.7706,35.6654
+Japan,Tokyo,Tsukiji Outer Market,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,139.7706,35.6654
+Japan,Tokyo,Akihabara,Akihabara Sushi-ya,Traditional Sushi & Sashimi,Both,139.7745,35.7023
+Japan,Tokyo,Akihabara,Ramen Ichiban Akihabara Branch,Authentic Tonkotsu Ramen,Non-Veg,139.7745,35.7023
+Japan,Tokyo,Akihabara,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,139.7745,35.7023
+Japan,Tokyo,Harajuku,Harajuku Sushi-ya,Traditional Sushi & Sashimi,Both,139.7028,35.6695
+Japan,Tokyo,Harajuku,Ramen Ichiban Harajuku Branch,Authentic Tonkotsu Ramen,Non-Veg,139.7028,35.6695
+Japan,Tokyo,Harajuku,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,139.7028,35.6695
+Japan,Tokyo,Odaiba,Odaiba Sushi-ya,Traditional Sushi & Sashimi,Both,139.7762,35.623
+Japan,Tokyo,Odaiba,Ramen Ichiban Odaiba Branch,Authentic Tonkotsu Ramen,Non-Veg,139.7762,35.623
+Japan,Tokyo,Odaiba,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,139.7762,35.623
+Japan,Tokyo,Imperial Palace East Garden,Imperial Palace East Garden Sushi-ya,Traditional Sushi & Sashimi,Both,139.7528,35.6852
+Japan,Tokyo,Imperial Palace East Garden,Ramen Ichiban Imperial Palace East Garden Branch,Authentic Tonkotsu Ramen,Non-Veg,139.7528,35.6852
+Japan,Tokyo,Imperial Palace East Garden,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,139.7528,35.6852
+Japan,Kyoto,Fushimi Inari Shrine,Fushimi Inari Shrine Sushi-ya,Traditional Sushi & Sashimi,Both,135.7727,34.9671
+Japan,Kyoto,Fushimi Inari Shrine,Ramen Ichiban Fushimi Inari Shrine Branch,Authentic Tonkotsu Ramen,Non-Veg,135.7727,34.9671
+Japan,Kyoto,Fushimi Inari Shrine,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.7727,34.9671
+Japan,Kyoto,Kinkaku-ji Golden Pavilion,Kinkaku-ji Golden Pavilion Sushi-ya,Traditional Sushi & Sashimi,Both,135.7292,35.0394
+Japan,Kyoto,Kinkaku-ji Golden Pavilion,Ramen Ichiban Kinkaku-ji Golden Pavilion Branch,Authentic Tonkotsu Ramen,Non-Veg,135.7292,35.0394
+Japan,Kyoto,Kinkaku-ji Golden Pavilion,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.7292,35.0394
+Japan,Kyoto,Arashiyama Bamboo Grove,Arashiyama Bamboo Grove Sushi-ya,Traditional Sushi & Sashimi,Both,135.6727,35.0094
+Japan,Kyoto,Arashiyama Bamboo Grove,Ramen Ichiban Arashiyama Bamboo Grove Branch,Authentic Tonkotsu Ramen,Non-Veg,135.6727,35.0094
+Japan,Kyoto,Arashiyama Bamboo Grove,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.6727,35.0094
+Japan,Kyoto,Gion District,Gion District Sushi-ya,Traditional Sushi & Sashimi,Both,135.7749,35.0036
+Japan,Kyoto,Gion District,Ramen Ichiban Gion District Branch,Authentic Tonkotsu Ramen,Non-Veg,135.7749,35.0036
+Japan,Kyoto,Gion District,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.7749,35.0036
+Japan,Kyoto,Nijo Castle,Nijo Castle Sushi-ya,Traditional Sushi & Sashimi,Both,135.7485,35.0142
+Japan,Kyoto,Nijo Castle,Ramen Ichiban Nijo Castle Branch,Authentic Tonkotsu Ramen,Non-Veg,135.7485,35.0142
+Japan,Kyoto,Nijo Castle,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.7485,35.0142
+Japan,Kyoto,Philosopher's Path,Philosopher's Path Sushi-ya,Traditional Sushi & Sashimi,Both,135.7967,35.0247
+Japan,Kyoto,Philosopher's Path,Ramen Ichiban Philosopher's Path Branch,Authentic Tonkotsu Ramen,Non-Veg,135.7967,35.0247
+Japan,Kyoto,Philosopher's Path,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.7967,35.0247
+Japan,Kyoto,Kiyomizu-dera Temple,Kiyomizu-dera Temple Sushi-ya,Traditional Sushi & Sashimi,Both,135.7851,34.9948
+Japan,Kyoto,Kiyomizu-dera Temple,Ramen Ichiban Kiyomizu-dera Temple Branch,Authentic Tonkotsu Ramen,Non-Veg,135.7851,34.9948
+Japan,Kyoto,Kiyomizu-dera Temple,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.7851,34.9948
+Japan,Kyoto,Nishiki Market,Nishiki Market Sushi-ya,Traditional Sushi & Sashimi,Both,135.7666,35.0052
+Japan,Kyoto,Nishiki Market,Ramen Ichiban Nishiki Market Branch,Authentic Tonkotsu Ramen,Non-Veg,135.7666,35.0052
+Japan,Kyoto,Nishiki Market,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.7666,35.0052
+Japan,Kyoto,Heian Shrine,Heian Shrine Sushi-ya,Traditional Sushi & Sashimi,Both,135.7822,35.0265
+Japan,Kyoto,Heian Shrine,Ramen Ichiban Heian Shrine Branch,Authentic Tonkotsu Ramen,Non-Veg,135.7822,35.0265
+Japan,Kyoto,Heian Shrine,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.7822,35.0265
+Japan,Kyoto,Ryoan-ji Temple,Ryoan-ji Temple Sushi-ya,Traditional Sushi & Sashimi,Both,135.7186,35.0343
+Japan,Kyoto,Ryoan-ji Temple,Ramen Ichiban Ryoan-ji Temple Branch,Authentic Tonkotsu Ramen,Non-Veg,135.7186,35.0343
+Japan,Kyoto,Ryoan-ji Temple,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.7186,35.0343
+Japan,Osaka,Osaka Castle,Osaka Castle Sushi-ya,Traditional Sushi & Sashimi,Both,135.5262,34.6873
+Japan,Osaka,Osaka Castle,Ramen Ichiban Osaka Castle Branch,Authentic Tonkotsu Ramen,Non-Veg,135.5262,34.6873
+Japan,Osaka,Osaka Castle,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.5262,34.6873
+Japan,Osaka,Dotonbori,Dotonbori Sushi-ya,Traditional Sushi & Sashimi,Both,135.5008,34.6687
+Japan,Osaka,Dotonbori,Ramen Ichiban Dotonbori Branch,Authentic Tonkotsu Ramen,Non-Veg,135.5008,34.6687
+Japan,Osaka,Dotonbori,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.5008,34.6687
+Japan,Osaka,Universal Studios Japan,Universal Studios Japan Sushi-ya,Traditional Sushi & Sashimi,Both,135.4323,34.6655
+Japan,Osaka,Universal Studios Japan,Ramen Ichiban Universal Studios Japan Branch,Authentic Tonkotsu Ramen,Non-Veg,135.4323,34.6655
+Japan,Osaka,Universal Studios Japan,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.4323,34.6655
+Japan,Osaka,Shinsekai,Shinsekai Sushi-ya,Traditional Sushi & Sashimi,Both,135.5063,34.6524
+Japan,Osaka,Shinsekai,Ramen Ichiban Shinsekai Branch,Authentic Tonkotsu Ramen,Non-Veg,135.5063,34.6524
+Japan,Osaka,Shinsekai,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.5063,34.6524
+Japan,Osaka,Namba,Namba Sushi-ya,Traditional Sushi & Sashimi,Both,135.5011,34.6643
+Japan,Osaka,Namba,Ramen Ichiban Namba Branch,Authentic Tonkotsu Ramen,Non-Veg,135.5011,34.6643
+Japan,Osaka,Namba,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.5011,34.6643
+Japan,Osaka,Sumiyoshi Taisha,Sumiyoshi Taisha Sushi-ya,Traditional Sushi & Sashimi,Both,135.4938,34.6119
+Japan,Osaka,Sumiyoshi Taisha,Ramen Ichiban Sumiyoshi Taisha Branch,Authentic Tonkotsu Ramen,Non-Veg,135.4938,34.6119
+Japan,Osaka,Sumiyoshi Taisha,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.4938,34.6119
+Japan,Osaka,Tempozan Ferris Wheel,Tempozan Ferris Wheel Sushi-ya,Traditional Sushi & Sashimi,Both,135.429,34.6549
+Japan,Osaka,Tempozan Ferris Wheel,Ramen Ichiban Tempozan Ferris Wheel Branch,Authentic Tonkotsu Ramen,Non-Veg,135.429,34.6549
+Japan,Osaka,Tempozan Ferris Wheel,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.429,34.6549
+Japan,Osaka,Shitennoji Temple,Shitennoji Temple Sushi-ya,Traditional Sushi & Sashimi,Both,135.5164,34.6538
+Japan,Osaka,Shitennoji Temple,Ramen Ichiban Shitennoji Temple Branch,Authentic Tonkotsu Ramen,Non-Veg,135.5164,34.6538
+Japan,Osaka,Shitennoji Temple,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.5164,34.6538
+Japan,Osaka,Nakanoshima,Nakanoshima Sushi-ya,Traditional Sushi & Sashimi,Both,135.5013,34.6916
+Japan,Osaka,Nakanoshima,Ramen Ichiban Nakanoshima Branch,Authentic Tonkotsu Ramen,Non-Veg,135.5013,34.6916
+Japan,Osaka,Nakanoshima,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.5013,34.6916
+Japan,Osaka,Minoo Falls,Minoo Falls Sushi-ya,Traditional Sushi & Sashimi,Both,135.4713,34.8394
+Japan,Osaka,Minoo Falls,Ramen Ichiban Minoo Falls Branch,Authentic Tonkotsu Ramen,Non-Veg,135.4713,34.8394
+Japan,Osaka,Minoo Falls,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.4713,34.8394
+Japan,Hokkaido,Sapporo Snow Festival,Sapporo Snow Festival Sushi-ya,Traditional Sushi & Sashimi,Both,141.3545,43.0618
+Japan,Hokkaido,Sapporo Snow Festival,Ramen Ichiban Sapporo Snow Festival Branch,Authentic Tonkotsu Ramen,Non-Veg,141.3545,43.0618
+Japan,Hokkaido,Sapporo Snow Festival,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,141.3545,43.0618
+Japan,Hokkaido,Furano Lavender Fields,Furano Lavender Fields Sushi-ya,Traditional Sushi & Sashimi,Both,142.3833,43.35
+Japan,Hokkaido,Furano Lavender Fields,Ramen Ichiban Furano Lavender Fields Branch,Authentic Tonkotsu Ramen,Non-Veg,142.3833,43.35
+Japan,Hokkaido,Furano Lavender Fields,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,142.3833,43.35
+Japan,Hokkaido,Shiretoko National Park,Shiretoko National Park Sushi-ya,Traditional Sushi & Sashimi,Both,145.0,44.0667
+Japan,Hokkaido,Shiretoko National Park,Ramen Ichiban Shiretoko National Park Branch,Authentic Tonkotsu Ramen,Non-Veg,145.0,44.0667
+Japan,Hokkaido,Shiretoko National Park,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,145.0,44.0667
+Japan,Hokkaido,Noboribetsu Jigokudani,Noboribetsu Jigokudani Sushi-ya,Traditional Sushi & Sashimi,Both,141.0993,42.5087
+Japan,Hokkaido,Noboribetsu Jigokudani,Ramen Ichiban Noboribetsu Jigokudani Branch,Authentic Tonkotsu Ramen,Non-Veg,141.0993,42.5087
+Japan,Hokkaido,Noboribetsu Jigokudani,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,141.0993,42.5087
+Japan,Hokkaido,Lake Toya,Lake Toya Sushi-ya,Traditional Sushi & Sashimi,Both,140.803,42.587
+Japan,Hokkaido,Lake Toya,Ramen Ichiban Lake Toya Branch,Authentic Tonkotsu Ramen,Non-Veg,140.803,42.587
+Japan,Hokkaido,Lake Toya,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,140.803,42.587
+Japan,Hokkaido,Daisetsuzan National Park,Daisetsuzan National Park Sushi-ya,Traditional Sushi & Sashimi,Both,142.9333,43.6667
+Japan,Hokkaido,Daisetsuzan National Park,Ramen Ichiban Daisetsuzan National Park Branch,Authentic Tonkotsu Ramen,Non-Veg,142.9333,43.6667
+Japan,Hokkaido,Daisetsuzan National Park,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,142.9333,43.6667
+Japan,Hokkaido,Blue Pond Biei,Blue Pond Biei Sushi-ya,Traditional Sushi & Sashimi,Both,142.5175,43.5886
+Japan,Hokkaido,Blue Pond Biei,Ramen Ichiban Blue Pond Biei Branch,Authentic Tonkotsu Ramen,Non-Veg,142.5175,43.5886
+Japan,Hokkaido,Blue Pond Biei,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,142.5175,43.5886
+Japan,Hokkaido,Hakodate Morning Market,Hakodate Morning Market Sushi-ya,Traditional Sushi & Sashimi,Both,140.7284,41.7692
+Japan,Hokkaido,Hakodate Morning Market,Ramen Ichiban Hakodate Morning Market Branch,Authentic Tonkotsu Ramen,Non-Veg,140.7284,41.7692
+Japan,Hokkaido,Hakodate Morning Market,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,140.7284,41.7692
+Japan,Hokkaido,Otaru Canal,Otaru Canal Sushi-ya,Traditional Sushi & Sashimi,Both,140.9942,43.1907
+Japan,Hokkaido,Otaru Canal,Ramen Ichiban Otaru Canal Branch,Authentic Tonkotsu Ramen,Non-Veg,140.9942,43.1907
+Japan,Hokkaido,Otaru Canal,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,140.9942,43.1907
+Japan,Hokkaido,Cape Erimo,Cape Erimo Sushi-ya,Traditional Sushi & Sashimi,Both,143.2525,41.9248
+Japan,Hokkaido,Cape Erimo,Ramen Ichiban Cape Erimo Branch,Authentic Tonkotsu Ramen,Non-Veg,143.2525,41.9248
+Japan,Hokkaido,Cape Erimo,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,143.2525,41.9248
+Japan,Hiroshima,Peace Memorial Park,Peace Memorial Park Sushi-ya,Traditional Sushi & Sashimi,Both,132.453,34.3955
+Japan,Hiroshima,Peace Memorial Park,Ramen Ichiban Peace Memorial Park Branch,Authentic Tonkotsu Ramen,Non-Veg,132.453,34.3955
+Japan,Hiroshima,Peace Memorial Park,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,132.453,34.3955
+Japan,Hiroshima,Itsukushima Shrine Miyajima,Itsukushima Shrine Miyajima Sushi-ya,Traditional Sushi & Sashimi,Both,132.3194,34.296
+Japan,Hiroshima,Itsukushima Shrine Miyajima,Ramen Ichiban Itsukushima Shrine Miyajima Branch,Authentic Tonkotsu Ramen,Non-Veg,132.3194,34.296
+Japan,Hiroshima,Itsukushima Shrine Miyajima,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,132.3194,34.296
+Japan,Hiroshima,Hiroshima Castle,Hiroshima Castle Sushi-ya,Traditional Sushi & Sashimi,Both,132.4598,34.4016
+Japan,Hiroshima,Hiroshima Castle,Ramen Ichiban Hiroshima Castle Branch,Authentic Tonkotsu Ramen,Non-Veg,132.4598,34.4016
+Japan,Hiroshima,Hiroshima Castle,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,132.4598,34.4016
+Japan,Hiroshima,Shukkeien Garden,Shukkeien Garden Sushi-ya,Traditional Sushi & Sashimi,Both,132.4699,34.3996
+Japan,Hiroshima,Shukkeien Garden,Ramen Ichiban Shukkeien Garden Branch,Authentic Tonkotsu Ramen,Non-Veg,132.4699,34.3996
+Japan,Hiroshima,Shukkeien Garden,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,132.4699,34.3996
+Japan,Hiroshima,Peace Memorial Museum,Peace Memorial Museum Sushi-ya,Traditional Sushi & Sashimi,Both,132.4527,34.3955
+Japan,Hiroshima,Peace Memorial Museum,Ramen Ichiban Peace Memorial Museum Branch,Authentic Tonkotsu Ramen,Non-Veg,132.4527,34.3955
+Japan,Hiroshima,Peace Memorial Museum,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,132.4527,34.3955
+Japan,Hiroshima,Onomichi,Onomichi Sushi-ya,Traditional Sushi & Sashimi,Both,133.2026,34.4086
+Japan,Hiroshima,Onomichi,Ramen Ichiban Onomichi Branch,Authentic Tonkotsu Ramen,Non-Veg,133.2026,34.4086
+Japan,Hiroshima,Onomichi,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,133.2026,34.4086
+Japan,Hiroshima,Mihara Castle,Mihara Castle Sushi-ya,Traditional Sushi & Sashimi,Both,133.0769,34.3967
+Japan,Hiroshima,Mihara Castle,Ramen Ichiban Mihara Castle Branch,Authentic Tonkotsu Ramen,Non-Veg,133.0769,34.3967
+Japan,Hiroshima,Mihara Castle,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,133.0769,34.3967
+Japan,Hiroshima,Tomonoura,Tomonoura Sushi-ya,Traditional Sushi & Sashimi,Both,133.3772,34.3687
+Japan,Hiroshima,Tomonoura,Ramen Ichiban Tomonoura Branch,Authentic Tonkotsu Ramen,Non-Veg,133.3772,34.3687
+Japan,Hiroshima,Tomonoura,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,133.3772,34.3687
+Japan,Hiroshima,Saijo Sake Breweries,Saijo Sake Breweries Sushi-ya,Traditional Sushi & Sashimi,Both,132.7414,34.4183
+Japan,Hiroshima,Saijo Sake Breweries,Ramen Ichiban Saijo Sake Breweries Branch,Authentic Tonkotsu Ramen,Non-Veg,132.7414,34.4183
+Japan,Hiroshima,Saijo Sake Breweries,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,132.7414,34.4183
+Japan,Hiroshima,Sandankyo Gorge,Sandankyo Gorge Sushi-ya,Traditional Sushi & Sashimi,Both,132.0671,34.6168
+Japan,Hiroshima,Sandankyo Gorge,Ramen Ichiban Sandankyo Gorge Branch,Authentic Tonkotsu Ramen,Non-Veg,132.0671,34.6168
+Japan,Hiroshima,Sandankyo Gorge,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,132.0671,34.6168
+Japan,Nara,Todai-ji Temple,Todai-ji Temple Sushi-ya,Traditional Sushi & Sashimi,Both,135.8398,34.6888
+Japan,Nara,Todai-ji Temple,Ramen Ichiban Todai-ji Temple Branch,Authentic Tonkotsu Ramen,Non-Veg,135.8398,34.6888
+Japan,Nara,Todai-ji Temple,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.8398,34.6888
+Japan,Nara,Nara Deer Park,Nara Deer Park Sushi-ya,Traditional Sushi & Sashimi,Both,135.843,34.6854
+Japan,Nara,Nara Deer Park,Ramen Ichiban Nara Deer Park Branch,Authentic Tonkotsu Ramen,Non-Veg,135.843,34.6854
+Japan,Nara,Nara Deer Park,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.843,34.6854
+Japan,Nara,Kasuga Taisha Shrine,Kasuga Taisha Shrine Sushi-ya,Traditional Sushi & Sashimi,Both,135.8484,34.681
+Japan,Nara,Kasuga Taisha Shrine,Ramen Ichiban Kasuga Taisha Shrine Branch,Authentic Tonkotsu Ramen,Non-Veg,135.8484,34.681
+Japan,Nara,Kasuga Taisha Shrine,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.8484,34.681
+Japan,Nara,Horyu-ji Temple,Horyu-ji Temple Sushi-ya,Traditional Sushi & Sashimi,Both,135.7345,34.6148
+Japan,Nara,Horyu-ji Temple,Ramen Ichiban Horyu-ji Temple Branch,Authentic Tonkotsu Ramen,Non-Veg,135.7345,34.6148
+Japan,Nara,Horyu-ji Temple,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.7345,34.6148
+Japan,Nara,Isuien Garden,Isuien Garden Sushi-ya,Traditional Sushi & Sashimi,Both,135.8425,34.6847
+Japan,Nara,Isuien Garden,Ramen Ichiban Isuien Garden Branch,Authentic Tonkotsu Ramen,Non-Veg,135.8425,34.6847
+Japan,Nara,Isuien Garden,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.8425,34.6847
+Japan,Nara,Naramachi District,Naramachi District Sushi-ya,Traditional Sushi & Sashimi,Both,135.8356,34.6769
+Japan,Nara,Naramachi District,Ramen Ichiban Naramachi District Branch,Authentic Tonkotsu Ramen,Non-Veg,135.8356,34.6769
+Japan,Nara,Naramachi District,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.8356,34.6769
+Japan,Nara,Yoshinoyama,Yoshinoyama Sushi-ya,Traditional Sushi & Sashimi,Both,135.8572,34.3693
+Japan,Nara,Yoshinoyama,Ramen Ichiban Yoshinoyama Branch,Authentic Tonkotsu Ramen,Non-Veg,135.8572,34.3693
+Japan,Nara,Yoshinoyama,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.8572,34.3693
+Japan,Nara,Muro-ji Temple,Muro-ji Temple Sushi-ya,Traditional Sushi & Sashimi,Both,135.9309,34.5473
+Japan,Nara,Muro-ji Temple,Ramen Ichiban Muro-ji Temple Branch,Authentic Tonkotsu Ramen,Non-Veg,135.9309,34.5473
+Japan,Nara,Muro-ji Temple,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.9309,34.5473
+Japan,Nara,Asuka Village,Asuka Village Sushi-ya,Traditional Sushi & Sashimi,Both,135.8079,34.4699
+Japan,Nara,Asuka Village,Ramen Ichiban Asuka Village Branch,Authentic Tonkotsu Ramen,Non-Veg,135.8079,34.4699
+Japan,Nara,Asuka Village,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.8079,34.4699
+Japan,Nara,Kofuku-ji Temple,Kofuku-ji Temple Sushi-ya,Traditional Sushi & Sashimi,Both,135.8323,34.6863
+Japan,Nara,Kofuku-ji Temple,Ramen Ichiban Kofuku-ji Temple Branch,Authentic Tonkotsu Ramen,Non-Veg,135.8323,34.6863
+Japan,Nara,Kofuku-ji Temple,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,135.8323,34.6863
+Japan,Okinawa,Shuri Castle,Shuri Castle Sushi-ya,Traditional Sushi & Sashimi,Both,127.7194,26.2172
+Japan,Okinawa,Shuri Castle,Ramen Ichiban Shuri Castle Branch,Authentic Tonkotsu Ramen,Non-Veg,127.7194,26.2172
+Japan,Okinawa,Shuri Castle,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,127.7194,26.2172
+Japan,Okinawa,Churaumi Aquarium,Churaumi Aquarium Sushi-ya,Traditional Sushi & Sashimi,Both,127.8769,26.6937
+Japan,Okinawa,Churaumi Aquarium,Ramen Ichiban Churaumi Aquarium Branch,Authentic Tonkotsu Ramen,Non-Veg,127.8769,26.6937
+Japan,Okinawa,Churaumi Aquarium,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,127.8769,26.6937
+Japan,Okinawa,Kokusai-dori Street,Kokusai-dori Street Sushi-ya,Traditional Sushi & Sashimi,Both,127.6851,26.2145
+Japan,Okinawa,Kokusai-dori Street,Ramen Ichiban Kokusai-dori Street Branch,Authentic Tonkotsu Ramen,Non-Veg,127.6851,26.2145
+Japan,Okinawa,Kokusai-dori Street,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,127.6851,26.2145
+Japan,Okinawa,Cape Manzamo,Cape Manzamo Sushi-ya,Traditional Sushi & Sashimi,Both,127.8768,26.5017
+Japan,Okinawa,Cape Manzamo,Ramen Ichiban Cape Manzamo Branch,Authentic Tonkotsu Ramen,Non-Veg,127.8768,26.5017
+Japan,Okinawa,Cape Manzamo,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,127.8768,26.5017
+Japan,Okinawa,Kerama Islands,Kerama Islands Sushi-ya,Traditional Sushi & Sashimi,Both,127.27,26.21
+Japan,Okinawa,Kerama Islands,Ramen Ichiban Kerama Islands Branch,Authentic Tonkotsu Ramen,Non-Veg,127.27,26.21
+Japan,Okinawa,Kerama Islands,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,127.27,26.21
+Japan,Okinawa,Gyokusendo Cave,Gyokusendo Cave Sushi-ya,Traditional Sushi & Sashimi,Both,127.771,26.127
+Japan,Okinawa,Gyokusendo Cave,Ramen Ichiban Gyokusendo Cave Branch,Authentic Tonkotsu Ramen,Non-Veg,127.771,26.127
+Japan,Okinawa,Gyokusendo Cave,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,127.771,26.127
+Japan,Okinawa,Katsuren Castle,Katsuren Castle Sushi-ya,Traditional Sushi & Sashimi,Both,127.869,26.317
+Japan,Okinawa,Katsuren Castle,Ramen Ichiban Katsuren Castle Branch,Authentic Tonkotsu Ramen,Non-Veg,127.869,26.317
+Japan,Okinawa,Katsuren Castle,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,127.869,26.317
+Japan,Okinawa,Hedo Point,Hedo Point Sushi-ya,Traditional Sushi & Sashimi,Both,128.2551,26.8671
+Japan,Okinawa,Hedo Point,Ramen Ichiban Hedo Point Branch,Authentic Tonkotsu Ramen,Non-Veg,128.2551,26.8671
+Japan,Okinawa,Hedo Point,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,128.2551,26.8671
+Japan,Okinawa,Nakagusuku Castle,Nakagusuku Castle Sushi-ya,Traditional Sushi & Sashimi,Both,127.8031,26.2663
+Japan,Okinawa,Nakagusuku Castle,Ramen Ichiban Nakagusuku Castle Branch,Authentic Tonkotsu Ramen,Non-Veg,127.8031,26.2663
+Japan,Okinawa,Nakagusuku Castle,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,127.8031,26.2663
+Japan,Okinawa,Emerald Beach,Emerald Beach Sushi-ya,Traditional Sushi & Sashimi,Both,127.8783,26.6945
+Japan,Okinawa,Emerald Beach,Ramen Ichiban Emerald Beach Branch,Authentic Tonkotsu Ramen,Non-Veg,127.8783,26.6945
+Japan,Okinawa,Emerald Beach,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,127.8783,26.6945
+Japan,Kanagawa,Mount Fuji,Mount Fuji Sushi-ya,Traditional Sushi & Sashimi,Both,138.7274,35.3606
+Japan,Kanagawa,Mount Fuji,Ramen Ichiban Mount Fuji Branch,Authentic Tonkotsu Ramen,Non-Veg,138.7274,35.3606
+Japan,Kanagawa,Mount Fuji,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,138.7274,35.3606
+Japan,Kanagawa,Kamakura Great Buddha,Kamakura Great Buddha Sushi-ya,Traditional Sushi & Sashimi,Both,139.5353,35.3167
+Japan,Kanagawa,Kamakura Great Buddha,Ramen Ichiban Kamakura Great Buddha Branch,Authentic Tonkotsu Ramen,Non-Veg,139.5353,35.3167
+Japan,Kanagawa,Kamakura Great Buddha,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,139.5353,35.3167
+Japan,Kanagawa,Hakone Open Air Museum,Hakone Open Air Museum Sushi-ya,Traditional Sushi & Sashimi,Both,139.0202,35.2487
+Japan,Kanagawa,Hakone Open Air Museum,Ramen Ichiban Hakone Open Air Museum Branch,Authentic Tonkotsu Ramen,Non-Veg,139.0202,35.2487
+Japan,Kanagawa,Hakone Open Air Museum,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,139.0202,35.2487
+Japan,Kanagawa,Enoshima Island,Enoshima Island Sushi-ya,Traditional Sushi & Sashimi,Both,139.4826,35.299
+Japan,Kanagawa,Enoshima Island,Ramen Ichiban Enoshima Island Branch,Authentic Tonkotsu Ramen,Non-Veg,139.4826,35.299
+Japan,Kanagawa,Enoshima Island,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,139.4826,35.299
+Japan,Kanagawa,Yokohama Chinatown,Yokohama Chinatown Sushi-ya,Traditional Sushi & Sashimi,Both,139.6455,35.4415
+Japan,Kanagawa,Yokohama Chinatown,Ramen Ichiban Yokohama Chinatown Branch,Authentic Tonkotsu Ramen,Non-Veg,139.6455,35.4415
+Japan,Kanagawa,Yokohama Chinatown,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,139.6455,35.4415
+Japan,Kanagawa,Hakone Ropeway,Hakone Ropeway Sushi-ya,Traditional Sushi & Sashimi,Both,139.0253,35.2271
+Japan,Kanagawa,Hakone Ropeway,Ramen Ichiban Hakone Ropeway Branch,Authentic Tonkotsu Ramen,Non-Veg,139.0253,35.2271
+Japan,Kanagawa,Hakone Ropeway,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,139.0253,35.2271
+Japan,Kanagawa,Zushi Beach,Zushi Beach Sushi-ya,Traditional Sushi & Sashimi,Both,139.5791,35.296
+Japan,Kanagawa,Zushi Beach,Ramen Ichiban Zushi Beach Branch,Authentic Tonkotsu Ramen,Non-Veg,139.5791,35.296
+Japan,Kanagawa,Zushi Beach,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,139.5791,35.296
+Japan,Kanagawa,Kawasaki Daishi Temple,Kawasaki Daishi Temple Sushi-ya,Traditional Sushi & Sashimi,Both,139.7172,35.5325
+Japan,Kanagawa,Kawasaki Daishi Temple,Ramen Ichiban Kawasaki Daishi Temple Branch,Authentic Tonkotsu Ramen,Non-Veg,139.7172,35.5325
+Japan,Kanagawa,Kawasaki Daishi Temple,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,139.7172,35.5325
+Japan,Kanagawa,Odawara Castle,Odawara Castle Sushi-ya,Traditional Sushi & Sashimi,Both,139.1561,35.2563
+Japan,Kanagawa,Odawara Castle,Ramen Ichiban Odawara Castle Branch,Authentic Tonkotsu Ramen,Non-Veg,139.1561,35.2563
+Japan,Kanagawa,Odawara Castle,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,139.1561,35.2563
+Japan,Kanagawa,Tsurugaoka Hachimangu,Tsurugaoka Hachimangu Sushi-ya,Traditional Sushi & Sashimi,Both,139.5561,35.3258
+Japan,Kanagawa,Tsurugaoka Hachimangu,Ramen Ichiban Tsurugaoka Hachimangu Branch,Authentic Tonkotsu Ramen,Non-Veg,139.5561,35.3258
+Japan,Kanagawa,Tsurugaoka Hachimangu,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,139.5561,35.3258
+Japan,Nagano,Matsumoto Castle,Matsumoto Castle Sushi-ya,Traditional Sushi & Sashimi,Both,137.9718,36.2381
+Japan,Nagano,Matsumoto Castle,Ramen Ichiban Matsumoto Castle Branch,Authentic Tonkotsu Ramen,Non-Veg,137.9718,36.2381
+Japan,Nagano,Matsumoto Castle,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,137.9718,36.2381
+Japan,Nagano,Jigokudani Monkey Park,Jigokudani Monkey Park Sushi-ya,Traditional Sushi & Sashimi,Both,138.4699,36.7339
+Japan,Nagano,Jigokudani Monkey Park,Ramen Ichiban Jigokudani Monkey Park Branch,Authentic Tonkotsu Ramen,Non-Veg,138.4699,36.7339
+Japan,Nagano,Jigokudani Monkey Park,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,138.4699,36.7339
+Japan,Nagano,Kamikochi,Kamikochi Sushi-ya,Traditional Sushi & Sashimi,Both,137.6527,36.2469
+Japan,Nagano,Kamikochi,Ramen Ichiban Kamikochi Branch,Authentic Tonkotsu Ramen,Non-Veg,137.6527,36.2469
+Japan,Nagano,Kamikochi,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,137.6527,36.2469
+Japan,Nagano,Zenko-ji Temple,Zenko-ji Temple Sushi-ya,Traditional Sushi & Sashimi,Both,138.1893,36.666
+Japan,Nagano,Zenko-ji Temple,Ramen Ichiban Zenko-ji Temple Branch,Authentic Tonkotsu Ramen,Non-Veg,138.1893,36.666
+Japan,Nagano,Zenko-ji Temple,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,138.1893,36.666
+Japan,Nagano,Hakuba Valley,Hakuba Valley Sushi-ya,Traditional Sushi & Sashimi,Both,137.8602,36.7004
+Japan,Nagano,Hakuba Valley,Ramen Ichiban Hakuba Valley Branch,Authentic Tonkotsu Ramen,Non-Veg,137.8602,36.7004
+Japan,Nagano,Hakuba Valley,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,137.8602,36.7004
+Japan,Nagano,Narai-juku Post Town,Narai-juku Post Town Sushi-ya,Traditional Sushi & Sashimi,Both,137.8653,36.0278
+Japan,Nagano,Narai-juku Post Town,Ramen Ichiban Narai-juku Post Town Branch,Authentic Tonkotsu Ramen,Non-Veg,137.8653,36.0278
+Japan,Nagano,Narai-juku Post Town,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,137.8653,36.0278
+Japan,Nagano,Tateyama Kurobe,Tateyama Kurobe Sushi-ya,Traditional Sushi & Sashimi,Both,137.6076,36.5705
+Japan,Nagano,Tateyama Kurobe,Ramen Ichiban Tateyama Kurobe Branch,Authentic Tonkotsu Ramen,Non-Veg,137.6076,36.5705
+Japan,Nagano,Tateyama Kurobe,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,137.6076,36.5705
+Japan,Nagano,Togakushi Shrine,Togakushi Shrine Sushi-ya,Traditional Sushi & Sashimi,Both,137.9936,36.775
+Japan,Nagano,Togakushi Shrine,Ramen Ichiban Togakushi Shrine Branch,Authentic Tonkotsu Ramen,Non-Veg,137.9936,36.775
+Japan,Nagano,Togakushi Shrine,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,137.9936,36.775
+Japan,Nagano,Suwa Lake,Suwa Lake Sushi-ya,Traditional Sushi & Sashimi,Both,138.0833,36.0478
+Japan,Nagano,Suwa Lake,Ramen Ichiban Suwa Lake Branch,Authentic Tonkotsu Ramen,Non-Veg,138.0833,36.0478
+Japan,Nagano,Suwa Lake,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,138.0833,36.0478
+Japan,Nagano,Kiso Valley,Kiso Valley Sushi-ya,Traditional Sushi & Sashimi,Both,137.6044,35.7939
+Japan,Nagano,Kiso Valley,Ramen Ichiban Kiso Valley Branch,Authentic Tonkotsu Ramen,Non-Veg,137.6044,35.7939
+Japan,Nagano,Kiso Valley,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,137.6044,35.7939
+India,Uttar Pradesh,Taj Mahal,Taj Mahal Pure Veg Restaurant,North & South Indian Thali,Veg,78.0421,27.1751
+India,Uttar Pradesh,Taj Mahal,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,78.0421,27.1751
+India,Uttar Pradesh,Taj Mahal,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,78.0421,27.1751
+India,Uttar Pradesh,Agra Fort,Agra Fort Pure Veg Restaurant,North & South Indian Thali,Veg,78.0216,27.1798
+India,Uttar Pradesh,Agra Fort,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,78.0216,27.1798
+India,Uttar Pradesh,Agra Fort,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,78.0216,27.1798
+India,Uttar Pradesh,Varanasi Ghats,Varanasi Ghats Pure Veg Restaurant,North & South Indian Thali,Veg,83.0062,25.3176
+India,Uttar Pradesh,Varanasi Ghats,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,83.0062,25.3176
+India,Uttar Pradesh,Varanasi Ghats,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,83.0062,25.3176
+India,Uttar Pradesh,Fatehpur Sikri,Fatehpur Sikri Pure Veg Restaurant,North & South Indian Thali,Veg,77.6642,27.0945
+India,Uttar Pradesh,Fatehpur Sikri,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.6642,27.0945
+India,Uttar Pradesh,Fatehpur Sikri,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.6642,27.0945
+India,Uttar Pradesh,Lucknow Bara Imambara,Lucknow Bara Imambara Pure Veg Restaurant,North & South Indian Thali,Veg,80.9116,26.8672
+India,Uttar Pradesh,Lucknow Bara Imambara,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,80.9116,26.8672
+India,Uttar Pradesh,Lucknow Bara Imambara,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,80.9116,26.8672
+India,Uttar Pradesh,Mathura,Mathura Pure Veg Restaurant,North & South Indian Thali,Veg,77.6737,27.4924
+India,Uttar Pradesh,Mathura,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.6737,27.4924
+India,Uttar Pradesh,Mathura,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.6737,27.4924
+India,Uttar Pradesh,Vrindavan,Vrindavan Pure Veg Restaurant,North & South Indian Thali,Veg,77.693,27.5726
+India,Uttar Pradesh,Vrindavan,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.693,27.5726
+India,Uttar Pradesh,Vrindavan,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.693,27.5726
+India,Uttar Pradesh,Allahabad Triveni Sangam,Allahabad Triveni Sangam Pure Veg Restaurant,North & South Indian Thali,Veg,81.8463,25.4358
+India,Uttar Pradesh,Allahabad Triveni Sangam,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,81.8463,25.4358
+India,Uttar Pradesh,Allahabad Triveni Sangam,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,81.8463,25.4358
+India,Uttar Pradesh,Sarnath,Sarnath Pure Veg Restaurant,North & South Indian Thali,Veg,83.0242,25.3814
+India,Uttar Pradesh,Sarnath,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,83.0242,25.3814
+India,Uttar Pradesh,Sarnath,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,83.0242,25.3814
+India,Uttar Pradesh,Dudhwa National Park,Dudhwa National Park Pure Veg Restaurant,North & South Indian Thali,Veg,80.525,28.498
+India,Uttar Pradesh,Dudhwa National Park,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,80.525,28.498
+India,Uttar Pradesh,Dudhwa National Park,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,80.525,28.498
+India,Rajasthan,Amber Fort Jaipur,Amber Fort Jaipur Pure Veg Restaurant,North & South Indian Thali,Veg,75.8513,26.9855
+India,Rajasthan,Amber Fort Jaipur,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,75.8513,26.9855
+India,Rajasthan,Amber Fort Jaipur,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,75.8513,26.9855
+India,Rajasthan,City Palace Udaipur,City Palace Udaipur Pure Veg Restaurant,North & South Indian Thali,Veg,73.6833,24.5763
+India,Rajasthan,City Palace Udaipur,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,73.6833,24.5763
+India,Rajasthan,City Palace Udaipur,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,73.6833,24.5763
+India,Rajasthan,Mehrangarh Fort Jodhpur,Mehrangarh Fort Jodhpur Pure Veg Restaurant,North & South Indian Thali,Veg,73.0178,26.2978
+India,Rajasthan,Mehrangarh Fort Jodhpur,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,73.0178,26.2978
+India,Rajasthan,Mehrangarh Fort Jodhpur,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,73.0178,26.2978
+India,Rajasthan,Jaisalmer Fort,Jaisalmer Fort Pure Veg Restaurant,North & South Indian Thali,Veg,70.9083,26.9157
+India,Rajasthan,Jaisalmer Fort,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,70.9083,26.9157
+India,Rajasthan,Jaisalmer Fort,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,70.9083,26.9157
+India,Rajasthan,Hawa Mahal Jaipur,Hawa Mahal Jaipur Pure Veg Restaurant,North & South Indian Thali,Veg,75.8267,26.9239
+India,Rajasthan,Hawa Mahal Jaipur,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,75.8267,26.9239
+India,Rajasthan,Hawa Mahal Jaipur,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,75.8267,26.9239
+India,Rajasthan,Pushkar Lake,Pushkar Lake Pure Veg Restaurant,North & South Indian Thali,Veg,74.5517,26.4883
+India,Rajasthan,Pushkar Lake,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,74.5517,26.4883
+India,Rajasthan,Pushkar Lake,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,74.5517,26.4883
+India,Rajasthan,Ranthambore National Park,Ranthambore National Park Pure Veg Restaurant,North & South Indian Thali,Veg,76.5026,26.0173
+India,Rajasthan,Ranthambore National Park,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,76.5026,26.0173
+India,Rajasthan,Ranthambore National Park,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,76.5026,26.0173
+India,Rajasthan,Chittorgarh Fort,Chittorgarh Fort Pure Veg Restaurant,North & South Indian Thali,Veg,74.6439,24.8887
+India,Rajasthan,Chittorgarh Fort,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,74.6439,24.8887
+India,Rajasthan,Chittorgarh Fort,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,74.6439,24.8887
+India,Rajasthan,Sam Sand Dunes,Sam Sand Dunes Pure Veg Restaurant,North & South Indian Thali,Veg,70.5421,26.8757
+India,Rajasthan,Sam Sand Dunes,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,70.5421,26.8757
+India,Rajasthan,Sam Sand Dunes,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,70.5421,26.8757
+India,Rajasthan,Kumbhalgarh Fort,Kumbhalgarh Fort Pure Veg Restaurant,North & South Indian Thali,Veg,73.587,25.1476
+India,Rajasthan,Kumbhalgarh Fort,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,73.587,25.1476
+India,Rajasthan,Kumbhalgarh Fort,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,73.587,25.1476
+India,Delhi,Red Fort,Red Fort Pure Veg Restaurant,North & South Indian Thali,Veg,77.241,28.6562
+India,Delhi,Red Fort,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.241,28.6562
+India,Delhi,Red Fort,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.241,28.6562
+India,Delhi,Qutub Minar,Qutub Minar Pure Veg Restaurant,North & South Indian Thali,Veg,77.1855,28.5245
+India,Delhi,Qutub Minar,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.1855,28.5245
+India,Delhi,Qutub Minar,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.1855,28.5245
+India,Delhi,India Gate,India Gate Pure Veg Restaurant,North & South Indian Thali,Veg,77.2295,28.6129
+India,Delhi,India Gate,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.2295,28.6129
+India,Delhi,India Gate,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.2295,28.6129
+India,Delhi,Humayun's Tomb,Humayun's Tomb Pure Veg Restaurant,North & South Indian Thali,Veg,77.2507,28.5933
+India,Delhi,Humayun's Tomb,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.2507,28.5933
+India,Delhi,Humayun's Tomb,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.2507,28.5933
+India,Delhi,Lotus Temple,Lotus Temple Pure Veg Restaurant,North & South Indian Thali,Veg,77.2588,28.5535
+India,Delhi,Lotus Temple,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.2588,28.5535
+India,Delhi,Lotus Temple,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.2588,28.5535
+India,Delhi,Akshardham Temple,Akshardham Temple Pure Veg Restaurant,North & South Indian Thali,Veg,77.2773,28.6127
+India,Delhi,Akshardham Temple,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.2773,28.6127
+India,Delhi,Akshardham Temple,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.2773,28.6127
+India,Delhi,Jama Masjid,Jama Masjid Pure Veg Restaurant,North & South Indian Thali,Veg,77.2334,28.6507
+India,Delhi,Jama Masjid,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.2334,28.6507
+India,Delhi,Jama Masjid,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.2334,28.6507
+India,Delhi,Chandni Chowk,Chandni Chowk Pure Veg Restaurant,North & South Indian Thali,Veg,77.23,28.658
+India,Delhi,Chandni Chowk,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.23,28.658
+India,Delhi,Chandni Chowk,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.23,28.658
+India,Delhi,Lodi Garden,Lodi Garden Pure Veg Restaurant,North & South Indian Thali,Veg,77.2198,28.5931
+India,Delhi,Lodi Garden,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.2198,28.5931
+India,Delhi,Lodi Garden,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.2198,28.5931
+India,Delhi,National Museum New Delhi,National Museum New Delhi Pure Veg Restaurant,North & South Indian Thali,Veg,77.2198,28.6116
+India,Delhi,National Museum New Delhi,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.2198,28.6116
+India,Delhi,National Museum New Delhi,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.2198,28.6116
+India,Kerala,Backwaters Alleppey,Backwaters Alleppey Pure Veg Restaurant,North & South Indian Thali,Veg,76.3388,9.4981
+India,Kerala,Backwaters Alleppey,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,76.3388,9.4981
+India,Kerala,Backwaters Alleppey,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,76.3388,9.4981
+India,Kerala,Munnar Tea Gardens,Munnar Tea Gardens Pure Veg Restaurant,North & South Indian Thali,Veg,77.0595,10.0889
+India,Kerala,Munnar Tea Gardens,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.0595,10.0889
+India,Kerala,Munnar Tea Gardens,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.0595,10.0889
+India,Kerala,Periyar Wildlife Sanctuary,Periyar Wildlife Sanctuary Pure Veg Restaurant,North & South Indian Thali,Veg,77.204,9.4639
+India,Kerala,Periyar Wildlife Sanctuary,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.204,9.4639
+India,Kerala,Periyar Wildlife Sanctuary,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.204,9.4639
+India,Kerala,Fort Kochi,Fort Kochi Pure Veg Restaurant,North & South Indian Thali,Veg,76.2429,9.9639
+India,Kerala,Fort Kochi,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,76.2429,9.9639
+India,Kerala,Fort Kochi,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,76.2429,9.9639
+India,Kerala,Varkala Cliff Beach,Varkala Cliff Beach Pure Veg Restaurant,North & South Indian Thali,Veg,76.7163,8.7379
+India,Kerala,Varkala Cliff Beach,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,76.7163,8.7379
+India,Kerala,Varkala Cliff Beach,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,76.7163,8.7379
+India,Kerala,Thekkady,Thekkady Pure Veg Restaurant,North & South Indian Thali,Veg,77.1621,9.5993
+India,Kerala,Thekkady,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.1621,9.5993
+India,Kerala,Thekkady,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.1621,9.5993
+India,Kerala,Wayanad,Wayanad Pure Veg Restaurant,North & South Indian Thali,Veg,76.132,11.6854
+India,Kerala,Wayanad,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,76.132,11.6854
+India,Kerala,Wayanad,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,76.132,11.6854
+India,Kerala,Athirapally Falls,Athirapally Falls Pure Veg Restaurant,North & South Indian Thali,Veg,76.5705,10.2853
+India,Kerala,Athirapally Falls,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,76.5705,10.2853
+India,Kerala,Athirapally Falls,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,76.5705,10.2853
+India,Kerala,Kovalam Beach,Kovalam Beach Pure Veg Restaurant,North & South Indian Thali,Veg,76.9784,8.3988
+India,Kerala,Kovalam Beach,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,76.9784,8.3988
+India,Kerala,Kovalam Beach,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,76.9784,8.3988
+India,Kerala,Silent Valley National Park,Silent Valley National Park Pure Veg Restaurant,North & South Indian Thali,Veg,76.459,11.0753
+India,Kerala,Silent Valley National Park,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,76.459,11.0753
+India,Kerala,Silent Valley National Park,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,76.459,11.0753
+India,Goa,Baga Beach,Baga Beach Pure Veg Restaurant,North & South Indian Thali,Veg,73.7521,15.5561
+India,Goa,Baga Beach,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,73.7521,15.5561
+India,Goa,Baga Beach,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,73.7521,15.5561
+India,Goa,Basilica of Bom Jesus,Basilica of Bom Jesus Pure Veg Restaurant,North & South Indian Thali,Veg,73.9116,15.5008
+India,Goa,Basilica of Bom Jesus,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,73.9116,15.5008
+India,Goa,Basilica of Bom Jesus,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,73.9116,15.5008
+India,Goa,Dudhsagar Falls,Dudhsagar Falls Pure Veg Restaurant,North & South Indian Thali,Veg,74.314,15.3143
+India,Goa,Dudhsagar Falls,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,74.314,15.3143
+India,Goa,Dudhsagar Falls,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,74.314,15.3143
+India,Goa,Anjuna Beach,Anjuna Beach Pure Veg Restaurant,North & South Indian Thali,Veg,73.744,15.5739
+India,Goa,Anjuna Beach,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,73.744,15.5739
+India,Goa,Anjuna Beach,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,73.744,15.5739
+India,Goa,Chapora Fort,Chapora Fort Pure Veg Restaurant,North & South Indian Thali,Veg,73.739,15.6042
+India,Goa,Chapora Fort,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,73.739,15.6042
+India,Goa,Chapora Fort,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,73.739,15.6042
+India,Goa,Panaji Church,Panaji Church Pure Veg Restaurant,North & South Indian Thali,Veg,73.8278,15.4989
+India,Goa,Panaji Church,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,73.8278,15.4989
+India,Goa,Panaji Church,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,73.8278,15.4989
+India,Goa,Colva Beach,Colva Beach Pure Veg Restaurant,North & South Indian Thali,Veg,73.9214,15.2793
+India,Goa,Colva Beach,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,73.9214,15.2793
+India,Goa,Colva Beach,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,73.9214,15.2793
+India,Goa,Calangute Beach,Calangute Beach Pure Veg Restaurant,North & South Indian Thali,Veg,73.7558,15.5438
+India,Goa,Calangute Beach,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,73.7558,15.5438
+India,Goa,Calangute Beach,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,73.7558,15.5438
+India,Goa,Aguada Fort,Aguada Fort Pure Veg Restaurant,North & South Indian Thali,Veg,73.7737,15.4946
+India,Goa,Aguada Fort,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,73.7737,15.4946
+India,Goa,Aguada Fort,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,73.7737,15.4946
+India,Goa,Palolem Beach,Palolem Beach Pure Veg Restaurant,North & South Indian Thali,Veg,74.0234,15.0098
+India,Goa,Palolem Beach,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,74.0234,15.0098
+India,Goa,Palolem Beach,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,74.0234,15.0098
+India,Maharashtra,Gateway of India Mumbai,Gateway of India Mumbai Pure Veg Restaurant,North & South Indian Thali,Veg,72.8347,18.922
+India,Maharashtra,Gateway of India Mumbai,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,72.8347,18.922
+India,Maharashtra,Gateway of India Mumbai,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,72.8347,18.922
+India,Maharashtra,Ajanta Caves,Ajanta Caves Pure Veg Restaurant,North & South Indian Thali,Veg,75.7033,20.5519
+India,Maharashtra,Ajanta Caves,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,75.7033,20.5519
+India,Maharashtra,Ajanta Caves,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,75.7033,20.5519
+India,Maharashtra,Ellora Caves,Ellora Caves Pure Veg Restaurant,North & South Indian Thali,Veg,75.179,20.0258
+India,Maharashtra,Ellora Caves,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,75.179,20.0258
+India,Maharashtra,Ellora Caves,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,75.179,20.0258
+India,Maharashtra,Elephanta Caves,Elephanta Caves Pure Veg Restaurant,North & South Indian Thali,Veg,72.9315,18.9633
+India,Maharashtra,Elephanta Caves,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,72.9315,18.9633
+India,Maharashtra,Elephanta Caves,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,72.9315,18.9633
+India,Maharashtra,Chhatrapati Shivaji Terminus,Chhatrapati Shivaji Terminus Pure Veg Restaurant,North & South Indian Thali,Veg,72.8354,18.94
+India,Maharashtra,Chhatrapati Shivaji Terminus,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,72.8354,18.94
+India,Maharashtra,Chhatrapati Shivaji Terminus,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,72.8354,18.94
+India,Maharashtra,Lonavala,Lonavala Pure Veg Restaurant,North & South Indian Thali,Veg,73.4072,18.7481
+India,Maharashtra,Lonavala,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,73.4072,18.7481
+India,Maharashtra,Lonavala,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,73.4072,18.7481
+India,Maharashtra,Mahabaleshwar,Mahabaleshwar Pure Veg Restaurant,North & South Indian Thali,Veg,73.6575,17.9236
+India,Maharashtra,Mahabaleshwar,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,73.6575,17.9236
+India,Maharashtra,Mahabaleshwar,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,73.6575,17.9236
+India,Maharashtra,Shirdi Sai Baba Temple,Shirdi Sai Baba Temple Pure Veg Restaurant,North & South Indian Thali,Veg,74.4768,19.765
+India,Maharashtra,Shirdi Sai Baba Temple,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,74.4768,19.765
+India,Maharashtra,Shirdi Sai Baba Temple,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,74.4768,19.765
+India,Maharashtra,Nashik,Nashik Pure Veg Restaurant,North & South Indian Thali,Veg,73.7898,20.0132
+India,Maharashtra,Nashik,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,73.7898,20.0132
+India,Maharashtra,Nashik,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,73.7898,20.0132
+India,Maharashtra,Kolhapur Palace,Kolhapur Palace Pure Veg Restaurant,North & South Indian Thali,Veg,74.2251,16.6949
+India,Maharashtra,Kolhapur Palace,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,74.2251,16.6949
+India,Maharashtra,Kolhapur Palace,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,74.2251,16.6949
+India,Tamil Nadu,Meenakshi Amman Temple,Meenakshi Amman Temple Pure Veg Restaurant,North & South Indian Thali,Veg,78.1194,9.9195
+India,Tamil Nadu,Meenakshi Amman Temple,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,78.1194,9.9195
+India,Tamil Nadu,Meenakshi Amman Temple,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,78.1194,9.9195
+India,Tamil Nadu,Shore Temple Mahabalipuram,Shore Temple Mahabalipuram Pure Veg Restaurant,North & South Indian Thali,Veg,80.1928,12.6172
+India,Tamil Nadu,Shore Temple Mahabalipuram,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,80.1928,12.6172
+India,Tamil Nadu,Shore Temple Mahabalipuram,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,80.1928,12.6172
+India,Tamil Nadu,Brihadeeswara Temple Thanjavur,Brihadeeswara Temple Thanjavur Pure Veg Restaurant,North & South Indian Thali,Veg,79.1318,10.7828
+India,Tamil Nadu,Brihadeeswara Temple Thanjavur,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,79.1318,10.7828
+India,Tamil Nadu,Brihadeeswara Temple Thanjavur,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,79.1318,10.7828
+India,Tamil Nadu,Ooty,Ooty Pure Veg Restaurant,North & South Indian Thali,Veg,76.695,11.4102
+India,Tamil Nadu,Ooty,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,76.695,11.4102
+India,Tamil Nadu,Ooty,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,76.695,11.4102
+India,Tamil Nadu,Kodaikanal,Kodaikanal Pure Veg Restaurant,North & South Indian Thali,Veg,77.4892,10.2381
+India,Tamil Nadu,Kodaikanal,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.4892,10.2381
+India,Tamil Nadu,Kodaikanal,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.4892,10.2381
+India,Tamil Nadu,Marina Beach Chennai,Marina Beach Chennai Pure Veg Restaurant,North & South Indian Thali,Veg,80.2824,13.05
+India,Tamil Nadu,Marina Beach Chennai,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,80.2824,13.05
+India,Tamil Nadu,Marina Beach Chennai,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,80.2824,13.05
+India,Tamil Nadu,Kanyakumari,Kanyakumari Pure Veg Restaurant,North & South Indian Thali,Veg,77.5385,8.0883
+India,Tamil Nadu,Kanyakumari,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.5385,8.0883
+India,Tamil Nadu,Kanyakumari,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.5385,8.0883
+India,Tamil Nadu,Madurai,Madurai Pure Veg Restaurant,North & South Indian Thali,Veg,78.1198,9.9252
+India,Tamil Nadu,Madurai,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,78.1198,9.9252
+India,Tamil Nadu,Madurai,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,78.1198,9.9252
+India,Tamil Nadu,Mudumalai National Park,Mudumalai National Park Pure Veg Restaurant,North & South Indian Thali,Veg,76.6367,11.5717
+India,Tamil Nadu,Mudumalai National Park,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,76.6367,11.5717
+India,Tamil Nadu,Mudumalai National Park,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,76.6367,11.5717
+India,Tamil Nadu,Vellore Fort,Vellore Fort Pure Veg Restaurant,North & South Indian Thali,Veg,79.1319,12.9202
+India,Tamil Nadu,Vellore Fort,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,79.1319,12.9202
+India,Tamil Nadu,Vellore Fort,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,79.1319,12.9202
+India,Himachal Pradesh,Shimla,Shimla Pure Veg Restaurant,North & South Indian Thali,Veg,77.1734,31.1048
+India,Himachal Pradesh,Shimla,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.1734,31.1048
+India,Himachal Pradesh,Shimla,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.1734,31.1048
+India,Himachal Pradesh,Manali,Manali Pure Veg Restaurant,North & South Indian Thali,Veg,77.1892,32.2432
+India,Himachal Pradesh,Manali,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.1892,32.2432
+India,Himachal Pradesh,Manali,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.1892,32.2432
+India,Himachal Pradesh,Rohtang Pass,Rohtang Pass Pure Veg Restaurant,North & South Indian Thali,Veg,77.2453,32.3726
+India,Himachal Pradesh,Rohtang Pass,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.2453,32.3726
+India,Himachal Pradesh,Rohtang Pass,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.2453,32.3726
+India,Himachal Pradesh,Spiti Valley,Spiti Valley Pure Veg Restaurant,North & South Indian Thali,Veg,78.0335,32.2464
+India,Himachal Pradesh,Spiti Valley,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,78.0335,32.2464
+India,Himachal Pradesh,Spiti Valley,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,78.0335,32.2464
+India,Himachal Pradesh,Dharamshala,Dharamshala Pure Veg Restaurant,North & South Indian Thali,Veg,76.3234,32.219
+India,Himachal Pradesh,Dharamshala,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,76.3234,32.219
+India,Himachal Pradesh,Dharamshala,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,76.3234,32.219
+India,Himachal Pradesh,Dalhousie,Dalhousie Pure Veg Restaurant,North & South Indian Thali,Veg,75.9731,32.5382
+India,Himachal Pradesh,Dalhousie,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,75.9731,32.5382
+India,Himachal Pradesh,Dalhousie,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,75.9731,32.5382
+India,Himachal Pradesh,Kullu Valley,Kullu Valley Pure Veg Restaurant,North & South Indian Thali,Veg,77.1089,31.9592
+India,Himachal Pradesh,Kullu Valley,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.1089,31.9592
+India,Himachal Pradesh,Kullu Valley,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.1089,31.9592
+India,Himachal Pradesh,Kasol,Kasol Pure Veg Restaurant,North & South Indian Thali,Veg,77.3149,32.0098
+India,Himachal Pradesh,Kasol,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.3149,32.0098
+India,Himachal Pradesh,Kasol,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.3149,32.0098
+India,Himachal Pradesh,Khajjiar,Khajjiar Pure Veg Restaurant,North & South Indian Thali,Veg,76.0531,32.5424
+India,Himachal Pradesh,Khajjiar,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,76.0531,32.5424
+India,Himachal Pradesh,Khajjiar,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,76.0531,32.5424
+India,Himachal Pradesh,Great Himalayan National Park,Great Himalayan National Park Pure Veg Restaurant,North & South Indian Thali,Veg,77.488,31.748
+India,Himachal Pradesh,Great Himalayan National Park,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,77.488,31.748
+India,Himachal Pradesh,Great Himalayan National Park,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,77.488,31.748
+India,West Bengal,Victoria Memorial Kolkata,Victoria Memorial Kolkata Pure Veg Restaurant,North & South Indian Thali,Veg,88.3426,22.5448
+India,West Bengal,Victoria Memorial Kolkata,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,88.3426,22.5448
+India,West Bengal,Victoria Memorial Kolkata,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,88.3426,22.5448
+India,West Bengal,Darjeeling Tea Estates,Darjeeling Tea Estates Pure Veg Restaurant,North & South Indian Thali,Veg,88.2627,27.036
+India,West Bengal,Darjeeling Tea Estates,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,88.2627,27.036
+India,West Bengal,Darjeeling Tea Estates,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,88.2627,27.036
+India,West Bengal,Sundarbans National Park,Sundarbans National Park Pure Veg Restaurant,North & South Indian Thali,Veg,89.1833,21.9497
+India,West Bengal,Sundarbans National Park,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,89.1833,21.9497
+India,West Bengal,Sundarbans National Park,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,89.1833,21.9497
+India,West Bengal,Howrah Bridge,Howrah Bridge Pure Veg Restaurant,North & South Indian Thali,Veg,88.3468,22.5851
+India,West Bengal,Howrah Bridge,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,88.3468,22.5851
+India,West Bengal,Howrah Bridge,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,88.3468,22.5851
+India,West Bengal,Dakshineswar Kali Temple,Dakshineswar Kali Temple Pure Veg Restaurant,North & South Indian Thali,Veg,88.358,22.6545
+India,West Bengal,Dakshineswar Kali Temple,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,88.358,22.6545
+India,West Bengal,Dakshineswar Kali Temple,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,88.358,22.6545
+India,West Bengal,Bishnupur Temples,Bishnupur Temples Pure Veg Restaurant,North & South Indian Thali,Veg,87.3155,23.0773
+India,West Bengal,Bishnupur Temples,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,87.3155,23.0773
+India,West Bengal,Bishnupur Temples,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,87.3155,23.0773
+India,West Bengal,Tiger Hill Darjeeling,Tiger Hill Darjeeling Pure Veg Restaurant,North & South Indian Thali,Veg,88.2985,27.0173
+India,West Bengal,Tiger Hill Darjeeling,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,88.2985,27.0173
+India,West Bengal,Tiger Hill Darjeeling,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,88.2985,27.0173
+India,West Bengal,Belur Math,Belur Math Pure Veg Restaurant,North & South Indian Thali,Veg,88.3568,22.6292
+India,West Bengal,Belur Math,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,88.3568,22.6292
+India,West Bengal,Belur Math,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,88.3568,22.6292
+India,West Bengal,Indian Museum Kolkata,Indian Museum Kolkata Pure Veg Restaurant,North & South Indian Thali,Veg,88.3512,22.557
+India,West Bengal,Indian Museum Kolkata,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,88.3512,22.557
+India,West Bengal,Indian Museum Kolkata,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,88.3512,22.557
+India,West Bengal,Murshidabad,Murshidabad Pure Veg Restaurant,North & South Indian Thali,Veg,88.2697,24.1834
+India,West Bengal,Murshidabad,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,88.2697,24.1834
+India,West Bengal,Murshidabad,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,88.2697,24.1834
+Australia,New South Wales,Sydney Opera House,The Great Southern Café,Modern Australian Bistro,Both,151.2153,-33.8568
+Australia,New South Wales,Sydney Opera House,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,151.2153,-33.8568
+Australia,New South Wales,Sydney Opera House,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,151.2153,-33.8568
+Australia,New South Wales,Sydney Harbour Bridge,The Great Southern Café,Modern Australian Bistro,Both,151.2108,-33.8523
+Australia,New South Wales,Sydney Harbour Bridge,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,151.2108,-33.8523
+Australia,New South Wales,Sydney Harbour Bridge,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,151.2108,-33.8523
+Australia,New South Wales,Bondi Beach,The Great Southern Café,Modern Australian Bistro,Both,151.2767,-33.8915
+Australia,New South Wales,Bondi Beach,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,151.2767,-33.8915
+Australia,New South Wales,Bondi Beach,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,151.2767,-33.8915
+Australia,New South Wales,Blue Mountains,The Great Southern Café,Modern Australian Bistro,Both,150.3117,-33.7148
+Australia,New South Wales,Blue Mountains,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,150.3117,-33.7148
+Australia,New South Wales,Blue Mountains,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,150.3117,-33.7148
+Australia,New South Wales,Royal Botanic Garden Sydney,The Great Southern Café,Modern Australian Bistro,Both,151.2166,-33.8642
+Australia,New South Wales,Royal Botanic Garden Sydney,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,151.2166,-33.8642
+Australia,New South Wales,Royal Botanic Garden Sydney,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,151.2166,-33.8642
+Australia,New South Wales,Hunter Valley Wineries,The Great Southern Café,Modern Australian Bistro,Both,151.17,-32.79
+Australia,New South Wales,Hunter Valley Wineries,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,151.17,-32.79
+Australia,New South Wales,Hunter Valley Wineries,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,151.17,-32.79
+Australia,New South Wales,Byron Bay,The Great Southern Café,Modern Australian Bistro,Both,153.602,-28.6474
+Australia,New South Wales,Byron Bay,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,153.602,-28.6474
+Australia,New South Wales,Byron Bay,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,153.602,-28.6474
+Australia,New South Wales,Jervis Bay,The Great Southern Café,Modern Australian Bistro,Both,150.76,-35.17
+Australia,New South Wales,Jervis Bay,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,150.76,-35.17
+Australia,New South Wales,Jervis Bay,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,150.76,-35.17
+Australia,New South Wales,Port Stephens,The Great Southern Café,Modern Australian Bistro,Both,152.091,-32.717
+Australia,New South Wales,Port Stephens,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,152.091,-32.717
+Australia,New South Wales,Port Stephens,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,152.091,-32.717
+Australia,New South Wales,Snowy Mountains,The Great Southern Café,Modern Australian Bistro,Both,148.264,-36.4548
+Australia,New South Wales,Snowy Mountains,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,148.264,-36.4548
+Australia,New South Wales,Snowy Mountains,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,148.264,-36.4548
+Australia,Victoria,Great Ocean Road,The Great Southern Café,Modern Australian Bistro,Both,143.4,-38.68
+Australia,Victoria,Great Ocean Road,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,143.4,-38.68
+Australia,Victoria,Great Ocean Road,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,143.4,-38.68
+Australia,Victoria,Twelve Apostles,The Great Southern Café,Modern Australian Bistro,Both,143.105,-38.6623
+Australia,Victoria,Twelve Apostles,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,143.105,-38.6623
+Australia,Victoria,Twelve Apostles,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,143.105,-38.6623
+Australia,Victoria,Federation Square Melbourne,The Great Southern Café,Modern Australian Bistro,Both,144.9691,-37.818
+Australia,Victoria,Federation Square Melbourne,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,144.9691,-37.818
+Australia,Victoria,Federation Square Melbourne,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,144.9691,-37.818
+Australia,Victoria,Phillip Island Penguin Parade,The Great Southern Café,Modern Australian Bistro,Both,145.3677,-38.4987
+Australia,Victoria,Phillip Island Penguin Parade,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,145.3677,-38.4987
+Australia,Victoria,Phillip Island Penguin Parade,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,145.3677,-38.4987
+Australia,Victoria,Yarra Valley,The Great Southern Café,Modern Australian Bistro,Both,145.55,-37.71
+Australia,Victoria,Yarra Valley,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,145.55,-37.71
+Australia,Victoria,Yarra Valley,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,145.55,-37.71
+Australia,Victoria,Melbourne Cricket Ground,The Great Southern Café,Modern Australian Bistro,Both,144.9836,-37.82
+Australia,Victoria,Melbourne Cricket Ground,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,144.9836,-37.82
+Australia,Victoria,Melbourne Cricket Ground,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,144.9836,-37.82
+Australia,Victoria,Sovereign Hill Ballarat,The Great Southern Café,Modern Australian Bistro,Both,143.8397,-37.5683
+Australia,Victoria,Sovereign Hill Ballarat,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,143.8397,-37.5683
+Australia,Victoria,Sovereign Hill Ballarat,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,143.8397,-37.5683
+Australia,Victoria,Healesville Sanctuary,The Great Southern Café,Modern Australian Bistro,Both,145.5163,-37.6561
+Australia,Victoria,Healesville Sanctuary,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,145.5163,-37.6561
+Australia,Victoria,Healesville Sanctuary,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,145.5163,-37.6561
+Australia,Victoria,Wilson's Promontory,The Great Southern Café,Modern Australian Bistro,Both,146.35,-39.05
+Australia,Victoria,Wilson's Promontory,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,146.35,-39.05
+Australia,Victoria,Wilson's Promontory,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,146.35,-39.05
+Australia,Victoria,Royal Botanic Gardens Melbourne,The Great Southern Café,Modern Australian Bistro,Both,144.9798,-37.8304
+Australia,Victoria,Royal Botanic Gardens Melbourne,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,144.9798,-37.8304
+Australia,Victoria,Royal Botanic Gardens Melbourne,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,144.9798,-37.8304
+Australia,Queensland,Great Barrier Reef,The Great Southern Café,Modern Australian Bistro,Both,147.6992,-18.2871
+Australia,Queensland,Great Barrier Reef,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,147.6992,-18.2871
+Australia,Queensland,Great Barrier Reef,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,147.6992,-18.2871
+Australia,Queensland,Whitsunday Islands,The Great Southern Café,Modern Australian Bistro,Both,148.83,-20.27
+Australia,Queensland,Whitsunday Islands,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,148.83,-20.27
+Australia,Queensland,Whitsunday Islands,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,148.83,-20.27
+Australia,Queensland,Daintree Rainforest,The Great Southern Café,Modern Australian Bistro,Both,145.42,-16.17
+Australia,Queensland,Daintree Rainforest,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,145.42,-16.17
+Australia,Queensland,Daintree Rainforest,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,145.42,-16.17
+Australia,Queensland,Gold Coast,The Great Southern Café,Modern Australian Bistro,Both,153.4,-28.0167
+Australia,Queensland,Gold Coast,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,153.4,-28.0167
+Australia,Queensland,Gold Coast,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,153.4,-28.0167
+Australia,Queensland,Cairns,The Great Southern Café,Modern Australian Bistro,Both,145.7781,-16.9186
+Australia,Queensland,Cairns,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,145.7781,-16.9186
+Australia,Queensland,Cairns,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,145.7781,-16.9186
+Australia,Queensland,Noosa National Park,The Great Southern Café,Modern Australian Bistro,Both,153.089,-26.4003
+Australia,Queensland,Noosa National Park,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,153.089,-26.4003
+Australia,Queensland,Noosa National Park,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,153.089,-26.4003
+Australia,Queensland,Lamington National Park,The Great Southern Café,Modern Australian Bistro,Both,153.15,-28.22
+Australia,Queensland,Lamington National Park,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,153.15,-28.22
+Australia,Queensland,Lamington National Park,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,153.15,-28.22
+Australia,Queensland,Fraser Island,The Great Southern Café,Modern Australian Bistro,Both,153.2,-25.25
+Australia,Queensland,Fraser Island,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,153.2,-25.25
+Australia,Queensland,Fraser Island,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,153.2,-25.25
+Australia,Queensland,Kuranda,The Great Southern Café,Modern Australian Bistro,Both,145.6333,-16.8167
+Australia,Queensland,Kuranda,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,145.6333,-16.8167
+Australia,Queensland,Kuranda,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,145.6333,-16.8167
+Australia,Queensland,Atherton Tablelands,The Great Southern Café,Modern Australian Bistro,Both,145.4833,-17.2667
+Australia,Queensland,Atherton Tablelands,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,145.4833,-17.2667
+Australia,Queensland,Atherton Tablelands,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,145.4833,-17.2667
+Australia,Western Australia,Ningaloo Reef,The Great Southern Café,Modern Australian Bistro,Both,113.8,-22.6
+Australia,Western Australia,Ningaloo Reef,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,113.8,-22.6
+Australia,Western Australia,Ningaloo Reef,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,113.8,-22.6
+Australia,Western Australia,Pinnacles Desert,The Great Southern Café,Modern Australian Bistro,Both,115.15,-30.6
+Australia,Western Australia,Pinnacles Desert,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,115.15,-30.6
+Australia,Western Australia,Pinnacles Desert,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,115.15,-30.6
+Australia,Western Australia,Margaret River,The Great Southern Café,Modern Australian Bistro,Both,115.07,-33.95
+Australia,Western Australia,Margaret River,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,115.07,-33.95
+Australia,Western Australia,Margaret River,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,115.07,-33.95
+Australia,Western Australia,Broome Cable Beach,The Great Southern Café,Modern Australian Bistro,Both,122.23,-17.96
+Australia,Western Australia,Broome Cable Beach,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,122.23,-17.96
+Australia,Western Australia,Broome Cable Beach,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,122.23,-17.96
+Australia,Western Australia,Wave Rock,The Great Southern Café,Modern Australian Bistro,Both,118.89,-32.44
+Australia,Western Australia,Wave Rock,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,118.89,-32.44
+Australia,Western Australia,Wave Rock,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,118.89,-32.44
+Australia,Western Australia,Rottnest Island,The Great Southern Café,Modern Australian Bistro,Both,115.5167,-32.0067
+Australia,Western Australia,Rottnest Island,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,115.5167,-32.0067
+Australia,Western Australia,Rottnest Island,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,115.5167,-32.0067
+Australia,Western Australia,Karijini National Park,The Great Southern Café,Modern Australian Bistro,Both,118.32,-22.46
+Australia,Western Australia,Karijini National Park,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,118.32,-22.46
+Australia,Western Australia,Karijini National Park,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,118.32,-22.46
+Australia,Western Australia,Perth Kings Park,The Great Southern Café,Modern Australian Bistro,Both,115.8333,-31.9567
+Australia,Western Australia,Perth Kings Park,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,115.8333,-31.9567
+Australia,Western Australia,Perth Kings Park,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,115.8333,-31.9567
+Australia,Western Australia,Shark Bay,The Great Southern Café,Modern Australian Bistro,Both,113.97,-25.99
+Australia,Western Australia,Shark Bay,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,113.97,-25.99
+Australia,Western Australia,Shark Bay,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,113.97,-25.99
+Australia,Western Australia,Fremantle Prison,The Great Southern Café,Modern Australian Bistro,Both,115.751,-32.0577
+Australia,Western Australia,Fremantle Prison,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,115.751,-32.0577
+Australia,Western Australia,Fremantle Prison,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,115.751,-32.0577
+Australia,South Australia,Kangaroo Island,The Great Southern Café,Modern Australian Bistro,Both,137.2,-35.77
+Australia,South Australia,Kangaroo Island,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,137.2,-35.77
+Australia,South Australia,Kangaroo Island,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,137.2,-35.77
+Australia,South Australia,Barossa Valley,The Great Southern Café,Modern Australian Bistro,Both,139.0,-34.53
+Australia,South Australia,Barossa Valley,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,139.0,-34.53
+Australia,South Australia,Barossa Valley,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,139.0,-34.53
+Australia,South Australia,Flinders Ranges,The Great Southern Café,Modern Australian Bistro,Both,138.62,-31.5
+Australia,South Australia,Flinders Ranges,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,138.62,-31.5
+Australia,South Australia,Flinders Ranges,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,138.62,-31.5
+Australia,South Australia,Coober Pedy,The Great Southern Café,Modern Australian Bistro,Both,134.7543,-29.0135
+Australia,South Australia,Coober Pedy,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,134.7543,-29.0135
+Australia,South Australia,Coober Pedy,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,134.7543,-29.0135
+Australia,South Australia,Adelaide Central Market,The Great Southern Café,Modern Australian Bistro,Both,138.5986,-34.9285
+Australia,South Australia,Adelaide Central Market,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,138.5986,-34.9285
+Australia,South Australia,Adelaide Central Market,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,138.5986,-34.9285
+Australia,South Australia,McLaren Vale,The Great Southern Café,Modern Australian Bistro,Both,138.55,-35.22
+Australia,South Australia,McLaren Vale,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,138.55,-35.22
+Australia,South Australia,McLaren Vale,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,138.55,-35.22
+Australia,South Australia,Wilpena Pound,The Great Southern Café,Modern Australian Bistro,Both,138.6573,-31.5426
+Australia,South Australia,Wilpena Pound,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,138.6573,-31.5426
+Australia,South Australia,Wilpena Pound,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,138.6573,-31.5426
+Australia,South Australia,Hahndorf,The Great Southern Café,Modern Australian Bistro,Both,138.8064,-35.0347
+Australia,South Australia,Hahndorf,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,138.8064,-35.0347
+Australia,South Australia,Hahndorf,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,138.8064,-35.0347
+Australia,South Australia,Victor Harbor,The Great Southern Café,Modern Australian Bistro,Both,138.62,-35.55
+Australia,South Australia,Victor Harbor,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,138.62,-35.55
+Australia,South Australia,Victor Harbor,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,138.62,-35.55
+Australia,South Australia,Naracoorte Caves,The Great Southern Café,Modern Australian Bistro,Both,140.78,-36.97
+Australia,South Australia,Naracoorte Caves,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,140.78,-36.97
+Australia,South Australia,Naracoorte Caves,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,140.78,-36.97
+Australia,Northern Territory,Uluru Ayers Rock,The Great Southern Café,Modern Australian Bistro,Both,131.0369,-25.3444
+Australia,Northern Territory,Uluru Ayers Rock,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,131.0369,-25.3444
+Australia,Northern Territory,Uluru Ayers Rock,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,131.0369,-25.3444
+Australia,Northern Territory,Kakadu National Park,The Great Southern Café,Modern Australian Bistro,Both,132.554,-12.663
+Australia,Northern Territory,Kakadu National Park,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,132.554,-12.663
+Australia,Northern Territory,Kakadu National Park,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,132.554,-12.663
+Australia,Northern Territory,Katherine Gorge,The Great Southern Café,Modern Australian Bistro,Both,132.426,-14.299
+Australia,Northern Territory,Katherine Gorge,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,132.426,-14.299
+Australia,Northern Territory,Katherine Gorge,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,132.426,-14.299
+Australia,Northern Territory,Litchfield National Park,The Great Southern Café,Modern Australian Bistro,Both,130.75,-13.18
+Australia,Northern Territory,Litchfield National Park,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,130.75,-13.18
+Australia,Northern Territory,Litchfield National Park,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,130.75,-13.18
+Australia,Northern Territory,Darwin Waterfront,The Great Southern Café,Modern Australian Bistro,Both,130.8456,-12.4634
+Australia,Northern Territory,Darwin Waterfront,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,130.8456,-12.4634
+Australia,Northern Territory,Darwin Waterfront,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,130.8456,-12.4634
+Australia,Northern Territory,Devil's Marbles,The Great Southern Café,Modern Australian Bistro,Both,134.26,-20.54
+Australia,Northern Territory,Devil's Marbles,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,134.26,-20.54
+Australia,Northern Territory,Devil's Marbles,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,134.26,-20.54
+Australia,Northern Territory,Kings Canyon,The Great Southern Café,Modern Australian Bistro,Both,131.4856,-24.2658
+Australia,Northern Territory,Kings Canyon,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,131.4856,-24.2658
+Australia,Northern Territory,Kings Canyon,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,131.4856,-24.2658
+Australia,Northern Territory,Nitmiluk Gorge,The Great Southern Café,Modern Australian Bistro,Both,132.426,-14.299
+Australia,Northern Territory,Nitmiluk Gorge,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,132.426,-14.299
+Australia,Northern Territory,Nitmiluk Gorge,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,132.426,-14.299
+Australia,Northern Territory,Alice Springs,The Great Southern Café,Modern Australian Bistro,Both,133.8807,-23.698
+Australia,Northern Territory,Alice Springs,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,133.8807,-23.698
+Australia,Northern Territory,Alice Springs,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,133.8807,-23.698
+Australia,Northern Territory,Tiwi Islands,The Great Southern Café,Modern Australian Bistro,Both,130.75,-11.65
+Australia,Northern Territory,Tiwi Islands,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,130.75,-11.65
+Australia,Northern Territory,Tiwi Islands,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,130.75,-11.65
+Australia,Tasmania,Cradle Mountain,The Great Southern Café,Modern Australian Bistro,Both,145.94,-41.65
+Australia,Tasmania,Cradle Mountain,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,145.94,-41.65
+Australia,Tasmania,Cradle Mountain,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,145.94,-41.65
+Australia,Tasmania,Port Arthur Historic Site,The Great Southern Café,Modern Australian Bistro,Both,147.8503,-43.1378
+Australia,Tasmania,Port Arthur Historic Site,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,147.8503,-43.1378
+Australia,Tasmania,Port Arthur Historic Site,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,147.8503,-43.1378
+Australia,Tasmania,Wineglass Bay,The Great Southern Café,Modern Australian Bistro,Both,148.29,-42.12
+Australia,Tasmania,Wineglass Bay,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,148.29,-42.12
+Australia,Tasmania,Wineglass Bay,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,148.29,-42.12
+Australia,Tasmania,MONA Museum Hobart,The Great Southern Café,Modern Australian Bistro,Both,147.2776,-42.8221
+Australia,Tasmania,MONA Museum Hobart,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,147.2776,-42.8221
+Australia,Tasmania,MONA Museum Hobart,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,147.2776,-42.8221
+Australia,Tasmania,Bay of Fires,The Great Southern Café,Modern Australian Bistro,Both,148.3,-41.14
+Australia,Tasmania,Bay of Fires,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,148.3,-41.14
+Australia,Tasmania,Bay of Fires,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,148.3,-41.14
+Australia,Tasmania,Mount Wellington,The Great Southern Café,Modern Australian Bistro,Both,147.2338,-42.8954
+Australia,Tasmania,Mount Wellington,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,147.2338,-42.8954
+Australia,Tasmania,Mount Wellington,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,147.2338,-42.8954
+Australia,Tasmania,Salamanca Market,The Great Southern Café,Modern Australian Bistro,Both,147.3314,-42.8822
+Australia,Tasmania,Salamanca Market,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,147.3314,-42.8822
+Australia,Tasmania,Salamanca Market,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,147.3314,-42.8822
+Australia,Tasmania,Tasman National Park,The Great Southern Café,Modern Australian Bistro,Both,147.89,-43.27
+Australia,Tasmania,Tasman National Park,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,147.89,-43.27
+Australia,Tasmania,Tasman National Park,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,147.89,-43.27
+Australia,Tasmania,Gordon Dam,The Great Southern Café,Modern Australian Bistro,Both,146.02,-42.77
+Australia,Tasmania,Gordon Dam,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,146.02,-42.77
+Australia,Tasmania,Gordon Dam,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,146.02,-42.77
+Australia,Tasmania,Bicheno Blowhole,The Great Southern Café,Modern Australian Bistro,Both,148.31,-41.8759
+Australia,Tasmania,Bicheno Blowhole,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,148.31,-41.8759
+Australia,Tasmania,Bicheno Blowhole,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,148.31,-41.8759
+Australia,Australian Capital Territory,Australian War Memorial,The Great Southern Café,Modern Australian Bistro,Both,149.1506,-35.2832
+Australia,Australian Capital Territory,Australian War Memorial,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,149.1506,-35.2832
+Australia,Australian Capital Territory,Australian War Memorial,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,149.1506,-35.2832
+Australia,Australian Capital Territory,Parliament House Canberra,The Great Southern Café,Modern Australian Bistro,Both,149.1244,-35.3075
+Australia,Australian Capital Territory,Parliament House Canberra,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,149.1244,-35.3075
+Australia,Australian Capital Territory,Parliament House Canberra,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,149.1244,-35.3075
+Australia,Australian Capital Territory,National Gallery of Australia,The Great Southern Café,Modern Australian Bistro,Both,149.1343,-35.2989
+Australia,Australian Capital Territory,National Gallery of Australia,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,149.1343,-35.2989
+Australia,Australian Capital Territory,National Gallery of Australia,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,149.1343,-35.2989
+Australia,Australian Capital Territory,Lake Burley Griffin,The Great Southern Café,Modern Australian Bistro,Both,149.13,-35.29
+Australia,Australian Capital Territory,Lake Burley Griffin,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,149.13,-35.29
+Australia,Australian Capital Territory,Lake Burley Griffin,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,149.13,-35.29
+Australia,Australian Capital Territory,Questacon,The Great Southern Café,Modern Australian Bistro,Both,149.1322,-35.2953
+Australia,Australian Capital Territory,Questacon,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,149.1322,-35.2953
+Australia,Australian Capital Territory,Questacon,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,149.1322,-35.2953
+Australia,Australian Capital Territory,National Arboretum,The Great Southern Café,Modern Australian Bistro,Both,149.05,-35.28
+Australia,Australian Capital Territory,National Arboretum,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,149.05,-35.28
+Australia,Australian Capital Territory,National Arboretum,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,149.05,-35.28
+Australia,Australian Capital Territory,Black Mountain Tower,The Great Southern Café,Modern Australian Bistro,Both,149.1,-35.2753
+Australia,Australian Capital Territory,Black Mountain Tower,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,149.1,-35.2753
+Australia,Australian Capital Territory,Black Mountain Tower,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,149.1,-35.2753
+Australia,Australian Capital Territory,National Museum of Australia,The Great Southern Café,Modern Australian Bistro,Both,149.1166,-35.2936
+Australia,Australian Capital Territory,National Museum of Australia,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,149.1166,-35.2936
+Australia,Australian Capital Territory,National Museum of Australia,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,149.1166,-35.2936
+Australia,Australian Capital Territory,Tidbinbilla Nature Reserve,The Great Southern Café,Modern Australian Bistro,Both,148.96,-35.59
+Australia,Australian Capital Territory,Tidbinbilla Nature Reserve,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,148.96,-35.59
+Australia,Australian Capital Territory,Tidbinbilla Nature Reserve,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,148.96,-35.59
+Australia,Australian Capital Territory,Mount Ainslie,The Great Southern Café,Modern Australian Bistro,Both,149.1619,-35.2736
+Australia,Australian Capital Territory,Mount Ainslie,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,149.1619,-35.2736
+Australia,Australian Capital Territory,Mount Ainslie,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,149.1619,-35.2736
+Australia,Queensland,Townsville,The Great Southern Café,Modern Australian Bistro,Both,146.8169,-19.259
+Australia,Queensland,Townsville,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,146.8169,-19.259
+Australia,Queensland,Townsville,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,146.8169,-19.259
+Australia,Queensland,Magnetic Island,The Great Southern Café,Modern Australian Bistro,Both,146.867,-19.15
+Australia,Queensland,Magnetic Island,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,146.867,-19.15
+Australia,Queensland,Magnetic Island,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,146.867,-19.15
+Australia,Queensland,Airlie Beach,The Great Southern Café,Modern Australian Bistro,Both,148.7186,-20.2691
+Australia,Queensland,Airlie Beach,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,148.7186,-20.2691
+Australia,Queensland,Airlie Beach,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,148.7186,-20.2691
+Australia,Queensland,Longreach,The Great Southern Café,Modern Australian Bistro,Both,144.2501,-23.439
+Australia,Queensland,Longreach,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,144.2501,-23.439
+Australia,Queensland,Longreach,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,144.2501,-23.439
+Australia,New South Wales,Coffs Harbour,The Great Southern Café,Modern Australian Bistro,Both,153.1135,-30.2963
+Australia,New South Wales,Coffs Harbour,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,153.1135,-30.2963
+Australia,New South Wales,Coffs Harbour,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,153.1135,-30.2963
+Australia,New South Wales,Lord Howe Island,The Great Southern Café,Modern Australian Bistro,Both,159.0826,-31.5533
+Australia,New South Wales,Lord Howe Island,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,159.0826,-31.5533
+Australia,New South Wales,Lord Howe Island,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,159.0826,-31.5533
+Australia,New South Wales,Broken Hill,The Great Southern Café,Modern Australian Bistro,Both,141.4685,-31.9535
+Australia,New South Wales,Broken Hill,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,141.4685,-31.9535
+Australia,New South Wales,Broken Hill,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,141.4685,-31.9535
+Australia,New South Wales,Tamworth,The Great Southern Café,Modern Australian Bistro,Both,150.932,-31.0927
+Australia,New South Wales,Tamworth,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,150.932,-31.0927
+Australia,New South Wales,Tamworth,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,150.932,-31.0927
+Australia,Victoria,Grampians National Park,The Great Southern Café,Modern Australian Bistro,Both,142.52,-37.27
+Australia,Victoria,Grampians National Park,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,142.52,-37.27
+Australia,Victoria,Grampians National Park,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,142.52,-37.27
+Australia,Victoria,Dandenong Ranges,The Great Southern Café,Modern Australian Bistro,Both,145.35,-37.87
+Australia,Victoria,Dandenong Ranges,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,145.35,-37.87
+Australia,Victoria,Dandenong Ranges,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,145.35,-37.87
+India,Karnataka,Mysuru Palace,Mysuru Palace Pure Veg Restaurant,North & South Indian Thali,Veg,76.6552,12.3052
+India,Karnataka,Mysuru Palace,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,76.6552,12.3052
+India,Karnataka,Mysuru Palace,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,76.6552,12.3052
+India,Karnataka,Coorg,Coorg Pure Veg Restaurant,North & South Indian Thali,Veg,75.8069,12.3375
+India,Karnataka,Coorg,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,75.8069,12.3375
+India,Karnataka,Coorg,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,75.8069,12.3375
+India,Karnataka,Hampi,Hampi Pure Veg Restaurant,North & South Indian Thali,Veg,76.46,15.335
+India,Karnataka,Hampi,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,76.46,15.335
+India,Karnataka,Hampi,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,76.46,15.335
+India,Karnataka,Badami Caves,Badami Caves Pure Veg Restaurant,North & South Indian Thali,Veg,75.68,15.92
+India,Karnataka,Badami Caves,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,75.68,15.92
+India,Karnataka,Badami Caves,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,75.68,15.92
+India,Karnataka,Chikmagalur,Chikmagalur Pure Veg Restaurant,North & South Indian Thali,Veg,75.772,13.3161
+India,Karnataka,Chikmagalur,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,75.772,13.3161
+India,Karnataka,Chikmagalur,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,75.772,13.3161
+India,Karnataka,Kabini,Kabini Pure Veg Restaurant,North & South Indian Thali,Veg,76.35,11.985
+India,Karnataka,Kabini,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,76.35,11.985
+India,Karnataka,Kabini,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,76.35,11.985
+India,Karnataka,Nagarhole National Park,Nagarhole National Park Pure Veg Restaurant,North & South Indian Thali,Veg,76.15,12.05
+India,Karnataka,Nagarhole National Park,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,76.15,12.05
+India,Karnataka,Nagarhole National Park,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,76.15,12.05
+India,Karnataka,Jog Falls,Jog Falls Pure Veg Restaurant,North & South Indian Thali,Veg,74.8037,14.2265
+India,Karnataka,Jog Falls,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,74.8037,14.2265
+India,Karnataka,Jog Falls,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,74.8037,14.2265
+India,Karnataka,Gokarna,Gokarna Pure Veg Restaurant,North & South Indian Thali,Veg,74.3188,14.5479
+India,Karnataka,Gokarna,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,74.3188,14.5479
+India,Karnataka,Gokarna,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,74.3188,14.5479
+India,Karnataka,Belur,Belur Pure Veg Restaurant,North & South Indian Thali,Veg,75.8678,13.1644
+India,Karnataka,Belur,The Grand Spice Route,Mughlai & Tandoor Fusion,Both,75.8678,13.1644
+India,Karnataka,Belur,Royal Nawabs Kitchen,Authentic Dum Biryani & Kebabs,Non-Veg,75.8678,13.1644
+Japan,Fukuoka,Dazaifu Tenmangu,Dazaifu Tenmangu Sushi-ya,Traditional Sushi & Sashimi,Both,130.733,33.5162
+Japan,Fukuoka,Dazaifu Tenmangu,Ramen Ichiban Dazaifu Tenmangu Branch,Authentic Tonkotsu Ramen,Non-Veg,130.733,33.5162
+Japan,Fukuoka,Dazaifu Tenmangu,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,130.733,33.5162
+Japan,Fukuoka,Fukuoka Castle,Fukuoka Castle Sushi-ya,Traditional Sushi & Sashimi,Both,130.3906,33.5862
+Japan,Fukuoka,Fukuoka Castle,Ramen Ichiban Fukuoka Castle Branch,Authentic Tonkotsu Ramen,Non-Veg,130.3906,33.5862
+Japan,Fukuoka,Fukuoka Castle,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,130.3906,33.5862
+Japan,Fukuoka,Canal City Hakata,Canal City Hakata Sushi-ya,Traditional Sushi & Sashimi,Both,130.4101,33.5897
+Japan,Fukuoka,Canal City Hakata,Ramen Ichiban Canal City Hakata Branch,Authentic Tonkotsu Ramen,Non-Veg,130.4101,33.5897
+Japan,Fukuoka,Canal City Hakata,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,130.4101,33.5897
+Japan,Fukuoka,Ohori Park,Ohori Park Sushi-ya,Traditional Sushi & Sashimi,Both,130.381,33.584
+Japan,Fukuoka,Ohori Park,Ramen Ichiban Ohori Park Branch,Authentic Tonkotsu Ramen,Non-Veg,130.381,33.584
+Japan,Fukuoka,Ohori Park,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,130.381,33.584
+Japan,Fukuoka,Itoshima,Itoshima Sushi-ya,Traditional Sushi & Sashimi,Both,130.1985,33.5563
+Japan,Fukuoka,Itoshima,Ramen Ichiban Itoshima Branch,Authentic Tonkotsu Ramen,Non-Veg,130.1985,33.5563
+Japan,Fukuoka,Itoshima,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,130.1985,33.5563
+Japan,Aichi,Nagoya Castle,Nagoya Castle Sushi-ya,Traditional Sushi & Sashimi,Both,136.8997,35.1853
+Japan,Aichi,Nagoya Castle,Ramen Ichiban Nagoya Castle Branch,Authentic Tonkotsu Ramen,Non-Veg,136.8997,35.1853
+Japan,Aichi,Nagoya Castle,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,136.8997,35.1853
+Japan,Aichi,LEGOLAND Japan,LEGOLAND Japan Sushi-ya,Traditional Sushi & Sashimi,Both,136.884,35.1148
+Japan,Aichi,LEGOLAND Japan,Ramen Ichiban LEGOLAND Japan Branch,Authentic Tonkotsu Ramen,Non-Veg,136.884,35.1148
+Japan,Aichi,LEGOLAND Japan,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,136.884,35.1148
+Japan,Aichi,Inuyama Castle,Inuyama Castle Sushi-ya,Traditional Sushi & Sashimi,Both,136.9444,35.3796
+Japan,Aichi,Inuyama Castle,Ramen Ichiban Inuyama Castle Branch,Authentic Tonkotsu Ramen,Non-Veg,136.9444,35.3796
+Japan,Aichi,Inuyama Castle,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,136.9444,35.3796
+Japan,Aichi,Toyota Commemorative Museum,Toyota Commemorative Museum Sushi-ya,Traditional Sushi & Sashimi,Both,136.8759,35.1859
+Japan,Aichi,Toyota Commemorative Museum,Ramen Ichiban Toyota Commemorative Museum Branch,Authentic Tonkotsu Ramen,Non-Veg,136.8759,35.1859
+Japan,Aichi,Toyota Commemorative Museum,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,136.8759,35.1859
+Japan,Aichi,Meiji Mura,Meiji Mura Sushi-ya,Traditional Sushi & Sashimi,Both,136.9655,35.3607
+Japan,Aichi,Meiji Mura,Ramen Ichiban Meiji Mura Branch,Authentic Tonkotsu Ramen,Non-Veg,136.9655,35.3607
+Japan,Aichi,Meiji Mura,Zen Garden Kitchen,Buddhist Shojin Ryori (Plant-based),Veg,136.9655,35.3607
+Australia,Victoria,Mornington Peninsula,The Great Southern Café,Modern Australian Bistro,Both,145.01,-38.33
+Australia,Victoria,Mornington Peninsula,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,145.01,-38.33
+Australia,Victoria,Mornington Peninsula,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,145.01,-38.33
+Australia,Victoria,Bright,The Great Southern Café,Modern Australian Bistro,Both,146.9563,-36.7276
+Australia,Victoria,Bright,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,146.9563,-36.7276
+Australia,Victoria,Bright,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,146.9563,-36.7276
+Australia,Western Australia,Esperance,The Great Southern Café,Modern Australian Bistro,Both,121.8886,-33.8611
+Australia,Western Australia,Esperance,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,121.8886,-33.8611
+Australia,Western Australia,Esperance,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,121.8886,-33.8611
+Australia,Western Australia,Albany,The Great Southern Café,Modern Australian Bistro,Both,117.8837,-35.0269
+Australia,Western Australia,Albany,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,117.8837,-35.0269
+Australia,Western Australia,Albany,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,117.8837,-35.0269
+Australia,South Australia,Coorong National Park,The Great Southern Café,Modern Australian Bistro,Both,139.39,-35.89
+Australia,South Australia,Coorong National Park,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,139.39,-35.89
+Australia,South Australia,Coorong National Park,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,139.39,-35.89
+Australia,Queensland,Glass House Mountains,The Great Southern Café,Modern Australian Bistro,Both,152.95,-26.89
+Australia,Queensland,Glass House Mountains,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,152.95,-26.89
+Australia,Queensland,Glass House Mountains,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,152.95,-26.89
+Australia,New South Wales,Shoalhaven,The Great Southern Café,Modern Australian Bistro,Both,150.39,-34.9
+Australia,New South Wales,Shoalhaven,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,150.39,-34.9
+Australia,New South Wales,Shoalhaven,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,150.39,-34.9
+Australia,New South Wales,Mudgee,The Great Southern Café,Modern Australian Bistro,Both,149.5833,-32.5933
+Australia,New South Wales,Mudgee,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,149.5833,-32.5933
+Australia,New South Wales,Mudgee,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,149.5833,-32.5933
+Australia,Queensland,Carnarvon Gorge,The Great Southern Café,Modern Australian Bistro,Both,148.23,-25.12
+Australia,Queensland,Carnarvon Gorge,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,148.23,-25.12
+Australia,Queensland,Carnarvon Gorge,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,148.23,-25.12
+Australia,Northern Territory,Arnhem Land,The Great Southern Café,Modern Australian Bistro,Both,134.4,-12.375
+Australia,Northern Territory,Arnhem Land,Ocean Breeze Seafood Grill,Fresh Local Catch & Seafood,Non-Veg,134.4,-12.375
+Australia,Northern Territory,Arnhem Land,The Plant-Based Hub,Vegan & Healthy Bowls,Veg,134.4,-12.375

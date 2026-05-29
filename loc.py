@@ -137,3 +137,4 @@ def location(query, data):
 
 query = input("Enter your question: ")
 location(query, data)
+

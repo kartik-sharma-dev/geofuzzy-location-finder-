@@ -1,0 +1,1501 @@
+state,place name,hotel-name,rating,person aloud per room,food avalabel or not,taxi avalabel or not,longitued,latitued,room type,price
+New York,Statue of Liberty,The Grand Statue of Liberty Resort & Spa,4.9,2,Yes,Yes,-74.0445,40.6892,Deluxe King Suite,329
+New York,Statue of Liberty,Statue of Liberty Heritage View Hotel,4.3,3,Yes,Yes,-74.0445,40.6892,Standard Premium Double,147
+New York,Statue of Liberty,Comfort Inn & Suites near Statue of Liberty,3.5,4,Yes,No,-74.0445,40.6892,Economy Family Room,85
+New York,Central Park,The Grand Central Park Resort & Spa,4.5,2,Yes,Yes,-73.9683,40.7851,Deluxe King Suite,471
+New York,Central Park,Central Park Heritage View Hotel,4.1,3,Yes,Yes,-73.9683,40.7851,Standard Premium Double,158
+New York,Central Park,Comfort Inn & Suites near Central Park,3.3,4,No,No,-73.9683,40.7851,Economy Family Room,72
+New York,Times Square,The Grand Times Square Resort & Spa,4.9,2,Yes,Yes,-73.9855,40.758,Deluxe King Suite,349
+New York,Times Square,Times Square Heritage View Hotel,4.0,3,Yes,No,-73.9855,40.758,Standard Premium Double,218
+New York,Times Square,Comfort Inn & Suites near Times Square,3.2,4,No,No,-73.9855,40.758,Economy Family Room,84
+New York,Brooklyn Bridge,The Grand Brooklyn Bridge Resort & Spa,4.9,2,Yes,Yes,-73.9969,40.7061,Deluxe King Suite,527
+New York,Brooklyn Bridge,Brooklyn Bridge Heritage View Hotel,3.9,3,Yes,Yes,-73.9969,40.7061,Standard Premium Double,148
+New York,Brooklyn Bridge,Comfort Inn & Suites near Brooklyn Bridge,3.7,4,Yes,No,-73.9969,40.7061,Economy Family Room,71
+New York,Metropolitan Museum of Art,The Grand Metropolitan Museum of Art Resort & Spa,4.8,2,Yes,Yes,-73.9632,40.7794,Deluxe King Suite,536
+New York,Metropolitan Museum of Art,Metropolitan Museum of Art Heritage View Hotel,4.4,3,Yes,Yes,-73.9632,40.7794,Standard Premium Double,164
+New York,Metropolitan Museum of Art,Comfort Inn & Suites near Metropolitan Museum of Art,3.5,4,Yes,No,-73.9632,40.7794,Economy Family Room,70
+New York,Empire State Building,The Grand Empire State Building Resort & Spa,4.9,2,Yes,Yes,-73.9967,40.7484,Deluxe King Suite,542
+New York,Empire State Building,Empire State Building Heritage View Hotel,4.2,3,Yes,Yes,-73.9967,40.7484,Standard Premium Double,211
+New York,Empire State Building,Comfort Inn & Suites near Empire State Building,3.5,4,Yes,No,-73.9967,40.7484,Economy Family Room,71
+New York,High Line,The Grand High Line Resort & Spa,4.9,2,Yes,Yes,-74.0048,40.748,Deluxe King Suite,471
+New York,High Line,High Line Heritage View Hotel,4.3,3,Yes,Yes,-74.0048,40.748,Standard Premium Double,193
+New York,High Line,Comfort Inn & Suites near High Line,3.6,4,No,No,-74.0048,40.748,Economy Family Room,93
+New York,Niagara Falls,The Grand Niagara Falls Resort & Spa,4.6,2,Yes,Yes,-79.0377,43.0962,Deluxe King Suite,480
+New York,Niagara Falls,Niagara Falls Heritage View Hotel,4.3,3,Yes,Yes,-79.0377,43.0962,Standard Premium Double,158
+New York,Niagara Falls,Comfort Inn & Suites near Niagara Falls,3.3,4,No,No,-79.0377,43.0962,Economy Family Room,68
+New York,One World Trade Center,The Grand One World Trade Center Resort & Spa,4.7,2,Yes,Yes,-74.0134,40.7127,Deluxe King Suite,302
+New York,One World Trade Center,One World Trade Center Heritage View Hotel,4.1,3,Yes,Yes,-74.0134,40.7127,Standard Premium Double,170
+New York,One World Trade Center,Comfort Inn & Suites near One World Trade Center,3.5,4,Yes,No,-74.0134,40.7127,Economy Family Room,92
+New York,Rockefeller Center,The Grand Rockefeller Center Resort & Spa,4.7,2,Yes,Yes,-73.9787,40.7587,Deluxe King Suite,434
+New York,Rockefeller Center,Rockefeller Center Heritage View Hotel,4.1,3,Yes,No,-73.9787,40.7587,Standard Premium Double,193
+New York,Rockefeller Center,Comfort Inn & Suites near Rockefeller Center,3.2,4,No,No,-73.9787,40.7587,Economy Family Room,110
+California,Golden Gate Bridge,The Grand Golden Gate Bridge Resort & Spa,4.9,2,Yes,Yes,-122.4783,37.8199,Deluxe King Suite,302
+California,Golden Gate Bridge,Golden Gate Bridge Heritage View Hotel,3.9,3,Yes,Yes,-122.4783,37.8199,Standard Premium Double,188
+California,Golden Gate Bridge,Comfort Inn & Suites near Golden Gate Bridge,3.5,4,Yes,No,-122.4783,37.8199,Economy Family Room,100
+California,Yosemite Valley,The Grand Yosemite Valley Resort & Spa,4.8,2,Yes,Yes,-119.5936,37.7456,Deluxe King Suite,503
+California,Yosemite Valley,Yosemite Valley Heritage View Hotel,4.1,3,Yes,No,-119.5936,37.7456,Standard Premium Double,172
+California,Yosemite Valley,Comfort Inn & Suites near Yosemite Valley,3.3,4,Yes,No,-119.5936,37.7456,Economy Family Room,92
+California,Hollywood Sign,The Grand Hollywood Sign Resort & Spa,4.8,2,Yes,Yes,-118.3215,34.1341,Deluxe King Suite,385
+California,Hollywood Sign,Hollywood Sign Heritage View Hotel,4.3,3,Yes,Yes,-118.3215,34.1341,Standard Premium Double,213
+California,Hollywood Sign,Comfort Inn & Suites near Hollywood Sign,3.2,4,No,No,-118.3215,34.1341,Economy Family Room,78
+California,Disneyland,The Grand Disneyland Resort & Spa,4.8,2,Yes,Yes,-117.919,33.8121,Deluxe King Suite,454
+California,Disneyland,Disneyland Heritage View Hotel,4.4,3,Yes,Yes,-117.919,33.8121,Standard Premium Double,208
+California,Disneyland,Comfort Inn & Suites near Disneyland,3.7,4,Yes,No,-117.919,33.8121,Economy Family Room,66
+California,Alcatraz Island,The Grand Alcatraz Island Resort & Spa,4.6,2,Yes,Yes,-122.423,37.827,Deluxe King Suite,317
+California,Alcatraz Island,Alcatraz Island Heritage View Hotel,4.4,3,Yes,No,-122.423,37.827,Standard Premium Double,199
+California,Alcatraz Island,Comfort Inn & Suites near Alcatraz Island,3.4,4,Yes,No,-122.423,37.827,Economy Family Room,102
+California,Santa Monica Pier,The Grand Santa Monica Pier Resort & Spa,4.7,2,Yes,Yes,-118.4965,34.01,Deluxe King Suite,433
+California,Santa Monica Pier,Santa Monica Pier Heritage View Hotel,4.3,3,Yes,Yes,-118.4965,34.01,Standard Premium Double,208
+California,Santa Monica Pier,Comfort Inn & Suites near Santa Monica Pier,3.8,4,Yes,No,-118.4965,34.01,Economy Family Room,102
+California,Big Sur,The Grand Big Sur Resort & Spa,4.9,2,Yes,Yes,-121.8081,36.2704,Deluxe King Suite,309
+California,Big Sur,Big Sur Heritage View Hotel,4.0,3,Yes,Yes,-121.8081,36.2704,Standard Premium Double,158
+California,Big Sur,Comfort Inn & Suites near Big Sur,3.4,4,No,No,-121.8081,36.2704,Economy Family Room,106
+California,Death Valley,The Grand Death Valley Resort & Spa,4.9,2,Yes,Yes,-117.0794,36.5054,Deluxe King Suite,321
+California,Death Valley,Death Valley Heritage View Hotel,4.2,3,Yes,Yes,-117.0794,36.5054,Standard Premium Double,155
+California,Death Valley,Comfort Inn & Suites near Death Valley,3.4,4,Yes,No,-117.0794,36.5054,Economy Family Room,106
+California,Napa Valley,The Grand Napa Valley Resort & Spa,4.6,2,Yes,Yes,-122.2654,38.5025,Deluxe King Suite,504
+California,Napa Valley,Napa Valley Heritage View Hotel,4.4,3,Yes,No,-122.2654,38.5025,Standard Premium Double,150
+California,Napa Valley,Comfort Inn & Suites near Napa Valley,3.2,4,Yes,No,-122.2654,38.5025,Economy Family Room,102
+California,Lake Tahoe,The Grand Lake Tahoe Resort & Spa,4.9,2,Yes,Yes,-120.0324,39.0968,Deluxe King Suite,415
+California,Lake Tahoe,Lake Tahoe Heritage View Hotel,4.0,3,Yes,Yes,-120.0324,39.0968,Standard Premium Double,136
+California,Lake Tahoe,Comfort Inn & Suites near Lake Tahoe,3.8,4,No,No,-120.0324,39.0968,Economy Family Room,92
+Florida,Walt Disney World,The Grand Walt Disney World Resort & Spa,4.8,2,Yes,Yes,-81.5639,28.3852,Deluxe King Suite,511
+Florida,Walt Disney World,Walt Disney World Heritage View Hotel,4.2,3,Yes,Yes,-81.5639,28.3852,Standard Premium Double,189
+Florida,Walt Disney World,Comfort Inn & Suites near Walt Disney World,3.8,4,Yes,No,-81.5639,28.3852,Economy Family Room,110
+Florida,Miami Beach,The Grand Miami Beach Resort & Spa,4.6,2,Yes,Yes,-80.13,25.7907,Deluxe King Suite,380
+Florida,Miami Beach,Miami Beach Heritage View Hotel,4.3,3,Yes,Yes,-80.13,25.7907,Standard Premium Double,200
+Florida,Miami Beach,Comfort Inn & Suites near Miami Beach,3.2,4,No,No,-80.13,25.7907,Economy Family Room,102
+Florida,Everglades National Park,The Grand Everglades National Park Resort & Spa,4.8,2,Yes,Yes,-80.8987,25.2866,Deluxe King Suite,438
+Florida,Everglades National Park,Everglades National Park Heritage View Hotel,4.1,3,Yes,No,-80.8987,25.2866,Standard Premium Double,185
+Florida,Everglades National Park,Comfort Inn & Suites near Everglades National Park,3.4,4,No,No,-80.8987,25.2866,Economy Family Room,97
+Florida,Kennedy Space Center,The Grand Kennedy Space Center Resort & Spa,4.6,2,Yes,Yes,-80.649,28.5729,Deluxe King Suite,309
+Florida,Kennedy Space Center,Kennedy Space Center Heritage View Hotel,4.4,3,Yes,No,-80.649,28.5729,Standard Premium Double,166
+Florida,Kennedy Space Center,Comfort Inn & Suites near Kennedy Space Center,3.3,4,Yes,No,-80.649,28.5729,Economy Family Room,93
+Florida,Key West,The Grand Key West Resort & Spa,4.9,2,Yes,Yes,-81.78,24.5551,Deluxe King Suite,512
+Florida,Key West,Key West Heritage View Hotel,4.0,3,Yes,Yes,-81.78,24.5551,Standard Premium Double,218
+Florida,Key West,Comfort Inn & Suites near Key West,3.3,4,No,No,-81.78,24.5551,Economy Family Room,69
+Florida,Universal Studios Orlando,The Grand Universal Studios Orlando Resort & Spa,4.7,2,Yes,Yes,-81.4672,28.4748,Deluxe King Suite,377
+Florida,Universal Studios Orlando,Universal Studios Orlando Heritage View Hotel,4.0,3,Yes,No,-81.4672,28.4748,Standard Premium Double,163
+Florida,Universal Studios Orlando,Comfort Inn & Suites near Universal Studios Orlando,3.5,4,No,No,-81.4672,28.4748,Economy Family Room,87
+Florida,St. Augustine,The Grand St. Augustine Resort & Spa,4.6,2,Yes,Yes,-81.3145,29.8947,Deluxe King Suite,431
+Florida,St. Augustine,St. Augustine Heritage View Hotel,4.1,3,Yes,Yes,-81.3145,29.8947,Standard Premium Double,185
+Florida,St. Augustine,Comfort Inn & Suites near St. Augustine,3.3,4,Yes,No,-81.3145,29.8947,Economy Family Room,76
+Florida,Clearwater Beach,The Grand Clearwater Beach Resort & Spa,4.9,2,Yes,Yes,-82.827,27.9778,Deluxe King Suite,519
+Florida,Clearwater Beach,Clearwater Beach Heritage View Hotel,3.9,3,Yes,Yes,-82.827,27.9778,Standard Premium Double,171
+Florida,Clearwater Beach,Comfort Inn & Suites near Clearwater Beach,3.8,4,Yes,No,-82.827,27.9778,Economy Family Room,93
+Florida,Dry Tortugas National Park,The Grand Dry Tortugas National Park Resort & Spa,4.6,2,Yes,Yes,-82.8732,24.6285,Deluxe King Suite,432
+Florida,Dry Tortugas National Park,Dry Tortugas National Park Heritage View Hotel,4.0,3,Yes,Yes,-82.8732,24.6285,Standard Premium Double,159
+Florida,Dry Tortugas National Park,Comfort Inn & Suites near Dry Tortugas National Park,3.7,4,Yes,No,-82.8732,24.6285,Economy Family Room,69
+Florida,Sarasota Ringling Museum,The Grand Sarasota Ringling Museum Resort & Spa,4.8,2,Yes,Yes,-82.5586,27.3861,Deluxe King Suite,513
+Florida,Sarasota Ringling Museum,Sarasota Ringling Museum Heritage View Hotel,4.2,3,Yes,Yes,-82.5586,27.3861,Standard Premium Double,157
+Florida,Sarasota Ringling Museum,Comfort Inn & Suites near Sarasota Ringling Museum,3.4,4,Yes,No,-82.5586,27.3861,Economy Family Room,92
+Texas,San Antonio River Walk,The Grand San Antonio River Walk Resort & Spa,4.9,2,Yes,Yes,-98.4936,29.4241,Deluxe King Suite,378
+Texas,San Antonio River Walk,San Antonio River Walk Heritage View Hotel,4.2,3,Yes,No,-98.4936,29.4241,Standard Premium Double,148
+Texas,San Antonio River Walk,Comfort Inn & Suites near San Antonio River Walk,3.6,4,No,No,-98.4936,29.4241,Economy Family Room,84
+Texas,Space Center Houston,The Grand Space Center Houston Resort & Spa,4.6,2,Yes,Yes,-95.0981,29.5518,Deluxe King Suite,328
+Texas,Space Center Houston,Space Center Houston Heritage View Hotel,4.1,3,Yes,No,-95.0981,29.5518,Standard Premium Double,185
+Texas,Space Center Houston,Comfort Inn & Suites near Space Center Houston,3.2,4,No,No,-95.0981,29.5518,Economy Family Room,105
+Texas,Big Bend National Park,The Grand Big Bend National Park Resort & Spa,4.9,2,Yes,Yes,-103.2425,29.1275,Deluxe King Suite,503
+Texas,Big Bend National Park,Big Bend National Park Heritage View Hotel,4.0,3,Yes,Yes,-103.2425,29.1275,Standard Premium Double,149
+Texas,Big Bend National Park,Comfort Inn & Suites near Big Bend National Park,3.5,4,Yes,No,-103.2425,29.1275,Economy Family Room,75
+Texas,The Alamo,The Grand The Alamo Resort & Spa,4.7,2,Yes,Yes,-98.4861,29.426,Deluxe King Suite,427
+Texas,The Alamo,The Alamo Heritage View Hotel,4.0,3,Yes,No,-98.4861,29.426,Standard Premium Double,177
+Texas,The Alamo,Comfort Inn & Suites near The Alamo,3.8,4,No,No,-98.4861,29.426,Economy Family Room,92
+Texas,Padre Island National Seashore,The Grand Padre Island National Seashore Resort & Spa,4.6,2,Yes,Yes,-97.3806,26.6313,Deluxe King Suite,305
+Texas,Padre Island National Seashore,Padre Island National Seashore Heritage View Hotel,4.1,3,Yes,No,-97.3806,26.6313,Standard Premium Double,134
+Texas,Padre Island National Seashore,Comfort Inn & Suites near Padre Island National Seashore,3.4,4,No,No,-97.3806,26.6313,Economy Family Room,108
+Texas,Guadalupe Mountains,The Grand Guadalupe Mountains Resort & Spa,4.5,2,Yes,Yes,-104.8607,31.8923,Deluxe King Suite,479
+Texas,Guadalupe Mountains,Guadalupe Mountains Heritage View Hotel,4.0,3,Yes,No,-104.8607,31.8923,Standard Premium Double,135
+Texas,Guadalupe Mountains,Comfort Inn & Suites near Guadalupe Mountains,3.3,4,No,No,-104.8607,31.8923,Economy Family Room,110
+Texas,Austin 6th Street,The Grand Austin 6th Street Resort & Spa,4.7,2,Yes,Yes,-97.7431,30.2672,Deluxe King Suite,518
+Texas,Austin 6th Street,Austin 6th Street Heritage View Hotel,3.9,3,Yes,Yes,-97.7431,30.2672,Standard Premium Double,192
+Texas,Austin 6th Street,Comfort Inn & Suites near Austin 6th Street,3.5,4,No,No,-97.7431,30.2672,Economy Family Room,96
+Texas,Fort Worth Stockyards,The Grand Fort Worth Stockyards Resort & Spa,4.5,2,Yes,Yes,-97.348,32.7896,Deluxe King Suite,314
+Texas,Fort Worth Stockyards,Fort Worth Stockyards Heritage View Hotel,4.1,3,Yes,No,-97.348,32.7896,Standard Premium Double,133
+Texas,Fort Worth Stockyards,Comfort Inn & Suites near Fort Worth Stockyards,3.5,4,Yes,No,-97.348,32.7896,Economy Family Room,66
+Texas,Marfa Lights,The Grand Marfa Lights Resort & Spa,4.7,2,Yes,Yes,-104.0207,30.3128,Deluxe King Suite,461
+Texas,Marfa Lights,Marfa Lights Heritage View Hotel,4.1,3,Yes,Yes,-104.0207,30.3128,Standard Premium Double,131
+Texas,Marfa Lights,Comfort Inn & Suites near Marfa Lights,3.2,4,Yes,No,-104.0207,30.3128,Economy Family Room,94
+Texas,Natural Bridge Caverns,The Grand Natural Bridge Caverns Resort & Spa,4.9,2,Yes,Yes,-98.3427,29.6924,Deluxe King Suite,424
+Texas,Natural Bridge Caverns,Natural Bridge Caverns Heritage View Hotel,4.3,3,Yes,No,-98.3427,29.6924,Standard Premium Double,152
+Texas,Natural Bridge Caverns,Comfort Inn & Suites near Natural Bridge Caverns,3.8,4,No,No,-98.3427,29.6924,Economy Family Room,99
+Hawaii,Waikiki Beach,The Grand Waikiki Beach Resort & Spa,4.5,2,Yes,Yes,-157.8293,21.2793,Deluxe King Suite,288
+Hawaii,Waikiki Beach,Waikiki Beach Heritage View Hotel,3.9,3,Yes,Yes,-157.8293,21.2793,Standard Premium Double,171
+Hawaii,Waikiki Beach,Comfort Inn & Suites near Waikiki Beach,3.2,4,Yes,No,-157.8293,21.2793,Economy Family Room,65
+Hawaii,Hawaii Volcanoes National Park,The Grand Hawaii Volcanoes National Park Resort & Spa,4.8,2,Yes,Yes,-155.2885,19.4194,Deluxe King Suite,301
+Hawaii,Hawaii Volcanoes National Park,Hawaii Volcanoes National Park Heritage View Hotel,4.2,3,Yes,Yes,-155.2885,19.4194,Standard Premium Double,175
+Hawaii,Hawaii Volcanoes National Park,Comfort Inn & Suites near Hawaii Volcanoes National Park,3.5,4,Yes,No,-155.2885,19.4194,Economy Family Room,95
+Hawaii,Na Pali Coast,The Grand Na Pali Coast Resort & Spa,4.8,2,Yes,Yes,-159.608,22.2074,Deluxe King Suite,336
+Hawaii,Na Pali Coast,Na Pali Coast Heritage View Hotel,4.3,3,Yes,No,-159.608,22.2074,Standard Premium Double,183
+Hawaii,Na Pali Coast,Comfort Inn & Suites near Na Pali Coast,3.6,4,No,No,-159.608,22.2074,Economy Family Room,76
+Hawaii,Pearl Harbor,The Grand Pearl Harbor Resort & Spa,4.9,2,Yes,Yes,-157.95,21.3645,Deluxe King Suite,419
+Hawaii,Pearl Harbor,Pearl Harbor Heritage View Hotel,4.4,3,Yes,No,-157.95,21.3645,Standard Premium Double,203
+Hawaii,Pearl Harbor,Comfort Inn & Suites near Pearl Harbor,3.6,4,Yes,No,-157.95,21.3645,Economy Family Room,98
+Hawaii,Haleakala Crater,The Grand Haleakala Crater Resort & Spa,4.8,2,Yes,Yes,-156.2533,20.7097,Deluxe King Suite,480
+Hawaii,Haleakala Crater,Haleakala Crater Heritage View Hotel,4.2,3,Yes,No,-156.2533,20.7097,Standard Premium Double,191
+Hawaii,Haleakala Crater,Comfort Inn & Suites near Haleakala Crater,3.3,4,Yes,No,-156.2533,20.7097,Economy Family Room,90
+Hawaii,Lanikai Beach,The Grand Lanikai Beach Resort & Spa,4.6,2,Yes,Yes,-157.7181,21.3906,Deluxe King Suite,488
+Hawaii,Lanikai Beach,Lanikai Beach Heritage View Hotel,4.2,3,Yes,Yes,-157.7181,21.3906,Standard Premium Double,211
+Hawaii,Lanikai Beach,Comfort Inn & Suites near Lanikai Beach,3.8,4,No,No,-157.7181,21.3906,Economy Family Room,68
+Hawaii,Waimea Canyon,The Grand Waimea Canyon Resort & Spa,4.7,2,Yes,Yes,-159.6659,22.0554,Deluxe King Suite,510
+Hawaii,Waimea Canyon,Waimea Canyon Heritage View Hotel,4.1,3,Yes,No,-159.6659,22.0554,Standard Premium Double,159
+Hawaii,Waimea Canyon,Comfort Inn & Suites near Waimea Canyon,3.4,4,Yes,No,-159.6659,22.0554,Economy Family Room,72
+Hawaii,Molokini Crater,The Grand Molokini Crater Resort & Spa,4.6,2,Yes,Yes,-156.4963,20.6317,Deluxe King Suite,352
+Hawaii,Molokini Crater,Molokini Crater Heritage View Hotel,4.1,3,Yes,No,-156.4963,20.6317,Standard Premium Double,188
+Hawaii,Molokini Crater,Comfort Inn & Suites near Molokini Crater,3.4,4,Yes,No,-156.4963,20.6317,Economy Family Room,96
+Hawaii,Road to Hana,The Grand Road to Hana Resort & Spa,4.8,2,Yes,Yes,-156.1286,20.7984,Deluxe King Suite,469
+Hawaii,Road to Hana,Road to Hana Heritage View Hotel,4.3,3,Yes,No,-156.1286,20.7984,Standard Premium Double,160
+Hawaii,Road to Hana,Comfort Inn & Suites near Road to Hana,3.6,4,No,No,-156.1286,20.7984,Economy Family Room,86
+Hawaii,Diamond Head,The Grand Diamond Head Resort & Spa,4.6,2,Yes,Yes,-157.805,21.2625,Deluxe King Suite,311
+Hawaii,Diamond Head,Diamond Head Heritage View Hotel,4.0,3,Yes,No,-157.805,21.2625,Standard Premium Double,199
+Hawaii,Diamond Head,Comfort Inn & Suites near Diamond Head,3.6,4,Yes,No,-157.805,21.2625,Economy Family Room,81
+Colorado,Grand Canyon (South Rim),The Grand Grand Canyon (South Rim) Resort & Spa,4.8,2,Yes,Yes,-112.1401,36.0544,Deluxe King Suite,303
+Colorado,Grand Canyon (South Rim),Grand Canyon (South Rim) Heritage View Hotel,4.3,3,Yes,No,-112.1401,36.0544,Standard Premium Double,131
+Colorado,Grand Canyon (South Rim),Comfort Inn & Suites near Grand Canyon (South Rim),3.7,4,Yes,No,-112.1401,36.0544,Economy Family Room,95
+Colorado,Rocky Mountain National Park,The Grand Rocky Mountain National Park Resort & Spa,4.7,2,Yes,Yes,-105.6836,40.3428,Deluxe King Suite,527
+Colorado,Rocky Mountain National Park,Rocky Mountain National Park Heritage View Hotel,4.2,3,Yes,Yes,-105.6836,40.3428,Standard Premium Double,213
+Colorado,Rocky Mountain National Park,Comfort Inn & Suites near Rocky Mountain National Park,3.7,4,Yes,No,-105.6836,40.3428,Economy Family Room,107
+Colorado,Mesa Verde National Park,The Grand Mesa Verde National Park Resort & Spa,4.8,2,Yes,Yes,-108.4898,37.1853,Deluxe King Suite,520
+Colorado,Mesa Verde National Park,Mesa Verde National Park Heritage View Hotel,4.1,3,Yes,No,-108.4898,37.1853,Standard Premium Double,168
+Colorado,Mesa Verde National Park,Comfort Inn & Suites near Mesa Verde National Park,3.2,4,Yes,No,-108.4898,37.1853,Economy Family Room,85
+Colorado,Garden of the Gods,The Grand Garden of the Gods Resort & Spa,4.6,2,Yes,Yes,-104.8864,38.8784,Deluxe King Suite,307
+Colorado,Garden of the Gods,Garden of the Gods Heritage View Hotel,4.0,3,Yes,Yes,-104.8864,38.8784,Standard Premium Double,153
+Colorado,Garden of the Gods,Comfort Inn & Suites near Garden of the Gods,3.6,4,Yes,No,-104.8864,38.8784,Economy Family Room,75
+Colorado,Pikes Peak,The Grand Pikes Peak Resort & Spa,4.6,2,Yes,Yes,-105.0422,38.8409,Deluxe King Suite,330
+Colorado,Pikes Peak,Pikes Peak Heritage View Hotel,4.0,3,Yes,No,-105.0422,38.8409,Standard Premium Double,184
+Colorado,Pikes Peak,Comfort Inn & Suites near Pikes Peak,3.5,4,Yes,No,-105.0422,38.8409,Economy Family Room,93
+Colorado,Maroon Bells,The Grand Maroon Bells Resort & Spa,4.7,2,Yes,Yes,-106.989,39.0708,Deluxe King Suite,360
+Colorado,Maroon Bells,Maroon Bells Heritage View Hotel,4.2,3,Yes,Yes,-106.989,39.0708,Standard Premium Double,134
+Colorado,Maroon Bells,Comfort Inn & Suites near Maroon Bells,3.5,4,No,No,-106.989,39.0708,Economy Family Room,88
+Colorado,Aspen Mountain,The Grand Aspen Mountain Resort & Spa,4.9,2,Yes,Yes,-106.8175,39.1911,Deluxe King Suite,397
+Colorado,Aspen Mountain,Aspen Mountain Heritage View Hotel,4.2,3,Yes,Yes,-106.8175,39.1911,Standard Premium Double,162
+Colorado,Aspen Mountain,Comfort Inn & Suites near Aspen Mountain,3.3,4,No,No,-106.8175,39.1911,Economy Family Room,65
+Colorado,Black Canyon of the Gunnison,The Grand Black Canyon of the Gunnison Resort & Spa,4.8,2,Yes,Yes,-107.7416,38.5754,Deluxe King Suite,439
+Colorado,Black Canyon of the Gunnison,Black Canyon of the Gunnison Heritage View Hotel,4.0,3,Yes,No,-107.7416,38.5754,Standard Premium Double,207
+Colorado,Black Canyon of the Gunnison,Comfort Inn & Suites near Black Canyon of the Gunnison,3.7,4,Yes,No,-107.7416,38.5754,Economy Family Room,76
+Colorado,Telluride,The Grand Telluride Resort & Spa,4.6,2,Yes,Yes,-107.8123,37.9375,Deluxe King Suite,443
+Colorado,Telluride,Telluride Heritage View Hotel,3.9,3,Yes,No,-107.8123,37.9375,Standard Premium Double,165
+Colorado,Telluride,Comfort Inn & Suites near Telluride,3.8,4,Yes,No,-107.8123,37.9375,Economy Family Room,67
+Colorado,Great Sand Dunes,The Grand Great Sand Dunes Resort & Spa,4.5,2,Yes,Yes,-105.5943,37.7916,Deluxe King Suite,525
+Colorado,Great Sand Dunes,Great Sand Dunes Heritage View Hotel,4.3,3,Yes,Yes,-105.5943,37.7916,Standard Premium Double,220
+Colorado,Great Sand Dunes,Comfort Inn & Suites near Great Sand Dunes,3.8,4,No,No,-105.5943,37.7916,Economy Family Room,73
+Washington,Mount Rainier,The Grand Mount Rainier Resort & Spa,4.6,2,Yes,Yes,-121.7269,46.88,Deluxe King Suite,481
+Washington,Mount Rainier,Mount Rainier Heritage View Hotel,4.2,3,Yes,Yes,-121.7269,46.88,Standard Premium Double,165
+Washington,Mount Rainier,Comfort Inn & Suites near Mount Rainier,3.6,4,Yes,No,-121.7269,46.88,Economy Family Room,67
+Washington,Olympic National Park,The Grand Olympic National Park Resort & Spa,4.5,2,Yes,Yes,-123.6044,47.8021,Deluxe King Suite,303
+Washington,Olympic National Park,Olympic National Park Heritage View Hotel,4.0,3,Yes,Yes,-123.6044,47.8021,Standard Premium Double,220
+Washington,Olympic National Park,Comfort Inn & Suites near Olympic National Park,3.5,4,No,No,-123.6044,47.8021,Economy Family Room,102
+Washington,Pike Place Market,The Grand Pike Place Market Resort & Spa,4.9,2,Yes,Yes,-122.3422,47.6097,Deluxe King Suite,380
+Washington,Pike Place Market,Pike Place Market Heritage View Hotel,4.4,3,Yes,Yes,-122.3422,47.6097,Standard Premium Double,138
+Washington,Pike Place Market,Comfort Inn & Suites near Pike Place Market,3.5,4,Yes,No,-122.3422,47.6097,Economy Family Room,93
+Washington,Space Needle,The Grand Space Needle Resort & Spa,4.8,2,Yes,Yes,-122.3493,47.6205,Deluxe King Suite,516
+Washington,Space Needle,Space Needle Heritage View Hotel,4.4,3,Yes,No,-122.3493,47.6205,Standard Premium Double,215
+Washington,Space Needle,Comfort Inn & Suites near Space Needle,3.7,4,No,No,-122.3493,47.6205,Economy Family Room,73
+Washington,Mount St. Helens,The Grand Mount St. Helens Resort & Spa,4.7,2,Yes,Yes,-122.1944,46.1912,Deluxe King Suite,321
+Washington,Mount St. Helens,Mount St. Helens Heritage View Hotel,4.3,3,Yes,No,-122.1944,46.1912,Standard Premium Double,210
+Washington,Mount St. Helens,Comfort Inn & Suites near Mount St. Helens,3.3,4,Yes,No,-122.1944,46.1912,Economy Family Room,89
+Washington,San Juan Islands,The Grand San Juan Islands Resort & Spa,4.8,2,Yes,Yes,-122.9728,48.532,Deluxe King Suite,514
+Washington,San Juan Islands,San Juan Islands Heritage View Hotel,4.3,3,Yes,Yes,-122.9728,48.532,Standard Premium Double,178
+Washington,San Juan Islands,Comfort Inn & Suites near San Juan Islands,3.4,4,No,No,-122.9728,48.532,Economy Family Room,94
+Washington,Snoqualmie Falls,The Grand Snoqualmie Falls Resort & Spa,4.9,2,Yes,Yes,-121.8376,47.5416,Deluxe King Suite,523
+Washington,Snoqualmie Falls,Snoqualmie Falls Heritage View Hotel,4.0,3,Yes,Yes,-121.8376,47.5416,Standard Premium Double,200
+Washington,Snoqualmie Falls,Comfort Inn & Suites near Snoqualmie Falls,3.7,4,No,No,-121.8376,47.5416,Economy Family Room,82
+Washington,Hoh Rainforest,The Grand Hoh Rainforest Resort & Spa,4.5,2,Yes,Yes,-123.9351,47.8597,Deluxe King Suite,407
+Washington,Hoh Rainforest,Hoh Rainforest Heritage View Hotel,4.2,3,Yes,Yes,-123.9351,47.8597,Standard Premium Double,153
+Washington,Hoh Rainforest,Comfort Inn & Suites near Hoh Rainforest,3.5,4,No,No,-123.9351,47.8597,Economy Family Room,76
+Washington,Leavenworth,The Grand Leavenworth Resort & Spa,4.5,2,Yes,Yes,-120.6615,47.5962,Deluxe King Suite,410
+Washington,Leavenworth,Leavenworth Heritage View Hotel,4.1,3,Yes,No,-120.6615,47.5962,Standard Premium Double,164
+Washington,Leavenworth,Comfort Inn & Suites near Leavenworth,3.5,4,No,No,-120.6615,47.5962,Economy Family Room,84
+Washington,Palouse Falls,The Grand Palouse Falls Resort & Spa,4.6,2,Yes,Yes,-118.2262,46.6638,Deluxe King Suite,395
+Washington,Palouse Falls,Palouse Falls Heritage View Hotel,4.2,3,Yes,Yes,-118.2262,46.6638,Standard Premium Double,135
+Washington,Palouse Falls,Comfort Inn & Suites near Palouse Falls,3.4,4,Yes,No,-118.2262,46.6638,Economy Family Room,84
+Utah,Zion National Park,The Grand Zion National Park Resort & Spa,4.9,2,Yes,Yes,-113.0263,37.2982,Deluxe King Suite,351
+Utah,Zion National Park,Zion National Park Heritage View Hotel,4.3,3,Yes,Yes,-113.0263,37.2982,Standard Premium Double,212
+Utah,Zion National Park,Comfort Inn & Suites near Zion National Park,3.7,4,Yes,No,-113.0263,37.2982,Economy Family Room,70
+Utah,Bryce Canyon,The Grand Bryce Canyon Resort & Spa,4.8,2,Yes,Yes,-112.1871,37.593,Deluxe King Suite,302
+Utah,Bryce Canyon,Bryce Canyon Heritage View Hotel,4.3,3,Yes,No,-112.1871,37.593,Standard Premium Double,209
+Utah,Bryce Canyon,Comfort Inn & Suites near Bryce Canyon,3.3,4,No,No,-112.1871,37.593,Economy Family Room,70
+Utah,Arches National Park,The Grand Arches National Park Resort & Spa,4.5,2,Yes,Yes,-109.5925,38.7331,Deluxe King Suite,295
+Utah,Arches National Park,Arches National Park Heritage View Hotel,4.4,3,Yes,Yes,-109.5925,38.7331,Standard Premium Double,168
+Utah,Arches National Park,Comfort Inn & Suites near Arches National Park,3.3,4,Yes,No,-109.5925,38.7331,Economy Family Room,105
+Utah,Canyonlands National Park,The Grand Canyonlands National Park Resort & Spa,4.5,2,Yes,Yes,-109.9025,38.2,Deluxe King Suite,535
+Utah,Canyonlands National Park,Canyonlands National Park Heritage View Hotel,4.3,3,Yes,No,-109.9025,38.2,Standard Premium Double,194
+Utah,Canyonlands National Park,Comfort Inn & Suites near Canyonlands National Park,3.7,4,Yes,No,-109.9025,38.2,Economy Family Room,72
+Utah,Monument Valley,The Grand Monument Valley Resort & Spa,4.8,2,Yes,Yes,-110.0985,36.9983,Deluxe King Suite,434
+Utah,Monument Valley,Monument Valley Heritage View Hotel,4.0,3,Yes,Yes,-110.0985,36.9983,Standard Premium Double,195
+Utah,Monument Valley,Comfort Inn & Suites near Monument Valley,3.4,4,No,No,-110.0985,36.9983,Economy Family Room,88
+Utah,Antelope Canyon,The Grand Antelope Canyon Resort & Spa,4.8,2,Yes,Yes,-111.3743,36.8619,Deluxe King Suite,488
+Utah,Antelope Canyon,Antelope Canyon Heritage View Hotel,4.1,3,Yes,Yes,-111.3743,36.8619,Standard Premium Double,216
+Utah,Antelope Canyon,Comfort Inn & Suites near Antelope Canyon,3.5,4,Yes,No,-111.3743,36.8619,Economy Family Room,94
+Utah,Bonneville Salt Flats,The Grand Bonneville Salt Flats Resort & Spa,4.7,2,Yes,Yes,-113.8897,40.7441,Deluxe King Suite,460
+Utah,Bonneville Salt Flats,Bonneville Salt Flats Heritage View Hotel,4.0,3,Yes,Yes,-113.8897,40.7441,Standard Premium Double,220
+Utah,Bonneville Salt Flats,Comfort Inn & Suites near Bonneville Salt Flats,3.6,4,No,No,-113.8897,40.7441,Economy Family Room,104
+Utah,Capitol Reef National Park,The Grand Capitol Reef National Park Resort & Spa,4.7,2,Yes,Yes,-111.2615,38.367,Deluxe King Suite,500
+Utah,Capitol Reef National Park,Capitol Reef National Park Heritage View Hotel,4.2,3,Yes,Yes,-111.2615,38.367,Standard Premium Double,190
+Utah,Capitol Reef National Park,Comfort Inn & Suites near Capitol Reef National Park,3.6,4,Yes,No,-111.2615,38.367,Economy Family Room,93
+Utah,Natural Bridges National Monument,The Grand Natural Bridges National Monument Resort & Spa,4.9,2,Yes,Yes,-110.0086,37.6025,Deluxe King Suite,460
+Utah,Natural Bridges National Monument,Natural Bridges National Monument Heritage View Hotel,4.3,3,Yes,Yes,-110.0086,37.6025,Standard Premium Double,160
+Utah,Natural Bridges National Monument,Comfort Inn & Suites near Natural Bridges National Monument,3.7,4,No,No,-110.0086,37.6025,Economy Family Room,90
+Utah,Dead Horse Point,The Grand Dead Horse Point Resort & Spa,4.5,2,Yes,Yes,-109.7334,38.4824,Deluxe King Suite,502
+Utah,Dead Horse Point,Dead Horse Point Heritage View Hotel,4.3,3,Yes,Yes,-109.7334,38.4824,Standard Premium Double,141
+Utah,Dead Horse Point,Comfort Inn & Suites near Dead Horse Point,3.5,4,Yes,No,-109.7334,38.4824,Economy Family Room,92
+Alaska,Denali National Park,The Grand Denali National Park Resort & Spa,4.8,2,Yes,Yes,-150.501,63.3333,Deluxe King Suite,296
+Alaska,Denali National Park,Denali National Park Heritage View Hotel,4.2,3,Yes,No,-150.501,63.3333,Standard Premium Double,136
+Alaska,Denali National Park,Comfort Inn & Suites near Denali National Park,3.5,4,No,No,-150.501,63.3333,Economy Family Room,88
+Alaska,Glacier Bay National Park,The Grand Glacier Bay National Park Resort & Spa,4.6,2,Yes,Yes,-136.9,58.6658,Deluxe King Suite,465
+Alaska,Glacier Bay National Park,Glacier Bay National Park Heritage View Hotel,4.0,3,Yes,Yes,-136.9,58.6658,Standard Premium Double,194
+Alaska,Glacier Bay National Park,Comfort Inn & Suites near Glacier Bay National Park,3.3,4,No,No,-136.9,58.6658,Economy Family Room,103
+Alaska,Kenai Fjords National Park,The Grand Kenai Fjords National Park Resort & Spa,4.6,2,Yes,Yes,-149.6517,59.9198,Deluxe King Suite,291
+Alaska,Kenai Fjords National Park,Kenai Fjords National Park Heritage View Hotel,4.3,3,Yes,Yes,-149.6517,59.9198,Standard Premium Double,155
+Alaska,Kenai Fjords National Park,Comfort Inn & Suites near Kenai Fjords National Park,3.3,4,No,No,-149.6517,59.9198,Economy Family Room,94
+Alaska,Tongass National Forest,The Grand Tongass National Forest Resort & Spa,4.5,2,Yes,Yes,-133.38,56.4897,Deluxe King Suite,319
+Alaska,Tongass National Forest,Tongass National Forest Heritage View Hotel,4.4,3,Yes,No,-133.38,56.4897,Standard Premium Double,194
+Alaska,Tongass National Forest,Comfort Inn & Suites near Tongass National Forest,3.6,4,Yes,No,-133.38,56.4897,Economy Family Room,77
+Alaska,Aurora Borealis viewing Fairbanks,The Grand Aurora Borealis viewing Fairbanks Resort & Spa,4.7,2,Yes,Yes,-147.72,64.8401,Deluxe King Suite,508
+Alaska,Aurora Borealis viewing Fairbanks,Aurora Borealis viewing Fairbanks Heritage View Hotel,4.3,3,Yes,No,-147.72,64.8401,Standard Premium Double,202
+Alaska,Aurora Borealis viewing Fairbanks,Comfort Inn & Suites near Aurora Borealis viewing Fairbanks,3.6,4,Yes,No,-147.72,64.8401,Economy Family Room,67
+Alaska,Mendenhall Glacier,The Grand Mendenhall Glacier Resort & Spa,4.8,2,Yes,Yes,-134.5555,58.4166,Deluxe King Suite,370
+Alaska,Mendenhall Glacier,Mendenhall Glacier Heritage View Hotel,4.3,3,Yes,Yes,-134.5555,58.4166,Standard Premium Double,154
+Alaska,Mendenhall Glacier,Comfort Inn & Suites near Mendenhall Glacier,3.5,4,No,No,-134.5555,58.4166,Economy Family Room,66
+Alaska,Katmai National Park,The Grand Katmai National Park Resort & Spa,4.6,2,Yes,Yes,-154.976,58.61,Deluxe King Suite,481
+Alaska,Katmai National Park,Katmai National Park Heritage View Hotel,4.1,3,Yes,Yes,-154.976,58.61,Standard Premium Double,174
+Alaska,Katmai National Park,Comfort Inn & Suites near Katmai National Park,3.2,4,No,No,-154.976,58.61,Economy Family Room,88
+Alaska,Wrangell-St. Elias National Park,The Grand Wrangell-St. Elias National Park Resort & Spa,4.7,2,Yes,Yes,-142.9856,61.7104,Deluxe King Suite,493
+Alaska,Wrangell-St. Elias National Park,Wrangell-St. Elias National Park Heritage View Hotel,4.0,3,Yes,Yes,-142.9856,61.7104,Standard Premium Double,190
+Alaska,Wrangell-St. Elias National Park,Comfort Inn & Suites near Wrangell-St. Elias National Park,3.3,4,Yes,No,-142.9856,61.7104,Economy Family Room,79
+Alaska,Sitka National Historical Park,The Grand Sitka National Historical Park Resort & Spa,4.8,2,Yes,Yes,-135.33,57.0488,Deluxe King Suite,463
+Alaska,Sitka National Historical Park,Sitka National Historical Park Heritage View Hotel,4.2,3,Yes,No,-135.33,57.0488,Standard Premium Double,153
+Alaska,Sitka National Historical Park,Comfort Inn & Suites near Sitka National Historical Park,3.4,4,Yes,No,-135.33,57.0488,Economy Family Room,68
+Alaska,Kodiak Island,The Grand Kodiak Island Resort & Spa,4.8,2,Yes,Yes,-152.4072,57.79,Deluxe King Suite,333
+Alaska,Kodiak Island,Kodiak Island Heritage View Hotel,4.1,3,Yes,Yes,-152.4072,57.79,Standard Premium Double,153
+Alaska,Kodiak Island,Comfort Inn & Suites near Kodiak Island,3.7,4,Yes,No,-152.4072,57.79,Economy Family Room,83
+Nevada,Las Vegas Strip,The Grand Las Vegas Strip Resort & Spa,4.7,2,Yes,Yes,-115.1728,36.1147,Deluxe King Suite,473
+Nevada,Las Vegas Strip,Las Vegas Strip Heritage View Hotel,4.3,3,Yes,No,-115.1728,36.1147,Standard Premium Double,140
+Nevada,Las Vegas Strip,Comfort Inn & Suites near Las Vegas Strip,3.3,4,No,No,-115.1728,36.1147,Economy Family Room,90
+Nevada,Hoover Dam,The Grand Hoover Dam Resort & Spa,4.8,2,Yes,Yes,-114.7377,36.0161,Deluxe King Suite,532
+Nevada,Hoover Dam,Hoover Dam Heritage View Hotel,4.2,3,Yes,Yes,-114.7377,36.0161,Standard Premium Double,179
+Nevada,Hoover Dam,Comfort Inn & Suites near Hoover Dam,3.8,4,Yes,No,-114.7377,36.0161,Economy Family Room,68
+Nevada,Valley of Fire State Park,The Grand Valley of Fire State Park Resort & Spa,4.6,2,Yes,Yes,-114.532,36.482,Deluxe King Suite,540
+Nevada,Valley of Fire State Park,Valley of Fire State Park Heritage View Hotel,4.4,3,Yes,No,-114.532,36.482,Standard Premium Double,196
+Nevada,Valley of Fire State Park,Comfort Inn & Suites near Valley of Fire State Park,3.4,4,No,No,-114.532,36.482,Economy Family Room,70
+Nevada,Lake Mead,The Grand Lake Mead Resort & Spa,4.8,2,Yes,Yes,-114.738,36.157,Deluxe King Suite,310
+Nevada,Lake Mead,Lake Mead Heritage View Hotel,4.1,3,Yes,No,-114.738,36.157,Standard Premium Double,215
+Nevada,Lake Mead,Comfort Inn & Suites near Lake Mead,3.4,4,No,No,-114.738,36.157,Economy Family Room,103
+Nevada,Red Rock Canyon,The Grand Red Rock Canyon Resort & Spa,4.8,2,Yes,Yes,-115.4281,36.135,Deluxe King Suite,343
+Nevada,Red Rock Canyon,Red Rock Canyon Heritage View Hotel,4.2,3,Yes,Yes,-115.4281,36.135,Standard Premium Double,209
+Nevada,Red Rock Canyon,Comfort Inn & Suites near Red Rock Canyon,3.7,4,No,No,-115.4281,36.135,Economy Family Room,82
+Nevada,Great Basin National Park,The Grand Great Basin National Park Resort & Spa,4.9,2,Yes,Yes,-114.2139,38.9834,Deluxe King Suite,473
+Nevada,Great Basin National Park,Great Basin National Park Heritage View Hotel,4.0,3,Yes,No,-114.2139,38.9834,Standard Premium Double,169
+Nevada,Great Basin National Park,Comfort Inn & Suites near Great Basin National Park,3.5,4,No,No,-114.2139,38.9834,Economy Family Room,85
+Nevada,Virginia City,The Grand Virginia City Resort & Spa,4.8,2,Yes,Yes,-119.6503,39.3099,Deluxe King Suite,409
+Nevada,Virginia City,Virginia City Heritage View Hotel,4.4,3,Yes,Yes,-119.6503,39.3099,Standard Premium Double,191
+Nevada,Virginia City,Comfort Inn & Suites near Virginia City,3.5,4,Yes,No,-119.6503,39.3099,Economy Family Room,86
+Nevada,Lehman Caves,The Grand Lehman Caves Resort & Spa,4.7,2,Yes,Yes,-114.2138,38.9833,Deluxe King Suite,503
+Nevada,Lehman Caves,Lehman Caves Heritage View Hotel,4.3,3,Yes,Yes,-114.2138,38.9833,Standard Premium Double,173
+Nevada,Lehman Caves,Comfort Inn & Suites near Lehman Caves,3.6,4,No,No,-114.2138,38.9833,Economy Family Room,99
+Nevada,Berlin Ichthyosaur State Park,The Grand Berlin Ichthyosaur State Park Resort & Spa,4.8,2,Yes,Yes,-117.5877,38.6993,Deluxe King Suite,284
+Nevada,Berlin Ichthyosaur State Park,Berlin Ichthyosaur State Park Heritage View Hotel,4.0,3,Yes,Yes,-117.5877,38.6993,Standard Premium Double,174
+Nevada,Berlin Ichthyosaur State Park,Comfort Inn & Suites near Berlin Ichthyosaur State Park,3.5,4,No,No,-117.5877,38.6993,Economy Family Room,87
+Nevada,Cathedral Gorge State Park,The Grand Cathedral Gorge State Park Resort & Spa,4.7,2,Yes,Yes,-114.4027,37.8071,Deluxe King Suite,522
+Nevada,Cathedral Gorge State Park,Cathedral Gorge State Park Heritage View Hotel,4.3,3,Yes,Yes,-114.4027,37.8071,Standard Premium Double,137
+Nevada,Cathedral Gorge State Park,Comfort Inn & Suites near Cathedral Gorge State Park,3.5,4,No,No,-114.4027,37.8071,Economy Family Room,69
+Île-de-France,Eiffel Tower,The Grand Eiffel Tower Resort & Spa,4.7,2,Yes,Yes,2.2945,48.8584,Deluxe King Suite,266
+Île-de-France,Eiffel Tower,Eiffel Tower Heritage View Hotel,4.3,3,Yes,Yes,2.2945,48.8584,Standard Premium Double,123
+Île-de-France,Eiffel Tower,Comfort Inn & Suites near Eiffel Tower,3.5,4,No,No,2.2945,48.8584,Economy Family Room,79
+Île-de-France,Louvre Museum,The Grand Louvre Museum Resort & Spa,4.8,2,Yes,Yes,2.3376,48.8606,Deluxe King Suite,443
+Île-de-France,Louvre Museum,Louvre Museum Heritage View Hotel,4.1,3,Yes,No,2.3376,48.8606,Standard Premium Double,150
+Île-de-France,Louvre Museum,Comfort Inn & Suites near Louvre Museum,3.8,4,Yes,No,2.3376,48.8606,Economy Family Room,55
+Île-de-France,Notre-Dame Cathedral,The Grand Notre-Dame Cathedral Resort & Spa,4.7,2,Yes,Yes,2.3499,48.853,Deluxe King Suite,434
+Île-de-France,Notre-Dame Cathedral,Notre-Dame Cathedral Heritage View Hotel,4.2,3,Yes,Yes,2.3499,48.853,Standard Premium Double,140
+Île-de-France,Notre-Dame Cathedral,Comfort Inn & Suites near Notre-Dame Cathedral,3.7,4,No,No,2.3499,48.853,Economy Family Room,91
+Île-de-France,Palace of Versailles,The Grand Palace of Versailles Resort & Spa,4.5,2,Yes,Yes,2.1204,48.8049,Deluxe King Suite,251
+Île-de-France,Palace of Versailles,Palace of Versailles Heritage View Hotel,3.9,3,Yes,Yes,2.1204,48.8049,Standard Premium Double,169
+Île-de-France,Palace of Versailles,Comfort Inn & Suites near Palace of Versailles,3.6,4,No,No,2.1204,48.8049,Economy Family Room,68
+Île-de-France,Musée d'Orsay,The Grand Musée d'Orsay Resort & Spa,4.6,2,Yes,Yes,2.3266,48.86,Deluxe King Suite,382
+Île-de-France,Musée d'Orsay,Musée d'Orsay Heritage View Hotel,4.3,3,Yes,No,2.3266,48.86,Standard Premium Double,158
+Île-de-France,Musée d'Orsay,Comfort Inn & Suites near Musée d'Orsay,3.2,4,No,No,2.3266,48.86,Economy Family Room,61
+Île-de-France,Arc de Triomphe,The Grand Arc de Triomphe Resort & Spa,4.7,2,Yes,Yes,2.295,48.8738,Deluxe King Suite,248
+Île-de-France,Arc de Triomphe,Arc de Triomphe Heritage View Hotel,4.2,3,Yes,No,2.295,48.8738,Standard Premium Double,160
+Île-de-France,Arc de Triomphe,Comfort Inn & Suites near Arc de Triomphe,3.5,4,Yes,No,2.295,48.8738,Economy Family Room,84
+Île-de-France,Sacré-Cœur Basilica,The Grand Sacré-Cœur Basilica Resort & Spa,4.7,2,Yes,Yes,2.3431,48.8867,Deluxe King Suite,243
+Île-de-France,Sacré-Cœur Basilica,Sacré-Cœur Basilica Heritage View Hotel,4.2,3,Yes,Yes,2.3431,48.8867,Standard Premium Double,171
+Île-de-France,Sacré-Cœur Basilica,Comfort Inn & Suites near Sacré-Cœur Basilica,3.2,4,No,No,2.3431,48.8867,Economy Family Room,85
+Île-de-France,Champs-Élysées,The Grand Champs-Élysées Resort & Spa,4.7,2,Yes,Yes,2.3078,48.8698,Deluxe King Suite,474
+Île-de-France,Champs-Élysées,Champs-Élysées Heritage View Hotel,4.1,3,Yes,Yes,2.3078,48.8698,Standard Premium Double,153
+Île-de-France,Champs-Élysées,Comfort Inn & Suites near Champs-Élysées,3.7,4,No,No,2.3078,48.8698,Economy Family Room,68
+Île-de-France,Sainte-Chapelle,The Grand Sainte-Chapelle Resort & Spa,4.7,2,Yes,Yes,2.345,48.8554,Deluxe King Suite,385
+Île-de-France,Sainte-Chapelle,Sainte-Chapelle Heritage View Hotel,4.4,3,Yes,Yes,2.345,48.8554,Standard Premium Double,169
+Île-de-France,Sainte-Chapelle,Comfort Inn & Suites near Sainte-Chapelle,3.6,4,No,No,2.345,48.8554,Economy Family Room,76
+Île-de-France,Centre Pompidou,The Grand Centre Pompidou Resort & Spa,4.6,2,Yes,Yes,2.3522,48.8606,Deluxe King Suite,372
+Île-de-France,Centre Pompidou,Centre Pompidou Heritage View Hotel,4.2,3,Yes,Yes,2.3522,48.8606,Standard Premium Double,118
+Île-de-France,Centre Pompidou,Comfort Inn & Suites near Centre Pompidou,3.7,4,No,No,2.3522,48.8606,Economy Family Room,69
+Provence-Alpes-Côte d'Azur,French Riviera Nice,The Grand French Riviera Nice Resort & Spa,4.8,2,Yes,Yes,7.262,43.7102,Deluxe King Suite,476
+Provence-Alpes-Côte d'Azur,French Riviera Nice,French Riviera Nice Heritage View Hotel,4.3,3,Yes,No,7.262,43.7102,Standard Premium Double,144
+Provence-Alpes-Côte d'Azur,French Riviera Nice,Comfort Inn & Suites near French Riviera Nice,3.5,4,No,No,7.262,43.7102,Economy Family Room,89
+Provence-Alpes-Côte d'Azur,Palace of the Popes Avignon,The Grand Palace of the Popes Avignon Resort & Spa,4.6,2,Yes,Yes,4.8059,43.9493,Deluxe King Suite,244
+Provence-Alpes-Côte d'Azur,Palace of the Popes Avignon,Palace of the Popes Avignon Heritage View Hotel,4.4,3,Yes,Yes,4.8059,43.9493,Standard Premium Double,162
+Provence-Alpes-Côte d'Azur,Palace of the Popes Avignon,Comfort Inn & Suites near Palace of the Popes Avignon,3.4,4,No,No,4.8059,43.9493,Economy Family Room,59
+Provence-Alpes-Côte d'Azur,Gorges du Verdon,The Grand Gorges du Verdon Resort & Spa,4.5,2,Yes,Yes,6.3618,43.7434,Deluxe King Suite,346
+Provence-Alpes-Côte d'Azur,Gorges du Verdon,Gorges du Verdon Heritage View Hotel,4.4,3,Yes,No,6.3618,43.7434,Standard Premium Double,145
+Provence-Alpes-Côte d'Azur,Gorges du Verdon,Comfort Inn & Suites near Gorges du Verdon,3.7,4,No,No,6.3618,43.7434,Economy Family Room,74
+Provence-Alpes-Côte d'Azur,Calanques National Park,The Grand Calanques National Park Resort & Spa,4.7,2,Yes,Yes,5.4418,43.2148,Deluxe King Suite,356
+Provence-Alpes-Côte d'Azur,Calanques National Park,Calanques National Park Heritage View Hotel,4.4,3,Yes,Yes,5.4418,43.2148,Standard Premium Double,171
+Provence-Alpes-Côte d'Azur,Calanques National Park,Comfort Inn & Suites near Calanques National Park,3.6,4,No,No,5.4418,43.2148,Economy Family Room,68
+Provence-Alpes-Côte d'Azur,Pont du Gard,The Grand Pont du Gard Resort & Spa,4.8,2,Yes,Yes,4.5353,43.9474,Deluxe King Suite,295
+Provence-Alpes-Côte d'Azur,Pont du Gard,Pont du Gard Heritage View Hotel,4.1,3,Yes,No,4.5353,43.9474,Standard Premium Double,134
+Provence-Alpes-Côte d'Azur,Pont du Gard,Comfort Inn & Suites near Pont du Gard,3.6,4,No,No,4.5353,43.9474,Economy Family Room,79
+Provence-Alpes-Côte d'Azur,Les Baux-de-Provence,The Grand Les Baux-de-Provence Resort & Spa,4.5,2,Yes,Yes,4.7939,43.7444,Deluxe King Suite,477
+Provence-Alpes-Côte d'Azur,Les Baux-de-Provence,Les Baux-de-Provence Heritage View Hotel,4.1,3,Yes,No,4.7939,43.7444,Standard Premium Double,130
+Provence-Alpes-Côte d'Azur,Les Baux-de-Provence,Comfort Inn & Suites near Les Baux-de-Provence,3.7,4,No,No,4.7939,43.7444,Economy Family Room,74
+Provence-Alpes-Côte d'Azur,Monaco,The Grand Monaco Resort & Spa,4.8,2,Yes,Yes,7.4246,43.7384,Deluxe King Suite,442
+Provence-Alpes-Côte d'Azur,Monaco,Monaco Heritage View Hotel,4.3,3,Yes,Yes,7.4246,43.7384,Standard Premium Double,116
+Provence-Alpes-Côte d'Azur,Monaco,Comfort Inn & Suites near Monaco,3.6,4,No,No,7.4246,43.7384,Economy Family Room,56
+Provence-Alpes-Côte d'Azur,Lavender Fields Valensole,The Grand Lavender Fields Valensole Resort & Spa,4.8,2,Yes,Yes,5.9892,43.8342,Deluxe King Suite,349
+Provence-Alpes-Côte d'Azur,Lavender Fields Valensole,Lavender Fields Valensole Heritage View Hotel,4.2,3,Yes,Yes,5.9892,43.8342,Standard Premium Double,184
+Provence-Alpes-Côte d'Azur,Lavender Fields Valensole,Comfort Inn & Suites near Lavender Fields Valensole,3.6,4,No,No,5.9892,43.8342,Economy Family Room,77
+Provence-Alpes-Côte d'Azur,Aix-en-Provence,The Grand Aix-en-Provence Resort & Spa,4.6,2,Yes,Yes,5.4474,43.5297,Deluxe King Suite,373
+Provence-Alpes-Côte d'Azur,Aix-en-Provence,Aix-en-Provence Heritage View Hotel,4.3,3,Yes,Yes,5.4474,43.5297,Standard Premium Double,164
+Provence-Alpes-Côte d'Azur,Aix-en-Provence,Comfort Inn & Suites near Aix-en-Provence,3.6,4,No,No,5.4474,43.5297,Economy Family Room,68
+Provence-Alpes-Côte d'Azur,Saint-Tropez,The Grand Saint-Tropez Resort & Spa,4.8,2,Yes,Yes,6.6403,43.2677,Deluxe King Suite,283
+Provence-Alpes-Côte d'Azur,Saint-Tropez,Saint-Tropez Heritage View Hotel,4.3,3,Yes,Yes,6.6403,43.2677,Standard Premium Double,158
+Provence-Alpes-Côte d'Azur,Saint-Tropez,Comfort Inn & Suites near Saint-Tropez,3.2,4,Yes,No,6.6403,43.2677,Economy Family Room,89
+Occitanie,Carcassonne,The Grand Carcassonne Resort & Spa,4.5,2,Yes,Yes,2.353,43.2119,Deluxe King Suite,331
+Occitanie,Carcassonne,Carcassonne Heritage View Hotel,4.2,3,Yes,Yes,2.353,43.2119,Standard Premium Double,120
+Occitanie,Carcassonne,Comfort Inn & Suites near Carcassonne,3.8,4,Yes,No,2.353,43.2119,Economy Family Room,66
+Occitanie,Mont-Saint-Michel,The Grand Mont-Saint-Michel Resort & Spa,4.8,2,Yes,Yes,-1.5115,48.6361,Deluxe King Suite,263
+Occitanie,Mont-Saint-Michel,Mont-Saint-Michel Heritage View Hotel,4.0,3,Yes,No,-1.5115,48.6361,Standard Premium Double,133
+Occitanie,Mont-Saint-Michel,Comfort Inn & Suites near Mont-Saint-Michel,3.3,4,No,No,-1.5115,48.6361,Economy Family Room,69
+Occitanie,Millau Viaduct,The Grand Millau Viaduct Resort & Spa,4.7,2,Yes,Yes,3.0228,44.098,Deluxe King Suite,469
+Occitanie,Millau Viaduct,Millau Viaduct Heritage View Hotel,4.0,3,Yes,No,3.0228,44.098,Standard Premium Double,120
+Occitanie,Millau Viaduct,Comfort Inn & Suites near Millau Viaduct,3.5,4,No,No,3.0228,44.098,Economy Family Room,85
+Occitanie,Lascaux Caves,The Grand Lascaux Caves Resort & Spa,4.9,2,Yes,Yes,1.0665,45.0543,Deluxe King Suite,451
+Occitanie,Lascaux Caves,Lascaux Caves Heritage View Hotel,4.4,3,Yes,No,1.0665,45.0543,Standard Premium Double,163
+Occitanie,Lascaux Caves,Comfort Inn & Suites near Lascaux Caves,3.2,4,Yes,No,1.0665,45.0543,Economy Family Room,67
+Occitanie,Toulouse,The Grand Toulouse Resort & Spa,4.8,2,Yes,Yes,1.4442,43.6047,Deluxe King Suite,476
+Occitanie,Toulouse,Toulouse Heritage View Hotel,4.3,3,Yes,Yes,1.4442,43.6047,Standard Premium Double,182
+Occitanie,Toulouse,Comfort Inn & Suites near Toulouse,3.3,4,No,No,1.4442,43.6047,Economy Family Room,57
+Occitanie,Montpellier,The Grand Montpellier Resort & Spa,4.8,2,Yes,Yes,3.8767,43.6112,Deluxe King Suite,322
+Occitanie,Montpellier,Montpellier Heritage View Hotel,4.1,3,Yes,Yes,3.8767,43.6112,Standard Premium Double,145
+Occitanie,Montpellier,Comfort Inn & Suites near Montpellier,3.5,4,No,No,3.8767,43.6112,Economy Family Room,63
+Occitanie,Nimes,The Grand Nimes Resort & Spa,4.8,2,Yes,Yes,4.3601,43.8367,Deluxe King Suite,328
+Occitanie,Nimes,Nimes Heritage View Hotel,4.2,3,Yes,No,4.3601,43.8367,Standard Premium Double,150
+Occitanie,Nimes,Comfort Inn & Suites near Nimes,3.8,4,No,No,4.3601,43.8367,Economy Family Room,63
+Occitanie,Collioure,The Grand Collioure Resort & Spa,4.6,2,Yes,Yes,3.084,42.5265,Deluxe King Suite,286
+Occitanie,Collioure,Collioure Heritage View Hotel,4.2,3,Yes,Yes,3.084,42.5265,Standard Premium Double,118
+Occitanie,Collioure,Comfort Inn & Suites near Collioure,3.5,4,Yes,No,3.084,42.5265,Economy Family Room,72
+Occitanie,Pyrénées National Park,The Grand Pyrénées National Park Resort & Spa,4.6,2,Yes,Yes,0.1587,42.7462,Deluxe King Suite,409
+Occitanie,Pyrénées National Park,Pyrénées National Park Heritage View Hotel,4.1,3,Yes,No,0.1587,42.7462,Standard Premium Double,161
+Occitanie,Pyrénées National Park,Comfort Inn & Suites near Pyrénées National Park,3.5,4,Yes,No,0.1587,42.7462,Economy Family Room,80
+Occitanie,Dordogne Valley,The Grand Dordogne Valley Resort & Spa,4.7,2,Yes,Yes,0.7808,44.8378,Deluxe King Suite,379
+Occitanie,Dordogne Valley,Dordogne Valley Heritage View Hotel,4.0,3,Yes,Yes,0.7808,44.8378,Standard Premium Double,133
+Occitanie,Dordogne Valley,Comfort Inn & Suites near Dordogne Valley,3.4,4,No,No,0.7808,44.8378,Economy Family Room,92
+Auvergne-Rhône-Alpes,Mont Blanc,The Grand Mont Blanc Resort & Spa,4.6,2,Yes,Yes,6.8652,45.8326,Deluxe King Suite,469
+Auvergne-Rhône-Alpes,Mont Blanc,Mont Blanc Heritage View Hotel,4.3,3,Yes,No,6.8652,45.8326,Standard Premium Double,125
+Auvergne-Rhône-Alpes,Mont Blanc,Comfort Inn & Suites near Mont Blanc,3.5,4,No,No,6.8652,45.8326,Economy Family Room,86
+Auvergne-Rhône-Alpes,Chamonix,The Grand Chamonix Resort & Spa,4.9,2,Yes,Yes,6.8694,45.9237,Deluxe King Suite,247
+Auvergne-Rhône-Alpes,Chamonix,Chamonix Heritage View Hotel,4.1,3,Yes,No,6.8694,45.9237,Standard Premium Double,153
+Auvergne-Rhône-Alpes,Chamonix,Comfort Inn & Suites near Chamonix,3.7,4,Yes,No,6.8694,45.9237,Economy Family Room,89
+Auvergne-Rhône-Alpes,Annecy,The Grand Annecy Resort & Spa,4.6,2,Yes,Yes,6.1294,45.8992,Deluxe King Suite,458
+Auvergne-Rhône-Alpes,Annecy,Annecy Heritage View Hotel,4.3,3,Yes,Yes,6.1294,45.8992,Standard Premium Double,169
+Auvergne-Rhône-Alpes,Annecy,Comfort Inn & Suites near Annecy,3.6,4,No,No,6.1294,45.8992,Economy Family Room,77
+Auvergne-Rhône-Alpes,Lyon Old Town,The Grand Lyon Old Town Resort & Spa,4.5,2,Yes,Yes,4.8357,45.764,Deluxe King Suite,406
+Auvergne-Rhône-Alpes,Lyon Old Town,Lyon Old Town Heritage View Hotel,4.4,3,Yes,Yes,4.8357,45.764,Standard Premium Double,131
+Auvergne-Rhône-Alpes,Lyon Old Town,Comfort Inn & Suites near Lyon Old Town,3.2,4,No,No,4.8357,45.764,Economy Family Room,79
+Auvergne-Rhône-Alpes,Gorges de l'Ardèche,The Grand Gorges de l'Ardèche Resort & Spa,4.6,2,Yes,Yes,4.4145,44.3755,Deluxe King Suite,246
+Auvergne-Rhône-Alpes,Gorges de l'Ardèche,Gorges de l'Ardèche Heritage View Hotel,4.0,3,Yes,Yes,4.4145,44.3755,Standard Premium Double,151
+Auvergne-Rhône-Alpes,Gorges de l'Ardèche,Comfort Inn & Suites near Gorges de l'Ardèche,3.3,4,No,No,4.4145,44.3755,Economy Family Room,66
+Auvergne-Rhône-Alpes,Puy de Dôme,The Grand Puy de Dôme Resort & Spa,4.8,2,Yes,Yes,2.9647,45.7733,Deluxe King Suite,425
+Auvergne-Rhône-Alpes,Puy de Dôme,Puy de Dôme Heritage View Hotel,4.1,3,Yes,Yes,2.9647,45.7733,Standard Premium Double,177
+Auvergne-Rhône-Alpes,Puy de Dôme,Comfort Inn & Suites near Puy de Dôme,3.6,4,No,No,2.9647,45.7733,Economy Family Room,95
+Auvergne-Rhône-Alpes,Vercors Regional Park,The Grand Vercors Regional Park Resort & Spa,4.7,2,Yes,Yes,5.42,45.02,Deluxe King Suite,398
+Auvergne-Rhône-Alpes,Vercors Regional Park,Vercors Regional Park Heritage View Hotel,4.1,3,Yes,No,5.42,45.02,Standard Premium Double,140
+Auvergne-Rhône-Alpes,Vercors Regional Park,Comfort Inn & Suites near Vercors Regional Park,3.6,4,No,No,5.42,45.02,Economy Family Room,78
+Auvergne-Rhône-Alpes,Grenoble Bastille,The Grand Grenoble Bastille Resort & Spa,4.7,2,Yes,Yes,5.7259,45.1913,Deluxe King Suite,351
+Auvergne-Rhône-Alpes,Grenoble Bastille,Grenoble Bastille Heritage View Hotel,4.1,3,Yes,No,5.7259,45.1913,Standard Premium Double,160
+Auvergne-Rhône-Alpes,Grenoble Bastille,Comfort Inn & Suites near Grenoble Bastille,3.2,4,Yes,No,5.7259,45.1913,Economy Family Room,68
+Auvergne-Rhône-Alpes,Belledonne Mountains,The Grand Belledonne Mountains Resort & Spa,4.8,2,Yes,Yes,5.98,45.22,Deluxe King Suite,289
+Auvergne-Rhône-Alpes,Belledonne Mountains,Belledonne Mountains Heritage View Hotel,4.2,3,Yes,Yes,5.98,45.22,Standard Premium Double,149
+Auvergne-Rhône-Alpes,Belledonne Mountains,Comfort Inn & Suites near Belledonne Mountains,3.8,4,Yes,No,5.98,45.22,Economy Family Room,91
+Auvergne-Rhône-Alpes,Lac du Bourget,The Grand Lac du Bourget Resort & Spa,4.9,2,Yes,Yes,5.8678,45.7417,Deluxe King Suite,307
+Auvergne-Rhône-Alpes,Lac du Bourget,Lac du Bourget Heritage View Hotel,4.3,3,Yes,Yes,5.8678,45.7417,Standard Premium Double,175
+Auvergne-Rhône-Alpes,Lac du Bourget,Comfort Inn & Suites near Lac du Bourget,3.7,4,Yes,No,5.8678,45.7417,Economy Family Room,72
+Brittany,Saint-Malo,The Grand Saint-Malo Resort & Spa,4.6,2,Yes,Yes,-2.0252,48.6492,Deluxe King Suite,246
+Brittany,Saint-Malo,Saint-Malo Heritage View Hotel,4.0,3,Yes,Yes,-2.0252,48.6492,Standard Premium Double,139
+Brittany,Saint-Malo,Comfort Inn & Suites near Saint-Malo,3.7,4,No,No,-2.0252,48.6492,Economy Family Room,57
+Brittany,Carnac Stones,The Grand Carnac Stones Resort & Spa,4.7,2,Yes,Yes,-3.0693,47.5941,Deluxe King Suite,285
+Brittany,Carnac Stones,Carnac Stones Heritage View Hotel,4.2,3,Yes,No,-3.0693,47.5941,Standard Premium Double,158
+Brittany,Carnac Stones,Comfort Inn & Suites near Carnac Stones,3.2,4,No,No,-3.0693,47.5941,Economy Family Room,93
+Brittany,Île de Bréhat,The Grand Île de Bréhat Resort & Spa,4.5,2,Yes,Yes,-3.001,48.8424,Deluxe King Suite,471
+Brittany,Île de Bréhat,Île de Bréhat Heritage View Hotel,4.1,3,Yes,No,-3.001,48.8424,Standard Premium Double,174
+Brittany,Île de Bréhat,Comfort Inn & Suites near Île de Bréhat,3.3,4,Yes,No,-3.001,48.8424,Economy Family Room,63
+Brittany,Quimper Cathedral,The Grand Quimper Cathedral Resort & Spa,4.6,2,Yes,Yes,-4.099,47.9965,Deluxe King Suite,260
+Brittany,Quimper Cathedral,Quimper Cathedral Heritage View Hotel,4.4,3,Yes,No,-4.099,47.9965,Standard Premium Double,152
+Brittany,Quimper Cathedral,Comfort Inn & Suites near Quimper Cathedral,3.8,4,No,No,-4.099,47.9965,Economy Family Room,82
+Brittany,Cap Fréhel,The Grand Cap Fréhel Resort & Spa,4.6,2,Yes,Yes,-2.3117,48.6844,Deluxe King Suite,354
+Brittany,Cap Fréhel,Cap Fréhel Heritage View Hotel,4.4,3,Yes,No,-2.3117,48.6844,Standard Premium Double,129
+Brittany,Cap Fréhel,Comfort Inn & Suites near Cap Fréhel,3.7,4,No,No,-2.3117,48.6844,Economy Family Room,93
+Brittany,Brest Oceanopolis,The Grand Brest Oceanopolis Resort & Spa,4.6,2,Yes,Yes,-4.5089,48.3783,Deluxe King Suite,418
+Brittany,Brest Oceanopolis,Brest Oceanopolis Heritage View Hotel,4.0,3,Yes,No,-4.5089,48.3783,Standard Premium Double,114
+Brittany,Brest Oceanopolis,Comfort Inn & Suites near Brest Oceanopolis,3.5,4,No,No,-4.5089,48.3783,Economy Family Room,69
+Brittany,Concarneau,The Grand Concarneau Resort & Spa,4.9,2,Yes,Yes,-3.9195,47.8746,Deluxe King Suite,243
+Brittany,Concarneau,Concarneau Heritage View Hotel,4.4,3,Yes,Yes,-3.9195,47.8746,Standard Premium Double,146
+Brittany,Concarneau,Comfort Inn & Suites near Concarneau,3.4,4,No,No,-3.9195,47.8746,Economy Family Room,58
+Brittany,Locronan,The Grand Locronan Resort & Spa,4.6,2,Yes,Yes,-4.2057,48.0995,Deluxe King Suite,280
+Brittany,Locronan,Locronan Heritage View Hotel,4.2,3,Yes,Yes,-4.2057,48.0995,Standard Premium Double,171
+Brittany,Locronan,Comfort Inn & Suites near Locronan,3.5,4,Yes,No,-4.2057,48.0995,Economy Family Room,72
+Brittany,Finistère Coast,The Grand Finistère Coast Resort & Spa,4.9,2,Yes,Yes,-4.46,48.4,Deluxe King Suite,470
+Brittany,Finistère Coast,Finistère Coast Heritage View Hotel,4.1,3,Yes,Yes,-4.46,48.4,Standard Premium Double,114
+Brittany,Finistère Coast,Comfort Inn & Suites near Finistère Coast,3.4,4,No,No,-4.46,48.4,Economy Family Room,86
+Brittany,Pointe du Raz,The Grand Pointe du Raz Resort & Spa,4.9,2,Yes,Yes,-4.7325,48.0374,Deluxe King Suite,308
+Brittany,Pointe du Raz,Pointe du Raz Heritage View Hotel,4.0,3,Yes,No,-4.7325,48.0374,Standard Premium Double,153
+Brittany,Pointe du Raz,Comfort Inn & Suites near Pointe du Raz,3.7,4,Yes,No,-4.7325,48.0374,Economy Family Room,81
+Grand Est,Strasbourg Cathedral,The Grand Strasbourg Cathedral Resort & Spa,4.5,2,Yes,Yes,7.7509,48.5818,Deluxe King Suite,459
+Grand Est,Strasbourg Cathedral,Strasbourg Cathedral Heritage View Hotel,4.0,3,Yes,Yes,7.7509,48.5818,Standard Premium Double,120
+Grand Est,Strasbourg Cathedral,Comfort Inn & Suites near Strasbourg Cathedral,3.6,4,Yes,No,7.7509,48.5818,Economy Family Room,63
+Grand Est,Colmar Old Town,The Grand Colmar Old Town Resort & Spa,4.8,2,Yes,Yes,7.3585,48.0794,Deluxe King Suite,461
+Grand Est,Colmar Old Town,Colmar Old Town Heritage View Hotel,4.1,3,Yes,Yes,7.3585,48.0794,Standard Premium Double,162
+Grand Est,Colmar Old Town,Comfort Inn & Suites near Colmar Old Town,3.7,4,No,No,7.3585,48.0794,Economy Family Room,61
+Grand Est,Alsace Wine Route,The Grand Alsace Wine Route Resort & Spa,4.8,2,Yes,Yes,7.3606,48.0704,Deluxe King Suite,325
+Grand Est,Alsace Wine Route,Alsace Wine Route Heritage View Hotel,4.2,3,Yes,No,7.3606,48.0704,Standard Premium Double,125
+Grand Est,Alsace Wine Route,Comfort Inn & Suites near Alsace Wine Route,3.6,4,No,No,7.3606,48.0704,Economy Family Room,60
+Grand Est,Reims Cathedral,The Grand Reims Cathedral Resort & Spa,4.8,2,Yes,Yes,4.034,49.2538,Deluxe King Suite,310
+Grand Est,Reims Cathedral,Reims Cathedral Heritage View Hotel,4.0,3,Yes,Yes,4.034,49.2538,Standard Premium Double,110
+Grand Est,Reims Cathedral,Comfort Inn & Suites near Reims Cathedral,3.4,4,No,No,4.034,49.2538,Economy Family Room,61
+Grand Est,Épernay Champagne Cellars,The Grand Épernay Champagne Cellars Resort & Spa,4.7,2,Yes,Yes,3.9598,49.0416,Deluxe King Suite,414
+Grand Est,Épernay Champagne Cellars,Épernay Champagne Cellars Heritage View Hotel,3.9,3,Yes,Yes,3.9598,49.0416,Standard Premium Double,130
+Grand Est,Épernay Champagne Cellars,Comfort Inn & Suites near Épernay Champagne Cellars,3.6,4,Yes,No,3.9598,49.0416,Economy Family Room,68
+Grand Est,Château du Haut-Kœnigsbourg,The Grand Château du Haut-Kœnigsbourg Resort & Spa,4.7,2,Yes,Yes,7.3433,48.2499,Deluxe King Suite,425
+Grand Est,Château du Haut-Kœnigsbourg,Château du Haut-Kœnigsbourg Heritage View Hotel,4.3,3,Yes,Yes,7.3433,48.2499,Standard Premium Double,143
+Grand Est,Château du Haut-Kœnigsbourg,Comfort Inn & Suites near Château du Haut-Kœnigsbourg,3.5,4,Yes,No,7.3433,48.2499,Economy Family Room,74
+Grand Est,Riquewihr,The Grand Riquewihr Resort & Spa,4.6,2,Yes,Yes,7.2991,48.1666,Deluxe King Suite,409
+Grand Est,Riquewihr,Riquewihr Heritage View Hotel,4.2,3,Yes,No,7.2991,48.1666,Standard Premium Double,119
+Grand Est,Riquewihr,Comfort Inn & Suites near Riquewihr,3.7,4,Yes,No,7.2991,48.1666,Economy Family Room,89
+Grand Est,Vosges Mountains,The Grand Vosges Mountains Resort & Spa,4.6,2,Yes,Yes,7.0,48.0,Deluxe King Suite,463
+Grand Est,Vosges Mountains,Vosges Mountains Heritage View Hotel,4.2,3,Yes,Yes,7.0,48.0,Standard Premium Double,142
+Grand Est,Vosges Mountains,Comfort Inn & Suites near Vosges Mountains,3.7,4,Yes,No,7.0,48.0,Economy Family Room,57
+Grand Est,Metz,The Grand Metz Resort & Spa,4.7,2,Yes,Yes,6.1757,49.1193,Deluxe King Suite,468
+Grand Est,Metz,Metz Heritage View Hotel,4.4,3,Yes,Yes,6.1757,49.1193,Standard Premium Double,115
+Grand Est,Metz,Comfort Inn & Suites near Metz,3.2,4,Yes,No,6.1757,49.1193,Economy Family Room,75
+Grand Est,Obernai,The Grand Obernai Resort & Spa,4.7,2,Yes,Yes,7.4792,48.4602,Deluxe King Suite,326
+Grand Est,Obernai,Obernai Heritage View Hotel,4.3,3,Yes,Yes,7.4792,48.4602,Standard Premium Double,160
+Grand Est,Obernai,Comfort Inn & Suites near Obernai,3.4,4,Yes,No,7.4792,48.4602,Economy Family Room,67
+Normandy,D-Day Beaches,The Grand D-Day Beaches Resort & Spa,4.7,2,Yes,Yes,-0.8672,49.3418,Deluxe King Suite,352
+Normandy,D-Day Beaches,D-Day Beaches Heritage View Hotel,4.2,3,Yes,No,-0.8672,49.3418,Standard Premium Double,158
+Normandy,D-Day Beaches,Comfort Inn & Suites near D-Day Beaches,3.8,4,No,No,-0.8672,49.3418,Economy Family Room,61
+Normandy,Étretat Cliffs,The Grand Étretat Cliffs Resort & Spa,4.8,2,Yes,Yes,0.2062,49.7083,Deluxe King Suite,389
+Normandy,Étretat Cliffs,Étretat Cliffs Heritage View Hotel,4.2,3,Yes,No,0.2062,49.7083,Standard Premium Double,185
+Normandy,Étretat Cliffs,Comfort Inn & Suites near Étretat Cliffs,3.7,4,Yes,No,0.2062,49.7083,Economy Family Room,60
+Normandy,Bayeux Tapestry,The Grand Bayeux Tapestry Resort & Spa,4.9,2,Yes,Yes,-0.7027,49.2764,Deluxe King Suite,265
+Normandy,Bayeux Tapestry,Bayeux Tapestry Heritage View Hotel,4.0,3,Yes,Yes,-0.7027,49.2764,Standard Premium Double,148
+Normandy,Bayeux Tapestry,Comfort Inn & Suites near Bayeux Tapestry,3.3,4,No,No,-0.7027,49.2764,Economy Family Room,64
+Normandy,Rouen Cathedral,The Grand Rouen Cathedral Resort & Spa,4.5,2,Yes,Yes,1.093,49.4432,Deluxe King Suite,286
+Normandy,Rouen Cathedral,Rouen Cathedral Heritage View Hotel,4.1,3,Yes,Yes,1.093,49.4432,Standard Premium Double,146
+Normandy,Rouen Cathedral,Comfort Inn & Suites near Rouen Cathedral,3.2,4,No,No,1.093,49.4432,Economy Family Room,75
+Normandy,Honfleur,The Grand Honfleur Resort & Spa,4.7,2,Yes,Yes,0.2331,49.4183,Deluxe King Suite,290
+Normandy,Honfleur,Honfleur Heritage View Hotel,3.9,3,Yes,Yes,0.2331,49.4183,Standard Premium Double,127
+Normandy,Honfleur,Comfort Inn & Suites near Honfleur,3.3,4,Yes,No,0.2331,49.4183,Economy Family Room,88
+Normandy,Giverny Monet Garden,The Grand Giverny Monet Garden Resort & Spa,4.9,2,Yes,Yes,1.5335,49.0761,Deluxe King Suite,295
+Normandy,Giverny Monet Garden,Giverny Monet Garden Heritage View Hotel,4.4,3,Yes,No,1.5335,49.0761,Standard Premium Double,176
+Normandy,Giverny Monet Garden,Comfort Inn & Suites near Giverny Monet Garden,3.8,4,No,No,1.5335,49.0761,Economy Family Room,82
+Normandy,Caen Memorial Museum,The Grand Caen Memorial Museum Resort & Spa,4.6,2,Yes,Yes,-0.3818,49.1965,Deluxe King Suite,479
+Normandy,Caen Memorial Museum,Caen Memorial Museum Heritage View Hotel,4.0,3,Yes,Yes,-0.3818,49.1965,Standard Premium Double,173
+Normandy,Caen Memorial Museum,Comfort Inn & Suites near Caen Memorial Museum,3.2,4,Yes,No,-0.3818,49.1965,Economy Family Room,73
+Normandy,Falaise Castle,The Grand Falaise Castle Resort & Spa,4.9,2,Yes,Yes,-0.1956,48.8948,Deluxe King Suite,342
+Normandy,Falaise Castle,Falaise Castle Heritage View Hotel,3.9,3,Yes,No,-0.1956,48.8948,Standard Premium Double,144
+Normandy,Falaise Castle,Comfort Inn & Suites near Falaise Castle,3.4,4,Yes,No,-0.1956,48.8948,Economy Family Room,59
+Normandy,Côte Fleurie,The Grand Côte Fleurie Resort & Spa,4.6,2,Yes,Yes,0.1,49.35,Deluxe King Suite,320
+Normandy,Côte Fleurie,Côte Fleurie Heritage View Hotel,4.2,3,Yes,No,0.1,49.35,Standard Premium Double,185
+Normandy,Côte Fleurie,Comfort Inn & Suites near Côte Fleurie,3.3,4,No,No,0.1,49.35,Economy Family Room,89
+Normandy,Arromanches,The Grand Arromanches Resort & Spa,4.7,2,Yes,Yes,-0.6227,49.3407,Deluxe King Suite,333
+Normandy,Arromanches,Arromanches Heritage View Hotel,4.1,3,Yes,Yes,-0.6227,49.3407,Standard Premium Double,171
+Normandy,Arromanches,Comfort Inn & Suites near Arromanches,3.3,4,Yes,No,-0.6227,49.3407,Economy Family Room,69
+Nouvelle-Aquitaine,Bordeaux Wine Region,The Grand Bordeaux Wine Region Resort & Spa,4.6,2,Yes,Yes,-0.5792,44.8378,Deluxe King Suite,307
+Nouvelle-Aquitaine,Bordeaux Wine Region,Bordeaux Wine Region Heritage View Hotel,4.0,3,Yes,No,-0.5792,44.8378,Standard Premium Double,173
+Nouvelle-Aquitaine,Bordeaux Wine Region,Comfort Inn & Suites near Bordeaux Wine Region,3.3,4,Yes,No,-0.5792,44.8378,Economy Family Room,91
+Nouvelle-Aquitaine,Dune du Pilat,The Grand Dune du Pilat Resort & Spa,4.8,2,Yes,Yes,-1.2167,44.5896,Deluxe King Suite,291
+Nouvelle-Aquitaine,Dune du Pilat,Dune du Pilat Heritage View Hotel,4.4,3,Yes,No,-1.2167,44.5896,Standard Premium Double,147
+Nouvelle-Aquitaine,Dune du Pilat,Comfort Inn & Suites near Dune du Pilat,3.7,4,No,No,-1.2167,44.5896,Economy Family Room,61
+Nouvelle-Aquitaine,Périgueux,The Grand Périgueux Resort & Spa,4.5,2,Yes,Yes,0.7212,45.1839,Deluxe King Suite,468
+Nouvelle-Aquitaine,Périgueux,Périgueux Heritage View Hotel,4.3,3,Yes,Yes,0.7212,45.1839,Standard Premium Double,140
+Nouvelle-Aquitaine,Périgueux,Comfort Inn & Suites near Périgueux,3.6,4,No,No,0.7212,45.1839,Economy Family Room,80
+Nouvelle-Aquitaine,Biarritz,The Grand Biarritz Resort & Spa,4.8,2,Yes,Yes,-1.5586,43.4832,Deluxe King Suite,344
+Nouvelle-Aquitaine,Biarritz,Biarritz Heritage View Hotel,4.3,3,Yes,No,-1.5586,43.4832,Standard Premium Double,112
+Nouvelle-Aquitaine,Biarritz,Comfort Inn & Suites near Biarritz,3.6,4,Yes,No,-1.5586,43.4832,Economy Family Room,77
+Nouvelle-Aquitaine,Grotte de Font-de-Gaume,The Grand Grotte de Font-de-Gaume Resort & Spa,4.7,2,Yes,Yes,1.0186,44.9359,Deluxe King Suite,351
+Nouvelle-Aquitaine,Grotte de Font-de-Gaume,Grotte de Font-de-Gaume Heritage View Hotel,4.2,3,Yes,Yes,1.0186,44.9359,Standard Premium Double,154
+Nouvelle-Aquitaine,Grotte de Font-de-Gaume,Comfort Inn & Suites near Grotte de Font-de-Gaume,3.3,4,No,No,1.0186,44.9359,Economy Family Room,72
+Nouvelle-Aquitaine,Arcachon Bay,The Grand Arcachon Bay Resort & Spa,4.8,2,Yes,Yes,-1.17,44.66,Deluxe King Suite,377
+Nouvelle-Aquitaine,Arcachon Bay,Arcachon Bay Heritage View Hotel,4.2,3,Yes,No,-1.17,44.66,Standard Premium Double,156
+Nouvelle-Aquitaine,Arcachon Bay,Comfort Inn & Suites near Arcachon Bay,3.2,4,Yes,No,-1.17,44.66,Economy Family Room,68
+Nouvelle-Aquitaine,La Rochelle,The Grand La Rochelle Resort & Spa,4.7,2,Yes,Yes,-1.152,46.1591,Deluxe King Suite,281
+Nouvelle-Aquitaine,La Rochelle,La Rochelle Heritage View Hotel,4.2,3,Yes,Yes,-1.152,46.1591,Standard Premium Double,126
+Nouvelle-Aquitaine,La Rochelle,Comfort Inn & Suites near La Rochelle,3.4,4,Yes,No,-1.152,46.1591,Economy Family Room,88
+Nouvelle-Aquitaine,Rocamadour,The Grand Rocamadour Resort & Spa,4.7,2,Yes,Yes,1.6192,44.7986,Deluxe King Suite,449
+Nouvelle-Aquitaine,Rocamadour,Rocamadour Heritage View Hotel,4.0,3,Yes,Yes,1.6192,44.7986,Standard Premium Double,128
+Nouvelle-Aquitaine,Rocamadour,Comfort Inn & Suites near Rocamadour,3.3,4,No,No,1.6192,44.7986,Economy Family Room,95
+Nouvelle-Aquitaine,Cognac,The Grand Cognac Resort & Spa,4.8,2,Yes,Yes,-0.3294,45.6941,Deluxe King Suite,413
+Nouvelle-Aquitaine,Cognac,Cognac Heritage View Hotel,4.2,3,Yes,No,-0.3294,45.6941,Standard Premium Double,119
+Nouvelle-Aquitaine,Cognac,Comfort Inn & Suites near Cognac,3.5,4,Yes,No,-0.3294,45.6941,Economy Family Room,79
+Nouvelle-Aquitaine,Sarlat-la-Canéda,The Grand Sarlat-la-Canéda Resort & Spa,4.6,2,Yes,Yes,1.2172,44.8892,Deluxe King Suite,405
+Nouvelle-Aquitaine,Sarlat-la-Canéda,Sarlat-la-Canéda Heritage View Hotel,4.2,3,Yes,No,1.2172,44.8892,Standard Premium Double,121
+Nouvelle-Aquitaine,Sarlat-la-Canéda,Comfort Inn & Suites near Sarlat-la-Canéda,3.8,4,No,No,1.2172,44.8892,Economy Family Room,77
+Pays de la Loire,Loire Valley Châteaux,The Grand Loire Valley Châteaux Resort & Spa,4.6,2,Yes,Yes,0.34,47.69,Deluxe King Suite,337
+Pays de la Loire,Loire Valley Châteaux,Loire Valley Châteaux Heritage View Hotel,4.2,3,Yes,Yes,0.34,47.69,Standard Premium Double,144
+Pays de la Loire,Loire Valley Châteaux,Comfort Inn & Suites near Loire Valley Châteaux,3.5,4,No,No,0.34,47.69,Economy Family Room,64
+Pays de la Loire,Château de Chambord,The Grand Château de Chambord Resort & Spa,4.9,2,Yes,Yes,1.5172,47.6161,Deluxe King Suite,363
+Pays de la Loire,Château de Chambord,Château de Chambord Heritage View Hotel,4.0,3,Yes,Yes,1.5172,47.6161,Standard Premium Double,127
+Pays de la Loire,Château de Chambord,Comfort Inn & Suites near Château de Chambord,3.5,4,Yes,No,1.5172,47.6161,Economy Family Room,87
+Pays de la Loire,Le Mans,The Grand Le Mans Resort & Spa,4.6,2,Yes,Yes,0.1966,47.996,Deluxe King Suite,406
+Pays de la Loire,Le Mans,Le Mans Heritage View Hotel,4.0,3,Yes,No,0.1966,47.996,Standard Premium Double,176
+Pays de la Loire,Le Mans,Comfort Inn & Suites near Le Mans,3.6,4,Yes,No,0.1966,47.996,Economy Family Room,91
+Pays de la Loire,Nantes Château des Ducs,The Grand Nantes Château des Ducs Resort & Spa,4.8,2,Yes,Yes,-1.5536,47.2184,Deluxe King Suite,269
+Pays de la Loire,Nantes Château des Ducs,Nantes Château des Ducs Heritage View Hotel,4.1,3,Yes,No,-1.5536,47.2184,Standard Premium Double,190
+Pays de la Loire,Nantes Château des Ducs,Comfort Inn & Suites near Nantes Château des Ducs,3.6,4,Yes,No,-1.5536,47.2184,Economy Family Room,88
+Pays de la Loire,Château de Chenonceau,The Grand Château de Chenonceau Resort & Spa,4.9,2,Yes,Yes,1.0702,47.3246,Deluxe King Suite,470
+Pays de la Loire,Château de Chenonceau,Château de Chenonceau Heritage View Hotel,4.0,3,Yes,No,1.0702,47.3246,Standard Premium Double,139
+Pays de la Loire,Château de Chenonceau,Comfort Inn & Suites near Château de Chenonceau,3.3,4,No,No,1.0702,47.3246,Economy Family Room,76
+Pays de la Loire,Puy du Fou,The Grand Puy du Fou Resort & Spa,4.9,2,Yes,Yes,-0.9461,46.9153,Deluxe King Suite,465
+Pays de la Loire,Puy du Fou,Puy du Fou Heritage View Hotel,4.2,3,Yes,No,-0.9461,46.9153,Standard Premium Double,116
+Pays de la Loire,Puy du Fou,Comfort Inn & Suites near Puy du Fou,3.4,4,No,No,-0.9461,46.9153,Economy Family Room,91
+Pays de la Loire,Fontevraud Abbey,The Grand Fontevraud Abbey Resort & Spa,4.8,2,Yes,Yes,-0.0536,47.182,Deluxe King Suite,318
+Pays de la Loire,Fontevraud Abbey,Fontevraud Abbey Heritage View Hotel,4.2,3,Yes,No,-0.0536,47.182,Standard Premium Double,146
+Pays de la Loire,Fontevraud Abbey,Comfort Inn & Suites near Fontevraud Abbey,3.7,4,Yes,No,-0.0536,47.182,Economy Family Room,67
+Pays de la Loire,Château d'Amboise,The Grand Château d'Amboise Resort & Spa,4.8,2,Yes,Yes,0.9839,47.413,Deluxe King Suite,261
+Pays de la Loire,Château d'Amboise,Château d'Amboise Heritage View Hotel,4.3,3,Yes,No,0.9839,47.413,Standard Premium Double,139
+Pays de la Loire,Château d'Amboise,Comfort Inn & Suites near Château d'Amboise,3.5,4,No,No,0.9839,47.413,Economy Family Room,74
+Pays de la Loire,Zoo de La Flèche,The Grand Zoo de La Flèche Resort & Spa,4.6,2,Yes,Yes,-0.0704,47.7022,Deluxe King Suite,299
+Pays de la Loire,Zoo de La Flèche,Zoo de La Flèche Heritage View Hotel,4.3,3,Yes,No,-0.0704,47.7022,Standard Premium Double,113
+Pays de la Loire,Zoo de La Flèche,Comfort Inn & Suites near Zoo de La Flèche,3.2,4,Yes,No,-0.0704,47.7022,Economy Family Room,80
+Pays de la Loire,Marais Poitevin,The Grand Marais Poitevin Resort & Spa,4.7,2,Yes,Yes,-0.7,46.38,Deluxe King Suite,331
+Pays de la Loire,Marais Poitevin,Marais Poitevin Heritage View Hotel,4.2,3,Yes,Yes,-0.7,46.38,Standard Premium Double,129
+Pays de la Loire,Marais Poitevin,Comfort Inn & Suites near Marais Poitevin,3.5,4,No,No,-0.7,46.38,Economy Family Room,82
+Hauts-de-France,Louvre-Lens Museum,The Grand Louvre-Lens Museum Resort & Spa,4.7,2,Yes,Yes,2.823,50.4365,Deluxe King Suite,476
+Hauts-de-France,Louvre-Lens Museum,Louvre-Lens Museum Heritage View Hotel,3.9,3,Yes,No,2.823,50.4365,Standard Premium Double,169
+Hauts-de-France,Louvre-Lens Museum,Comfort Inn & Suites near Louvre-Lens Museum,3.5,4,Yes,No,2.823,50.4365,Economy Family Room,89
+Hauts-de-France,Arras,The Grand Arras Resort & Spa,4.6,2,Yes,Yes,2.7778,50.2921,Deluxe King Suite,244
+Hauts-de-France,Arras,Arras Heritage View Hotel,3.9,3,Yes,No,2.7778,50.2921,Standard Premium Double,143
+Hauts-de-France,Arras,Comfort Inn & Suites near Arras,3.4,4,Yes,No,2.7778,50.2921,Economy Family Room,81
+Hauts-de-France,Amiens Cathedral,The Grand Amiens Cathedral Resort & Spa,4.6,2,Yes,Yes,2.3017,49.8941,Deluxe King Suite,348
+Hauts-de-France,Amiens Cathedral,Amiens Cathedral Heritage View Hotel,4.2,3,Yes,Yes,2.3017,49.8941,Standard Premium Double,189
+Hauts-de-France,Amiens Cathedral,Comfort Inn & Suites near Amiens Cathedral,3.5,4,Yes,No,2.3017,49.8941,Economy Family Room,94
+Hauts-de-France,Opal Coast,The Grand Opal Coast Resort & Spa,4.8,2,Yes,Yes,1.6,50.72,Deluxe King Suite,436
+Hauts-de-France,Opal Coast,Opal Coast Heritage View Hotel,4.3,3,Yes,Yes,1.6,50.72,Standard Premium Double,156
+Hauts-de-France,Opal Coast,Comfort Inn & Suites near Opal Coast,3.6,4,Yes,No,1.6,50.72,Economy Family Room,62
+Hauts-de-France,Parc Astérix,The Grand Parc Astérix Resort & Spa,4.6,2,Yes,Yes,2.5738,49.1338,Deluxe King Suite,244
+Hauts-de-France,Parc Astérix,Parc Astérix Heritage View Hotel,4.0,3,Yes,No,2.5738,49.1338,Standard Premium Double,163
+Hauts-de-France,Parc Astérix,Comfort Inn & Suites near Parc Astérix,3.8,4,No,No,2.5738,49.1338,Economy Family Room,78
+Hauts-de-France,Nausicaá Aquarium Boulogne,The Grand Nausicaá Aquarium Boulogne Resort & Spa,4.7,2,Yes,Yes,1.6085,50.7269,Deluxe King Suite,439
+Hauts-de-France,Nausicaá Aquarium Boulogne,Nausicaá Aquarium Boulogne Heritage View Hotel,4.4,3,Yes,No,1.6085,50.7269,Standard Premium Double,181
+Hauts-de-France,Nausicaá Aquarium Boulogne,Comfort Inn & Suites near Nausicaá Aquarium Boulogne,3.4,4,Yes,No,1.6085,50.7269,Economy Family Room,83
+Hauts-de-France,Thiepval Memorial,The Grand Thiepval Memorial Resort & Spa,4.5,2,Yes,Yes,2.6867,50.0519,Deluxe King Suite,314
+Hauts-de-France,Thiepval Memorial,Thiepval Memorial Heritage View Hotel,4.2,3,Yes,Yes,2.6867,50.0519,Standard Premium Double,160
+Hauts-de-France,Thiepval Memorial,Comfort Inn & Suites near Thiepval Memorial,3.3,4,Yes,No,2.6867,50.0519,Economy Family Room,79
+Hauts-de-France,Dunkerque,The Grand Dunkerque Resort & Spa,4.9,2,Yes,Yes,2.3767,51.0343,Deluxe King Suite,287
+Hauts-de-France,Dunkerque,Dunkerque Heritage View Hotel,4.3,3,Yes,Yes,2.3767,51.0343,Standard Premium Double,112
+Hauts-de-France,Dunkerque,Comfort Inn & Suites near Dunkerque,3.6,4,Yes,No,2.3767,51.0343,Economy Family Room,77
+Hauts-de-France,Château de Chantilly,The Grand Château de Chantilly Resort & Spa,4.9,2,Yes,Yes,2.486,49.194,Deluxe King Suite,458
+Hauts-de-France,Château de Chantilly,Château de Chantilly Heritage View Hotel,4.0,3,Yes,No,2.486,49.194,Standard Premium Double,126
+Hauts-de-France,Château de Chantilly,Comfort Inn & Suites near Château de Chantilly,3.3,4,No,No,2.486,49.194,Economy Family Room,87
+Hauts-de-France,Baie de Somme,The Grand Baie de Somme Resort & Spa,4.8,2,Yes,Yes,1.76,50.19,Deluxe King Suite,448
+Hauts-de-France,Baie de Somme,Baie de Somme Heritage View Hotel,4.1,3,Yes,Yes,1.76,50.19,Standard Premium Double,183
+Hauts-de-France,Baie de Somme,Comfort Inn & Suites near Baie de Somme,3.6,4,No,No,1.76,50.19,Economy Family Room,66
+Tokyo,Senso-ji Temple,The Grand Senso-ji Temple Resort & Spa,4.5,2,Yes,Yes,139.7967,35.7148,Deluxe King Suite,42934
+Tokyo,Senso-ji Temple,Senso-ji Temple Heritage View Hotel,4.1,3,Yes,No,139.7967,35.7148,Standard Premium Double,16438
+Tokyo,Senso-ji Temple,Comfort Inn & Suites near Senso-ji Temple,3.4,4,Yes,No,139.7967,35.7148,Economy Family Room,8235
+Tokyo,Shibuya Crossing,The Grand Shibuya Crossing Resort & Spa,4.7,2,Yes,Yes,139.7005,35.6595,Deluxe King Suite,26513
+Tokyo,Shibuya Crossing,Shibuya Crossing Heritage View Hotel,4.0,3,Yes,Yes,139.7005,35.6595,Standard Premium Double,15818
+Tokyo,Shibuya Crossing,Comfort Inn & Suites near Shibuya Crossing,3.5,4,No,No,139.7005,35.6595,Economy Family Room,8763
+Tokyo,Tokyo Skytree,The Grand Tokyo Skytree Resort & Spa,4.8,2,Yes,Yes,139.8107,35.7101,Deluxe King Suite,57438
+Tokyo,Tokyo Skytree,Tokyo Skytree Heritage View Hotel,4.1,3,Yes,Yes,139.8107,35.7101,Standard Premium Double,11464
+Tokyo,Tokyo Skytree,Comfort Inn & Suites near Tokyo Skytree,3.5,4,No,No,139.8107,35.7101,Economy Family Room,9320
+Tokyo,Meiji Shrine,The Grand Meiji Shrine Resort & Spa,4.6,2,Yes,Yes,139.6993,35.6764,Deluxe King Suite,57906
+Tokyo,Meiji Shrine,Meiji Shrine Heritage View Hotel,4.3,3,Yes,No,139.6993,35.6764,Standard Premium Double,19793
+Tokyo,Meiji Shrine,Comfort Inn & Suites near Meiji Shrine,3.2,4,No,No,139.6993,35.6764,Economy Family Room,6871
+Tokyo,Shinjuku Gyoen,The Grand Shinjuku Gyoen Resort & Spa,4.7,2,Yes,Yes,139.7103,35.6851,Deluxe King Suite,34814
+Tokyo,Shinjuku Gyoen,Shinjuku Gyoen Heritage View Hotel,4.1,3,Yes,Yes,139.7103,35.6851,Standard Premium Double,11443
+Tokyo,Shinjuku Gyoen,Comfort Inn & Suites near Shinjuku Gyoen,3.7,4,No,No,139.7103,35.6851,Economy Family Room,9267
+Tokyo,Tsukiji Outer Market,The Grand Tsukiji Outer Market Resort & Spa,4.7,2,Yes,Yes,139.7706,35.6654,Deluxe King Suite,45794
+Tokyo,Tsukiji Outer Market,Tsukiji Outer Market Heritage View Hotel,4.0,3,Yes,Yes,139.7706,35.6654,Standard Premium Double,14580
+Tokyo,Tsukiji Outer Market,Comfort Inn & Suites near Tsukiji Outer Market,3.3,4,No,No,139.7706,35.6654,Economy Family Room,6944
+Tokyo,Akihabara,The Grand Akihabara Resort & Spa,4.8,2,Yes,Yes,139.7745,35.7023,Deluxe King Suite,25007
+Tokyo,Akihabara,Akihabara Heritage View Hotel,4.4,3,Yes,No,139.7745,35.7023,Standard Premium Double,11802
+Tokyo,Akihabara,Comfort Inn & Suites near Akihabara,3.4,4,Yes,No,139.7745,35.7023,Economy Family Room,8751
+Tokyo,Harajuku,The Grand Harajuku Resort & Spa,4.8,2,Yes,Yes,139.7028,35.6695,Deluxe King Suite,42792
+Tokyo,Harajuku,Harajuku Heritage View Hotel,4.2,3,Yes,Yes,139.7028,35.6695,Standard Premium Double,19274
+Tokyo,Harajuku,Comfort Inn & Suites near Harajuku,3.7,4,Yes,No,139.7028,35.6695,Economy Family Room,5448
+Tokyo,Odaiba,The Grand Odaiba Resort & Spa,4.7,2,Yes,Yes,139.7762,35.623,Deluxe King Suite,56394
+Tokyo,Odaiba,Odaiba Heritage View Hotel,4.1,3,Yes,No,139.7762,35.623,Standard Premium Double,12887
+Tokyo,Odaiba,Comfort Inn & Suites near Odaiba,3.7,4,No,No,139.7762,35.623,Economy Family Room,6494
+Tokyo,Imperial Palace East Garden,The Grand Imperial Palace East Garden Resort & Spa,4.6,2,Yes,Yes,139.7528,35.6852,Deluxe King Suite,32802
+Tokyo,Imperial Palace East Garden,Imperial Palace East Garden Heritage View Hotel,4.4,3,Yes,No,139.7528,35.6852,Standard Premium Double,17629
+Tokyo,Imperial Palace East Garden,Comfort Inn & Suites near Imperial Palace East Garden,3.4,4,No,No,139.7528,35.6852,Economy Family Room,6060
+Kyoto,Fushimi Inari Shrine,The Grand Fushimi Inari Shrine Resort & Spa,4.9,2,Yes,Yes,135.7727,34.9671,Deluxe King Suite,34901
+Kyoto,Fushimi Inari Shrine,Fushimi Inari Shrine Heritage View Hotel,4.0,3,Yes,Yes,135.7727,34.9671,Standard Premium Double,16970
+Kyoto,Fushimi Inari Shrine,Comfort Inn & Suites near Fushimi Inari Shrine,3.3,4,Yes,No,135.7727,34.9671,Economy Family Room,5052
+Kyoto,Kinkaku-ji Golden Pavilion,The Grand Kinkaku-ji Golden Pavilion Resort & Spa,4.8,2,Yes,Yes,135.7292,35.0394,Deluxe King Suite,58171
+Kyoto,Kinkaku-ji Golden Pavilion,Kinkaku-ji Golden Pavilion Heritage View Hotel,3.9,3,Yes,Yes,135.7292,35.0394,Standard Premium Double,11124
+Kyoto,Kinkaku-ji Golden Pavilion,Comfort Inn & Suites near Kinkaku-ji Golden Pavilion,3.3,4,No,No,135.7292,35.0394,Economy Family Room,6084
+Kyoto,Arashiyama Bamboo Grove,The Grand Arashiyama Bamboo Grove Resort & Spa,4.7,2,Yes,Yes,135.6727,35.0094,Deluxe King Suite,41195
+Kyoto,Arashiyama Bamboo Grove,Arashiyama Bamboo Grove Heritage View Hotel,4.3,3,Yes,Yes,135.6727,35.0094,Standard Premium Double,18955
+Kyoto,Arashiyama Bamboo Grove,Comfort Inn & Suites near Arashiyama Bamboo Grove,3.3,4,Yes,No,135.6727,35.0094,Economy Family Room,6698
+Kyoto,Gion District,The Grand Gion District Resort & Spa,4.6,2,Yes,Yes,135.7749,35.0036,Deluxe King Suite,27424
+Kyoto,Gion District,Gion District Heritage View Hotel,4.3,3,Yes,No,135.7749,35.0036,Standard Premium Double,20136
+Kyoto,Gion District,Comfort Inn & Suites near Gion District,3.5,4,Yes,No,135.7749,35.0036,Economy Family Room,6901
+Kyoto,Nijo Castle,The Grand Nijo Castle Resort & Spa,4.8,2,Yes,Yes,135.7485,35.0142,Deluxe King Suite,47128
+Kyoto,Nijo Castle,Nijo Castle Heritage View Hotel,4.0,3,Yes,No,135.7485,35.0142,Standard Premium Double,20726
+Kyoto,Nijo Castle,Comfort Inn & Suites near Nijo Castle,3.7,4,Yes,No,135.7485,35.0142,Economy Family Room,8482
+Kyoto,Philosopher's Path,The Grand Philosopher's Path Resort & Spa,4.9,2,Yes,Yes,135.7967,35.0247,Deluxe King Suite,38145
+Kyoto,Philosopher's Path,Philosopher's Path Heritage View Hotel,4.2,3,Yes,Yes,135.7967,35.0247,Standard Premium Double,11383
+Kyoto,Philosopher's Path,Comfort Inn & Suites near Philosopher's Path,3.3,4,No,No,135.7967,35.0247,Economy Family Room,8714
+Kyoto,Kiyomizu-dera Temple,The Grand Kiyomizu-dera Temple Resort & Spa,4.7,2,Yes,Yes,135.7851,34.9948,Deluxe King Suite,25731
+Kyoto,Kiyomizu-dera Temple,Kiyomizu-dera Temple Heritage View Hotel,4.2,3,Yes,No,135.7851,34.9948,Standard Premium Double,11237
+Kyoto,Kiyomizu-dera Temple,Comfort Inn & Suites near Kiyomizu-dera Temple,3.6,4,No,No,135.7851,34.9948,Economy Family Room,6544
+Kyoto,Nishiki Market,The Grand Nishiki Market Resort & Spa,4.7,2,Yes,Yes,135.7666,35.0052,Deluxe King Suite,48778
+Kyoto,Nishiki Market,Nishiki Market Heritage View Hotel,4.4,3,Yes,No,135.7666,35.0052,Standard Premium Double,16957
+Kyoto,Nishiki Market,Comfort Inn & Suites near Nishiki Market,3.7,4,No,No,135.7666,35.0052,Economy Family Room,6205
+Kyoto,Heian Shrine,The Grand Heian Shrine Resort & Spa,4.8,2,Yes,Yes,135.7822,35.0265,Deluxe King Suite,36079
+Kyoto,Heian Shrine,Heian Shrine Heritage View Hotel,4.1,3,Yes,Yes,135.7822,35.0265,Standard Premium Double,20112
+Kyoto,Heian Shrine,Comfort Inn & Suites near Heian Shrine,3.8,4,No,No,135.7822,35.0265,Economy Family Room,7022
+Kyoto,Ryoan-ji Temple,The Grand Ryoan-ji Temple Resort & Spa,4.6,2,Yes,Yes,135.7186,35.0343,Deluxe King Suite,33805
+Kyoto,Ryoan-ji Temple,Ryoan-ji Temple Heritage View Hotel,4.2,3,Yes,Yes,135.7186,35.0343,Standard Premium Double,20521
+Kyoto,Ryoan-ji Temple,Comfort Inn & Suites near Ryoan-ji Temple,3.7,4,No,No,135.7186,35.0343,Economy Family Room,8481
+Osaka,Osaka Castle,The Grand Osaka Castle Resort & Spa,4.5,2,Yes,Yes,135.5262,34.6873,Deluxe King Suite,46559
+Osaka,Osaka Castle,Osaka Castle Heritage View Hotel,4.2,3,Yes,Yes,135.5262,34.6873,Standard Premium Double,18724
+Osaka,Osaka Castle,Comfort Inn & Suites near Osaka Castle,3.8,4,Yes,No,135.5262,34.6873,Economy Family Room,6176
+Osaka,Dotonbori,The Grand Dotonbori Resort & Spa,4.7,2,Yes,Yes,135.5008,34.6687,Deluxe King Suite,54612
+Osaka,Dotonbori,Dotonbori Heritage View Hotel,4.1,3,Yes,Yes,135.5008,34.6687,Standard Premium Double,19763
+Osaka,Dotonbori,Comfort Inn & Suites near Dotonbori,3.2,4,Yes,No,135.5008,34.6687,Economy Family Room,8805
+Osaka,Universal Studios Japan,The Grand Universal Studios Japan Resort & Spa,4.7,2,Yes,Yes,135.4323,34.6655,Deluxe King Suite,49662
+Osaka,Universal Studios Japan,Universal Studios Japan Heritage View Hotel,4.2,3,Yes,No,135.4323,34.6655,Standard Premium Double,20886
+Osaka,Universal Studios Japan,Comfort Inn & Suites near Universal Studios Japan,3.4,4,Yes,No,135.4323,34.6655,Economy Family Room,5786
+Osaka,Shinsekai,The Grand Shinsekai Resort & Spa,4.6,2,Yes,Yes,135.5063,34.6524,Deluxe King Suite,58561
+Osaka,Shinsekai,Shinsekai Heritage View Hotel,4.0,3,Yes,No,135.5063,34.6524,Standard Premium Double,12754
+Osaka,Shinsekai,Comfort Inn & Suites near Shinsekai,3.6,4,Yes,No,135.5063,34.6524,Economy Family Room,7748
+Osaka,Namba,The Grand Namba Resort & Spa,4.6,2,Yes,Yes,135.5011,34.6643,Deluxe King Suite,42241
+Osaka,Namba,Namba Heritage View Hotel,4.2,3,Yes,Yes,135.5011,34.6643,Standard Premium Double,21877
+Osaka,Namba,Comfort Inn & Suites near Namba,3.8,4,Yes,No,135.5011,34.6643,Economy Family Room,7941
+Osaka,Sumiyoshi Taisha,The Grand Sumiyoshi Taisha Resort & Spa,4.6,2,Yes,Yes,135.4938,34.6119,Deluxe King Suite,37504
+Osaka,Sumiyoshi Taisha,Sumiyoshi Taisha Heritage View Hotel,4.2,3,Yes,Yes,135.4938,34.6119,Standard Premium Double,15510
+Osaka,Sumiyoshi Taisha,Comfort Inn & Suites near Sumiyoshi Taisha,3.4,4,No,No,135.4938,34.6119,Economy Family Room,6669
+Osaka,Tempozan Ferris Wheel,The Grand Tempozan Ferris Wheel Resort & Spa,4.7,2,Yes,Yes,135.429,34.6549,Deluxe King Suite,31254
+Osaka,Tempozan Ferris Wheel,Tempozan Ferris Wheel Heritage View Hotel,3.9,3,Yes,No,135.429,34.6549,Standard Premium Double,16953
+Osaka,Tempozan Ferris Wheel,Comfort Inn & Suites near Tempozan Ferris Wheel,3.5,4,Yes,No,135.429,34.6549,Economy Family Room,5684
+Osaka,Shitennoji Temple,The Grand Shitennoji Temple Resort & Spa,4.9,2,Yes,Yes,135.5164,34.6538,Deluxe King Suite,44791
+Osaka,Shitennoji Temple,Shitennoji Temple Heritage View Hotel,3.9,3,Yes,Yes,135.5164,34.6538,Standard Premium Double,18254
+Osaka,Shitennoji Temple,Comfort Inn & Suites near Shitennoji Temple,3.3,4,No,No,135.5164,34.6538,Economy Family Room,5104
+Osaka,Nakanoshima,The Grand Nakanoshima Resort & Spa,4.7,2,Yes,Yes,135.5013,34.6916,Deluxe King Suite,26924
+Osaka,Nakanoshima,Nakanoshima Heritage View Hotel,3.9,3,Yes,Yes,135.5013,34.6916,Standard Premium Double,14797
+Osaka,Nakanoshima,Comfort Inn & Suites near Nakanoshima,3.3,4,No,No,135.5013,34.6916,Economy Family Room,7801
+Osaka,Minoo Falls,The Grand Minoo Falls Resort & Spa,4.9,2,Yes,Yes,135.4713,34.8394,Deluxe King Suite,45275
+Osaka,Minoo Falls,Minoo Falls Heritage View Hotel,4.4,3,Yes,Yes,135.4713,34.8394,Standard Premium Double,13732
+Osaka,Minoo Falls,Comfort Inn & Suites near Minoo Falls,3.4,4,Yes,No,135.4713,34.8394,Economy Family Room,5022
+Hokkaido,Sapporo Snow Festival,The Grand Sapporo Snow Festival Resort & Spa,4.6,2,Yes,Yes,141.3545,43.0618,Deluxe King Suite,39533
+Hokkaido,Sapporo Snow Festival,Sapporo Snow Festival Heritage View Hotel,4.2,3,Yes,Yes,141.3545,43.0618,Standard Premium Double,19865
+Hokkaido,Sapporo Snow Festival,Comfort Inn & Suites near Sapporo Snow Festival,3.5,4,No,No,141.3545,43.0618,Economy Family Room,5824
+Hokkaido,Furano Lavender Fields,The Grand Furano Lavender Fields Resort & Spa,4.9,2,Yes,Yes,142.3833,43.35,Deluxe King Suite,39724
+Hokkaido,Furano Lavender Fields,Furano Lavender Fields Heritage View Hotel,4.0,3,Yes,Yes,142.3833,43.35,Standard Premium Double,20966
+Hokkaido,Furano Lavender Fields,Comfort Inn & Suites near Furano Lavender Fields,3.5,4,Yes,No,142.3833,43.35,Economy Family Room,7972
+Hokkaido,Shiretoko National Park,The Grand Shiretoko National Park Resort & Spa,4.7,2,Yes,Yes,145.0,44.0667,Deluxe King Suite,25999
+Hokkaido,Shiretoko National Park,Shiretoko National Park Heritage View Hotel,4.0,3,Yes,No,145.0,44.0667,Standard Premium Double,15790
+Hokkaido,Shiretoko National Park,Comfort Inn & Suites near Shiretoko National Park,3.6,4,No,No,145.0,44.0667,Economy Family Room,9179
+Hokkaido,Noboribetsu Jigokudani,The Grand Noboribetsu Jigokudani Resort & Spa,4.5,2,Yes,Yes,141.0993,42.5087,Deluxe King Suite,36419
+Hokkaido,Noboribetsu Jigokudani,Noboribetsu Jigokudani Heritage View Hotel,4.2,3,Yes,No,141.0993,42.5087,Standard Premium Double,21470
+Hokkaido,Noboribetsu Jigokudani,Comfort Inn & Suites near Noboribetsu Jigokudani,3.8,4,Yes,No,141.0993,42.5087,Economy Family Room,9304
+Hokkaido,Lake Toya,The Grand Lake Toya Resort & Spa,4.7,2,Yes,Yes,140.803,42.587,Deluxe King Suite,30874
+Hokkaido,Lake Toya,Lake Toya Heritage View Hotel,4.4,3,Yes,No,140.803,42.587,Standard Premium Double,17655
+Hokkaido,Lake Toya,Comfort Inn & Suites near Lake Toya,3.4,4,No,No,140.803,42.587,Economy Family Room,7698
+Hokkaido,Daisetsuzan National Park,The Grand Daisetsuzan National Park Resort & Spa,4.7,2,Yes,Yes,142.9333,43.6667,Deluxe King Suite,52286
+Hokkaido,Daisetsuzan National Park,Daisetsuzan National Park Heritage View Hotel,4.3,3,Yes,No,142.9333,43.6667,Standard Premium Double,12898
+Hokkaido,Daisetsuzan National Park,Comfort Inn & Suites near Daisetsuzan National Park,3.4,4,No,No,142.9333,43.6667,Economy Family Room,7073
+Hokkaido,Blue Pond Biei,The Grand Blue Pond Biei Resort & Spa,4.8,2,Yes,Yes,142.5175,43.5886,Deluxe King Suite,54363
+Hokkaido,Blue Pond Biei,Blue Pond Biei Heritage View Hotel,4.3,3,Yes,Yes,142.5175,43.5886,Standard Premium Double,20769
+Hokkaido,Blue Pond Biei,Comfort Inn & Suites near Blue Pond Biei,3.4,4,Yes,No,142.5175,43.5886,Economy Family Room,8094
+Hokkaido,Hakodate Morning Market,The Grand Hakodate Morning Market Resort & Spa,4.6,2,Yes,Yes,140.7284,41.7692,Deluxe King Suite,45125
+Hokkaido,Hakodate Morning Market,Hakodate Morning Market Heritage View Hotel,4.2,3,Yes,Yes,140.7284,41.7692,Standard Premium Double,21267
+Hokkaido,Hakodate Morning Market,Comfort Inn & Suites near Hakodate Morning Market,3.7,4,No,No,140.7284,41.7692,Economy Family Room,9253
+Hokkaido,Otaru Canal,The Grand Otaru Canal Resort & Spa,4.8,2,Yes,Yes,140.9942,43.1907,Deluxe King Suite,54768
+Hokkaido,Otaru Canal,Otaru Canal Heritage View Hotel,4.3,3,Yes,No,140.9942,43.1907,Standard Premium Double,15186
+Hokkaido,Otaru Canal,Comfort Inn & Suites near Otaru Canal,3.4,4,Yes,No,140.9942,43.1907,Economy Family Room,7596
+Hokkaido,Cape Erimo,The Grand Cape Erimo Resort & Spa,4.8,2,Yes,Yes,143.2525,41.9248,Deluxe King Suite,39163
+Hokkaido,Cape Erimo,Cape Erimo Heritage View Hotel,4.1,3,Yes,No,143.2525,41.9248,Standard Premium Double,11012
+Hokkaido,Cape Erimo,Comfort Inn & Suites near Cape Erimo,3.8,4,No,No,143.2525,41.9248,Economy Family Room,5665
+Hiroshima,Peace Memorial Park,The Grand Peace Memorial Park Resort & Spa,4.6,2,Yes,Yes,132.453,34.3955,Deluxe King Suite,27082
+Hiroshima,Peace Memorial Park,Peace Memorial Park Heritage View Hotel,4.1,3,Yes,No,132.453,34.3955,Standard Premium Double,17367
+Hiroshima,Peace Memorial Park,Comfort Inn & Suites near Peace Memorial Park,3.6,4,Yes,No,132.453,34.3955,Economy Family Room,8563
+Hiroshima,Itsukushima Shrine Miyajima,The Grand Itsukushima Shrine Miyajima Resort & Spa,4.7,2,Yes,Yes,132.3194,34.296,Deluxe King Suite,46357
+Hiroshima,Itsukushima Shrine Miyajima,Itsukushima Shrine Miyajima Heritage View Hotel,4.3,3,Yes,Yes,132.3194,34.296,Standard Premium Double,12007
+Hiroshima,Itsukushima Shrine Miyajima,Comfort Inn & Suites near Itsukushima Shrine Miyajima,3.7,4,No,No,132.3194,34.296,Economy Family Room,6822
+Hiroshima,Hiroshima Castle,The Grand Hiroshima Castle Resort & Spa,4.7,2,Yes,Yes,132.4598,34.4016,Deluxe King Suite,51833
+Hiroshima,Hiroshima Castle,Hiroshima Castle Heritage View Hotel,4.0,3,Yes,No,132.4598,34.4016,Standard Premium Double,18251
+Hiroshima,Hiroshima Castle,Comfort Inn & Suites near Hiroshima Castle,3.5,4,Yes,No,132.4598,34.4016,Economy Family Room,8764
+Hiroshima,Shukkeien Garden,The Grand Shukkeien Garden Resort & Spa,4.7,2,Yes,Yes,132.4699,34.3996,Deluxe King Suite,50213
+Hiroshima,Shukkeien Garden,Shukkeien Garden Heritage View Hotel,4.1,3,Yes,Yes,132.4699,34.3996,Standard Premium Double,21924
+Hiroshima,Shukkeien Garden,Comfort Inn & Suites near Shukkeien Garden,3.4,4,Yes,No,132.4699,34.3996,Economy Family Room,6898
+Hiroshima,Peace Memorial Museum,The Grand Peace Memorial Museum Resort & Spa,4.9,2,Yes,Yes,132.4527,34.3955,Deluxe King Suite,50695
+Hiroshima,Peace Memorial Museum,Peace Memorial Museum Heritage View Hotel,4.1,3,Yes,No,132.4527,34.3955,Standard Premium Double,14714
+Hiroshima,Peace Memorial Museum,Comfort Inn & Suites near Peace Memorial Museum,3.3,4,Yes,No,132.4527,34.3955,Economy Family Room,5812
+Hiroshima,Onomichi,The Grand Onomichi Resort & Spa,4.8,2,Yes,Yes,133.2026,34.4086,Deluxe King Suite,29503
+Hiroshima,Onomichi,Onomichi Heritage View Hotel,4.3,3,Yes,Yes,133.2026,34.4086,Standard Premium Double,11591
+Hiroshima,Onomichi,Comfort Inn & Suites near Onomichi,3.3,4,No,No,133.2026,34.4086,Economy Family Room,6736
+Hiroshima,Mihara Castle,The Grand Mihara Castle Resort & Spa,4.6,2,Yes,Yes,133.0769,34.3967,Deluxe King Suite,34973
+Hiroshima,Mihara Castle,Mihara Castle Heritage View Hotel,4.2,3,Yes,Yes,133.0769,34.3967,Standard Premium Double,13418
+Hiroshima,Mihara Castle,Comfort Inn & Suites near Mihara Castle,3.6,4,Yes,No,133.0769,34.3967,Economy Family Room,8874
+Hiroshima,Tomonoura,The Grand Tomonoura Resort & Spa,4.7,2,Yes,Yes,133.3772,34.3687,Deluxe King Suite,48685
+Hiroshima,Tomonoura,Tomonoura Heritage View Hotel,4.0,3,Yes,No,133.3772,34.3687,Standard Premium Double,18366
+Hiroshima,Tomonoura,Comfort Inn & Suites near Tomonoura,3.7,4,Yes,No,133.3772,34.3687,Economy Family Room,5894
+Hiroshima,Saijo Sake Breweries,The Grand Saijo Sake Breweries Resort & Spa,4.9,2,Yes,Yes,132.7414,34.4183,Deluxe King Suite,44956
+Hiroshima,Saijo Sake Breweries,Saijo Sake Breweries Heritage View Hotel,4.1,3,Yes,Yes,132.7414,34.4183,Standard Premium Double,13080
+Hiroshima,Saijo Sake Breweries,Comfort Inn & Suites near Saijo Sake Breweries,3.5,4,Yes,No,132.7414,34.4183,Economy Family Room,9330
+Hiroshima,Sandankyo Gorge,The Grand Sandankyo Gorge Resort & Spa,4.5,2,Yes,Yes,132.0671,34.6168,Deluxe King Suite,55004
+Hiroshima,Sandankyo Gorge,Sandankyo Gorge Heritage View Hotel,4.1,3,Yes,Yes,132.0671,34.6168,Standard Premium Double,14145
+Hiroshima,Sandankyo Gorge,Comfort Inn & Suites near Sandankyo Gorge,3.7,4,Yes,No,132.0671,34.6168,Economy Family Room,9308
+Nara,Todai-ji Temple,The Grand Todai-ji Temple Resort & Spa,4.9,2,Yes,Yes,135.8398,34.6888,Deluxe King Suite,31111
+Nara,Todai-ji Temple,Todai-ji Temple Heritage View Hotel,4.3,3,Yes,Yes,135.8398,34.6888,Standard Premium Double,16522
+Nara,Todai-ji Temple,Comfort Inn & Suites near Todai-ji Temple,3.3,4,No,No,135.8398,34.6888,Economy Family Room,5197
+Nara,Nara Deer Park,The Grand Nara Deer Park Resort & Spa,4.5,2,Yes,Yes,135.843,34.6854,Deluxe King Suite,57828
+Nara,Nara Deer Park,Nara Deer Park Heritage View Hotel,4.1,3,Yes,No,135.843,34.6854,Standard Premium Double,18495
+Nara,Nara Deer Park,Comfort Inn & Suites near Nara Deer Park,3.6,4,No,No,135.843,34.6854,Economy Family Room,8026
+Nara,Kasuga Taisha Shrine,The Grand Kasuga Taisha Shrine Resort & Spa,4.9,2,Yes,Yes,135.8484,34.681,Deluxe King Suite,48593
+Nara,Kasuga Taisha Shrine,Kasuga Taisha Shrine Heritage View Hotel,4.2,3,Yes,No,135.8484,34.681,Standard Premium Double,21823
+Nara,Kasuga Taisha Shrine,Comfort Inn & Suites near Kasuga Taisha Shrine,3.2,4,No,No,135.8484,34.681,Economy Family Room,8503
+Nara,Horyu-ji Temple,The Grand Horyu-ji Temple Resort & Spa,4.9,2,Yes,Yes,135.7345,34.6148,Deluxe King Suite,44885
+Nara,Horyu-ji Temple,Horyu-ji Temple Heritage View Hotel,4.1,3,Yes,Yes,135.7345,34.6148,Standard Premium Double,18087
+Nara,Horyu-ji Temple,Comfort Inn & Suites near Horyu-ji Temple,3.5,4,Yes,No,135.7345,34.6148,Economy Family Room,6152
+Nara,Isuien Garden,The Grand Isuien Garden Resort & Spa,4.6,2,Yes,Yes,135.8425,34.6847,Deluxe King Suite,49525
+Nara,Isuien Garden,Isuien Garden Heritage View Hotel,3.9,3,Yes,Yes,135.8425,34.6847,Standard Premium Double,20990
+Nara,Isuien Garden,Comfort Inn & Suites near Isuien Garden,3.6,4,No,No,135.8425,34.6847,Economy Family Room,8505
+Nara,Naramachi District,The Grand Naramachi District Resort & Spa,4.8,2,Yes,Yes,135.8356,34.6769,Deluxe King Suite,54855
+Nara,Naramachi District,Naramachi District Heritage View Hotel,4.1,3,Yes,Yes,135.8356,34.6769,Standard Premium Double,18803
+Nara,Naramachi District,Comfort Inn & Suites near Naramachi District,3.5,4,No,No,135.8356,34.6769,Economy Family Room,7564
+Nara,Yoshinoyama,The Grand Yoshinoyama Resort & Spa,4.7,2,Yes,Yes,135.8572,34.3693,Deluxe King Suite,42964
+Nara,Yoshinoyama,Yoshinoyama Heritage View Hotel,4.4,3,Yes,Yes,135.8572,34.3693,Standard Premium Double,18430
+Nara,Yoshinoyama,Comfort Inn & Suites near Yoshinoyama,3.3,4,No,No,135.8572,34.3693,Economy Family Room,5358
+Nara,Muro-ji Temple,The Grand Muro-ji Temple Resort & Spa,4.7,2,Yes,Yes,135.9309,34.5473,Deluxe King Suite,45845
+Nara,Muro-ji Temple,Muro-ji Temple Heritage View Hotel,4.4,3,Yes,Yes,135.9309,34.5473,Standard Premium Double,15750
+Nara,Muro-ji Temple,Comfort Inn & Suites near Muro-ji Temple,3.2,4,Yes,No,135.9309,34.5473,Economy Family Room,7842
+Nara,Asuka Village,The Grand Asuka Village Resort & Spa,4.9,2,Yes,Yes,135.8079,34.4699,Deluxe King Suite,46095
+Nara,Asuka Village,Asuka Village Heritage View Hotel,4.2,3,Yes,Yes,135.8079,34.4699,Standard Premium Double,15324
+Nara,Asuka Village,Comfort Inn & Suites near Asuka Village,3.7,4,Yes,No,135.8079,34.4699,Economy Family Room,7612
+Nara,Kofuku-ji Temple,The Grand Kofuku-ji Temple Resort & Spa,4.8,2,Yes,Yes,135.8323,34.6863,Deluxe King Suite,54300
+Nara,Kofuku-ji Temple,Kofuku-ji Temple Heritage View Hotel,4.1,3,Yes,Yes,135.8323,34.6863,Standard Premium Double,18422
+Nara,Kofuku-ji Temple,Comfort Inn & Suites near Kofuku-ji Temple,3.5,4,Yes,No,135.8323,34.6863,Economy Family Room,6391
+Okinawa,Shuri Castle,The Grand Shuri Castle Resort & Spa,4.6,2,Yes,Yes,127.7194,26.2172,Deluxe King Suite,43629
+Okinawa,Shuri Castle,Shuri Castle Heritage View Hotel,4.1,3,Yes,No,127.7194,26.2172,Standard Premium Double,12122
+Okinawa,Shuri Castle,Comfort Inn & Suites near Shuri Castle,3.7,4,No,No,127.7194,26.2172,Economy Family Room,7298
+Okinawa,Churaumi Aquarium,The Grand Churaumi Aquarium Resort & Spa,4.6,2,Yes,Yes,127.8769,26.6937,Deluxe King Suite,52342
+Okinawa,Churaumi Aquarium,Churaumi Aquarium Heritage View Hotel,4.2,3,Yes,Yes,127.8769,26.6937,Standard Premium Double,21994
+Okinawa,Churaumi Aquarium,Comfort Inn & Suites near Churaumi Aquarium,3.8,4,Yes,No,127.8769,26.6937,Economy Family Room,5853
+Okinawa,Kokusai-dori Street,The Grand Kokusai-dori Street Resort & Spa,4.5,2,Yes,Yes,127.6851,26.2145,Deluxe King Suite,54751
+Okinawa,Kokusai-dori Street,Kokusai-dori Street Heritage View Hotel,4.4,3,Yes,Yes,127.6851,26.2145,Standard Premium Double,13899
+Okinawa,Kokusai-dori Street,Comfort Inn & Suites near Kokusai-dori Street,3.7,4,Yes,No,127.6851,26.2145,Economy Family Room,6719
+Okinawa,Cape Manzamo,The Grand Cape Manzamo Resort & Spa,4.7,2,Yes,Yes,127.8768,26.5017,Deluxe King Suite,37431
+Okinawa,Cape Manzamo,Cape Manzamo Heritage View Hotel,4.4,3,Yes,No,127.8768,26.5017,Standard Premium Double,11614
+Okinawa,Cape Manzamo,Comfort Inn & Suites near Cape Manzamo,3.4,4,Yes,No,127.8768,26.5017,Economy Family Room,6483
+Okinawa,Kerama Islands,The Grand Kerama Islands Resort & Spa,4.5,2,Yes,Yes,127.27,26.21,Deluxe King Suite,45502
+Okinawa,Kerama Islands,Kerama Islands Heritage View Hotel,4.1,3,Yes,Yes,127.27,26.21,Standard Premium Double,18267
+Okinawa,Kerama Islands,Comfort Inn & Suites near Kerama Islands,3.6,4,Yes,No,127.27,26.21,Economy Family Room,5694
+Okinawa,Gyokusendo Cave,The Grand Gyokusendo Cave Resort & Spa,4.6,2,Yes,Yes,127.771,26.127,Deluxe King Suite,52765
+Okinawa,Gyokusendo Cave,Gyokusendo Cave Heritage View Hotel,4.0,3,Yes,Yes,127.771,26.127,Standard Premium Double,17119
+Okinawa,Gyokusendo Cave,Comfort Inn & Suites near Gyokusendo Cave,3.7,4,No,No,127.771,26.127,Economy Family Room,8611
+Okinawa,Katsuren Castle,The Grand Katsuren Castle Resort & Spa,4.6,2,Yes,Yes,127.869,26.317,Deluxe King Suite,41832
+Okinawa,Katsuren Castle,Katsuren Castle Heritage View Hotel,4.0,3,Yes,Yes,127.869,26.317,Standard Premium Double,13718
+Okinawa,Katsuren Castle,Comfort Inn & Suites near Katsuren Castle,3.8,4,Yes,No,127.869,26.317,Economy Family Room,6115
+Okinawa,Hedo Point,The Grand Hedo Point Resort & Spa,4.9,2,Yes,Yes,128.2551,26.8671,Deluxe King Suite,33905
+Okinawa,Hedo Point,Hedo Point Heritage View Hotel,4.3,3,Yes,Yes,128.2551,26.8671,Standard Premium Double,18692
+Okinawa,Hedo Point,Comfort Inn & Suites near Hedo Point,3.2,4,No,No,128.2551,26.8671,Economy Family Room,8574
+Okinawa,Nakagusuku Castle,The Grand Nakagusuku Castle Resort & Spa,4.8,2,Yes,Yes,127.8031,26.2663,Deluxe King Suite,29711
+Okinawa,Nakagusuku Castle,Nakagusuku Castle Heritage View Hotel,3.9,3,Yes,Yes,127.8031,26.2663,Standard Premium Double,13925
+Okinawa,Nakagusuku Castle,Comfort Inn & Suites near Nakagusuku Castle,3.5,4,Yes,No,127.8031,26.2663,Economy Family Room,5486
+Okinawa,Emerald Beach,The Grand Emerald Beach Resort & Spa,4.6,2,Yes,Yes,127.8783,26.6945,Deluxe King Suite,26139
+Okinawa,Emerald Beach,Emerald Beach Heritage View Hotel,4.3,3,Yes,Yes,127.8783,26.6945,Standard Premium Double,18247
+Okinawa,Emerald Beach,Comfort Inn & Suites near Emerald Beach,3.4,4,No,No,127.8783,26.6945,Economy Family Room,5542
+Kanagawa,Mount Fuji,The Grand Mount Fuji Resort & Spa,4.6,2,Yes,Yes,138.7274,35.3606,Deluxe King Suite,44032
+Kanagawa,Mount Fuji,Mount Fuji Heritage View Hotel,4.1,3,Yes,No,138.7274,35.3606,Standard Premium Double,14432
+Kanagawa,Mount Fuji,Comfort Inn & Suites near Mount Fuji,3.8,4,No,No,138.7274,35.3606,Economy Family Room,8815
+Kanagawa,Kamakura Great Buddha,The Grand Kamakura Great Buddha Resort & Spa,4.8,2,Yes,Yes,139.5353,35.3167,Deluxe King Suite,36883
+Kanagawa,Kamakura Great Buddha,Kamakura Great Buddha Heritage View Hotel,4.0,3,Yes,Yes,139.5353,35.3167,Standard Premium Double,15360
+Kanagawa,Kamakura Great Buddha,Comfort Inn & Suites near Kamakura Great Buddha,3.7,4,No,No,139.5353,35.3167,Economy Family Room,6687
+Kanagawa,Hakone Open Air Museum,The Grand Hakone Open Air Museum Resort & Spa,4.9,2,Yes,Yes,139.0202,35.2487,Deluxe King Suite,33888
+Kanagawa,Hakone Open Air Museum,Hakone Open Air Museum Heritage View Hotel,4.2,3,Yes,Yes,139.0202,35.2487,Standard Premium Double,20027
+Kanagawa,Hakone Open Air Museum,Comfort Inn & Suites near Hakone Open Air Museum,3.7,4,No,No,139.0202,35.2487,Economy Family Room,5704
+Kanagawa,Enoshima Island,The Grand Enoshima Island Resort & Spa,4.6,2,Yes,Yes,139.4826,35.299,Deluxe King Suite,41012
+Kanagawa,Enoshima Island,Enoshima Island Heritage View Hotel,4.2,3,Yes,No,139.4826,35.299,Standard Premium Double,11910
+Kanagawa,Enoshima Island,Comfort Inn & Suites near Enoshima Island,3.7,4,Yes,No,139.4826,35.299,Economy Family Room,6675
+Kanagawa,Yokohama Chinatown,The Grand Yokohama Chinatown Resort & Spa,4.5,2,Yes,Yes,139.6455,35.4415,Deluxe King Suite,52828
+Kanagawa,Yokohama Chinatown,Yokohama Chinatown Heritage View Hotel,4.2,3,Yes,Yes,139.6455,35.4415,Standard Premium Double,13126
+Kanagawa,Yokohama Chinatown,Comfort Inn & Suites near Yokohama Chinatown,3.4,4,No,No,139.6455,35.4415,Economy Family Room,8006
+Kanagawa,Hakone Ropeway,The Grand Hakone Ropeway Resort & Spa,4.7,2,Yes,Yes,139.0253,35.2271,Deluxe King Suite,32186
+Kanagawa,Hakone Ropeway,Hakone Ropeway Heritage View Hotel,4.0,3,Yes,Yes,139.0253,35.2271,Standard Premium Double,14945
+Kanagawa,Hakone Ropeway,Comfort Inn & Suites near Hakone Ropeway,3.5,4,No,No,139.0253,35.2271,Economy Family Room,7540
+Kanagawa,Zushi Beach,The Grand Zushi Beach Resort & Spa,4.8,2,Yes,Yes,139.5791,35.296,Deluxe King Suite,48040
+Kanagawa,Zushi Beach,Zushi Beach Heritage View Hotel,4.0,3,Yes,No,139.5791,35.296,Standard Premium Double,12559
+Kanagawa,Zushi Beach,Comfort Inn & Suites near Zushi Beach,3.3,4,Yes,No,139.5791,35.296,Economy Family Room,7782
+Kanagawa,Kawasaki Daishi Temple,The Grand Kawasaki Daishi Temple Resort & Spa,4.8,2,Yes,Yes,139.7172,35.5325,Deluxe King Suite,33835
+Kanagawa,Kawasaki Daishi Temple,Kawasaki Daishi Temple Heritage View Hotel,4.1,3,Yes,No,139.7172,35.5325,Standard Premium Double,18053
+Kanagawa,Kawasaki Daishi Temple,Comfort Inn & Suites near Kawasaki Daishi Temple,3.6,4,No,No,139.7172,35.5325,Economy Family Room,7247
+Kanagawa,Odawara Castle,The Grand Odawara Castle Resort & Spa,4.7,2,Yes,Yes,139.1561,35.2563,Deluxe King Suite,59708
+Kanagawa,Odawara Castle,Odawara Castle Heritage View Hotel,4.3,3,Yes,Yes,139.1561,35.2563,Standard Premium Double,16755
+Kanagawa,Odawara Castle,Comfort Inn & Suites near Odawara Castle,3.8,4,No,No,139.1561,35.2563,Economy Family Room,8073
+Kanagawa,Tsurugaoka Hachimangu,The Grand Tsurugaoka Hachimangu Resort & Spa,4.7,2,Yes,Yes,139.5561,35.3258,Deluxe King Suite,43579
+Kanagawa,Tsurugaoka Hachimangu,Tsurugaoka Hachimangu Heritage View Hotel,4.0,3,Yes,No,139.5561,35.3258,Standard Premium Double,18176
+Kanagawa,Tsurugaoka Hachimangu,Comfort Inn & Suites near Tsurugaoka Hachimangu,3.7,4,Yes,No,139.5561,35.3258,Economy Family Room,5955
+Nagano,Matsumoto Castle,The Grand Matsumoto Castle Resort & Spa,4.6,2,Yes,Yes,137.9718,36.2381,Deluxe King Suite,51614
+Nagano,Matsumoto Castle,Matsumoto Castle Heritage View Hotel,4.0,3,Yes,Yes,137.9718,36.2381,Standard Premium Double,16500
+Nagano,Matsumoto Castle,Comfort Inn & Suites near Matsumoto Castle,3.6,4,No,No,137.9718,36.2381,Economy Family Room,7546
+Nagano,Jigokudani Monkey Park,The Grand Jigokudani Monkey Park Resort & Spa,4.9,2,Yes,Yes,138.4699,36.7339,Deluxe King Suite,56151
+Nagano,Jigokudani Monkey Park,Jigokudani Monkey Park Heritage View Hotel,4.2,3,Yes,No,138.4699,36.7339,Standard Premium Double,19355
+Nagano,Jigokudani Monkey Park,Comfort Inn & Suites near Jigokudani Monkey Park,3.5,4,Yes,No,138.4699,36.7339,Economy Family Room,8231
+Nagano,Kamikochi,The Grand Kamikochi Resort & Spa,4.5,2,Yes,Yes,137.6527,36.2469,Deluxe King Suite,35278
+Nagano,Kamikochi,Kamikochi Heritage View Hotel,4.4,3,Yes,Yes,137.6527,36.2469,Standard Premium Double,21719
+Nagano,Kamikochi,Comfort Inn & Suites near Kamikochi,3.3,4,Yes,No,137.6527,36.2469,Economy Family Room,6024
+Nagano,Zenko-ji Temple,The Grand Zenko-ji Temple Resort & Spa,4.5,2,Yes,Yes,138.1893,36.666,Deluxe King Suite,47553
+Nagano,Zenko-ji Temple,Zenko-ji Temple Heritage View Hotel,4.3,3,Yes,No,138.1893,36.666,Standard Premium Double,18713
+Nagano,Zenko-ji Temple,Comfort Inn & Suites near Zenko-ji Temple,3.5,4,Yes,No,138.1893,36.666,Economy Family Room,6291
+Nagano,Hakuba Valley,The Grand Hakuba Valley Resort & Spa,4.5,2,Yes,Yes,137.8602,36.7004,Deluxe King Suite,58218
+Nagano,Hakuba Valley,Hakuba Valley Heritage View Hotel,4.0,3,Yes,Yes,137.8602,36.7004,Standard Premium Double,20951
+Nagano,Hakuba Valley,Comfort Inn & Suites near Hakuba Valley,3.2,4,No,No,137.8602,36.7004,Economy Family Room,8574
+Nagano,Narai-juku Post Town,The Grand Narai-juku Post Town Resort & Spa,4.6,2,Yes,Yes,137.8653,36.0278,Deluxe King Suite,59821
+Nagano,Narai-juku Post Town,Narai-juku Post Town Heritage View Hotel,4.0,3,Yes,Yes,137.8653,36.0278,Standard Premium Double,19065
+Nagano,Narai-juku Post Town,Comfort Inn & Suites near Narai-juku Post Town,3.5,4,No,No,137.8653,36.0278,Economy Family Room,7944
+Nagano,Tateyama Kurobe,The Grand Tateyama Kurobe Resort & Spa,4.5,2,Yes,Yes,137.6076,36.5705,Deluxe King Suite,40430
+Nagano,Tateyama Kurobe,Tateyama Kurobe Heritage View Hotel,4.1,3,Yes,Yes,137.6076,36.5705,Standard Premium Double,21529
+Nagano,Tateyama Kurobe,Comfort Inn & Suites near Tateyama Kurobe,3.7,4,No,No,137.6076,36.5705,Economy Family Room,8239
+Nagano,Togakushi Shrine,The Grand Togakushi Shrine Resort & Spa,4.7,2,Yes,Yes,137.9936,36.775,Deluxe King Suite,29732
+Nagano,Togakushi Shrine,Togakushi Shrine Heritage View Hotel,4.3,3,Yes,Yes,137.9936,36.775,Standard Premium Double,15384
+Nagano,Togakushi Shrine,Comfort Inn & Suites near Togakushi Shrine,3.5,4,No,No,137.9936,36.775,Economy Family Room,7032
+Nagano,Suwa Lake,The Grand Suwa Lake Resort & Spa,4.5,2,Yes,Yes,138.0833,36.0478,Deluxe King Suite,42077
+Nagano,Suwa Lake,Suwa Lake Heritage View Hotel,4.2,3,Yes,Yes,138.0833,36.0478,Standard Premium Double,21299
+Nagano,Suwa Lake,Comfort Inn & Suites near Suwa Lake,3.5,4,No,No,138.0833,36.0478,Economy Family Room,8066
+Nagano,Kiso Valley,The Grand Kiso Valley Resort & Spa,4.7,2,Yes,Yes,137.6044,35.7939,Deluxe King Suite,30391
+Nagano,Kiso Valley,Kiso Valley Heritage View Hotel,4.1,3,Yes,Yes,137.6044,35.7939,Standard Premium Double,21536
+Nagano,Kiso Valley,Comfort Inn & Suites near Kiso Valley,3.6,4,No,No,137.6044,35.7939,Economy Family Room,6326
+Uttar Pradesh,Taj Mahal,The Grand Taj Mahal Resort & Spa,4.7,2,Yes,Yes,78.0421,27.1751,Deluxe King Suite,11646
+Uttar Pradesh,Taj Mahal,Taj Mahal Heritage View Hotel,4.3,3,Yes,Yes,78.0421,27.1751,Standard Premium Double,4572
+Uttar Pradesh,Taj Mahal,Comfort Inn & Suites near Taj Mahal,3.5,4,No,No,78.0421,27.1751,Economy Family Room,1237
+Uttar Pradesh,Agra Fort,The Grand Agra Fort Resort & Spa,4.7,2,Yes,Yes,78.0216,27.1798,Deluxe King Suite,12091
+Uttar Pradesh,Agra Fort,Agra Fort Heritage View Hotel,4.2,3,Yes,No,78.0216,27.1798,Standard Premium Double,4496
+Uttar Pradesh,Agra Fort,Comfort Inn & Suites near Agra Fort,3.6,4,Yes,No,78.0216,27.1798,Economy Family Room,1884
+Uttar Pradesh,Varanasi Ghats,The Grand Varanasi Ghats Resort & Spa,4.8,2,Yes,Yes,83.0062,25.3176,Deluxe King Suite,12093
+Uttar Pradesh,Varanasi Ghats,Varanasi Ghats Heritage View Hotel,3.9,3,Yes,Yes,83.0062,25.3176,Standard Premium Double,4915
+Uttar Pradesh,Varanasi Ghats,Comfort Inn & Suites near Varanasi Ghats,3.6,4,Yes,No,83.0062,25.3176,Economy Family Room,1933
+Uttar Pradesh,Fatehpur Sikri,The Grand Fatehpur Sikri Resort & Spa,4.9,2,Yes,Yes,77.6642,27.0945,Deluxe King Suite,12221
+Uttar Pradesh,Fatehpur Sikri,Fatehpur Sikri Heritage View Hotel,4.0,3,Yes,Yes,77.6642,27.0945,Standard Premium Double,4083
+Uttar Pradesh,Fatehpur Sikri,Comfort Inn & Suites near Fatehpur Sikri,3.6,4,No,No,77.6642,27.0945,Economy Family Room,1731
+Uttar Pradesh,Lucknow Bara Imambara,The Grand Lucknow Bara Imambara Resort & Spa,4.6,2,Yes,Yes,80.9116,26.8672,Deluxe King Suite,14816
+Uttar Pradesh,Lucknow Bara Imambara,Lucknow Bara Imambara Heritage View Hotel,4.3,3,Yes,Yes,80.9116,26.8672,Standard Premium Double,3889
+Uttar Pradesh,Lucknow Bara Imambara,Comfort Inn & Suites near Lucknow Bara Imambara,3.3,4,No,No,80.9116,26.8672,Economy Family Room,1647
+Uttar Pradesh,Mathura,The Grand Mathura Resort & Spa,4.8,2,Yes,Yes,77.6737,27.4924,Deluxe King Suite,6660
+Uttar Pradesh,Mathura,Mathura Heritage View Hotel,4.4,3,Yes,Yes,77.6737,27.4924,Standard Premium Double,5270
+Uttar Pradesh,Mathura,Comfort Inn & Suites near Mathura,3.8,4,Yes,No,77.6737,27.4924,Economy Family Room,938
+Uttar Pradesh,Vrindavan,The Grand Vrindavan Resort & Spa,4.8,2,Yes,Yes,77.693,27.5726,Deluxe King Suite,8644
+Uttar Pradesh,Vrindavan,Vrindavan Heritage View Hotel,4.2,3,Yes,No,77.693,27.5726,Standard Premium Double,2506
+Uttar Pradesh,Vrindavan,Comfort Inn & Suites near Vrindavan,3.4,4,Yes,No,77.693,27.5726,Economy Family Room,991
+Uttar Pradesh,Allahabad Triveni Sangam,The Grand Allahabad Triveni Sangam Resort & Spa,4.6,2,Yes,Yes,81.8463,25.4358,Deluxe King Suite,14540
+Uttar Pradesh,Allahabad Triveni Sangam,Allahabad Triveni Sangam Heritage View Hotel,4.3,3,Yes,Yes,81.8463,25.4358,Standard Premium Double,4372
+Uttar Pradesh,Allahabad Triveni Sangam,Comfort Inn & Suites near Allahabad Triveni Sangam,3.5,4,Yes,No,81.8463,25.4358,Economy Family Room,1892
+Uttar Pradesh,Sarnath,The Grand Sarnath Resort & Spa,4.6,2,Yes,Yes,83.0242,25.3814,Deluxe King Suite,13938
+Uttar Pradesh,Sarnath,Sarnath Heritage View Hotel,4.2,3,Yes,No,83.0242,25.3814,Standard Premium Double,2996
+Uttar Pradesh,Sarnath,Comfort Inn & Suites near Sarnath,3.2,4,Yes,No,83.0242,25.3814,Economy Family Room,2075
+Uttar Pradesh,Dudhwa National Park,The Grand Dudhwa National Park Resort & Spa,4.8,2,Yes,Yes,80.525,28.498,Deluxe King Suite,7172
+Uttar Pradesh,Dudhwa National Park,Dudhwa National Park Heritage View Hotel,4.0,3,Yes,No,80.525,28.498,Standard Premium Double,3750
+Uttar Pradesh,Dudhwa National Park,Comfort Inn & Suites near Dudhwa National Park,3.4,4,Yes,No,80.525,28.498,Economy Family Room,1121
+Rajasthan,Amber Fort Jaipur,The Grand Amber Fort Jaipur Resort & Spa,4.6,2,Yes,Yes,75.8513,26.9855,Deluxe King Suite,10033
+Rajasthan,Amber Fort Jaipur,Amber Fort Jaipur Heritage View Hotel,4.4,3,Yes,No,75.8513,26.9855,Standard Premium Double,3125
+Rajasthan,Amber Fort Jaipur,Comfort Inn & Suites near Amber Fort Jaipur,3.5,4,No,No,75.8513,26.9855,Economy Family Room,1602
+Rajasthan,City Palace Udaipur,The Grand City Palace Udaipur Resort & Spa,4.7,2,Yes,Yes,73.6833,24.5763,Deluxe King Suite,7989
+Rajasthan,City Palace Udaipur,City Palace Udaipur Heritage View Hotel,4.3,3,Yes,Yes,73.6833,24.5763,Standard Premium Double,2962
+Rajasthan,City Palace Udaipur,Comfort Inn & Suites near City Palace Udaipur,3.7,4,No,No,73.6833,24.5763,Economy Family Room,1243
+Rajasthan,Mehrangarh Fort Jodhpur,The Grand Mehrangarh Fort Jodhpur Resort & Spa,4.9,2,Yes,Yes,73.0178,26.2978,Deluxe King Suite,14656
+Rajasthan,Mehrangarh Fort Jodhpur,Mehrangarh Fort Jodhpur Heritage View Hotel,4.1,3,Yes,No,73.0178,26.2978,Standard Premium Double,2837
+Rajasthan,Mehrangarh Fort Jodhpur,Comfort Inn & Suites near Mehrangarh Fort Jodhpur,3.7,4,No,No,73.0178,26.2978,Economy Family Room,1934
+Rajasthan,Jaisalmer Fort,The Grand Jaisalmer Fort Resort & Spa,4.6,2,Yes,Yes,70.9083,26.9157,Deluxe King Suite,11776
+Rajasthan,Jaisalmer Fort,Jaisalmer Fort Heritage View Hotel,4.0,3,Yes,Yes,70.9083,26.9157,Standard Premium Double,4877
+Rajasthan,Jaisalmer Fort,Comfort Inn & Suites near Jaisalmer Fort,3.6,4,Yes,No,70.9083,26.9157,Economy Family Room,1592
+Rajasthan,Hawa Mahal Jaipur,The Grand Hawa Mahal Jaipur Resort & Spa,4.6,2,Yes,Yes,75.8267,26.9239,Deluxe King Suite,6596
+Rajasthan,Hawa Mahal Jaipur,Hawa Mahal Jaipur Heritage View Hotel,3.9,3,Yes,Yes,75.8267,26.9239,Standard Premium Double,2562
+Rajasthan,Hawa Mahal Jaipur,Comfort Inn & Suites near Hawa Mahal Jaipur,3.8,4,No,No,75.8267,26.9239,Economy Family Room,2161
+Rajasthan,Pushkar Lake,The Grand Pushkar Lake Resort & Spa,4.8,2,Yes,Yes,74.5517,26.4883,Deluxe King Suite,11905
+Rajasthan,Pushkar Lake,Pushkar Lake Heritage View Hotel,4.0,3,Yes,No,74.5517,26.4883,Standard Premium Double,4178
+Rajasthan,Pushkar Lake,Comfort Inn & Suites near Pushkar Lake,3.8,4,Yes,No,74.5517,26.4883,Economy Family Room,1181
+Rajasthan,Ranthambore National Park,The Grand Ranthambore National Park Resort & Spa,4.5,2,Yes,Yes,76.5026,26.0173,Deluxe King Suite,10581
+Rajasthan,Ranthambore National Park,Ranthambore National Park Heritage View Hotel,4.0,3,Yes,Yes,76.5026,26.0173,Standard Premium Double,4299
+Rajasthan,Ranthambore National Park,Comfort Inn & Suites near Ranthambore National Park,3.5,4,No,No,76.5026,26.0173,Economy Family Room,1453
+Rajasthan,Chittorgarh Fort,The Grand Chittorgarh Fort Resort & Spa,4.6,2,Yes,Yes,74.6439,24.8887,Deluxe King Suite,14264
+Rajasthan,Chittorgarh Fort,Chittorgarh Fort Heritage View Hotel,4.2,3,Yes,No,74.6439,24.8887,Standard Premium Double,3544
+Rajasthan,Chittorgarh Fort,Comfort Inn & Suites near Chittorgarh Fort,3.7,4,Yes,No,74.6439,24.8887,Economy Family Room,1208
+Rajasthan,Sam Sand Dunes,The Grand Sam Sand Dunes Resort & Spa,4.8,2,Yes,Yes,70.5421,26.8757,Deluxe King Suite,8092
+Rajasthan,Sam Sand Dunes,Sam Sand Dunes Heritage View Hotel,4.1,3,Yes,No,70.5421,26.8757,Standard Premium Double,2750
+Rajasthan,Sam Sand Dunes,Comfort Inn & Suites near Sam Sand Dunes,3.5,4,No,No,70.5421,26.8757,Economy Family Room,2000
+Rajasthan,Kumbhalgarh Fort,The Grand Kumbhalgarh Fort Resort & Spa,4.5,2,Yes,Yes,73.587,25.1476,Deluxe King Suite,8665
+Rajasthan,Kumbhalgarh Fort,Kumbhalgarh Fort Heritage View Hotel,4.0,3,Yes,No,73.587,25.1476,Standard Premium Double,2957
+Rajasthan,Kumbhalgarh Fort,Comfort Inn & Suites near Kumbhalgarh Fort,3.8,4,No,No,73.587,25.1476,Economy Family Room,1385
+Delhi,Red Fort,The Grand Red Fort Resort & Spa,4.7,2,Yes,Yes,77.241,28.6562,Deluxe King Suite,9344
+Delhi,Red Fort,Red Fort Heritage View Hotel,4.1,3,Yes,No,77.241,28.6562,Standard Premium Double,3304
+Delhi,Red Fort,Comfort Inn & Suites near Red Fort,3.6,4,Yes,No,77.241,28.6562,Economy Family Room,1009
+Delhi,Qutub Minar,The Grand Qutub Minar Resort & Spa,4.9,2,Yes,Yes,77.1855,28.5245,Deluxe King Suite,14913
+Delhi,Qutub Minar,Qutub Minar Heritage View Hotel,4.4,3,Yes,No,77.1855,28.5245,Standard Premium Double,5260
+Delhi,Qutub Minar,Comfort Inn & Suites near Qutub Minar,3.4,4,No,No,77.1855,28.5245,Economy Family Room,1190
+Delhi,India Gate,The Grand India Gate Resort & Spa,4.7,2,Yes,Yes,77.2295,28.6129,Deluxe King Suite,10874
+Delhi,India Gate,India Gate Heritage View Hotel,4.3,3,Yes,No,77.2295,28.6129,Standard Premium Double,5212
+Delhi,India Gate,Comfort Inn & Suites near India Gate,3.7,4,Yes,No,77.2295,28.6129,Economy Family Room,1517
+Delhi,Humayun's Tomb,The Grand Humayun's Tomb Resort & Spa,4.6,2,Yes,Yes,77.2507,28.5933,Deluxe King Suite,11734
+Delhi,Humayun's Tomb,Humayun's Tomb Heritage View Hotel,4.2,3,Yes,Yes,77.2507,28.5933,Standard Premium Double,5021
+Delhi,Humayun's Tomb,Comfort Inn & Suites near Humayun's Tomb,3.5,4,Yes,No,77.2507,28.5933,Economy Family Room,1696
+Delhi,Lotus Temple,The Grand Lotus Temple Resort & Spa,4.6,2,Yes,Yes,77.2588,28.5535,Deluxe King Suite,10535
+Delhi,Lotus Temple,Lotus Temple Heritage View Hotel,4.4,3,Yes,No,77.2588,28.5535,Standard Premium Double,3813
+Delhi,Lotus Temple,Comfort Inn & Suites near Lotus Temple,3.4,4,No,No,77.2588,28.5535,Economy Family Room,2189
+Delhi,Akshardham Temple,The Grand Akshardham Temple Resort & Spa,4.8,2,Yes,Yes,77.2773,28.6127,Deluxe King Suite,12750
+Delhi,Akshardham Temple,Akshardham Temple Heritage View Hotel,4.2,3,Yes,No,77.2773,28.6127,Standard Premium Double,4810
+Delhi,Akshardham Temple,Comfort Inn & Suites near Akshardham Temple,3.4,4,Yes,No,77.2773,28.6127,Economy Family Room,1213
+Delhi,Jama Masjid,The Grand Jama Masjid Resort & Spa,4.5,2,Yes,Yes,77.2334,28.6507,Deluxe King Suite,12191
+Delhi,Jama Masjid,Jama Masjid Heritage View Hotel,4.3,3,Yes,No,77.2334,28.6507,Standard Premium Double,2830
+Delhi,Jama Masjid,Comfort Inn & Suites near Jama Masjid,3.7,4,Yes,No,77.2334,28.6507,Economy Family Room,1306
+Delhi,Chandni Chowk,The Grand Chandni Chowk Resort & Spa,4.6,2,Yes,Yes,77.23,28.658,Deluxe King Suite,7641
+Delhi,Chandni Chowk,Chandni Chowk Heritage View Hotel,4.1,3,Yes,No,77.23,28.658,Standard Premium Double,4375
+Delhi,Chandni Chowk,Comfort Inn & Suites near Chandni Chowk,3.6,4,No,No,77.23,28.658,Economy Family Room,913
+Delhi,Lodi Garden,The Grand Lodi Garden Resort & Spa,4.5,2,Yes,Yes,77.2198,28.5931,Deluxe King Suite,12872
+Delhi,Lodi Garden,Lodi Garden Heritage View Hotel,3.9,3,Yes,No,77.2198,28.5931,Standard Premium Double,5107
+Delhi,Lodi Garden,Comfort Inn & Suites near Lodi Garden,3.3,4,No,No,77.2198,28.5931,Economy Family Room,1425
+Delhi,National Museum New Delhi,The Grand National Museum New Delhi Resort & Spa,4.8,2,Yes,Yes,77.2198,28.6116,Deluxe King Suite,9719
+Delhi,National Museum New Delhi,National Museum New Delhi Heritage View Hotel,4.3,3,Yes,No,77.2198,28.6116,Standard Premium Double,5090
+Delhi,National Museum New Delhi,Comfort Inn & Suites near National Museum New Delhi,3.2,4,Yes,No,77.2198,28.6116,Economy Family Room,1889
+Kerala,Backwaters Alleppey,The Grand Backwaters Alleppey Resort & Spa,4.7,2,Yes,Yes,76.3388,9.4981,Deluxe King Suite,7358
+Kerala,Backwaters Alleppey,Backwaters Alleppey Heritage View Hotel,4.0,3,Yes,Yes,76.3388,9.4981,Standard Premium Double,4435
+Kerala,Backwaters Alleppey,Comfort Inn & Suites near Backwaters Alleppey,3.5,4,No,No,76.3388,9.4981,Economy Family Room,1341
+Kerala,Munnar Tea Gardens,The Grand Munnar Tea Gardens Resort & Spa,4.5,2,Yes,Yes,77.0595,10.0889,Deluxe King Suite,7354
+Kerala,Munnar Tea Gardens,Munnar Tea Gardens Heritage View Hotel,4.0,3,Yes,No,77.0595,10.0889,Standard Premium Double,4942
+Kerala,Munnar Tea Gardens,Comfort Inn & Suites near Munnar Tea Gardens,3.3,4,No,No,77.0595,10.0889,Economy Family Room,1278
+Kerala,Periyar Wildlife Sanctuary,The Grand Periyar Wildlife Sanctuary Resort & Spa,4.8,2,Yes,Yes,77.204,9.4639,Deluxe King Suite,9890
+Kerala,Periyar Wildlife Sanctuary,Periyar Wildlife Sanctuary Heritage View Hotel,4.3,3,Yes,No,77.204,9.4639,Standard Premium Double,5248
+Kerala,Periyar Wildlife Sanctuary,Comfort Inn & Suites near Periyar Wildlife Sanctuary,3.6,4,Yes,No,77.204,9.4639,Economy Family Room,1420
+Kerala,Fort Kochi,The Grand Fort Kochi Resort & Spa,4.6,2,Yes,Yes,76.2429,9.9639,Deluxe King Suite,8601
+Kerala,Fort Kochi,Fort Kochi Heritage View Hotel,4.4,3,Yes,Yes,76.2429,9.9639,Standard Premium Double,3488
+Kerala,Fort Kochi,Comfort Inn & Suites near Fort Kochi,3.2,4,No,No,76.2429,9.9639,Economy Family Room,1555
+Kerala,Varkala Cliff Beach,The Grand Varkala Cliff Beach Resort & Spa,4.8,2,Yes,Yes,76.7163,8.7379,Deluxe King Suite,14104
+Kerala,Varkala Cliff Beach,Varkala Cliff Beach Heritage View Hotel,4.3,3,Yes,No,76.7163,8.7379,Standard Premium Double,4264
+Kerala,Varkala Cliff Beach,Comfort Inn & Suites near Varkala Cliff Beach,3.4,4,No,No,76.7163,8.7379,Economy Family Room,2195
+Kerala,Thekkady,The Grand Thekkady Resort & Spa,4.9,2,Yes,Yes,77.1621,9.5993,Deluxe King Suite,9193
+Kerala,Thekkady,Thekkady Heritage View Hotel,4.3,3,Yes,Yes,77.1621,9.5993,Standard Premium Double,3218
+Kerala,Thekkady,Comfort Inn & Suites near Thekkady,3.3,4,No,No,77.1621,9.5993,Economy Family Room,2011
+Kerala,Wayanad,The Grand Wayanad Resort & Spa,4.6,2,Yes,Yes,76.132,11.6854,Deluxe King Suite,10708
+Kerala,Wayanad,Wayanad Heritage View Hotel,4.4,3,Yes,Yes,76.132,11.6854,Standard Premium Double,5033
+Kerala,Wayanad,Comfort Inn & Suites near Wayanad,3.4,4,Yes,No,76.132,11.6854,Economy Family Room,1883
+Kerala,Athirapally Falls,The Grand Athirapally Falls Resort & Spa,4.7,2,Yes,Yes,76.5705,10.2853,Deluxe King Suite,9118
+Kerala,Athirapally Falls,Athirapally Falls Heritage View Hotel,4.3,3,Yes,No,76.5705,10.2853,Standard Premium Double,3084
+Kerala,Athirapally Falls,Comfort Inn & Suites near Athirapally Falls,3.3,4,No,No,76.5705,10.2853,Economy Family Room,1885
+Kerala,Kovalam Beach,The Grand Kovalam Beach Resort & Spa,4.9,2,Yes,Yes,76.9784,8.3988,Deluxe King Suite,7945
+Kerala,Kovalam Beach,Kovalam Beach Heritage View Hotel,4.0,3,Yes,Yes,76.9784,8.3988,Standard Premium Double,4626
+Kerala,Kovalam Beach,Comfort Inn & Suites near Kovalam Beach,3.5,4,Yes,No,76.9784,8.3988,Economy Family Room,1741
+Kerala,Silent Valley National Park,The Grand Silent Valley National Park Resort & Spa,4.8,2,Yes,Yes,76.459,11.0753,Deluxe King Suite,13048
+Kerala,Silent Valley National Park,Silent Valley National Park Heritage View Hotel,4.0,3,Yes,No,76.459,11.0753,Standard Premium Double,3105
+Kerala,Silent Valley National Park,Comfort Inn & Suites near Silent Valley National Park,3.4,4,No,No,76.459,11.0753,Economy Family Room,1925
+Goa,Baga Beach,The Grand Baga Beach Resort & Spa,4.7,2,Yes,Yes,73.7521,15.5561,Deluxe King Suite,11290
+Goa,Baga Beach,Baga Beach Heritage View Hotel,4.3,3,Yes,No,73.7521,15.5561,Standard Premium Double,2773
+Goa,Baga Beach,Comfort Inn & Suites near Baga Beach,3.7,4,Yes,No,73.7521,15.5561,Economy Family Room,2028
+Goa,Basilica of Bom Jesus,The Grand Basilica of Bom Jesus Resort & Spa,4.8,2,Yes,Yes,73.9116,15.5008,Deluxe King Suite,9896
+Goa,Basilica of Bom Jesus,Basilica of Bom Jesus Heritage View Hotel,4.4,3,Yes,No,73.9116,15.5008,Standard Premium Double,3719
+Goa,Basilica of Bom Jesus,Comfort Inn & Suites near Basilica of Bom Jesus,3.2,4,Yes,No,73.9116,15.5008,Economy Family Room,1313
+Goa,Dudhsagar Falls,The Grand Dudhsagar Falls Resort & Spa,4.9,2,Yes,Yes,74.314,15.3143,Deluxe King Suite,14711
+Goa,Dudhsagar Falls,Dudhsagar Falls Heritage View Hotel,3.9,3,Yes,Yes,74.314,15.3143,Standard Premium Double,4765
+Goa,Dudhsagar Falls,Comfort Inn & Suites near Dudhsagar Falls,3.2,4,Yes,No,74.314,15.3143,Economy Family Room,955
+Goa,Anjuna Beach,The Grand Anjuna Beach Resort & Spa,4.7,2,Yes,Yes,73.744,15.5739,Deluxe King Suite,10714
+Goa,Anjuna Beach,Anjuna Beach Heritage View Hotel,4.3,3,Yes,Yes,73.744,15.5739,Standard Premium Double,3087
+Goa,Anjuna Beach,Comfort Inn & Suites near Anjuna Beach,3.5,4,No,No,73.744,15.5739,Economy Family Room,2092
+Goa,Chapora Fort,The Grand Chapora Fort Resort & Spa,4.8,2,Yes,Yes,73.739,15.6042,Deluxe King Suite,11343
+Goa,Chapora Fort,Chapora Fort Heritage View Hotel,4.3,3,Yes,Yes,73.739,15.6042,Standard Premium Double,5491
+Goa,Chapora Fort,Comfort Inn & Suites near Chapora Fort,3.3,4,No,No,73.739,15.6042,Economy Family Room,1742
+Goa,Panaji Church,The Grand Panaji Church Resort & Spa,4.7,2,Yes,Yes,73.8278,15.4989,Deluxe King Suite,9935
+Goa,Panaji Church,Panaji Church Heritage View Hotel,4.3,3,Yes,No,73.8278,15.4989,Standard Premium Double,5281
+Goa,Panaji Church,Comfort Inn & Suites near Panaji Church,3.4,4,No,No,73.8278,15.4989,Economy Family Room,2012
+Goa,Colva Beach,The Grand Colva Beach Resort & Spa,4.8,2,Yes,Yes,73.9214,15.2793,Deluxe King Suite,11110
+Goa,Colva Beach,Colva Beach Heritage View Hotel,4.0,3,Yes,No,73.9214,15.2793,Standard Premium Double,3766
+Goa,Colva Beach,Comfort Inn & Suites near Colva Beach,3.8,4,Yes,No,73.9214,15.2793,Economy Family Room,1589
+Goa,Calangute Beach,The Grand Calangute Beach Resort & Spa,4.9,2,Yes,Yes,73.7558,15.5438,Deluxe King Suite,11192
+Goa,Calangute Beach,Calangute Beach Heritage View Hotel,3.9,3,Yes,Yes,73.7558,15.5438,Standard Premium Double,3583
+Goa,Calangute Beach,Comfort Inn & Suites near Calangute Beach,3.6,4,No,No,73.7558,15.5438,Economy Family Room,1006
+Goa,Aguada Fort,The Grand Aguada Fort Resort & Spa,4.8,2,Yes,Yes,73.7737,15.4946,Deluxe King Suite,12574
+Goa,Aguada Fort,Aguada Fort Heritage View Hotel,3.9,3,Yes,Yes,73.7737,15.4946,Standard Premium Double,4184
+Goa,Aguada Fort,Comfort Inn & Suites near Aguada Fort,3.3,4,Yes,No,73.7737,15.4946,Economy Family Room,2139
+Goa,Palolem Beach,The Grand Palolem Beach Resort & Spa,4.7,2,Yes,Yes,74.0234,15.0098,Deluxe King Suite,7428
+Goa,Palolem Beach,Palolem Beach Heritage View Hotel,4.3,3,Yes,Yes,74.0234,15.0098,Standard Premium Double,3155
+Goa,Palolem Beach,Comfort Inn & Suites near Palolem Beach,3.5,4,No,No,74.0234,15.0098,Economy Family Room,1242
+Maharashtra,Gateway of India Mumbai,The Grand Gateway of India Mumbai Resort & Spa,4.7,2,Yes,Yes,72.8347,18.922,Deluxe King Suite,11703
+Maharashtra,Gateway of India Mumbai,Gateway of India Mumbai Heritage View Hotel,3.9,3,Yes,Yes,72.8347,18.922,Standard Premium Double,4381
+Maharashtra,Gateway of India Mumbai,Comfort Inn & Suites near Gateway of India Mumbai,3.3,4,Yes,No,72.8347,18.922,Economy Family Room,1940
+Maharashtra,Ajanta Caves,The Grand Ajanta Caves Resort & Spa,4.8,2,Yes,Yes,75.7033,20.5519,Deluxe King Suite,12120
+Maharashtra,Ajanta Caves,Ajanta Caves Heritage View Hotel,3.9,3,Yes,No,75.7033,20.5519,Standard Premium Double,4925
+Maharashtra,Ajanta Caves,Comfort Inn & Suites near Ajanta Caves,3.4,4,No,No,75.7033,20.5519,Economy Family Room,931
+Maharashtra,Ellora Caves,The Grand Ellora Caves Resort & Spa,4.5,2,Yes,Yes,75.179,20.0258,Deluxe King Suite,8318
+Maharashtra,Ellora Caves,Ellora Caves Heritage View Hotel,4.0,3,Yes,No,75.179,20.0258,Standard Premium Double,4970
+Maharashtra,Ellora Caves,Comfort Inn & Suites near Ellora Caves,3.4,4,No,No,75.179,20.0258,Economy Family Room,1584
+Maharashtra,Elephanta Caves,The Grand Elephanta Caves Resort & Spa,4.8,2,Yes,Yes,72.9315,18.9633,Deluxe King Suite,6849
+Maharashtra,Elephanta Caves,Elephanta Caves Heritage View Hotel,4.1,3,Yes,Yes,72.9315,18.9633,Standard Premium Double,3251
+Maharashtra,Elephanta Caves,Comfort Inn & Suites near Elephanta Caves,3.4,4,No,No,72.9315,18.9633,Economy Family Room,1110
+Maharashtra,Chhatrapati Shivaji Terminus,The Grand Chhatrapati Shivaji Terminus Resort & Spa,4.6,2,Yes,Yes,72.8354,18.94,Deluxe King Suite,14842
+Maharashtra,Chhatrapati Shivaji Terminus,Chhatrapati Shivaji Terminus Heritage View Hotel,4.4,3,Yes,Yes,72.8354,18.94,Standard Premium Double,5416
+Maharashtra,Chhatrapati Shivaji Terminus,Comfort Inn & Suites near Chhatrapati Shivaji Terminus,3.6,4,Yes,No,72.8354,18.94,Economy Family Room,1106
+Maharashtra,Lonavala,The Grand Lonavala Resort & Spa,4.8,2,Yes,Yes,73.4072,18.7481,Deluxe King Suite,14936
+Maharashtra,Lonavala,Lonavala Heritage View Hotel,4.2,3,Yes,No,73.4072,18.7481,Standard Premium Double,4336
+Maharashtra,Lonavala,Comfort Inn & Suites near Lonavala,3.7,4,No,No,73.4072,18.7481,Economy Family Room,1989
+Maharashtra,Mahabaleshwar,The Grand Mahabaleshwar Resort & Spa,4.6,2,Yes,Yes,73.6575,17.9236,Deluxe King Suite,11352
+Maharashtra,Mahabaleshwar,Mahabaleshwar Heritage View Hotel,4.3,3,Yes,Yes,73.6575,17.9236,Standard Premium Double,2844
+Maharashtra,Mahabaleshwar,Comfort Inn & Suites near Mahabaleshwar,3.8,4,Yes,No,73.6575,17.9236,Economy Family Room,1279
+Maharashtra,Shirdi Sai Baba Temple,The Grand Shirdi Sai Baba Temple Resort & Spa,4.7,2,Yes,Yes,74.4768,19.765,Deluxe King Suite,14358
+Maharashtra,Shirdi Sai Baba Temple,Shirdi Sai Baba Temple Heritage View Hotel,4.4,3,Yes,No,74.4768,19.765,Standard Premium Double,5103
+Maharashtra,Shirdi Sai Baba Temple,Comfort Inn & Suites near Shirdi Sai Baba Temple,3.5,4,Yes,No,74.4768,19.765,Economy Family Room,1366
+Maharashtra,Nashik,The Grand Nashik Resort & Spa,4.8,2,Yes,Yes,73.7898,20.0132,Deluxe King Suite,13177
+Maharashtra,Nashik,Nashik Heritage View Hotel,4.3,3,Yes,Yes,73.7898,20.0132,Standard Premium Double,5037
+Maharashtra,Nashik,Comfort Inn & Suites near Nashik,3.4,4,No,No,73.7898,20.0132,Economy Family Room,2083
+Maharashtra,Kolhapur Palace,The Grand Kolhapur Palace Resort & Spa,4.6,2,Yes,Yes,74.2251,16.6949,Deluxe King Suite,10403
+Maharashtra,Kolhapur Palace,Kolhapur Palace Heritage View Hotel,4.1,3,Yes,Yes,74.2251,16.6949,Standard Premium Double,2698
+Maharashtra,Kolhapur Palace,Comfort Inn & Suites near Kolhapur Palace,3.3,4,No,No,74.2251,16.6949,Economy Family Room,1365
+Tamil Nadu,Meenakshi Amman Temple,The Grand Meenakshi Amman Temple Resort & Spa,4.9,2,Yes,Yes,78.1194,9.9195,Deluxe King Suite,14846
+Tamil Nadu,Meenakshi Amman Temple,Meenakshi Amman Temple Heritage View Hotel,4.0,3,Yes,No,78.1194,9.9195,Standard Premium Double,5184
+Tamil Nadu,Meenakshi Amman Temple,Comfort Inn & Suites near Meenakshi Amman Temple,3.2,4,Yes,No,78.1194,9.9195,Economy Family Room,1283
+Tamil Nadu,Shore Temple Mahabalipuram,The Grand Shore Temple Mahabalipuram Resort & Spa,4.9,2,Yes,Yes,80.1928,12.6172,Deluxe King Suite,11438
+Tamil Nadu,Shore Temple Mahabalipuram,Shore Temple Mahabalipuram Heritage View Hotel,4.0,3,Yes,Yes,80.1928,12.6172,Standard Premium Double,5061
+Tamil Nadu,Shore Temple Mahabalipuram,Comfort Inn & Suites near Shore Temple Mahabalipuram,3.4,4,Yes,No,80.1928,12.6172,Economy Family Room,945
+Tamil Nadu,Brihadeeswara Temple Thanjavur,The Grand Brihadeeswara Temple Thanjavur Resort & Spa,4.7,2,Yes,Yes,79.1318,10.7828,Deluxe King Suite,13361
+Tamil Nadu,Brihadeeswara Temple Thanjavur,Brihadeeswara Temple Thanjavur Heritage View Hotel,4.2,3,Yes,Yes,79.1318,10.7828,Standard Premium Double,4599
+Tamil Nadu,Brihadeeswara Temple Thanjavur,Comfort Inn & Suites near Brihadeeswara Temple Thanjavur,3.5,4,No,No,79.1318,10.7828,Economy Family Room,1357
+Tamil Nadu,Ooty,The Grand Ooty Resort & Spa,4.7,2,Yes,Yes,76.695,11.4102,Deluxe King Suite,10852
+Tamil Nadu,Ooty,Ooty Heritage View Hotel,4.1,3,Yes,Yes,76.695,11.4102,Standard Premium Double,4913
+Tamil Nadu,Ooty,Comfort Inn & Suites near Ooty,3.4,4,Yes,No,76.695,11.4102,Economy Family Room,2178
+Tamil Nadu,Kodaikanal,The Grand Kodaikanal Resort & Spa,4.5,2,Yes,Yes,77.4892,10.2381,Deluxe King Suite,8083
+Tamil Nadu,Kodaikanal,Kodaikanal Heritage View Hotel,4.3,3,Yes,No,77.4892,10.2381,Standard Premium Double,5250
+Tamil Nadu,Kodaikanal,Comfort Inn & Suites near Kodaikanal,3.2,4,No,No,77.4892,10.2381,Economy Family Room,1763
+Tamil Nadu,Marina Beach Chennai,The Grand Marina Beach Chennai Resort & Spa,4.9,2,Yes,Yes,80.2824,13.05,Deluxe King Suite,6654
+Tamil Nadu,Marina Beach Chennai,Marina Beach Chennai Heritage View Hotel,4.0,3,Yes,Yes,80.2824,13.05,Standard Premium Double,3941
+Tamil Nadu,Marina Beach Chennai,Comfort Inn & Suites near Marina Beach Chennai,3.8,4,Yes,No,80.2824,13.05,Economy Family Room,2027
+Tamil Nadu,Kanyakumari,The Grand Kanyakumari Resort & Spa,4.8,2,Yes,Yes,77.5385,8.0883,Deluxe King Suite,8867
+Tamil Nadu,Kanyakumari,Kanyakumari Heritage View Hotel,4.2,3,Yes,Yes,77.5385,8.0883,Standard Premium Double,4474
+Tamil Nadu,Kanyakumari,Comfort Inn & Suites near Kanyakumari,3.7,4,No,No,77.5385,8.0883,Economy Family Room,1042
+Tamil Nadu,Madurai,The Grand Madurai Resort & Spa,4.6,2,Yes,Yes,78.1198,9.9252,Deluxe King Suite,12216
+Tamil Nadu,Madurai,Madurai Heritage View Hotel,3.9,3,Yes,Yes,78.1198,9.9252,Standard Premium Double,5078
+Tamil Nadu,Madurai,Comfort Inn & Suites near Madurai,3.8,4,Yes,No,78.1198,9.9252,Economy Family Room,1280
+Tamil Nadu,Mudumalai National Park,The Grand Mudumalai National Park Resort & Spa,4.6,2,Yes,Yes,76.6367,11.5717,Deluxe King Suite,7933
+Tamil Nadu,Mudumalai National Park,Mudumalai National Park Heritage View Hotel,4.3,3,Yes,No,76.6367,11.5717,Standard Premium Double,4274
+Tamil Nadu,Mudumalai National Park,Comfort Inn & Suites near Mudumalai National Park,3.5,4,Yes,No,76.6367,11.5717,Economy Family Room,1280
+Tamil Nadu,Vellore Fort,The Grand Vellore Fort Resort & Spa,4.8,2,Yes,Yes,79.1319,12.9202,Deluxe King Suite,13225
+Tamil Nadu,Vellore Fort,Vellore Fort Heritage View Hotel,4.2,3,Yes,Yes,79.1319,12.9202,Standard Premium Double,3914
+Tamil Nadu,Vellore Fort,Comfort Inn & Suites near Vellore Fort,3.3,4,No,No,79.1319,12.9202,Economy Family Room,1266
+Himachal Pradesh,Shimla,The Grand Shimla Resort & Spa,4.9,2,Yes,Yes,77.1734,31.1048,Deluxe King Suite,11007
+Himachal Pradesh,Shimla,Shimla Heritage View Hotel,4.2,3,Yes,Yes,77.1734,31.1048,Standard Premium Double,3960
+Himachal Pradesh,Shimla,Comfort Inn & Suites near Shimla,3.4,4,Yes,No,77.1734,31.1048,Economy Family Room,1621
+Himachal Pradesh,Manali,The Grand Manali Resort & Spa,4.8,2,Yes,Yes,77.1892,32.2432,Deluxe King Suite,9379
+Himachal Pradesh,Manali,Manali Heritage View Hotel,4.4,3,Yes,No,77.1892,32.2432,Standard Premium Double,2521
+Himachal Pradesh,Manali,Comfort Inn & Suites near Manali,3.4,4,Yes,No,77.1892,32.2432,Economy Family Room,1260
+Himachal Pradesh,Rohtang Pass,The Grand Rohtang Pass Resort & Spa,4.8,2,Yes,Yes,77.2453,32.3726,Deluxe King Suite,7179
+Himachal Pradesh,Rohtang Pass,Rohtang Pass Heritage View Hotel,4.3,3,Yes,Yes,77.2453,32.3726,Standard Premium Double,3547
+Himachal Pradesh,Rohtang Pass,Comfort Inn & Suites near Rohtang Pass,3.5,4,No,No,77.2453,32.3726,Economy Family Room,2028
+Himachal Pradesh,Spiti Valley,The Grand Spiti Valley Resort & Spa,4.7,2,Yes,Yes,78.0335,32.2464,Deluxe King Suite,8273
+Himachal Pradesh,Spiti Valley,Spiti Valley Heritage View Hotel,4.1,3,Yes,No,78.0335,32.2464,Standard Premium Double,5307
+Himachal Pradesh,Spiti Valley,Comfort Inn & Suites near Spiti Valley,3.4,4,Yes,No,78.0335,32.2464,Economy Family Room,1815
+Himachal Pradesh,Dharamshala,The Grand Dharamshala Resort & Spa,4.5,2,Yes,Yes,76.3234,32.219,Deluxe King Suite,9860
+Himachal Pradesh,Dharamshala,Dharamshala Heritage View Hotel,4.2,3,Yes,No,76.3234,32.219,Standard Premium Double,3639
+Himachal Pradesh,Dharamshala,Comfort Inn & Suites near Dharamshala,3.5,4,No,No,76.3234,32.219,Economy Family Room,1937
+Himachal Pradesh,Dalhousie,The Grand Dalhousie Resort & Spa,4.9,2,Yes,Yes,75.9731,32.5382,Deluxe King Suite,13356
+Himachal Pradesh,Dalhousie,Dalhousie Heritage View Hotel,4.2,3,Yes,No,75.9731,32.5382,Standard Premium Double,2682
+Himachal Pradesh,Dalhousie,Comfort Inn & Suites near Dalhousie,3.3,4,Yes,No,75.9731,32.5382,Economy Family Room,1644
+Himachal Pradesh,Kullu Valley,The Grand Kullu Valley Resort & Spa,4.6,2,Yes,Yes,77.1089,31.9592,Deluxe King Suite,13593
+Himachal Pradesh,Kullu Valley,Kullu Valley Heritage View Hotel,4.2,3,Yes,No,77.1089,31.9592,Standard Premium Double,2813
+Himachal Pradesh,Kullu Valley,Comfort Inn & Suites near Kullu Valley,3.5,4,Yes,No,77.1089,31.9592,Economy Family Room,2141
+Himachal Pradesh,Kasol,The Grand Kasol Resort & Spa,4.7,2,Yes,Yes,77.3149,32.0098,Deluxe King Suite,10454
+Himachal Pradesh,Kasol,Kasol Heritage View Hotel,4.3,3,Yes,No,77.3149,32.0098,Standard Premium Double,4016
+Himachal Pradesh,Kasol,Comfort Inn & Suites near Kasol,3.2,4,Yes,No,77.3149,32.0098,Economy Family Room,1426
+Himachal Pradesh,Khajjiar,The Grand Khajjiar Resort & Spa,4.8,2,Yes,Yes,76.0531,32.5424,Deluxe King Suite,9085
+Himachal Pradesh,Khajjiar,Khajjiar Heritage View Hotel,4.3,3,Yes,Yes,76.0531,32.5424,Standard Premium Double,5426
+Himachal Pradesh,Khajjiar,Comfort Inn & Suites near Khajjiar,3.7,4,Yes,No,76.0531,32.5424,Economy Family Room,1357
+Himachal Pradesh,Great Himalayan National Park,The Grand Great Himalayan National Park Resort & Spa,4.6,2,Yes,Yes,77.488,31.748,Deluxe King Suite,6754
+Himachal Pradesh,Great Himalayan National Park,Great Himalayan National Park Heritage View Hotel,4.3,3,Yes,No,77.488,31.748,Standard Premium Double,4021
+Himachal Pradesh,Great Himalayan National Park,Comfort Inn & Suites near Great Himalayan National Park,3.5,4,Yes,No,77.488,31.748,Economy Family Room,956
+West Bengal,Victoria Memorial Kolkata,The Grand Victoria Memorial Kolkata Resort & Spa,4.6,2,Yes,Yes,88.3426,22.5448,Deluxe King Suite,10941
+West Bengal,Victoria Memorial Kolkata,Victoria Memorial Kolkata Heritage View Hotel,4.1,3,Yes,Yes,88.3426,22.5448,Standard Premium Double,4716
+West Bengal,Victoria Memorial Kolkata,Comfort Inn & Suites near Victoria Memorial Kolkata,3.3,4,Yes,No,88.3426,22.5448,Economy Family Room,1415
+West Bengal,Darjeeling Tea Estates,The Grand Darjeeling Tea Estates Resort & Spa,4.5,2,Yes,Yes,88.2627,27.036,Deluxe King Suite,8910
+West Bengal,Darjeeling Tea Estates,Darjeeling Tea Estates Heritage View Hotel,4.2,3,Yes,Yes,88.2627,27.036,Standard Premium Double,3839
+West Bengal,Darjeeling Tea Estates,Comfort Inn & Suites near Darjeeling Tea Estates,3.6,4,No,No,88.2627,27.036,Economy Family Room,1594
+West Bengal,Sundarbans National Park,The Grand Sundarbans National Park Resort & Spa,4.6,2,Yes,Yes,89.1833,21.9497,Deluxe King Suite,14174
+West Bengal,Sundarbans National Park,Sundarbans National Park Heritage View Hotel,3.9,3,Yes,Yes,89.1833,21.9497,Standard Premium Double,3447
+West Bengal,Sundarbans National Park,Comfort Inn & Suites near Sundarbans National Park,3.6,4,Yes,No,89.1833,21.9497,Economy Family Room,2153
+West Bengal,Howrah Bridge,The Grand Howrah Bridge Resort & Spa,4.7,2,Yes,Yes,88.3468,22.5851,Deluxe King Suite,6891
+West Bengal,Howrah Bridge,Howrah Bridge Heritage View Hotel,4.3,3,Yes,Yes,88.3468,22.5851,Standard Premium Double,4268
+West Bengal,Howrah Bridge,Comfort Inn & Suites near Howrah Bridge,3.6,4,No,No,88.3468,22.5851,Economy Family Room,1554
+West Bengal,Dakshineswar Kali Temple,The Grand Dakshineswar Kali Temple Resort & Spa,4.9,2,Yes,Yes,88.358,22.6545,Deluxe King Suite,10087
+West Bengal,Dakshineswar Kali Temple,Dakshineswar Kali Temple Heritage View Hotel,4.0,3,Yes,Yes,88.358,22.6545,Standard Premium Double,4889
+West Bengal,Dakshineswar Kali Temple,Comfort Inn & Suites near Dakshineswar Kali Temple,3.5,4,No,No,88.358,22.6545,Economy Family Room,1088
+West Bengal,Bishnupur Temples,The Grand Bishnupur Temples Resort & Spa,4.7,2,Yes,Yes,87.3155,23.0773,Deluxe King Suite,9028
+West Bengal,Bishnupur Temples,Bishnupur Temples Heritage View Hotel,4.4,3,Yes,Yes,87.3155,23.0773,Standard Premium Double,3343
+West Bengal,Bishnupur Temples,Comfort Inn & Suites near Bishnupur Temples,3.4,4,No,No,87.3155,23.0773,Economy Family Room,2095
+West Bengal,Tiger Hill Darjeeling,The Grand Tiger Hill Darjeeling Resort & Spa,4.8,2,Yes,Yes,88.2985,27.0173,Deluxe King Suite,13971
+West Bengal,Tiger Hill Darjeeling,Tiger Hill Darjeeling Heritage View Hotel,3.9,3,Yes,No,88.2985,27.0173,Standard Premium Double,3880
+West Bengal,Tiger Hill Darjeeling,Comfort Inn & Suites near Tiger Hill Darjeeling,3.6,4,No,No,88.2985,27.0173,Economy Family Room,2117
+West Bengal,Belur Math,The Grand Belur Math Resort & Spa,4.6,2,Yes,Yes,88.3568,22.6292,Deluxe King Suite,14642
+West Bengal,Belur Math,Belur Math Heritage View Hotel,4.0,3,Yes,No,88.3568,22.6292,Standard Premium Double,5028
+West Bengal,Belur Math,Comfort Inn & Suites near Belur Math,3.7,4,Yes,No,88.3568,22.6292,Economy Family Room,1277
+West Bengal,Indian Museum Kolkata,The Grand Indian Museum Kolkata Resort & Spa,4.6,2,Yes,Yes,88.3512,22.557,Deluxe King Suite,10582
+West Bengal,Indian Museum Kolkata,Indian Museum Kolkata Heritage View Hotel,4.3,3,Yes,Yes,88.3512,22.557,Standard Premium Double,4670
+West Bengal,Indian Museum Kolkata,Comfort Inn & Suites near Indian Museum Kolkata,3.6,4,No,No,88.3512,22.557,Economy Family Room,1364
+West Bengal,Murshidabad,The Grand Murshidabad Resort & Spa,4.5,2,Yes,Yes,88.2697,24.1834,Deluxe King Suite,11750
+West Bengal,Murshidabad,Murshidabad Heritage View Hotel,4.3,3,Yes,Yes,88.2697,24.1834,Standard Premium Double,5082
+West Bengal,Murshidabad,Comfort Inn & Suites near Murshidabad,3.6,4,No,No,88.2697,24.1834,Economy Family Room,1441
+New South Wales,Sydney Opera House,The Grand Sydney Opera House Resort & Spa,4.8,2,Yes,Yes,151.2153,-33.8568,Deluxe King Suite,416
+New South Wales,Sydney Opera House,Sydney Opera House Heritage View Hotel,4.4,3,Yes,No,151.2153,-33.8568,Standard Premium Double,129
+New South Wales,Sydney Opera House,Comfort Inn & Suites near Sydney Opera House,3.6,4,Yes,No,151.2153,-33.8568,Economy Family Room,88
+New South Wales,Sydney Harbour Bridge,The Grand Sydney Harbour Bridge Resort & Spa,4.8,2,Yes,Yes,151.2108,-33.8523,Deluxe King Suite,316
+New South Wales,Sydney Harbour Bridge,Sydney Harbour Bridge Heritage View Hotel,4.3,3,Yes,No,151.2108,-33.8523,Standard Premium Double,175
+New South Wales,Sydney Harbour Bridge,Comfort Inn & Suites near Sydney Harbour Bridge,3.2,4,No,No,151.2108,-33.8523,Economy Family Room,67
+New South Wales,Bondi Beach,The Grand Bondi Beach Resort & Spa,4.8,2,Yes,Yes,151.2767,-33.8915,Deluxe King Suite,323
+New South Wales,Bondi Beach,Bondi Beach Heritage View Hotel,4.1,3,Yes,Yes,151.2767,-33.8915,Standard Premium Double,206
+New South Wales,Bondi Beach,Comfort Inn & Suites near Bondi Beach,3.6,4,Yes,No,151.2767,-33.8915,Economy Family Room,92
+New South Wales,Blue Mountains,The Grand Blue Mountains Resort & Spa,4.5,2,Yes,Yes,150.3117,-33.7148,Deluxe King Suite,288
+New South Wales,Blue Mountains,Blue Mountains Heritage View Hotel,4.4,3,Yes,No,150.3117,-33.7148,Standard Premium Double,192
+New South Wales,Blue Mountains,Comfort Inn & Suites near Blue Mountains,3.5,4,No,No,150.3117,-33.7148,Economy Family Room,79
+New South Wales,Royal Botanic Garden Sydney,The Grand Royal Botanic Garden Sydney Resort & Spa,4.7,2,Yes,Yes,151.2166,-33.8642,Deluxe King Suite,313
+New South Wales,Royal Botanic Garden Sydney,Royal Botanic Garden Sydney Heritage View Hotel,4.1,3,Yes,No,151.2166,-33.8642,Standard Premium Double,167
+New South Wales,Royal Botanic Garden Sydney,Comfort Inn & Suites near Royal Botanic Garden Sydney,3.5,4,No,No,151.2166,-33.8642,Economy Family Room,76
+New South Wales,Hunter Valley Wineries,The Grand Hunter Valley Wineries Resort & Spa,4.5,2,Yes,Yes,151.17,-32.79,Deluxe King Suite,364
+New South Wales,Hunter Valley Wineries,Hunter Valley Wineries Heritage View Hotel,4.0,3,Yes,No,151.17,-32.79,Standard Premium Double,163
+New South Wales,Hunter Valley Wineries,Comfort Inn & Suites near Hunter Valley Wineries,3.6,4,Yes,No,151.17,-32.79,Economy Family Room,80
+New South Wales,Byron Bay,The Grand Byron Bay Resort & Spa,4.7,2,Yes,Yes,153.602,-28.6474,Deluxe King Suite,293
+New South Wales,Byron Bay,Byron Bay Heritage View Hotel,4.0,3,Yes,No,153.602,-28.6474,Standard Premium Double,149
+New South Wales,Byron Bay,Comfort Inn & Suites near Byron Bay,3.6,4,No,No,153.602,-28.6474,Economy Family Room,67
+New South Wales,Jervis Bay,The Grand Jervis Bay Resort & Spa,4.6,2,Yes,Yes,150.76,-35.17,Deluxe King Suite,443
+New South Wales,Jervis Bay,Jervis Bay Heritage View Hotel,4.3,3,Yes,Yes,150.76,-35.17,Standard Premium Double,178
+New South Wales,Jervis Bay,Comfort Inn & Suites near Jervis Bay,3.4,4,No,No,150.76,-35.17,Economy Family Room,97
+New South Wales,Port Stephens,The Grand Port Stephens Resort & Spa,4.6,2,Yes,Yes,152.091,-32.717,Deluxe King Suite,378
+New South Wales,Port Stephens,Port Stephens Heritage View Hotel,4.2,3,Yes,No,152.091,-32.717,Standard Premium Double,125
+New South Wales,Port Stephens,Comfort Inn & Suites near Port Stephens,3.4,4,Yes,No,152.091,-32.717,Economy Family Room,76
+New South Wales,Snowy Mountains,The Grand Snowy Mountains Resort & Spa,4.8,2,Yes,Yes,148.264,-36.4548,Deluxe King Suite,430
+New South Wales,Snowy Mountains,Snowy Mountains Heritage View Hotel,4.1,3,Yes,Yes,148.264,-36.4548,Standard Premium Double,182
+New South Wales,Snowy Mountains,Comfort Inn & Suites near Snowy Mountains,3.6,4,No,No,148.264,-36.4548,Economy Family Room,104
+Victoria,Great Ocean Road,The Grand Great Ocean Road Resort & Spa,4.9,2,Yes,Yes,143.4,-38.68,Deluxe King Suite,323
+Victoria,Great Ocean Road,Great Ocean Road Heritage View Hotel,4.4,3,Yes,No,143.4,-38.68,Standard Premium Double,181
+Victoria,Great Ocean Road,Comfort Inn & Suites near Great Ocean Road,3.6,4,No,No,143.4,-38.68,Economy Family Room,78
+Victoria,Twelve Apostles,The Grand Twelve Apostles Resort & Spa,4.7,2,Yes,Yes,143.105,-38.6623,Deluxe King Suite,499
+Victoria,Twelve Apostles,Twelve Apostles Heritage View Hotel,4.4,3,Yes,Yes,143.105,-38.6623,Standard Premium Double,190
+Victoria,Twelve Apostles,Comfort Inn & Suites near Twelve Apostles,3.3,4,Yes,No,143.105,-38.6623,Economy Family Room,101
+Victoria,Federation Square Melbourne,The Grand Federation Square Melbourne Resort & Spa,4.6,2,Yes,Yes,144.9691,-37.818,Deluxe King Suite,473
+Victoria,Federation Square Melbourne,Federation Square Melbourne Heritage View Hotel,4.2,3,Yes,Yes,144.9691,-37.818,Standard Premium Double,185
+Victoria,Federation Square Melbourne,Comfort Inn & Suites near Federation Square Melbourne,3.4,4,Yes,No,144.9691,-37.818,Economy Family Room,97
+Victoria,Phillip Island Penguin Parade,The Grand Phillip Island Penguin Parade Resort & Spa,4.6,2,Yes,Yes,145.3677,-38.4987,Deluxe King Suite,360
+Victoria,Phillip Island Penguin Parade,Phillip Island Penguin Parade Heritage View Hotel,3.9,3,Yes,No,145.3677,-38.4987,Standard Premium Double,139
+Victoria,Phillip Island Penguin Parade,Comfort Inn & Suites near Phillip Island Penguin Parade,3.5,4,No,No,145.3677,-38.4987,Economy Family Room,92
+Victoria,Yarra Valley,The Grand Yarra Valley Resort & Spa,4.7,2,Yes,Yes,145.55,-37.71,Deluxe King Suite,317
+Victoria,Yarra Valley,Yarra Valley Heritage View Hotel,4.0,3,Yes,Yes,145.55,-37.71,Standard Premium Double,194
+Victoria,Yarra Valley,Comfort Inn & Suites near Yarra Valley,3.3,4,Yes,No,145.55,-37.71,Economy Family Room,73
+Victoria,Melbourne Cricket Ground,The Grand Melbourne Cricket Ground Resort & Spa,4.5,2,Yes,Yes,144.9836,-37.82,Deluxe King Suite,312
+Victoria,Melbourne Cricket Ground,Melbourne Cricket Ground Heritage View Hotel,4.1,3,Yes,No,144.9836,-37.82,Standard Premium Double,156
+Victoria,Melbourne Cricket Ground,Comfort Inn & Suites near Melbourne Cricket Ground,3.5,4,No,No,144.9836,-37.82,Economy Family Room,84
+Victoria,Sovereign Hill Ballarat,The Grand Sovereign Hill Ballarat Resort & Spa,4.7,2,Yes,Yes,143.8397,-37.5683,Deluxe King Suite,306
+Victoria,Sovereign Hill Ballarat,Sovereign Hill Ballarat Heritage View Hotel,4.1,3,Yes,Yes,143.8397,-37.5683,Standard Premium Double,153
+Victoria,Sovereign Hill Ballarat,Comfort Inn & Suites near Sovereign Hill Ballarat,3.7,4,Yes,No,143.8397,-37.5683,Economy Family Room,67
+Victoria,Healesville Sanctuary,The Grand Healesville Sanctuary Resort & Spa,4.8,2,Yes,Yes,145.5163,-37.6561,Deluxe King Suite,275
+Victoria,Healesville Sanctuary,Healesville Sanctuary Heritage View Hotel,4.2,3,Yes,No,145.5163,-37.6561,Standard Premium Double,199
+Victoria,Healesville Sanctuary,Comfort Inn & Suites near Healesville Sanctuary,3.6,4,No,No,145.5163,-37.6561,Economy Family Room,98
+Victoria,Wilson's Promontory,The Grand Wilson's Promontory Resort & Spa,4.9,2,Yes,Yes,146.35,-39.05,Deluxe King Suite,366
+Victoria,Wilson's Promontory,Wilson's Promontory Heritage View Hotel,4.1,3,Yes,Yes,146.35,-39.05,Standard Premium Double,155
+Victoria,Wilson's Promontory,Comfort Inn & Suites near Wilson's Promontory,3.4,4,Yes,No,146.35,-39.05,Economy Family Room,97
+Victoria,Royal Botanic Gardens Melbourne,The Grand Royal Botanic Gardens Melbourne Resort & Spa,4.8,2,Yes,Yes,144.9798,-37.8304,Deluxe King Suite,387
+Victoria,Royal Botanic Gardens Melbourne,Royal Botanic Gardens Melbourne Heritage View Hotel,4.3,3,Yes,No,144.9798,-37.8304,Standard Premium Double,200
+Victoria,Royal Botanic Gardens Melbourne,Comfort Inn & Suites near Royal Botanic Gardens Melbourne,3.8,4,Yes,No,144.9798,-37.8304,Economy Family Room,98
+Queensland,Great Barrier Reef,The Grand Great Barrier Reef Resort & Spa,4.9,2,Yes,Yes,147.6992,-18.2871,Deluxe King Suite,405
+Queensland,Great Barrier Reef,Great Barrier Reef Heritage View Hotel,4.1,3,Yes,Yes,147.6992,-18.2871,Standard Premium Double,130
+Queensland,Great Barrier Reef,Comfort Inn & Suites near Great Barrier Reef,3.5,4,Yes,No,147.6992,-18.2871,Economy Family Room,103
+Queensland,Whitsunday Islands,The Grand Whitsunday Islands Resort & Spa,4.6,2,Yes,Yes,148.83,-20.27,Deluxe King Suite,472
+Queensland,Whitsunday Islands,Whitsunday Islands Heritage View Hotel,4.3,3,Yes,No,148.83,-20.27,Standard Premium Double,156
+Queensland,Whitsunday Islands,Comfort Inn & Suites near Whitsunday Islands,3.7,4,No,No,148.83,-20.27,Economy Family Room,97
+Queensland,Daintree Rainforest,The Grand Daintree Rainforest Resort & Spa,4.5,2,Yes,Yes,145.42,-16.17,Deluxe King Suite,280
+Queensland,Daintree Rainforest,Daintree Rainforest Heritage View Hotel,4.1,3,Yes,No,145.42,-16.17,Standard Premium Double,190
+Queensland,Daintree Rainforest,Comfort Inn & Suites near Daintree Rainforest,3.7,4,No,No,145.42,-16.17,Economy Family Room,72
+Queensland,Gold Coast,The Grand Gold Coast Resort & Spa,4.6,2,Yes,Yes,153.4,-28.0167,Deluxe King Suite,499
+Queensland,Gold Coast,Gold Coast Heritage View Hotel,4.1,3,Yes,Yes,153.4,-28.0167,Standard Premium Double,166
+Queensland,Gold Coast,Comfort Inn & Suites near Gold Coast,3.5,4,No,No,153.4,-28.0167,Economy Family Room,70
+Queensland,Cairns,The Grand Cairns Resort & Spa,4.5,2,Yes,Yes,145.7781,-16.9186,Deluxe King Suite,337
+Queensland,Cairns,Cairns Heritage View Hotel,4.1,3,Yes,No,145.7781,-16.9186,Standard Premium Double,161
+Queensland,Cairns,Comfort Inn & Suites near Cairns,3.7,4,No,No,145.7781,-16.9186,Economy Family Room,69
+Queensland,Noosa National Park,The Grand Noosa National Park Resort & Spa,4.5,2,Yes,Yes,153.089,-26.4003,Deluxe King Suite,366
+Queensland,Noosa National Park,Noosa National Park Heritage View Hotel,3.9,3,Yes,Yes,153.089,-26.4003,Standard Premium Double,130
+Queensland,Noosa National Park,Comfort Inn & Suites near Noosa National Park,3.3,4,No,No,153.089,-26.4003,Economy Family Room,100
+Queensland,Lamington National Park,The Grand Lamington National Park Resort & Spa,4.6,2,Yes,Yes,153.15,-28.22,Deluxe King Suite,397
+Queensland,Lamington National Park,Lamington National Park Heritage View Hotel,3.9,3,Yes,Yes,153.15,-28.22,Standard Premium Double,146
+Queensland,Lamington National Park,Comfort Inn & Suites near Lamington National Park,3.5,4,Yes,No,153.15,-28.22,Economy Family Room,74
+Queensland,Fraser Island,The Grand Fraser Island Resort & Spa,4.6,2,Yes,Yes,153.2,-25.25,Deluxe King Suite,479
+Queensland,Fraser Island,Fraser Island Heritage View Hotel,4.3,3,Yes,Yes,153.2,-25.25,Standard Premium Double,189
+Queensland,Fraser Island,Comfort Inn & Suites near Fraser Island,3.7,4,No,No,153.2,-25.25,Economy Family Room,95
+Queensland,Kuranda,The Grand Kuranda Resort & Spa,4.6,2,Yes,Yes,145.6333,-16.8167,Deluxe King Suite,396
+Queensland,Kuranda,Kuranda Heritage View Hotel,4.3,3,Yes,No,145.6333,-16.8167,Standard Premium Double,191
+Queensland,Kuranda,Comfort Inn & Suites near Kuranda,3.4,4,No,No,145.6333,-16.8167,Economy Family Room,67
+Queensland,Atherton Tablelands,The Grand Atherton Tablelands Resort & Spa,4.8,2,Yes,Yes,145.4833,-17.2667,Deluxe King Suite,370
+Queensland,Atherton Tablelands,Atherton Tablelands Heritage View Hotel,4.0,3,Yes,Yes,145.4833,-17.2667,Standard Premium Double,202
+Queensland,Atherton Tablelands,Comfort Inn & Suites near Atherton Tablelands,3.4,4,Yes,No,145.4833,-17.2667,Economy Family Room,77
+Western Australia,Ningaloo Reef,The Grand Ningaloo Reef Resort & Spa,4.8,2,Yes,Yes,113.8,-22.6,Deluxe King Suite,311
+Western Australia,Ningaloo Reef,Ningaloo Reef Heritage View Hotel,4.2,3,Yes,No,113.8,-22.6,Standard Premium Double,165
+Western Australia,Ningaloo Reef,Comfort Inn & Suites near Ningaloo Reef,3.7,4,Yes,No,113.8,-22.6,Economy Family Room,74
+Western Australia,Pinnacles Desert,The Grand Pinnacles Desert Resort & Spa,4.7,2,Yes,Yes,115.15,-30.6,Deluxe King Suite,448
+Western Australia,Pinnacles Desert,Pinnacles Desert Heritage View Hotel,3.9,3,Yes,Yes,115.15,-30.6,Standard Premium Double,166
+Western Australia,Pinnacles Desert,Comfort Inn & Suites near Pinnacles Desert,3.8,4,No,No,115.15,-30.6,Economy Family Room,65
+Western Australia,Margaret River,The Grand Margaret River Resort & Spa,4.8,2,Yes,Yes,115.07,-33.95,Deluxe King Suite,392
+Western Australia,Margaret River,Margaret River Heritage View Hotel,4.3,3,Yes,Yes,115.07,-33.95,Standard Premium Double,148
+Western Australia,Margaret River,Comfort Inn & Suites near Margaret River,3.4,4,No,No,115.07,-33.95,Economy Family Room,72
+Western Australia,Broome Cable Beach,The Grand Broome Cable Beach Resort & Spa,4.9,2,Yes,Yes,122.23,-17.96,Deluxe King Suite,419
+Western Australia,Broome Cable Beach,Broome Cable Beach Heritage View Hotel,4.3,3,Yes,Yes,122.23,-17.96,Standard Premium Double,203
+Western Australia,Broome Cable Beach,Comfort Inn & Suites near Broome Cable Beach,3.4,4,Yes,No,122.23,-17.96,Economy Family Room,93
+Western Australia,Wave Rock,The Grand Wave Rock Resort & Spa,4.8,2,Yes,Yes,118.89,-32.44,Deluxe King Suite,345
+Western Australia,Wave Rock,Wave Rock Heritage View Hotel,4.4,3,Yes,Yes,118.89,-32.44,Standard Premium Double,123
+Western Australia,Wave Rock,Comfort Inn & Suites near Wave Rock,3.8,4,Yes,No,118.89,-32.44,Economy Family Room,92
+Western Australia,Rottnest Island,The Grand Rottnest Island Resort & Spa,4.9,2,Yes,Yes,115.5167,-32.0067,Deluxe King Suite,283
+Western Australia,Rottnest Island,Rottnest Island Heritage View Hotel,4.3,3,Yes,Yes,115.5167,-32.0067,Standard Premium Double,207
+Western Australia,Rottnest Island,Comfort Inn & Suites near Rottnest Island,3.3,4,No,No,115.5167,-32.0067,Economy Family Room,73
+Western Australia,Karijini National Park,The Grand Karijini National Park Resort & Spa,4.5,2,Yes,Yes,118.32,-22.46,Deluxe King Suite,490
+Western Australia,Karijini National Park,Karijini National Park Heritage View Hotel,4.1,3,Yes,Yes,118.32,-22.46,Standard Premium Double,200
+Western Australia,Karijini National Park,Comfort Inn & Suites near Karijini National Park,3.5,4,No,No,118.32,-22.46,Economy Family Room,93
+Western Australia,Perth Kings Park,The Grand Perth Kings Park Resort & Spa,4.5,2,Yes,Yes,115.8333,-31.9567,Deluxe King Suite,412
+Western Australia,Perth Kings Park,Perth Kings Park Heritage View Hotel,4.2,3,Yes,No,115.8333,-31.9567,Standard Premium Double,130
+Western Australia,Perth Kings Park,Comfort Inn & Suites near Perth Kings Park,3.6,4,No,No,115.8333,-31.9567,Economy Family Room,89
+Western Australia,Shark Bay,The Grand Shark Bay Resort & Spa,4.7,2,Yes,Yes,113.97,-25.99,Deluxe King Suite,481
+Western Australia,Shark Bay,Shark Bay Heritage View Hotel,4.4,3,Yes,No,113.97,-25.99,Standard Premium Double,169
+Western Australia,Shark Bay,Comfort Inn & Suites near Shark Bay,3.4,4,No,No,113.97,-25.99,Economy Family Room,78
+Western Australia,Fremantle Prison,The Grand Fremantle Prison Resort & Spa,4.6,2,Yes,Yes,115.751,-32.0577,Deluxe King Suite,378
+Western Australia,Fremantle Prison,Fremantle Prison Heritage View Hotel,4.2,3,Yes,No,115.751,-32.0577,Standard Premium Double,157
+Western Australia,Fremantle Prison,Comfort Inn & Suites near Fremantle Prison,3.8,4,Yes,No,115.751,-32.0577,Economy Family Room,99
+South Australia,Kangaroo Island,The Grand Kangaroo Island Resort & Spa,4.8,2,Yes,Yes,137.2,-35.77,Deluxe King Suite,490
+South Australia,Kangaroo Island,Kangaroo Island Heritage View Hotel,3.9,3,Yes,No,137.2,-35.77,Standard Premium Double,190
+South Australia,Kangaroo Island,Comfort Inn & Suites near Kangaroo Island,3.6,4,Yes,No,137.2,-35.77,Economy Family Room,81
+South Australia,Barossa Valley,The Grand Barossa Valley Resort & Spa,4.8,2,Yes,Yes,139.0,-34.53,Deluxe King Suite,318
+South Australia,Barossa Valley,Barossa Valley Heritage View Hotel,4.4,3,Yes,No,139.0,-34.53,Standard Premium Double,200
+South Australia,Barossa Valley,Comfort Inn & Suites near Barossa Valley,3.5,4,No,No,139.0,-34.53,Economy Family Room,88
+South Australia,Flinders Ranges,The Grand Flinders Ranges Resort & Spa,4.8,2,Yes,Yes,138.62,-31.5,Deluxe King Suite,380
+South Australia,Flinders Ranges,Flinders Ranges Heritage View Hotel,4.1,3,Yes,No,138.62,-31.5,Standard Premium Double,135
+South Australia,Flinders Ranges,Comfort Inn & Suites near Flinders Ranges,3.4,4,No,No,138.62,-31.5,Economy Family Room,72
+South Australia,Coober Pedy,The Grand Coober Pedy Resort & Spa,4.8,2,Yes,Yes,134.7543,-29.0135,Deluxe King Suite,451
+South Australia,Coober Pedy,Coober Pedy Heritage View Hotel,4.0,3,Yes,No,134.7543,-29.0135,Standard Premium Double,178
+South Australia,Coober Pedy,Comfort Inn & Suites near Coober Pedy,3.2,4,Yes,No,134.7543,-29.0135,Economy Family Room,93
+South Australia,Adelaide Central Market,The Grand Adelaide Central Market Resort & Spa,4.5,2,Yes,Yes,138.5986,-34.9285,Deluxe King Suite,444
+South Australia,Adelaide Central Market,Adelaide Central Market Heritage View Hotel,4.3,3,Yes,No,138.5986,-34.9285,Standard Premium Double,163
+South Australia,Adelaide Central Market,Comfort Inn & Suites near Adelaide Central Market,3.4,4,No,No,138.5986,-34.9285,Economy Family Room,82
+South Australia,McLaren Vale,The Grand McLaren Vale Resort & Spa,4.7,2,Yes,Yes,138.55,-35.22,Deluxe King Suite,352
+South Australia,McLaren Vale,McLaren Vale Heritage View Hotel,4.2,3,Yes,No,138.55,-35.22,Standard Premium Double,178
+South Australia,McLaren Vale,Comfort Inn & Suites near McLaren Vale,3.7,4,No,No,138.55,-35.22,Economy Family Room,66
+South Australia,Wilpena Pound,The Grand Wilpena Pound Resort & Spa,4.8,2,Yes,Yes,138.6573,-31.5426,Deluxe King Suite,483
+South Australia,Wilpena Pound,Wilpena Pound Heritage View Hotel,4.3,3,Yes,No,138.6573,-31.5426,Standard Premium Double,189
+South Australia,Wilpena Pound,Comfort Inn & Suites near Wilpena Pound,3.3,4,Yes,No,138.6573,-31.5426,Economy Family Room,82
+South Australia,Hahndorf,The Grand Hahndorf Resort & Spa,4.8,2,Yes,Yes,138.8064,-35.0347,Deluxe King Suite,315
+South Australia,Hahndorf,Hahndorf Heritage View Hotel,4.4,3,Yes,No,138.8064,-35.0347,Standard Premium Double,167
+South Australia,Hahndorf,Comfort Inn & Suites near Hahndorf,3.6,4,Yes,No,138.8064,-35.0347,Economy Family Room,102
+South Australia,Victor Harbor,The Grand Victor Harbor Resort & Spa,4.7,2,Yes,Yes,138.62,-35.55,Deluxe King Suite,376
+South Australia,Victor Harbor,Victor Harbor Heritage View Hotel,4.0,3,Yes,No,138.62,-35.55,Standard Premium Double,158
+South Australia,Victor Harbor,Comfort Inn & Suites near Victor Harbor,3.5,4,No,No,138.62,-35.55,Economy Family Room,71
+South Australia,Naracoorte Caves,The Grand Naracoorte Caves Resort & Spa,4.9,2,Yes,Yes,140.78,-36.97,Deluxe King Suite,378
+South Australia,Naracoorte Caves,Naracoorte Caves Heritage View Hotel,4.3,3,Yes,No,140.78,-36.97,Standard Premium Double,201
+South Australia,Naracoorte Caves,Comfort Inn & Suites near Naracoorte Caves,3.6,4,Yes,No,140.78,-36.97,Economy Family Room,70
+Northern Territory,Uluru Ayers Rock,The Grand Uluru Ayers Rock Resort & Spa,4.6,2,Yes,Yes,131.0369,-25.3444,Deluxe King Suite,467
+Northern Territory,Uluru Ayers Rock,Uluru Ayers Rock Heritage View Hotel,4.1,3,Yes,Yes,131.0369,-25.3444,Standard Premium Double,144
+Northern Territory,Uluru Ayers Rock,Comfort Inn & Suites near Uluru Ayers Rock,3.3,4,Yes,No,131.0369,-25.3444,Economy Family Room,100
+Northern Territory,Kakadu National Park,The Grand Kakadu National Park Resort & Spa,4.8,2,Yes,Yes,132.554,-12.663,Deluxe King Suite,371
+Northern Territory,Kakadu National Park,Kakadu National Park Heritage View Hotel,4.2,3,Yes,Yes,132.554,-12.663,Standard Premium Double,194
+Northern Territory,Kakadu National Park,Comfort Inn & Suites near Kakadu National Park,3.3,4,No,No,132.554,-12.663,Economy Family Room,89
+Northern Territory,Katherine Gorge,The Grand Katherine Gorge Resort & Spa,4.7,2,Yes,Yes,132.426,-14.299,Deluxe King Suite,444
+Northern Territory,Katherine Gorge,Katherine Gorge Heritage View Hotel,4.2,3,Yes,No,132.426,-14.299,Standard Premium Double,173
+Northern Territory,Katherine Gorge,Comfort Inn & Suites near Katherine Gorge,3.6,4,Yes,No,132.426,-14.299,Economy Family Room,89
+Northern Territory,Litchfield National Park,The Grand Litchfield National Park Resort & Spa,4.6,2,Yes,Yes,130.75,-13.18,Deluxe King Suite,383
+Northern Territory,Litchfield National Park,Litchfield National Park Heritage View Hotel,4.2,3,Yes,Yes,130.75,-13.18,Standard Premium Double,156
+Northern Territory,Litchfield National Park,Comfort Inn & Suites near Litchfield National Park,3.8,4,Yes,No,130.75,-13.18,Economy Family Room,68
+Northern Territory,Darwin Waterfront,The Grand Darwin Waterfront Resort & Spa,4.9,2,Yes,Yes,130.8456,-12.4634,Deluxe King Suite,490
+Northern Territory,Darwin Waterfront,Darwin Waterfront Heritage View Hotel,4.0,3,Yes,No,130.8456,-12.4634,Standard Premium Double,199
+Northern Territory,Darwin Waterfront,Comfort Inn & Suites near Darwin Waterfront,3.7,4,No,No,130.8456,-12.4634,Economy Family Room,89
+Northern Territory,Devil's Marbles,The Grand Devil's Marbles Resort & Spa,4.8,2,Yes,Yes,134.26,-20.54,Deluxe King Suite,455
+Northern Territory,Devil's Marbles,Devil's Marbles Heritage View Hotel,4.4,3,Yes,Yes,134.26,-20.54,Standard Premium Double,173
+Northern Territory,Devil's Marbles,Comfort Inn & Suites near Devil's Marbles,3.7,4,No,No,134.26,-20.54,Economy Family Room,74
+Northern Territory,Kings Canyon,The Grand Kings Canyon Resort & Spa,4.9,2,Yes,Yes,131.4856,-24.2658,Deluxe King Suite,481
+Northern Territory,Kings Canyon,Kings Canyon Heritage View Hotel,4.3,3,Yes,Yes,131.4856,-24.2658,Standard Premium Double,185
+Northern Territory,Kings Canyon,Comfort Inn & Suites near Kings Canyon,3.4,4,No,No,131.4856,-24.2658,Economy Family Room,97
+Northern Territory,Nitmiluk Gorge,The Grand Nitmiluk Gorge Resort & Spa,4.8,2,Yes,Yes,132.426,-14.299,Deluxe King Suite,296
+Northern Territory,Nitmiluk Gorge,Nitmiluk Gorge Heritage View Hotel,4.2,3,Yes,Yes,132.426,-14.299,Standard Premium Double,134
+Northern Territory,Nitmiluk Gorge,Comfort Inn & Suites near Nitmiluk Gorge,3.2,4,No,No,132.426,-14.299,Economy Family Room,93
+Northern Territory,Alice Springs,The Grand Alice Springs Resort & Spa,4.5,2,Yes,Yes,133.8807,-23.698,Deluxe King Suite,278
+Northern Territory,Alice Springs,Alice Springs Heritage View Hotel,4.0,3,Yes,Yes,133.8807,-23.698,Standard Premium Double,171
+Northern Territory,Alice Springs,Comfort Inn & Suites near Alice Springs,3.6,4,No,No,133.8807,-23.698,Economy Family Room,82
+Northern Territory,Tiwi Islands,The Grand Tiwi Islands Resort & Spa,4.8,2,Yes,Yes,130.75,-11.65,Deluxe King Suite,376
+Northern Territory,Tiwi Islands,Tiwi Islands Heritage View Hotel,4.1,3,Yes,Yes,130.75,-11.65,Standard Premium Double,189
+Northern Territory,Tiwi Islands,Comfort Inn & Suites near Tiwi Islands,3.4,4,No,No,130.75,-11.65,Economy Family Room,81
+Tasmania,Cradle Mountain,The Grand Cradle Mountain Resort & Spa,4.6,2,Yes,Yes,145.94,-41.65,Deluxe King Suite,323
+Tasmania,Cradle Mountain,Cradle Mountain Heritage View Hotel,3.9,3,Yes,Yes,145.94,-41.65,Standard Premium Double,172
+Tasmania,Cradle Mountain,Comfort Inn & Suites near Cradle Mountain,3.7,4,Yes,No,145.94,-41.65,Economy Family Room,71
+Tasmania,Port Arthur Historic Site,The Grand Port Arthur Historic Site Resort & Spa,4.6,2,Yes,Yes,147.8503,-43.1378,Deluxe King Suite,364
+Tasmania,Port Arthur Historic Site,Port Arthur Historic Site Heritage View Hotel,4.0,3,Yes,No,147.8503,-43.1378,Standard Premium Double,195
+Tasmania,Port Arthur Historic Site,Comfort Inn & Suites near Port Arthur Historic Site,3.5,4,No,No,147.8503,-43.1378,Economy Family Room,77
+Tasmania,Wineglass Bay,The Grand Wineglass Bay Resort & Spa,4.5,2,Yes,Yes,148.29,-42.12,Deluxe King Suite,273
+Tasmania,Wineglass Bay,Wineglass Bay Heritage View Hotel,3.9,3,Yes,Yes,148.29,-42.12,Standard Premium Double,206
+Tasmania,Wineglass Bay,Comfort Inn & Suites near Wineglass Bay,3.6,4,No,No,148.29,-42.12,Economy Family Room,77
+Tasmania,MONA Museum Hobart,The Grand MONA Museum Hobart Resort & Spa,4.9,2,Yes,Yes,147.2776,-42.8221,Deluxe King Suite,333
+Tasmania,MONA Museum Hobart,MONA Museum Hobart Heritage View Hotel,4.0,3,Yes,No,147.2776,-42.8221,Standard Premium Double,132
+Tasmania,MONA Museum Hobart,Comfort Inn & Suites near MONA Museum Hobart,3.4,4,No,No,147.2776,-42.8221,Economy Family Room,76
+Tasmania,Bay of Fires,The Grand Bay of Fires Resort & Spa,4.6,2,Yes,Yes,148.3,-41.14,Deluxe King Suite,349
+Tasmania,Bay of Fires,Bay of Fires Heritage View Hotel,4.4,3,Yes,Yes,148.3,-41.14,Standard Premium Double,208
+Tasmania,Bay of Fires,Comfort Inn & Suites near Bay of Fires,3.2,4,Yes,No,148.3,-41.14,Economy Family Room,91
+Tasmania,Mount Wellington,The Grand Mount Wellington Resort & Spa,4.5,2,Yes,Yes,147.2338,-42.8954,Deluxe King Suite,377
+Tasmania,Mount Wellington,Mount Wellington Heritage View Hotel,4.2,3,Yes,No,147.2338,-42.8954,Standard Premium Double,139
+Tasmania,Mount Wellington,Comfort Inn & Suites near Mount Wellington,3.4,4,Yes,No,147.2338,-42.8954,Economy Family Room,73
+Tasmania,Salamanca Market,The Grand Salamanca Market Resort & Spa,4.6,2,Yes,Yes,147.3314,-42.8822,Deluxe King Suite,285
+Tasmania,Salamanca Market,Salamanca Market Heritage View Hotel,4.3,3,Yes,No,147.3314,-42.8822,Standard Premium Double,133
+Tasmania,Salamanca Market,Comfort Inn & Suites near Salamanca Market,3.6,4,Yes,No,147.3314,-42.8822,Economy Family Room,101
+Tasmania,Tasman National Park,The Grand Tasman National Park Resort & Spa,4.6,2,Yes,Yes,147.89,-43.27,Deluxe King Suite,280
+Tasmania,Tasman National Park,Tasman National Park Heritage View Hotel,4.0,3,Yes,No,147.89,-43.27,Standard Premium Double,129
+Tasmania,Tasman National Park,Comfort Inn & Suites near Tasman National Park,3.8,4,No,No,147.89,-43.27,Economy Family Room,71
+Tasmania,Gordon Dam,The Grand Gordon Dam Resort & Spa,4.7,2,Yes,Yes,146.02,-42.77,Deluxe King Suite,293
+Tasmania,Gordon Dam,Gordon Dam Heritage View Hotel,4.2,3,Yes,Yes,146.02,-42.77,Standard Premium Double,130
+Tasmania,Gordon Dam,Comfort Inn & Suites near Gordon Dam,3.8,4,Yes,No,146.02,-42.77,Economy Family Room,82
+Tasmania,Bicheno Blowhole,The Grand Bicheno Blowhole Resort & Spa,4.9,2,Yes,Yes,148.31,-41.8759,Deluxe King Suite,493
+Tasmania,Bicheno Blowhole,Bicheno Blowhole Heritage View Hotel,4.1,3,Yes,Yes,148.31,-41.8759,Standard Premium Double,154
+Tasmania,Bicheno Blowhole,Comfort Inn & Suites near Bicheno Blowhole,3.7,4,Yes,No,148.31,-41.8759,Economy Family Room,85
+Australian Capital Territory,Australian War Memorial,The Grand Australian War Memorial Resort & Spa,4.9,2,Yes,Yes,149.1506,-35.2832,Deluxe King Suite,300
+Australian Capital Territory,Australian War Memorial,Australian War Memorial Heritage View Hotel,4.3,3,Yes,No,149.1506,-35.2832,Standard Premium Double,143
+Australian Capital Territory,Australian War Memorial,Comfort Inn & Suites near Australian War Memorial,3.7,4,Yes,No,149.1506,-35.2832,Economy Family Room,81
+Australian Capital Territory,Parliament House Canberra,The Grand Parliament House Canberra Resort & Spa,4.8,2,Yes,Yes,149.1244,-35.3075,Deluxe King Suite,349
+Australian Capital Territory,Parliament House Canberra,Parliament House Canberra Heritage View Hotel,4.3,3,Yes,Yes,149.1244,-35.3075,Standard Premium Double,165
+Australian Capital Territory,Parliament House Canberra,Comfort Inn & Suites near Parliament House Canberra,3.6,4,No,No,149.1244,-35.3075,Economy Family Room,86
+Australian Capital Territory,National Gallery of Australia,The Grand National Gallery of Australia Resort & Spa,4.6,2,Yes,Yes,149.1343,-35.2989,Deluxe King Suite,447
+Australian Capital Territory,National Gallery of Australia,National Gallery of Australia Heritage View Hotel,4.4,3,Yes,Yes,149.1343,-35.2989,Standard Premium Double,164
+Australian Capital Territory,National Gallery of Australia,Comfort Inn & Suites near National Gallery of Australia,3.6,4,No,No,149.1343,-35.2989,Economy Family Room,94
+Australian Capital Territory,Lake Burley Griffin,The Grand Lake Burley Griffin Resort & Spa,4.7,2,Yes,Yes,149.13,-35.29,Deluxe King Suite,384
+Australian Capital Territory,Lake Burley Griffin,Lake Burley Griffin Heritage View Hotel,4.3,3,Yes,No,149.13,-35.29,Standard Premium Double,129
+Australian Capital Territory,Lake Burley Griffin,Comfort Inn & Suites near Lake Burley Griffin,3.5,4,Yes,No,149.13,-35.29,Economy Family Room,91
+Australian Capital Territory,Questacon,The Grand Questacon Resort & Spa,4.8,2,Yes,Yes,149.1322,-35.2953,Deluxe King Suite,296
+Australian Capital Territory,Questacon,Questacon Heritage View Hotel,4.1,3,Yes,Yes,149.1322,-35.2953,Standard Premium Double,205
+Australian Capital Territory,Questacon,Comfort Inn & Suites near Questacon,3.3,4,Yes,No,149.1322,-35.2953,Economy Family Room,65
+Australian Capital Territory,National Arboretum,The Grand National Arboretum Resort & Spa,4.6,2,Yes,Yes,149.05,-35.28,Deluxe King Suite,344
+Australian Capital Territory,National Arboretum,National Arboretum Heritage View Hotel,4.1,3,Yes,Yes,149.05,-35.28,Standard Premium Double,183
+Australian Capital Territory,National Arboretum,Comfort Inn & Suites near National Arboretum,3.8,4,Yes,No,149.05,-35.28,Economy Family Room,87
+Australian Capital Territory,Black Mountain Tower,The Grand Black Mountain Tower Resort & Spa,4.8,2,Yes,Yes,149.1,-35.2753,Deluxe King Suite,325
+Australian Capital Territory,Black Mountain Tower,Black Mountain Tower Heritage View Hotel,4.3,3,Yes,No,149.1,-35.2753,Standard Premium Double,125
+Australian Capital Territory,Black Mountain Tower,Comfort Inn & Suites near Black Mountain Tower,3.6,4,Yes,No,149.1,-35.2753,Economy Family Room,105
+Australian Capital Territory,National Museum of Australia,The Grand National Museum of Australia Resort & Spa,4.7,2,Yes,Yes,149.1166,-35.2936,Deluxe King Suite,314
+Australian Capital Territory,National Museum of Australia,National Museum of Australia Heritage View Hotel,4.0,3,Yes,Yes,149.1166,-35.2936,Standard Premium Double,131
+Australian Capital Territory,National Museum of Australia,Comfort Inn & Suites near National Museum of Australia,3.2,4,No,No,149.1166,-35.2936,Economy Family Room,95
+Australian Capital Territory,Tidbinbilla Nature Reserve,The Grand Tidbinbilla Nature Reserve Resort & Spa,4.9,2,Yes,Yes,148.96,-35.59,Deluxe King Suite,310
+Australian Capital Territory,Tidbinbilla Nature Reserve,Tidbinbilla Nature Reserve Heritage View Hotel,4.2,3,Yes,No,148.96,-35.59,Standard Premium Double,185
+Australian Capital Territory,Tidbinbilla Nature Reserve,Comfort Inn & Suites near Tidbinbilla Nature Reserve,3.2,4,No,No,148.96,-35.59,Economy Family Room,84
+Australian Capital Territory,Mount Ainslie,The Grand Mount Ainslie Resort & Spa,4.7,2,Yes,Yes,149.1619,-35.2736,Deluxe King Suite,397
+Australian Capital Territory,Mount Ainslie,Mount Ainslie Heritage View Hotel,4.0,3,Yes,No,149.1619,-35.2736,Standard Premium Double,154
+Australian Capital Territory,Mount Ainslie,Comfort Inn & Suites near Mount Ainslie,3.6,4,No,No,149.1619,-35.2736,Economy Family Room,90
+Queensland,Townsville,The Grand Townsville Resort & Spa,4.7,2,Yes,Yes,146.8169,-19.259,Deluxe King Suite,387
+Queensland,Townsville,Townsville Heritage View Hotel,4.1,3,Yes,No,146.8169,-19.259,Standard Premium Double,202
+Queensland,Townsville,Comfort Inn & Suites near Townsville,3.4,4,No,No,146.8169,-19.259,Economy Family Room,82
+Queensland,Magnetic Island,The Grand Magnetic Island Resort & Spa,4.6,2,Yes,Yes,146.867,-19.15,Deluxe King Suite,488
+Queensland,Magnetic Island,Magnetic Island Heritage View Hotel,4.0,3,Yes,Yes,146.867,-19.15,Standard Premium Double,144
+Queensland,Magnetic Island,Comfort Inn & Suites near Magnetic Island,3.4,4,No,No,146.867,-19.15,Economy Family Room,96
+Queensland,Airlie Beach,The Grand Airlie Beach Resort & Spa,4.6,2,Yes,Yes,148.7186,-20.2691,Deluxe King Suite,406
+Queensland,Airlie Beach,Airlie Beach Heritage View Hotel,4.0,3,Yes,No,148.7186,-20.2691,Standard Premium Double,123
+Queensland,Airlie Beach,Comfort Inn & Suites near Airlie Beach,3.8,4,Yes,No,148.7186,-20.2691,Economy Family Room,100
+Queensland,Longreach,The Grand Longreach Resort & Spa,4.7,2,Yes,Yes,144.2501,-23.439,Deluxe King Suite,376
+Queensland,Longreach,Longreach Heritage View Hotel,4.4,3,Yes,Yes,144.2501,-23.439,Standard Premium Double,167
+Queensland,Longreach,Comfort Inn & Suites near Longreach,3.6,4,No,No,144.2501,-23.439,Economy Family Room,80
+New South Wales,Coffs Harbour,The Grand Coffs Harbour Resort & Spa,4.8,2,Yes,Yes,153.1135,-30.2963,Deluxe King Suite,327
+New South Wales,Coffs Harbour,Coffs Harbour Heritage View Hotel,4.2,3,Yes,No,153.1135,-30.2963,Standard Premium Double,188
+New South Wales,Coffs Harbour,Comfort Inn & Suites near Coffs Harbour,3.2,4,No,No,153.1135,-30.2963,Economy Family Room,77
+New South Wales,Lord Howe Island,The Grand Lord Howe Island Resort & Spa,4.7,2,Yes,Yes,159.0826,-31.5533,Deluxe King Suite,388
+New South Wales,Lord Howe Island,Lord Howe Island Heritage View Hotel,4.0,3,Yes,Yes,159.0826,-31.5533,Standard Premium Double,208
+New South Wales,Lord Howe Island,Comfort Inn & Suites near Lord Howe Island,3.5,4,Yes,No,159.0826,-31.5533,Economy Family Room,80
+New South Wales,Broken Hill,The Grand Broken Hill Resort & Spa,4.6,2,Yes,Yes,141.4685,-31.9535,Deluxe King Suite,341
+New South Wales,Broken Hill,Broken Hill Heritage View Hotel,4.0,3,Yes,No,141.4685,-31.9535,Standard Premium Double,210
+New South Wales,Broken Hill,Comfort Inn & Suites near Broken Hill,3.7,4,Yes,No,141.4685,-31.9535,Economy Family Room,85
+New South Wales,Tamworth,The Grand Tamworth Resort & Spa,4.6,2,Yes,Yes,150.932,-31.0927,Deluxe King Suite,342
+New South Wales,Tamworth,Tamworth Heritage View Hotel,4.2,3,Yes,Yes,150.932,-31.0927,Standard Premium Double,134
+New South Wales,Tamworth,Comfort Inn & Suites near Tamworth,3.6,4,No,No,150.932,-31.0927,Economy Family Room,92
+Victoria,Grampians National Park,The Grand Grampians National Park Resort & Spa,4.6,2,Yes,Yes,142.52,-37.27,Deluxe King Suite,375
+Victoria,Grampians National Park,Grampians National Park Heritage View Hotel,4.1,3,Yes,Yes,142.52,-37.27,Standard Premium Double,209
+Victoria,Grampians National Park,Comfort Inn & Suites near Grampians National Park,3.7,4,Yes,No,142.52,-37.27,Economy Family Room,98
+Victoria,Dandenong Ranges,The Grand Dandenong Ranges Resort & Spa,4.7,2,Yes,Yes,145.35,-37.87,Deluxe King Suite,263
+Victoria,Dandenong Ranges,Dandenong Ranges Heritage View Hotel,3.9,3,Yes,No,145.35,-37.87,Standard Premium Double,202
+Victoria,Dandenong Ranges,Comfort Inn & Suites near Dandenong Ranges,3.8,4,Yes,No,145.35,-37.87,Economy Family Room,70
+Karnataka,Mysuru Palace,The Grand Mysuru Palace Resort & Spa,4.9,2,Yes,Yes,76.6552,12.3052,Deluxe King Suite,12915
+Karnataka,Mysuru Palace,Mysuru Palace Heritage View Hotel,3.9,3,Yes,Yes,76.6552,12.3052,Standard Premium Double,4125
+Karnataka,Mysuru Palace,Comfort Inn & Suites near Mysuru Palace,3.5,4,No,No,76.6552,12.3052,Economy Family Room,1152
+Karnataka,Coorg,The Grand Coorg Resort & Spa,4.6,2,Yes,Yes,75.8069,12.3375,Deluxe King Suite,6757
+Karnataka,Coorg,Coorg Heritage View Hotel,4.3,3,Yes,Yes,75.8069,12.3375,Standard Premium Double,4364
+Karnataka,Coorg,Comfort Inn & Suites near Coorg,3.3,4,Yes,No,75.8069,12.3375,Economy Family Room,1419
+Karnataka,Hampi,The Grand Hampi Resort & Spa,4.7,2,Yes,Yes,76.46,15.335,Deluxe King Suite,10737
+Karnataka,Hampi,Hampi Heritage View Hotel,3.9,3,Yes,Yes,76.46,15.335,Standard Premium Double,4977
+Karnataka,Hampi,Comfort Inn & Suites near Hampi,3.5,4,Yes,No,76.46,15.335,Economy Family Room,1411
+Karnataka,Badami Caves,The Grand Badami Caves Resort & Spa,4.8,2,Yes,Yes,75.68,15.92,Deluxe King Suite,9915
+Karnataka,Badami Caves,Badami Caves Heritage View Hotel,4.1,3,Yes,No,75.68,15.92,Standard Premium Double,3380
+Karnataka,Badami Caves,Comfort Inn & Suites near Badami Caves,3.5,4,No,No,75.68,15.92,Economy Family Room,1417
+Karnataka,Chikmagalur,The Grand Chikmagalur Resort & Spa,4.8,2,Yes,Yes,75.772,13.3161,Deluxe King Suite,8214
+Karnataka,Chikmagalur,Chikmagalur Heritage View Hotel,4.3,3,Yes,No,75.772,13.3161,Standard Premium Double,4464
+Karnataka,Chikmagalur,Comfort Inn & Suites near Chikmagalur,3.5,4,Yes,No,75.772,13.3161,Economy Family Room,1446
+Karnataka,Kabini,The Grand Kabini Resort & Spa,4.8,2,Yes,Yes,76.35,11.985,Deluxe King Suite,10127
+Karnataka,Kabini,Kabini Heritage View Hotel,4.3,3,Yes,Yes,76.35,11.985,Standard Premium Double,4093
+Karnataka,Kabini,Comfort Inn & Suites near Kabini,3.4,4,Yes,No,76.35,11.985,Economy Family Room,1215
+Karnataka,Nagarhole National Park,The Grand Nagarhole National Park Resort & Spa,4.5,2,Yes,Yes,76.15,12.05,Deluxe King Suite,8997
+Karnataka,Nagarhole National Park,Nagarhole National Park Heritage View Hotel,4.3,3,Yes,Yes,76.15,12.05,Standard Premium Double,4668
+Karnataka,Nagarhole National Park,Comfort Inn & Suites near Nagarhole National Park,3.3,4,No,No,76.15,12.05,Economy Family Room,1214
+Karnataka,Jog Falls,The Grand Jog Falls Resort & Spa,4.6,2,Yes,Yes,74.8037,14.2265,Deluxe King Suite,10447
+Karnataka,Jog Falls,Jog Falls Heritage View Hotel,4.0,3,Yes,No,74.8037,14.2265,Standard Premium Double,3500
+Karnataka,Jog Falls,Comfort Inn & Suites near Jog Falls,3.6,4,Yes,No,74.8037,14.2265,Economy Family Room,1578
+Karnataka,Gokarna,The Grand Gokarna Resort & Spa,4.8,2,Yes,Yes,74.3188,14.5479,Deluxe King Suite,12985
+Karnataka,Gokarna,Gokarna Heritage View Hotel,4.3,3,Yes,No,74.3188,14.5479,Standard Premium Double,4680
+Karnataka,Gokarna,Comfort Inn & Suites near Gokarna,3.6,4,No,No,74.3188,14.5479,Economy Family Room,1190
+Karnataka,Belur,The Grand Belur Resort & Spa,4.9,2,Yes,Yes,75.8678,13.1644,Deluxe King Suite,12651
+Karnataka,Belur,Belur Heritage View Hotel,4.1,3,Yes,No,75.8678,13.1644,Standard Premium Double,4369
+Karnataka,Belur,Comfort Inn & Suites near Belur,3.3,4,No,No,75.8678,13.1644,Economy Family Room,1825
+Fukuoka,Dazaifu Tenmangu,The Grand Dazaifu Tenmangu Resort & Spa,4.6,2,Yes,Yes,130.733,33.5162,Deluxe King Suite,42866
+Fukuoka,Dazaifu Tenmangu,Dazaifu Tenmangu Heritage View Hotel,4.2,3,Yes,Yes,130.733,33.5162,Standard Premium Double,12765
+Fukuoka,Dazaifu Tenmangu,Comfort Inn & Suites near Dazaifu Tenmangu,3.5,4,No,No,130.733,33.5162,Economy Family Room,7898
+Fukuoka,Fukuoka Castle,The Grand Fukuoka Castle Resort & Spa,4.7,2,Yes,Yes,130.3906,33.5862,Deluxe King Suite,50112
+Fukuoka,Fukuoka Castle,Fukuoka Castle Heritage View Hotel,4.3,3,Yes,Yes,130.3906,33.5862,Standard Premium Double,17971
+Fukuoka,Fukuoka Castle,Comfort Inn & Suites near Fukuoka Castle,3.5,4,No,No,130.3906,33.5862,Economy Family Room,7333
+Fukuoka,Canal City Hakata,The Grand Canal City Hakata Resort & Spa,4.5,2,Yes,Yes,130.4101,33.5897,Deluxe King Suite,45093
+Fukuoka,Canal City Hakata,Canal City Hakata Heritage View Hotel,4.4,3,Yes,No,130.4101,33.5897,Standard Premium Double,16084
+Fukuoka,Canal City Hakata,Comfort Inn & Suites near Canal City Hakata,3.5,4,Yes,No,130.4101,33.5897,Economy Family Room,8775
+Fukuoka,Ohori Park,The Grand Ohori Park Resort & Spa,4.7,2,Yes,Yes,130.381,33.584,Deluxe King Suite,50965
+Fukuoka,Ohori Park,Ohori Park Heritage View Hotel,3.9,3,Yes,No,130.381,33.584,Standard Premium Double,16034
+Fukuoka,Ohori Park,Comfort Inn & Suites near Ohori Park,3.6,4,Yes,No,130.381,33.584,Economy Family Room,6698
+Fukuoka,Itoshima,The Grand Itoshima Resort & Spa,4.7,2,Yes,Yes,130.1985,33.5563,Deluxe King Suite,57738
+Fukuoka,Itoshima,Itoshima Heritage View Hotel,4.1,3,Yes,No,130.1985,33.5563,Standard Premium Double,16178
+Fukuoka,Itoshima,Comfort Inn & Suites near Itoshima,3.8,4,Yes,No,130.1985,33.5563,Economy Family Room,6207
+Aichi,Nagoya Castle,The Grand Nagoya Castle Resort & Spa,4.9,2,Yes,Yes,136.8997,35.1853,Deluxe King Suite,56686
+Aichi,Nagoya Castle,Nagoya Castle Heritage View Hotel,4.4,3,Yes,No,136.8997,35.1853,Standard Premium Double,19160
+Aichi,Nagoya Castle,Comfort Inn & Suites near Nagoya Castle,3.7,4,No,No,136.8997,35.1853,Economy Family Room,8532
+Aichi,LEGOLAND Japan,The Grand LEGOLAND Japan Resort & Spa,4.9,2,Yes,Yes,136.884,35.1148,Deluxe King Suite,38085
+Aichi,LEGOLAND Japan,LEGOLAND Japan Heritage View Hotel,4.4,3,Yes,No,136.884,35.1148,Standard Premium Double,12281
+Aichi,LEGOLAND Japan,Comfort Inn & Suites near LEGOLAND Japan,3.8,4,Yes,No,136.884,35.1148,Economy Family Room,6032
+Aichi,Inuyama Castle,The Grand Inuyama Castle Resort & Spa,4.9,2,Yes,Yes,136.9444,35.3796,Deluxe King Suite,50219
+Aichi,Inuyama Castle,Inuyama Castle Heritage View Hotel,4.3,3,Yes,Yes,136.9444,35.3796,Standard Premium Double,15800
+Aichi,Inuyama Castle,Comfort Inn & Suites near Inuyama Castle,3.7,4,No,No,136.9444,35.3796,Economy Family Room,6578
+Aichi,Toyota Commemorative Museum,The Grand Toyota Commemorative Museum Resort & Spa,4.7,2,Yes,Yes,136.8759,35.1859,Deluxe King Suite,27923
+Aichi,Toyota Commemorative Museum,Toyota Commemorative Museum Heritage View Hotel,3.9,3,Yes,No,136.8759,35.1859,Standard Premium Double,19779
+Aichi,Toyota Commemorative Museum,Comfort Inn & Suites near Toyota Commemorative Museum,3.7,4,Yes,No,136.8759,35.1859,Economy Family Room,8640
+Aichi,Meiji Mura,The Grand Meiji Mura Resort & Spa,4.8,2,Yes,Yes,136.9655,35.3607,Deluxe King Suite,35543
+Aichi,Meiji Mura,Meiji Mura Heritage View Hotel,4.0,3,Yes,Yes,136.9655,35.3607,Standard Premium Double,18697
+Aichi,Meiji Mura,Comfort Inn & Suites near Meiji Mura,3.8,4,Yes,No,136.9655,35.3607,Economy Family Room,9021
+Victoria,Mornington Peninsula,The Grand Mornington Peninsula Resort & Spa,4.6,2,Yes,Yes,145.01,-38.33,Deluxe King Suite,378
+Victoria,Mornington Peninsula,Mornington Peninsula Heritage View Hotel,4.2,3,Yes,Yes,145.01,-38.33,Standard Premium Double,187
+Victoria,Mornington Peninsula,Comfort Inn & Suites near Mornington Peninsula,3.2,4,Yes,No,145.01,-38.33,Economy Family Room,99
+Victoria,Bright,The Grand Bright Resort & Spa,4.5,2,Yes,Yes,146.9563,-36.7276,Deluxe King Suite,359
+Victoria,Bright,Bright Heritage View Hotel,4.2,3,Yes,Yes,146.9563,-36.7276,Standard Premium Double,178
+Victoria,Bright,Comfort Inn & Suites near Bright,3.2,4,Yes,No,146.9563,-36.7276,Economy Family Room,83
+Western Australia,Esperance,The Grand Esperance Resort & Spa,4.8,2,Yes,Yes,121.8886,-33.8611,Deluxe King Suite,350
+Western Australia,Esperance,Esperance Heritage View Hotel,3.9,3,Yes,No,121.8886,-33.8611,Standard Premium Double,143
+Western Australia,Esperance,Comfort Inn & Suites near Esperance,3.2,4,Yes,No,121.8886,-33.8611,Economy Family Room,80
+Western Australia,Albany,The Grand Albany Resort & Spa,4.6,2,Yes,Yes,117.8837,-35.0269,Deluxe King Suite,276
+Western Australia,Albany,Albany Heritage View Hotel,4.2,3,Yes,No,117.8837,-35.0269,Standard Premium Double,176
+Western Australia,Albany,Comfort Inn & Suites near Albany,3.7,4,No,No,117.8837,-35.0269,Economy Family Room,76
+South Australia,Coorong National Park,The Grand Coorong National Park Resort & Spa,4.8,2,Yes,Yes,139.39,-35.89,Deluxe King Suite,399
+South Australia,Coorong National Park,Coorong National Park Heritage View Hotel,4.1,3,Yes,Yes,139.39,-35.89,Standard Premium Double,194
+South Australia,Coorong National Park,Comfort Inn & Suites near Coorong National Park,3.7,4,Yes,No,139.39,-35.89,Economy Family Room,89
+Glass House Mountains,26.8900,The Grand 26.8900 Resort & Spa,4.8,2,Yes,Yes,,152.95,Deluxe King Suite,293
+Glass House Mountains,26.8900,26.8900 Heritage View Hotel,4.0,3,Yes,Yes,,152.95,Standard Premium Double,142
+Glass House Mountains,26.8900,Comfort Inn & Suites near 26.8900,3.2,4,No,No,,152.95,Economy Family Room,98
+New South Wales,Shoalhaven,The Grand Shoalhaven Resort & Spa,4.9,2,Yes,Yes,150.39,-34.9,Deluxe King Suite,405
+New South Wales,Shoalhaven,Shoalhaven Heritage View Hotel,3.9,3,Yes,No,150.39,-34.9,Standard Premium Double,145
+New South Wales,Shoalhaven,Comfort Inn & Suites near Shoalhaven,3.4,4,Yes,No,150.39,-34.9,Economy Family Room,81
+New South Wales,Mudgee,The Grand Mudgee Resort & Spa,4.6,2,Yes,Yes,149.5833,-32.5933,Deluxe King Suite,384
+New South Wales,Mudgee,Mudgee Heritage View Hotel,4.0,3,Yes,No,149.5833,-32.5933,Standard Premium Double,167
+New South Wales,Mudgee,Comfort Inn & Suites near Mudgee,3.6,4,Yes,No,149.5833,-32.5933,Economy Family Room,76
+Queensland,Carnarvon Gorge,The Grand Carnarvon Gorge Resort & Spa,4.7,2,Yes,Yes,148.23,-25.12,Deluxe King Suite,320
+Queensland,Carnarvon Gorge,Carnarvon Gorge Heritage View Hotel,4.3,3,Yes,No,148.23,-25.12,Standard Premium Double,139
+Queensland,Carnarvon Gorge,Comfort Inn & Suites near Carnarvon Gorge,3.2,4,No,No,148.23,-25.12,Economy Family Room,101
+Northern Territory,Arnhem Land,The Grand Arnhem Land Resort & Spa,4.7,2,Yes,Yes,134.4,-12.375,Deluxe King Suite,392
+Northern Territory,Arnhem Land,Arnhem Land Heritage View Hotel,4.1,3,Yes,No,134.4,-12.375,Standard Premium Double,167
+Northern Territory,Arnhem Land,Comfort Inn & Suites near Arnhem Land,3.8,4,No,No,134.4,-12.375,Economy Family Room,92
